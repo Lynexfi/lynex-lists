@@ -393,6 +393,14 @@
         "rootChainURI": "https://etherscan.io/block/0",
         "rootAddress": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0"
       }
-    }
+    },
+    {
+      "name": "Davos USD",
+      "symbol": "DUSD",
+      "address": "0xa88b54e6b76fb97cdb8ecae868f1458e18a953f4",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://alpha.lynex.fi/images/tokens/DUSD.png"
+    },
   ]
 }
