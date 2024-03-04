@@ -401,6 +401,14 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://alpha.lynex.fi/images/tokens/DUSD.png"
+    },
+    {
+      "name": "Metavualt Trade",
+      "symbol": "MVX",
+      "address": "0x0018D96C579121a94307249d47F053E2D687b5e7",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://s3.coinmarketcap.com/static-gravity/image/d638d1a668254baa9aff4c2c44d095cd.png"
     }
   ]
 }
