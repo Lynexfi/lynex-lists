@@ -409,6 +409,22 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://s3.coinmarketcap.com/static-gravity/image/d638d1a668254baa9aff4c2c44d095cd.png"
+    },
+    {
+      "name": "Axelar Wrapped LQDR",
+      "symbol": "axlLQDR",
+      "address": "0x332c72dd7E77070740F01d2d35851c461585D5d0",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13246.png"
+    },
+    {
+      "name": "xRGB",
+      "symbol": "xRGB",
+      "address": "0x5cc5e64ab764a0f1e97f23984e20fd4528356a6a",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29615.png"
     }
   ]
 }
