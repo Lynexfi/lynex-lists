@@ -419,8 +419,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13246.png"
     },
     {
-      "name": "xRGB",
-      "symbol": "xRGB",
+      "name": "XRGB",
+      "symbol": "XRGB",
       "address": "0x5cc5e64ab764a0f1e97f23984e20fd4528356a6a",
       "chainId": 59144,
       "decimals": 18,
