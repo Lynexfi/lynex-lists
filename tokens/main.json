@@ -358,7 +358,7 @@
     {
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
-      "tokenId": "https://lineascan.build/address/0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+      "tokenId": "https://lineascan.build/address/0x3d4b2132eD4eA0aa93903713a4dE9F98e625a5c7",
       "address": "0x3d4b2132eD4eA0aa93903713a4dE9F98e625a5c7",
       "name": "3A Utility Token",
       "symbol": "A3A",
@@ -370,7 +370,7 @@
     {
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
-      "tokenId": "https://lineascan.build/address/0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+      "tokenId": "https://lineascan.build/address/0x023617bAbEd6CeF5Da825BEa8363A5a9862E120F",
       "address": "0x023617bAbEd6CeF5Da825BEa8363A5a9862E120F",
       "name": "WrappedDAI",
       "symbol": "wDAI",
