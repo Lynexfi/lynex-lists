@@ -358,6 +358,30 @@
     {
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+      "address": "0x3d4b2132eD4eA0aa93903713a4dE9F98e625a5c7",
+      "name": "3A Utility Token",
+      "symbol": "A3A",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://app.3adao.org/3alogo.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+      "address": "0x023617bAbEd6CeF5Da825BEa8363A5a9862E120F",
+      "name": "WrappedDAI",
+      "symbol": "wDAI",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WDAI.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x0A79e44c99505c7f388CA30c787ff97217E73ecC",
       "tokenType": ["canonical-bridge"],
       "address": "0x0A79e44c99505c7f388CA30c787ff97217E73ecC",
