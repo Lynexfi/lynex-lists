@@ -348,6 +348,18 @@
     {
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0xda7d3Ef7c899079EB101F3B31c272DBe9639BDA6",
+      "address": "0xda7d3Ef7c899079EB101F3B31c272DBe9639BDA6",
+      "name": "MetaPoolETH",
+      "symbol": "mpETH",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://www.metapool.app/icons/mpETH.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x15EEfE5B297136b8712291B632404B66A8eF4D25",
       "address": "0x15EEfE5B297136b8712291B632404B66A8eF4D25",
       "name": "Universal ETH",
