@@ -300,6 +300,19 @@
     {
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x5fbdf89403270a1846f5ae7d113a989f850d1566",
+      "tokenType": [],
+      "address": "0x5fbdf89403270a1846f5ae7d113a989f850d1566",
+      "name": "Foxy",
+      "symbol": "FOXY",
+      "decimals": 18,
+      "createdAt": "2024-10-04",
+      "updatedAt": "2024-10-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FOXY.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x1e1f509963a6d33e169d9497b11c7dbfe73b7f13",
       "address": "0x1e1f509963a6d33e169d9497b11c7dbfe73b7f13",
       "name": "Overnight USDT+",
