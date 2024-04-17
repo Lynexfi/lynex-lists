@@ -321,7 +321,12 @@
       "decimals": 18,
       "createdAt": "2024-17-04",
       "updatedAt": "2024-17-04",
-      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ANKR.png"
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ANKR.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4"
+      }
     },
     {
       "chainId": 59144,
@@ -334,7 +339,12 @@
       "decimals": 18,
       "createdAt": "2024-17-04",
       "updatedAt": "2024-17-04",
-      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ankrETH.png"
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ankrETH.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb"
+      }
     },
     {
       "chainId": 59144,
