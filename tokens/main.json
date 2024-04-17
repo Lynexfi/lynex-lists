@@ -313,6 +313,32 @@
     {
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0xa8ae6365383eb907e6b4b1b7e82a35752cc5ef8c",
+      "tokenType": ["bridged"],
+      "address": "0xa8ae6365383eb907e6b4b1b7e82a35752cc5ef8c",
+      "name": "Ankr Network",
+      "symbol": "ANKR",
+      "decimals": 18,
+      "createdAt": "2024-17-04",
+      "updatedAt": "2024-17-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ANKR.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x11d8680c7f8f82f623e840130eb06c33d9f90c89",
+      "tokenType": ["bridged"],
+      "address": "0x11d8680c7f8f82f623e840130eb06c33d9f90c89",
+      "name": "Ankr Staked ETH",
+      "symbol": "ankrETH",
+      "decimals": 18,
+      "createdAt": "2024-17-04",
+      "updatedAt": "2024-17-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ankrETH.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x1e1f509963a6d33e169d9497b11c7dbfe73b7f13",
       "address": "0x1e1f509963a6d33e169d9497b11c7dbfe73b7f13",
       "name": "Overnight USDT+",
