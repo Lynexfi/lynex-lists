@@ -421,6 +421,18 @@
     {
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/token/0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+      "address": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28695.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x43E8809ea748EFf3204ee01F08872F063e44065f",
       "address": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
       "name": "Mendi Finance",
