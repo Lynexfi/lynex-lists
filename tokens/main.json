@@ -416,7 +416,7 @@
       "decimals": 18,
       "createdAt": "2023-08-04",
       "updatedAt": "2023-08-04",
-      "logoURI": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xf1376bcef0f78459c0ed0ba5ddce976f1ddf51f4.png"
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/uniETH.png"
     },
     {
       "chainId": 59144,
@@ -428,7 +428,7 @@
       "decimals": 18,
       "createdAt": "2023-08-04",
       "updatedAt": "2023-08-04",
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28695.png"
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/weETH.png"
     },
     {
       "chainId": 59144,
