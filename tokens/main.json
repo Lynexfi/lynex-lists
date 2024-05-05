@@ -313,6 +313,19 @@
     {
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+      "tokenType": [],
+      "address": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+      "name": "ZeroLend",
+      "symbol": "ZERO",
+      "decimals": 18,
+      "createdAt": "2024-10-04",
+      "updatedAt": "2024-10-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ZERO.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0xa8ae6365383eb907e6b4b1b7e82a35752cc5ef8c",
       "tokenType": ["bridged"],
       "address": "0xa8ae6365383eb907e6b4b1b7e82a35752cc5ef8c",
