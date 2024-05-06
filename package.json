@@ -1,0 +1,16 @@
+{
+  "name": "lynex-lists",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Lynexfi/lynex-lists",
+  "author": "Efe <polycrystalefe@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "ts-node src/buildJson.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.4"
+  }
+}

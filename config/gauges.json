@@ -1,0 +1,1039 @@
+[
+  {
+    "address": "0x00b34e51ac2a78761982485a618b235a211f5d86",
+    "symbol": "USDC/WETH (YieldIQ)",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+      "networks": [
+        {
+          "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+          "decimals": 6,
+          "chainId": 59144
+        },
+        {
+          "address": "0xC0f8eE736cEC8c1a12e9c25272e6f417510165FF",
+          "decimals": 8,
+          "chainId": 59140
+        }
+      ]
+    },
+    "token1": {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "networks": [
+        {
+          "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": true,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x00ecabf9dc65ea9b2468d702ba2359f8137f776d",
+    "symbol": "sAMM-USDC/EURO3",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+      "networks": [
+        {
+          "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+          "decimals": 6,
+          "chainId": 59144
+        },
+        {
+          "address": "0xC0f8eE736cEC8c1a12e9c25272e6f417510165FF",
+          "decimals": 8,
+          "chainId": 59140
+        }
+      ]
+    },
+    "token1": {
+      "name": "EURO3",
+      "symbol": "EURO3",
+      "logoURL": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/EURO3.png",
+      "networks": [
+        {
+          "address": "0x3F817b28Da4940F018C6b5c0A11C555ebB1264f9",
+          "decimals": 18,
+          "chainId": 59144
+        }
+      ]
+    },
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x06170045bba66914ffa03f6cb2fc5a3f8dc0ddb7",
+    "symbol": "vAMM-LYNX/XRGB",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "Lynex",
+      "symbol": "LYNX",
+      "logoURL": "https://assets.coingecko.com/coins/images/34874/large/LogoCircular_200x200.png",
+      "networks": [
+        {
+          "address": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0xCa1B6EB5B97b61813B3444DE45Be5897d8Cd6d9E",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "token1": {
+      "name": "XRGB",
+      "symbol": "XRGB",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/29615.png",
+      "networks": [
+        {
+          "address": "0x5cc5e64ab764a0f1e97f23984e20fd4528356a6a",
+          "decimals": 18,
+          "chainId": 59144
+        }
+      ]
+    },
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x0b15a5e3ca0d4b492c3b476d0f807535f9b72079",
+    "symbol": "USDC/WETH (Narrow)",
+    "gauge": "0xEf79A12c48973f0193E67730C8636485Da59f0FD",
+    "token0": {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+      "networks": [
+        {
+          "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+          "decimals": 6,
+          "chainId": 59144
+        },
+        {
+          "address": "0xC0f8eE736cEC8c1a12e9c25272e6f417510165FF",
+          "decimals": 8,
+          "chainId": 59140
+        }
+      ]
+    },
+    "token1": {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "networks": [
+        {
+          "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": true,
+    "bribe": "0x97c2592D52A181dc23F401f8ba63E552B9c3C56e"
+  },
+  {
+    "address": "0x0cafbb18ffe4d91a858bb05011818c5358d99095",
+    "symbol": "vAMM-USDC/MAI",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+      "networks": [
+        {
+          "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+          "decimals": 6,
+          "chainId": 59144
+        },
+        {
+          "address": "0xC0f8eE736cEC8c1a12e9c25272e6f417510165FF",
+          "decimals": 8,
+          "chainId": 59140
+        }
+      ]
+    },
+    "token1": {
+      "name": "Mai Stablecoin",
+      "symbol": "MAI",
+      "logoURL": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png",
+      "networks": [
+        {
+          "address": "0xf3B001D64C656e30a62fbaacA003B1336b4ce12A",
+          "decimals": 18,
+          "chainId": 59144
+        }
+      ]
+    },
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x1129a2b570906ea0d1a1cff94c274cb17ad69a8c",
+    "symbol": "sAMM-MATIC/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "Matic Token",
+      "symbol": "MATIC",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
+      "networks": [
+        {
+          "address": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
+          "decimals": 18,
+          "chainId": 59144
+        }
+      ]
+    },
+    "token1": {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "networks": [
+        {
+          "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x11e29b541abe15984c863c10f3ef9ecbcc078031",
+    "symbol": "sAMM-USDT/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "Tether",
+      "symbol": "USDT",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+      "networks": [
+        {
+          "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+          "decimals": 6,
+          "chainId": 59144
+        },
+        {
+          "address": "0x0DFc6bb7eEE496CD789B60255F7B2982F8069415",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "token1": {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "networks": [
+        {
+          "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x1c6fb08c1ef4e505a4ae3ffc3c99e443070df64a",
+    "symbol": "vAMM-LYNX/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "Lynex",
+      "symbol": "LYNX",
+      "logoURL": "https://assets.coingecko.com/coins/images/34874/large/LogoCircular_200x200.png",
+      "networks": [
+        {
+          "address": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0xCa1B6EB5B97b61813B3444DE45Be5897d8Cd6d9E",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "token1": {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "networks": [
+        {
+          "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x1c843458ab1d2f8198b632f519232223e9d81370",
+    "symbol": "vAMM-sMendi/MENDI",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "Staked Mendi",
+      "symbol": "sMENDI",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/27844.png",
+      "networks": [
+        {
+          "address": "0x150b1e51738CdF0cCfe472594C62d7D6074921CA",
+          "decimals": 18,
+          "chainId": 59144
+        }
+      ]
+    },
+    "token1": {
+      "name": "Mendi Finance",
+      "symbol": "MENDI",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/27844.png",
+      "networks": [
+        {
+          "address": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+          "decimals": 18,
+          "chainId": 59144
+        }
+      ]
+    },
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x23ccaff2639695b74d11da36bef2b5ecefe3509e",
+    "symbol": "sAMM-USDC/A3A",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+      "networks": [
+        {
+          "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+          "decimals": 6,
+          "chainId": 59144
+        },
+        {
+          "address": "0xC0f8eE736cEC8c1a12e9c25272e6f417510165FF",
+          "decimals": 8,
+          "chainId": 59140
+        }
+      ]
+    },
+    "token1": {
+      "name": "3A Utility Token",
+      "symbol": "A3A",
+      "logoURL": "https://app.3adao.org/3alogo.png",
+      "networks": [
+        {
+          "address": "0x3d4b2132eD4eA0aa93903713a4dE9F98e625a5c7",
+          "decimals": 18,
+          "chainId": 59144
+        }
+      ]
+    },
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x29df8a5d68937ab016a354a45510208d6e75c5cc",
+    "symbol": "vAMM-LILI/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token1": {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "networks": [
+        {
+          "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x2a73093943232afd02661a112e149c777cf01e57",
+    "symbol": "vAMM-MATIC/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "Matic Token",
+      "symbol": "MATIC",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
+      "networks": [
+        {
+          "address": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
+          "decimals": 18,
+          "chainId": 59144
+        }
+      ]
+    },
+    "token1": {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "networks": [
+        {
+          "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x2babed912322c355f4b8b58ea568727892ca3f05",
+    "symbol": "USDC/USDT (Stable)",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+      "networks": [
+        {
+          "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+          "decimals": 6,
+          "chainId": 59144
+        },
+        {
+          "address": "0xC0f8eE736cEC8c1a12e9c25272e6f417510165FF",
+          "decimals": 8,
+          "chainId": 59140
+        }
+      ]
+    },
+    "token1": {
+      "name": "Tether",
+      "symbol": "USDT",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+      "networks": [
+        {
+          "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+          "decimals": 6,
+          "chainId": 59144
+        },
+        {
+          "address": "0x0DFc6bb7eEE496CD789B60255F7B2982F8069415",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": true,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x2cc4c3ccec1a16efa23d8cafd764eaceb9233486",
+    "symbol": "sAMM-LYNX/USDT",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "Lynex",
+      "symbol": "LYNX",
+      "logoURL": "https://assets.coingecko.com/coins/images/34874/large/LogoCircular_200x200.png",
+      "networks": [
+        {
+          "address": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0xCa1B6EB5B97b61813B3444DE45Be5897d8Cd6d9E",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "token1": {
+      "name": "Tether",
+      "symbol": "USDT",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+      "networks": [
+        {
+          "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+          "decimals": 6,
+          "chainId": 59144
+        },
+        {
+          "address": "0x0DFc6bb7eEE496CD789B60255F7B2982F8069415",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x32e27ff479454e32868ff67ee9f06bafdc1e908f",
+    "symbol": "BUSD/USDT (Stable)",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "BUSD",
+      "symbol": "BUSD",
+      "logoURL": "https://s3.coinmarketcap.com/static/img/portraits/62da512ff192d82df80012bb.png",
+      "networks": [
+        {
+          "address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "token1": {
+      "name": "Tether",
+      "symbol": "USDT",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+      "networks": [
+        {
+          "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+          "decimals": 6,
+          "chainId": 59144
+        },
+        {
+          "address": "0x0DFc6bb7eEE496CD789B60255F7B2982F8069415",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": true,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x392ac7d2d09042ec9fafaeb8d52a88dc591e9fea",
+    "symbol": "ezETH/WETH (Narrow)",
+    "gauge": "0x133629348F5f3632f46D8Fd0A5C3b49a4fADf2B6",
+    "token0": {
+      "name": "Renzo Restaked ETH",
+      "symbol": "ezETH",
+      "logoURL": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ezETH.png",
+      "networks": [
+        {
+          "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+          "decimals": 18,
+          "chainId": 59144
+        }
+      ]
+    },
+    "token1": {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "networks": [
+        {
+          "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": true,
+    "bribe": "0x24a835D8Ef124340246D97601b7632D211660aD5"
+  },
+  {
+    "address": "0x3c66e918025739e2e61d7b98da6ca6759841fcf8",
+    "symbol": "vAMM-SATS/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "SATS",
+      "symbol": "SATS",
+      "logoURL": "https://www.okx.com/cdn/wallet/logo/brc20-sats.png",
+      "networks": [
+        {
+          "address": "0xbfa536126c1c2b7cba94807a39213fab913950a3",
+          "decimals": 18,
+          "chainId": 59144
+        }
+      ]
+    },
+    "token1": {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "networks": [
+        {
+          "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x3e78c1f766d7fe2c3dcef6afe6609966540b6391",
+    "symbol": "vAMM-USDC/LYNX",
+    "gauge": "0xbD9Ac1dae15608ee839838F91796d9281C7342FB",
+    "token0": {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+      "networks": [
+        {
+          "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+          "decimals": 6,
+          "chainId": 59144
+        },
+        {
+          "address": "0xC0f8eE736cEC8c1a12e9c25272e6f417510165FF",
+          "decimals": 8,
+          "chainId": 59140
+        }
+      ]
+    },
+    "token1": {
+      "name": "Lynex",
+      "symbol": "LYNX",
+      "logoURL": "https://assets.coingecko.com/coins/images/34874/large/LogoCircular_200x200.png",
+      "networks": [
+        {
+          "address": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0xCa1B6EB5B97b61813B3444DE45Be5897d8Cd6d9E",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": false,
+    "bribe": "0x6f0F1e19836B7F24f16CD7afa59560C908F6514e"
+  },
+  {
+    "address": "0x49bc134cb005a24d32540ae23f9b50235473d14a",
+    "symbol": "sAMM-USDC/MENDI",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+      "networks": [
+        {
+          "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+          "decimals": 6,
+          "chainId": 59144
+        },
+        {
+          "address": "0xC0f8eE736cEC8c1a12e9c25272e6f417510165FF",
+          "decimals": 8,
+          "chainId": 59140
+        }
+      ]
+    },
+    "token1": {
+      "name": "Mendi Finance",
+      "symbol": "MENDI",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/27844.png",
+      "networks": [
+        {
+          "address": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+          "decimals": 18,
+          "chainId": 59144
+        }
+      ]
+    },
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x4d776eb578196ee0725bda3319b4fb615bbf0ac5",
+    "symbol": "vAMM-STONE/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "StakeStone Ether",
+      "symbol": "STONE",
+      "logoURL": "https://storage.googleapis.com/ks-setting-1d682dca/dee351e5-ff61-4a8f-994d-82f3078119661696785945490.png",
+      "networks": [
+        {
+          "address": "0x93f4d0ab6a8b4271f4a28db399b5e30612d21116",
+          "decimals": 18,
+          "chainId": 59144
+        }
+      ]
+    },
+    "token1": {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "networks": [
+        {
+          "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x4f74ed3b2278dae2119658ab2c235bbcd2306d29",
+    "symbol": "USDC/WETH (YieldIQ)",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+      "networks": [
+        {
+          "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+          "decimals": 6,
+          "chainId": 59144
+        },
+        {
+          "address": "0xC0f8eE736cEC8c1a12e9c25272e6f417510165FF",
+          "decimals": 8,
+          "chainId": 59140
+        }
+      ]
+    },
+    "token1": {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "networks": [
+        {
+          "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": true,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x511481ef0deb10eb5c1e36b72140718c58921265",
+    "symbol": "LYNX/WETH (YieldIQ)",
+    "gauge": "0x72125a1c4A6E663c5E4dA0bbFff9Ae02b5EF727a",
+    "token0": {
+      "name": "Lynex",
+      "symbol": "LYNX",
+      "logoURL": "https://assets.coingecko.com/coins/images/34874/large/LogoCircular_200x200.png",
+      "networks": [
+        {
+          "address": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0xCa1B6EB5B97b61813B3444DE45Be5897d8Cd6d9E",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "token1": {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "networks": [
+        {
+          "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": true,
+    "bribe": "0x5a5e10C6a2b5517B3cF919f6BD28628287E69E00"
+  },
+  {
+    "address": "0x52555fa67687288fc70791beae2b92754fdd0341",
+    "symbol": "vAMM-LUCIA/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "Lucia",
+      "symbol": "LUCIA",
+      "networks": [
+        {
+          "address": "0x4Fa0dE5d9217722A37247808c08Cde1C976879b9",
+          "decimals": 18,
+          "chainId": 59144
+        }
+      ]
+    },
+    "token1": {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "networks": [
+        {
+          "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x53c3b77df14d9dbe572a858ba6ed2cc073a0cfe0",
+    "symbol": "vAMM-MENDI/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "Mendi Finance",
+      "symbol": "MENDI",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/27844.png",
+      "networks": [
+        {
+          "address": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+          "decimals": 18,
+          "chainId": 59144
+        }
+      ]
+    },
+    "token1": {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "networks": [
+        {
+          "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x555267747b0918abce10335f154fbe7b636f7804",
+    "symbol": "LYNX/USDT (YieldIQ)",
+    "gauge": "0x68672D332d246508b519deFa1Beac74E2d2F00b5",
+    "token0": {
+      "name": "Lynex",
+      "symbol": "LYNX",
+      "logoURL": "https://assets.coingecko.com/coins/images/34874/large/LogoCircular_200x200.png",
+      "networks": [
+        {
+          "address": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0xCa1B6EB5B97b61813B3444DE45Be5897d8Cd6d9E",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "token1": {
+      "name": "Tether",
+      "symbol": "USDT",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+      "networks": [
+        {
+          "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+          "decimals": 6,
+          "chainId": 59144
+        },
+        {
+          "address": "0x0DFc6bb7eEE496CD789B60255F7B2982F8069415",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": true,
+    "bribe": "0xaf9ef0cd5d10aBd84c773E79001C9858Ca42fAEC"
+  },
+  {
+    "address": "0x58aacbccaec30938cb2bb11653cad726e5c4194a",
+    "symbol": "sAMM-USDC/USD+",
+    "gauge": "0xEaf988C649f44c4DDFd7FDe1a8cB290569B66253",
+    "token0": {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+      "networks": [
+        {
+          "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+          "decimals": 6,
+          "chainId": 59144
+        },
+        {
+          "address": "0xC0f8eE736cEC8c1a12e9c25272e6f417510165FF",
+          "decimals": 8,
+          "chainId": 59140
+        }
+      ]
+    },
+    "token1": {
+      "name": "USD+",
+      "symbol": "USD+",
+      "networks": [
+        {
+          "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+          "decimals": 18,
+          "chainId": 59144
+        }
+      ]
+    },
+    "isStrategy": false,
+    "bribe": "0x2198BbF8A4f1A52161ab3411897CC4fb4E2CD5ca"
+  },
+  {
+    "address": "0x6ce0414c17495d12e6744e0ce5330b258525975e",
+    "symbol": "sAMM-WETH/bveLYNX",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "networks": [
+        {
+          "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x6e9d701fb6478ed5972a37886c2ba6c82a4cbb4c",
+    "symbol": "BUSD/WETH (Narrow)",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": {
+      "name": "BUSD",
+      "symbol": "BUSD",
+      "logoURL": "https://s3.coinmarketcap.com/static/img/portraits/62da512ff192d82df80012bb.png",
+      "networks": [
+        {
+          "address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "token1": {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "logoURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "networks": [
+        {
+          "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+          "decimals": 18,
+          "chainId": 59144
+        },
+        {
+          "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+          "decimals": 18,
+          "chainId": 59140
+        }
+      ]
+    },
+    "isStrategy": true,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  }
+]
