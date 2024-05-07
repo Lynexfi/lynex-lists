@@ -374,6 +374,18 @@
     {
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0xd3fdcb837dafdb7c9c3ebd48fe22a53f6dd3d7d7",
+      "address": "0xd3fdcb837dafdb7c9c3ebd48fe22a53f6dd3d7d7",
+      "name": "QiDao",
+      "symbol": "QI",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10237.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0xb79dd08ea68a908a97220c76d19a6aa9cbde4376",
       "address": "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376",
       "name": "Overnight USD+",
