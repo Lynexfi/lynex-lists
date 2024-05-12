@@ -504,6 +504,18 @@
     {
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x5ba62cbdab03ac70652293e5f5f8afc919cffd78",
+      "address": "0x5ba62cbdab03ac70652293e5f5f8afc919cffd78",
+      "name": "FlyWheel",
+      "symbol": "FLY",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FLY.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x023617bAbEd6CeF5Da825BEa8363A5a9862E120F",
       "address": "0x023617bAbEd6CeF5Da825BEa8363A5a9862E120F",
       "name": "WrappedDAI",
