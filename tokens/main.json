@@ -665,6 +665,24 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29615.png"
+    },
+    {
+      "name": "Linus Token",
+      "symbol": "LINUS",
+      "tokenId": "https://lineascan.build/address/0xe07C2bdbb8C787962C2C6e93C11a152110E7E4d2",
+      "address": "0xe07C2bdbb8C787962C2C6e93C11a152110E7E4d2",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LINUS.png"
+    },
+    {
+      "name": "fMemeFi Token",
+      "symbol": "FMEMEFI",
+      "tokenId": "https://lineascan.build/address/0xa5511f1fb10cb14f6683db7f63bd34c371a19743",
+      "address": "0xa5511f1fb10cb14f6683db7f63bd34c371a19743",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FMEMEFI.png"
     }
   ]
 }
