@@ -264,6 +264,32 @@
     {
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "tokenType": ["bridged"],
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "name": "USDe",
+      "symbol": "USDe",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/USDe.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      "tokenType": ["bridged"],
+      "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      "name": "sUSDe",
+      "symbol": "sUSDe",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/sUSDe.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
       "tokenType": ["bridged"],
       "address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
@@ -500,6 +526,18 @@
       "createdAt": "2023-08-04",
       "updatedAt": "2023-08-04",
       "logoURI": "https://app.3adao.org/3alogo.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x8cf881799e3b5ab24271a9b66b6ca2b0e575b1ef",
+      "address": "0x8cf881799e3b5ab24271a9b66b6ca2b0e575b1ef",
+      "name": "fBOMB",
+      "symbol": "fBOMB",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FBOMB.png"
     },
     {
       "chainId": 59144,
