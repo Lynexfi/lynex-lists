@@ -27,7 +27,7 @@
       "address": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
       "chainId": 59144,
       "decimals": 18,
-      "logoURI": "https://lynex-frontend-git-rebrand-defiswami.vercel.app/logo.png"
+      "logoURI": "https://app.lynex.fi/logo.png"
     },
     {
       "name": "Options Lynex",
@@ -35,7 +35,7 @@
       "address": "0x63349BA5E1F71252eCD56E8F950D1A518B400b60",
       "chainId": 59144,
       "decimals": 18,
-      "logoURI": "https://testnet.lynex.fi/images/tokens/oLYNX.png"
+      "logoURI": "https://app.lynex.fi/images/tokens/oLYNX.png"
     },
     {
       "name": "Bribe veLYNX",
@@ -264,6 +264,32 @@
     {
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "tokenType": ["bridged"],
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "name": "USDe",
+      "symbol": "USDe",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/USDe.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      "tokenType": ["bridged"],
+      "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      "name": "sUSDe",
+      "symbol": "sUSDe",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/sUSDe.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
       "tokenType": ["bridged"],
       "address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
@@ -300,6 +326,68 @@
     {
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x5fbdf89403270a1846f5ae7d113a989f850d1566",
+      "tokenType": [],
+      "address": "0x5fbdf89403270a1846f5ae7d113a989f850d1566",
+      "name": "Foxy",
+      "symbol": "FOXY",
+      "decimals": 18,
+      "createdAt": "2024-10-04",
+      "updatedAt": "2024-10-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FOXY.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+      "tokenType": [],
+      "address": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+      "name": "ZeroLend",
+      "symbol": "ZERO",
+      "decimals": 18,
+      "createdAt": "2024-10-04",
+      "updatedAt": "2024-10-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ZERO.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0xa8ae6365383eb907e6b4b1b7e82a35752cc5ef8c",
+      "tokenType": ["bridged"],
+      "address": "0xa8ae6365383eb907e6b4b1b7e82a35752cc5ef8c",
+      "name": "Ankr Network",
+      "symbol": "ANKR",
+      "decimals": 18,
+      "createdAt": "2024-17-04",
+      "updatedAt": "2024-17-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ANKR.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4"
+      }
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x11d8680c7f8f82f623e840130eb06c33d9f90c89",
+      "tokenType": ["bridged"],
+      "address": "0x11d8680c7f8f82f623e840130eb06c33d9f90c89",
+      "name": "Ankr Staked ETH",
+      "symbol": "ankrETH",
+      "decimals": 18,
+      "createdAt": "2024-17-04",
+      "updatedAt": "2024-17-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ankrETH.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb"
+      }
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x1e1f509963a6d33e169d9497b11c7dbfe73b7f13",
       "address": "0x1e1f509963a6d33e169d9497b11c7dbfe73b7f13",
       "name": "Overnight USDT+",
@@ -308,6 +396,18 @@
       "createdAt": "2023-08-04",
       "updatedAt": "2023-08-04",
       "logoURI": "https://assets.coingecko.com/coins/images/30168/large/USDT_.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0xd3fdcb837dafdb7c9c3ebd48fe22a53f6dd3d7d7",
+      "address": "0xd3fdcb837dafdb7c9c3ebd48fe22a53f6dd3d7d7",
+      "name": "QiDao",
+      "symbol": "QI",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10237.png"
     },
     {
       "chainId": 59144,
@@ -348,6 +448,54 @@
     {
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0xda7d3Ef7c899079EB101F3B31c272DBe9639BDA6",
+      "address": "0xda7d3Ef7c899079EB101F3B31c272DBe9639BDA6",
+      "name": "MetaPoolETH",
+      "symbol": "mpETH",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://www.metapool.app/icons/mpETH.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x15EEfE5B297136b8712291B632404B66A8eF4D25",
+      "address": "0x15EEfE5B297136b8712291B632404B66A8eF4D25",
+      "name": "Universal ETH",
+      "symbol": "uniETH",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/uniETH.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
+      "address": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
+      "name": "InceptionLRT restaked ETH",
+      "symbol": "inETH",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/inETH.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/token/0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+      "address": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/weETH.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x43E8809ea748EFf3204ee01F08872F063e44065f",
       "address": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
       "name": "Mendi Finance",
@@ -378,6 +526,30 @@
       "createdAt": "2023-08-04",
       "updatedAt": "2023-08-04",
       "logoURI": "https://app.3adao.org/3alogo.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x8cf881799e3b5ab24271a9b66b6ca2b0e575b1ef",
+      "address": "0x8cf881799e3b5ab24271a9b66b6ca2b0e575b1ef",
+      "name": "fBOMB",
+      "symbol": "fBOMB",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FBOMB.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x5ba62cbdab03ac70652293e5f5f8afc919cffd78",
+      "address": "0x5ba62cbdab03ac70652293e5f5f8afc919cffd78",
+      "name": "FlyWheel",
+      "symbol": "FLY",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FLY.png"
     },
     {
       "chainId": 59144,
@@ -531,6 +703,24 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29615.png"
+    },
+    {
+      "name": "Linus Token",
+      "symbol": "LINUS",
+      "tokenId": "https://lineascan.build/address/0xe07C2bdbb8C787962C2C6e93C11a152110E7E4d2",
+      "address": "0xe07C2bdbb8C787962C2C6e93C11a152110E7E4d2",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LINUS.png"
+    },
+    {
+      "name": "fMemeFi Token",
+      "symbol": "FMEMEFI",
+      "tokenId": "https://lineascan.build/address/0xa5511f1fb10cb14f6683db7f63bd34c371a19743",
+      "address": "0xa5511f1fb10cb14f6683db7f63bd34c371a19743",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FMEMEFI.png"
     }
   ]
 }
