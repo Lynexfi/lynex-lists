@@ -747,6 +747,24 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FMEMEFI.png"
+    },
+    {
+      "name": "LYVE Debt Token",
+      "symbol": "LYU",
+      "tokenId": "https://lineascan.build/address/0xb20116ee399f15647bb1eef9a74f6ef3b58bc951",
+      "address": "0xb20116ee399f15647bb1eef9a74f6ef3b58bc951",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LYX.png"
+    },
+    {
+      "name": "NnotWifGary",
+      "symbol": "NWG",
+      "tokenId": "https://lineascan.build/address/0xE2a6e74118E708f7652FC4c74D2F9Ee5Fa210563",
+      "address": "0xE2a6e74118E708f7652FC4c74D2F9Ee5Fa210563",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/NWG.png"
     }
   ]
 }
