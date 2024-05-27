@@ -765,6 +765,15 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/NWG.png"
+    },
+    {
+      "name": "CROAK",
+      "symbol": "CROAK",
+      "tokenId": "https://lineascan.build/token/0xacb54d07ca167934f57f829bee2cc665e1a5ebef",
+      "address": "0xaCb54d07cA167934F57F829BeE2cC665e1A5ebEF",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/CROAK.png"
     }
   ]
 }
