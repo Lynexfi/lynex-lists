@@ -777,7 +777,7 @@
     },
     {
       "name": "Dogecoin",
-      "symbol": "Doge",
+      "symbol": "DOGE",
       "tokenId": "https://lineascan.build/address/0x5ed3675867Ae3E3582b819cCB88f48c836E69edE",
       "address": "0x5ed3675867Ae3E3582b819cCB88f48c836E69edE",
       "chainId": 59144,
