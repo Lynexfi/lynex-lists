@@ -774,6 +774,15 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/CROAK.png"
+    },
+    {
+      "name": "Dogecoin",
+      "symbol": "Doge",
+      "tokenId": "https://lineascan.build/address/0x5ed3675867Ae3E3582b819cCB88f48c836E69edE",
+      "address": "0x5ed3675867Ae3E3582b819cCB88f48c836E69edE",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
     }
   ]
 }
