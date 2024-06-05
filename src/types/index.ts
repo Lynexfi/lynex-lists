@@ -63,6 +63,4 @@ export interface Gauge {
   isStrategy: boolean;
   bribe: string;
 }
-
-export { farms } from '../constants/farms';
 export { tokens } from '../constants/tokens';

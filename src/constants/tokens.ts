@@ -1,6 +1,6 @@
 import { Token, ChainId } from "../types/index";
 
-// Example token definitions
+// This part of this repo is created in case will be usable in the future.
 export const tokens: { [key: string]: Token } = {
   lynx: {
     name: "Lynex",
