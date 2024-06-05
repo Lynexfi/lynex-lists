@@ -790,7 +790,7 @@
       "tokenId": "https://lineascan.build/address/0x373d04a7f3594ff9011af5084587182c0056721e",
       "address": "0x373d04a7f3594ff9011af5084587182c0056721e",
       "chainId": 59144,
-      "decimals": 8,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FAITH.png"
     }
   ]
