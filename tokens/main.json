@@ -308,6 +308,32 @@
     {
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x5FFcE65A40f6d3de5332766ffF6A28BF491C868c",
+      "tokenType": ["bridged"],
+      "address": "0x5FFcE65A40f6d3de5332766ffF6A28BF491C868c",
+      "name": "SolvBTC",
+      "symbol": "SolvBTC.m",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/solv_btc.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0xe4D584ae9b753e549cAE66200A6475d2f00705f7",
+      "tokenType": ["bridged"],
+      "address": "0xe4D584ae9b753e549cAE66200A6475d2f00705f7",
+      "name": "Merlin BTC",
+      "symbol": "M-BTC",
+      "decimals": 18,
+      "createdAt": "2023-08-04",
+      "updatedAt": "2023-08-04",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/MBTC.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
       "tokenType": ["bridged"],
       "address": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
@@ -721,6 +747,51 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FMEMEFI.png"
+    },
+    {
+      "name": "LYVE Debt Token",
+      "symbol": "LYU",
+      "tokenId": "https://lineascan.build/address/0xb20116ee399f15647bb1eef9a74f6ef3b58bc951",
+      "address": "0xb20116ee399f15647bb1eef9a74f6ef3b58bc951",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LYU.png"
+    },
+    {
+      "name": "NotWifGary",
+      "symbol": "NWG",
+      "tokenId": "https://lineascan.build/address/0xE2a6e74118E708f7652FC4c74D2F9Ee5Fa210563",
+      "address": "0xE2a6e74118E708f7652FC4c74D2F9Ee5Fa210563",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/NWG.png"
+    },
+    {
+      "name": "CROAK",
+      "symbol": "CROAK",
+      "tokenId": "https://lineascan.build/token/0xacb54d07ca167934f57f829bee2cc665e1a5ebef",
+      "address": "0xaCb54d07cA167934F57F829BeE2cC665e1A5ebEF",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/CROAK.png"
+    },
+    {
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "tokenId": "https://lineascan.build/address/0x5ed3675867Ae3E3582b819cCB88f48c836E69edE",
+      "address": "0x5ed3675867Ae3E3582b819cCB88f48c836E69edE",
+      "chainId": 59144,
+      "decimals": 8,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
+    },
+    {
+      "name": "Faith",
+      "symbol": "FAITH",
+      "tokenId": "https://lineascan.build/address/0x373d04a7f3594ff9011af5084587182c0056721e",
+      "address": "0x373d04a7f3594ff9011af5084587182c0056721e",
+      "chainId": 59144,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FAITH.png"
     }
   ]
 }
