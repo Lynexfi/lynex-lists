@@ -810,6 +810,15 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/eUSD.png"
+    },
+    {
+      "name": "MECH",
+      "symbol": "MECH",
+      "tokenId": "https://lineascan.build/address/0x0A696A1328A5FF7fF7E89D248C963D9069a7ebA9",
+      "address": "0x0A696A1328A5FF7fF7E89D248C963D9069a7ebA9",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/MECH.png"
     }
   ]
 }
