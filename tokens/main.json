@@ -792,6 +792,33 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FAITH.png"
+    },
+    {
+      "name": "ONEPUNCH",
+      "symbol": "ONEPUNCH",
+      "tokenId": "https://lineascan.build/address/0x1F63D0EC7193964142ef6B13d901462d0E5CbB50",
+      "address": "0x1F63D0EC7193964142ef6B13d901462d0E5CbB50",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ONEPUNCH.png"
+    },
+    {
+      "name": "ARYZE eUSD",
+      "symbol": "eUSD",
+      "tokenId": "https://lineascan.build/address/0xBA2f9e7ae9F5f03FCe7D560f986743659e768bbF",
+      "address": "0xBA2f9e7ae9F5f03FCe7D560f986743659e768bbF",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/eUSD.png"
+    },
+    {
+      "name": "MECH",
+      "symbol": "MECH",
+      "tokenId": "https://lineascan.build/address/0x0A696A1328A5FF7fF7E89D248C963D9069a7ebA9",
+      "address": "0x0A696A1328A5FF7fF7E89D248C963D9069a7ebA9",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/MECH.png"
     }
   ]
 }
