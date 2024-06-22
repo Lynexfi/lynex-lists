@@ -6,11 +6,16 @@
   "author": "Efe <polycrystalefe@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "ts-node src/buildJson.ts"
+    "build": "ts-node src/buildJson.ts",
+    "update-gauges": "node src/updateGauges.cjs"
   },
+  "type": "module",
   "devDependencies": {
     "@types/node": "^20.12.6",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.4"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
   }
 }
