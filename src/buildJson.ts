@@ -1,21 +1,21 @@
-import { writeFileSync, mkdirSync } from 'fs';
-import { join } from 'path';
-import { tokens } from '../src/constants/tokens';
-import { strategies } from '../src/constants/strategies';
-import { gauges } from '../src/constants/gauges';
+import fs from 'fs';
+import path from 'path';
+import { tokens } from './constants/tokens';
+import { strategies } from './constants/strategies';
+import { gauges } from './constants/gauges';
 
-const outputDir = join(__dirname, '..', 'config');
-console.log(`Writing JSON files to: ${outputDir}`);
+// Function to write JSON files
+function writeJSON(fileName: string, data: any): void {
+  const dirPath = path.resolve(__dirname, '../config');  
+  if (!fs.existsSync(dirPath)) {
+    fs.mkdirSync(dirPath);
+  }
+  fs.writeFileSync(path.join(dirPath, `${fileName}.json`), JSON.stringify(data, null, 2));
+}
 
-mkdirSync(outputDir, { recursive: true });
-
-const tokensJson = JSON.stringify(tokens, null, 2);
-writeFileSync(join(outputDir, 'tokens.json'), tokensJson);
-
-const strategiesJson = JSON.stringify(strategies, null, 2);
-writeFileSync(join(outputDir, 'strategies.json'), strategiesJson);
-
-const gaugessJson = JSON.stringify(gauges, null, 2);
-writeFileSync(join(outputDir, 'gauges.json'), gaugessJson);
+// Generate JSON files
+writeJSON('tokens', tokens);
+writeJSON('strategies', strategies);
+writeJSON('gauges', gauges);
 
 console.log('JSON files have been generated in the config directory.');

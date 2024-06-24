@@ -261,6 +261,15 @@
     "bribe": "0xab941E30D124356C1A1Ff1cd4eA08038Df8e2A55"
   },
   {
+    "address": "0x1eaaffc13165df39a5fba67409d623fab4d90e5d",
+    "symbol": "vAMM-USDC/ZERO",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
     "address": "0x1f6a27b3df88b96c2560cc296801599e7f057f73",
     "symbol": "vAMM-MENDI/bveLYNX",
     "gauge": "0x0000000000000000000000000000000000000000",
@@ -328,6 +337,24 @@
     "symbol": "sAMM-ZERO/WETH",
     "gauge": "0x0000000000000000000000000000000000000000",
     "token0": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x26c07a030a36d6fb2d373b32dddd93c96cbc440a",
+    "symbol": "vAMM-LYU/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xb20116eE399f15647BB1eEf9A74f6ef3b58bc951",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x26c07a030a36d6fb2d373b32dddd93c96cbc440a",
+    "symbol": "vAMM-LYU/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xb20116eE399f15647BB1eEf9A74f6ef3b58bc951",
     "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
     "isStrategy": false,
     "bribe": "0x0000000000000000000000000000000000000000"
