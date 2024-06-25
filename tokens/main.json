@@ -828,6 +828,15 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/MECH.png"
+    },
+    {
+      "name": "Lineape",
+      "symbol": "APE",
+      "tokenId": "https://lineascan.build/address/0x93b836057989689eB89204dF10D0519B99b9EB85",
+      "address": "0x93b836057989689eB89204dF10D0519B99b9EB85",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/APE.png"
     }
   ]
 }
