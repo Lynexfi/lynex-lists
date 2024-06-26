@@ -2,7 +2,6 @@ import fs from 'fs';
 import path from 'path';
 import { tokens } from './constants/tokens';
 import { strategies } from './constants/strategies';
-import { gauges } from './constants/gauges';
 
 // Function to write JSON files
 function writeJSON(fileName: string, data: any): void {
@@ -16,6 +15,5 @@ function writeJSON(fileName: string, data: any): void {
 // Generate JSON files
 writeJSON('tokens', tokens);
 writeJSON('strategies', strategies);
-writeJSON('gauges', gauges);
 
 console.log('JSON files have been generated in the config directory.');

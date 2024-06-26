@@ -1530,6 +1530,15 @@
     "bribe": "0x0000000000000000000000000000000000000000"
   },
   {
+    "address": "0xb24e6cc3f8637063fc465fe992fbc5b747e20825",
+    "symbol": "vAMM-MAAV3/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x9132f228D31D5F887DD995231813109C80A4dE68",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
     "address": "0xb2e8eca0add374aa63f6df92dcdfda596eaa470a",
     "symbol": "sAMM-WBTC/WETH",
     "gauge": "0x14F063708fF3b7df4Ee83A04DeB047e23cDE5978",
