@@ -1,6 +1,6 @@
 {
-  "name": "lynex-lists",
-  "version": "1.0.2",
+  "name": "@lynex.fi/lynex-lists",
+  "version": "1.0.3",
   "main": "index.js",
   "repository": "https://github.com/Lynexfi/lynex-lists",
   "license": "MIT",
