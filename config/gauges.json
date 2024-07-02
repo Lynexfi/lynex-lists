@@ -1,0 +1,2351 @@
+[
+  {
+    "address": "0x00b34e51ac2a78761982485a618b235a211f5d86",
+    "symbol": "USDC/WETH (YieldIQ)",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x00c3f088726b18210de2886d7c4b0501acb15262",
+    "symbol": "vAMM-ankrETH/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x11D8680C7f8f82F623e840130eB06C33d9F90c89",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x00ecabf9dc65ea9b2468d702ba2359f8137f776d",
+    "symbol": "sAMM-USDC/EURO3",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x3F817b28Da4940F018C6b5c0A11C555ebB1264f9",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x06170045bba66914ffa03f6cb2fc5a3f8dc0ddb7",
+    "symbol": "vAMM-LYNX/XRGB",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0x5cc5E64AB764A0f1E97F23984E20fD4528356a6a",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x06324f8abb83fc0d161c7a8d67a1c05d524f255b",
+    "symbol": "vAMM-ONEPUNCH/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1F63D0EC7193964142ef6B13d901462d0E5CbB50",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x068892dc4c617d088adc01840f6127c097d1e249",
+    "symbol": "vAMM-testX/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xCa4552F02Ad781D8E9De267805F14720309Aae0a",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x087d32f6d6d95b63d418a151a45b6f8ae06fb30f",
+    "symbol": "vAMM-USDC/CROAK",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xaCb54d07cA167934F57F829BeE2cC665e1A5ebEF",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x091872441a89b699ccc805c1d1ec67c4f2c8fa2c",
+    "symbol": "DOGE/WETH (Volatile)",
+    "gauge": "0x4EFdFC355cf347F20dD2324f3AbFae32fbD9a5E7",
+    "token0": "0x5ed3675867Ae3E3582b819cCB88f48c836E69edE",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x1016047D64D6e8a9de9F404bfC1840E49E0Be8c0"
+  },
+  {
+    "address": "0x0978e09b79e9037bb78434fa648f72e7a112b804",
+    "symbol": "vAMM-BB/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1e7A4E6e10009306e37BE50bC762899D1dF75B5b",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x0a00e92d507fdf6c8a743bcf65e08818ecf6ae7b",
+    "symbol": "vAMM-WETH/MEMEFI",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1": "0xF01Fab742b5A70c0b15C7C39bacc60420D62A3ab",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x0a4a0c5bc4d404d48a5a47ef9197500acbdea0a8",
+    "symbol": "uniETH/WETH (Narrow)",
+    "gauge": "0x465fb2f1a45C585273d1D1cA9Cc18a0c69B3F161",
+    "token0": "0x15EEfE5B297136b8712291B632404B66A8eF4D25",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x33220304aE247ef2399af4EfeB5E8E1682cBd43a"
+  },
+  {
+    "address": "0x0aef9098f45b6a85a3c33b5c48e47a7e91b9ba1a",
+    "symbol": "vAMM-MENDI/USDT",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+    "token1": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x0b15a5e3ca0d4b492c3b476d0f807535f9b72079",
+    "symbol": "USDC/WETH (Narrow)",
+    "gauge": "0xEf79A12c48973f0193E67730C8636485Da59f0FD",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x97c2592D52A181dc23F401f8ba63E552B9c3C56e"
+  },
+  {
+    "address": "0x0c978a9529b01dfe1a0745b6f97e3a05a8f81023",
+    "symbol": "vAMM-MATIC/MENDI",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
+    "token1": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x0cafbb18ffe4d91a858bb05011818c5358d99095",
+    "symbol": "vAMM-USDC/MAI",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xf3B001D64C656e30a62fbaacA003B1336b4ce12A",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x0e144f87c02427f1a38e36c3fb258da691aa11e9",
+    "symbol": "vAMM-QOXY/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x47C35631D85ABeA1f88418DA1Aeb5ADA57FD1d25",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x0e144f87c02427f1a38e36c3fb258da691aa11e9",
+    "symbol": "vAMM-QOXY/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x47C35631D85ABeA1f88418DA1Aeb5ADA57FD1d25",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x106fe82eddaf926f71df5c423f4daa94ec73a6c8",
+    "symbol": "sAMM-DAI/USDT",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "token1": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x1129a2b570906ea0d1a1cff94c274cb17ad69a8c",
+    "symbol": "sAMM-MATIC/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x11e29b541abe15984c863c10f3ef9ecbcc078031",
+    "symbol": "sAMM-USDT/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x1577fb60deb25dc9d9c6f0ed736a682b849e6bfb",
+    "symbol": "vAMM-M-BTC/WETH",
+    "gauge": "0x28F7E28667b7E4a620d19a02BeD83db6B4a5CEeD",
+    "token0": "0xe4D584ae9b753e549cAE66200A6475d2f00705f7",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x227293549B3AfEE7525cb8Bd32455E29CFaDA5a3"
+  },
+  {
+    "address": "0x1795c4b23ec93c852653045dab4dd1ac796d5248",
+    "symbol": "FOXY/WETH (YieldIQ)",
+    "gauge": "0x8bbCa13fa5028edA6E990ECc7e1053b1493818BD",
+    "token0": "0x5FBDF89403270a1846F5ae7D113A989F850d1566",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x2125c5b3976943b6F5D6B69fDD748410F52A6D86"
+  },
+  {
+    "address": "0x17a80e00892c9fb40eebf8d0123d1e70a7897ddb",
+    "symbol": "vAMM-FOXCONN/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x03e243aA9a0e753c6c749a20F56b3242C7bB6D5C",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x189aa52c0b90167ea8182c6270a358d05f5e6654",
+    "symbol": "vAMM-testXsfd/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xB7cf77059c543B6892cE130E93FE9E1fC0367C35",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x1bb15aa9a8bdeea7bb3a21bd239a232c5a09b0c6",
+    "symbol": "sAMM-WBTC/M-BTC",
+    "gauge": "0x1deE80A4aC9a4F5BDb97563544AeE1c1C97ae486",
+    "token0": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token1": "0xe4D584ae9b753e549cAE66200A6475d2f00705f7",
+    "isStrategy": false,
+    "bribe": "0x58F13041DdEc464198A101A16060aDB38eE9b448"
+  },
+  {
+    "address": "0x1c6fb08c1ef4e505a4ae3ffc3c99e443070df64a",
+    "symbol": "vAMM-LYNX/WETH",
+    "gauge": "0xE184744047c7813958841Df69FF059961326597d",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x10e0AC38e2E771dA462EF38F40f3c0C0af1df432"
+  },
+  {
+    "address": "0x1c843458ab1d2f8198b632f519232223e9d81370",
+    "symbol": "vAMM-sMendi/MENDI",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x150b1e51738CdF0cCfe472594C62d7D6074921CA",
+    "token1": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x1db4f885025b3aa1dddac9c10461b871fcb2c6dd",
+    "symbol": "vAMM-test/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x367776748E7644f8E4589ea4f9f04433912092e5",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x1e0015f45e339c08f7c891f83e579fbe9ea9cd37",
+    "symbol": "sAMM-WBTC/SolvBTC.m",
+    "gauge": "0x1f32B8912E0b03CF85E281B419c29Eb65D66bB2A",
+    "token0": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token1": "0x5FFcE65A40f6d3de5332766ffF6A28BF491C868c",
+    "isStrategy": false,
+    "bribe": "0xab941E30D124356C1A1Ff1cd4eA08038Df8e2A55"
+  },
+  {
+    "address": "0x1eaaffc13165df39a5fba67409d623fab4d90e5d",
+    "symbol": "vAMM-USDC/ZERO",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x1f6a27b3df88b96c2560cc296801599e7f057f73",
+    "symbol": "vAMM-MENDI/bveLYNX",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+    "token1": "0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x1f6a27b3df88b96c2560cc296801599e7f057f73",
+    "symbol": "vAMM-MENDI/bveLYNX",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+    "token1": "0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x20f9106f711d41081dbbf79fee8de92cb7547e77",
+    "symbol": "vAMM-ankrETH/wstETH",
+    "gauge": "0xd9692901c26b452Cd4cDbAcFd2E8830A9B969130",
+    "token0": "0x11D8680C7f8f82F623e840130eB06C33d9F90c89",
+    "token1": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+    "isStrategy": false,
+    "bribe": "0xa471f4e9ef4F1cd83cdE09bA33D3a7A9f1a02C21"
+  },
+  {
+    "address": "0x22b4e0eaab455d42b316f9694b65c64772c48006",
+    "symbol": "sAMM-weETH/ezETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+    "token1": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x23ccaff2639695b74d11da36bef2b5ecefe3509e",
+    "symbol": "sAMM-USDC/A3A",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x3d4b2132eD4eA0aa93903713a4dE9F98e625a5c7",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x248b7ef9dd10d8534ac6b0fdcc99beec596f89b0",
+    "symbol": "vAMM-POXY/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x0d03db343A92b5FcFdC2178d4C9bB2F862FE8737",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x24c6d82d316f80421f3e0f58c70127a97a5f1db7",
+    "symbol": "WBTC/WETH (Elastic Expansion)",
+    "gauge": "0xfF8EA0418Eb2aDB78beCd8f7a35b036C5f374316",
+    "token0": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x3f7F2B383EF92b852Ae7E41D6Ec726d054012f8A"
+  },
+  {
+    "address": "0x251aae3587dd86bb66443b507497d2c9a064a4cc",
+    "symbol": "sAMM-ZERO/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x26c07a030a36d6fb2d373b32dddd93c96cbc440a",
+    "symbol": "vAMM-LYU/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xb20116eE399f15647BB1eEf9A74f6ef3b58bc951",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x26c07a030a36d6fb2d373b32dddd93c96cbc440a",
+    "symbol": "vAMM-LYU/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xb20116eE399f15647BB1eEf9A74f6ef3b58bc951",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x279187df2ec4c95438dcf80bcb31ff8bc96232b1",
+    "symbol": "sAMM-LINUS/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xe07C2bdbb8C787962C2C6e93C11a152110E7E4d2",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x27d09198fe47ac4e3e9f622032a71e26df776e99",
+    "symbol": "ankrETH/ANKR (Classic Rebalance)",
+    "gauge": "0xdfc584D1f2093991b3DadeE500277EE077386B92",
+    "token0": "0x11D8680C7f8f82F623e840130eB06C33d9F90c89",
+    "token1": "0xa8Ae6365383eb907e6b4B1B7E82A35752cC5Ef8C",
+    "isStrategy": true,
+    "bribe": "0x256e91cfcE64300070C09EF183B82231F83389e2"
+  },
+  {
+    "address": "0x29df8a5d68937ab016a354a45510208d6e75c5cc",
+    "symbol": "vAMM-LILI/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xCa7d460C83678C358E8FC9b9629E8aC36D67c567",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x2a73093943232afd02661a112e149c777cf01e57",
+    "symbol": "vAMM-MATIC/WETH",
+    "gauge": "0xA2C217835be2434beFaDC1078FB42ff20A3ACBaC",
+    "token0": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0xA5628D9fA2B37B154E54619496f16EAFEd8eA740"
+  },
+  {
+    "address": "0x2ac5966684f33384163c0f924be2c83817a88a23",
+    "symbol": "vAMM-LYNX/bveLYNX",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x2ae0bd5712afae42f8e4404faa7c4cd6c420283e",
+    "symbol": "vAMM-WETH/TEST",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1": "0xEa312C6609586961e740685e97EE34cFD18Afa10",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x2babed912322c355f4b8b58ea568727892ca3f05",
+    "symbol": "USDC/USDT (Stable)",
+    "gauge": "0x31759E8c3323CDB7a7d52848DB03eBE034BcA48F",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "isStrategy": true,
+    "bribe": "0x6aCeA3009357dFFe7a3625075a604AdC9E3C8619"
+  },
+  {
+    "address": "0x2babfb5f0f40e77be0a9011f83a6252ecc796d54",
+    "symbol": "sAMM-agEUR/USDT",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+    "token1": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x2cc4c3ccec1a16efa23d8cafd764eaceb9233486",
+    "symbol": "sAMM-LYNX/USDT",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x31cdc18f1b682ef15b023997be39829cfd0f0628",
+    "symbol": "vAMM-KIT/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1883a51FAaFAF632ad716F0ceF50Df67F54987DE",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x31d5b4d07b8855b6a8cf41ed5dae99d0f25da329",
+    "symbol": "vAMM-SolvBTC.m/M-BTC",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x5FFcE65A40f6d3de5332766ffF6A28BF491C868c",
+    "token1": "0xe4D584ae9b753e549cAE66200A6475d2f00705f7",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x31f0f3a927e17782c60bffc68a805bb0ad0b1acd",
+    "symbol": "sAMM-DUSD/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xA88B54E6b76Fb97CdB8eCAE868f1458e18a953F4",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x31f5fb5d70b00398821b0e1d1db9bab4a0231fc3",
+    "symbol": "vAMM-QI/WETH",
+    "gauge": "0xa90C883879bf63b9A02983D1ad2D2497814261c6",
+    "token0": "0xD3FDCb837DAfdb7C9C3eBD48FE22a53F6Dd3d7D7",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0xf1d49d2E7393d061eC845097be2a765f295354b9"
+  },
+  {
+    "address": "0x32665dc81169176debfc4f2145d9fd5fb9a27998",
+    "symbol": "vAMM-BOXY/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xAD575f0493A52d2840fDa79e7555b06f8cb54BbC",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x32e27ff479454e32868ff67ee9f06bafdc1e908f",
+    "symbol": "BUSD/USDT (Stable)",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+    "token1": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "isStrategy": true,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x330799636c16b3442c67e12eb72a9f2aaf904586",
+    "symbol": "vAMM-WEF/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x889400fB9BDE04BFdf353cC718fED3d6dDcF735F",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x38400da4f6562e93875ae161d790bcb6f36eb722",
+    "symbol": "vAMM-USDC/wstETH",
+    "gauge": "0xD2F90788b3055EFb6863d3fa0ea9473871c92310",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+    "isStrategy": false,
+    "bribe": "0x81dA8c04DCE38476cfD75f70aB3363D28AD6Fc4d"
+  },
+  {
+    "address": "0x392ac7d2d09042ec9fafaeb8d52a88dc591e9fea",
+    "symbol": "ezETH/WETH (Narrow)",
+    "gauge": "0x133629348F5f3632f46D8Fd0A5C3b49a4fADf2B6",
+    "token0": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x24a835D8Ef124340246D97601b7632D211660aD5"
+  },
+  {
+    "address": "0x398072d50080150ff1f7fda72f73873dcae94cd3",
+    "symbol": "sAMM-testXsfd/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xB7cf77059c543B6892cE130E93FE9E1fC0367C35",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x398072d50080150ff1f7fda72f73873dcae94cd3",
+    "symbol": "sAMM-testXsfd/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xB7cf77059c543B6892cE130E93FE9E1fC0367C35",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x399db3758c53885e6019c576ad5aa678e6789558",
+    "symbol": "vAMM-test2/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x15C98A96cE49bA081D86290964B59589724E8107",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x3a3262386e6d564e22bbbd06f2fc5318e9e9d42d",
+    "symbol": "vAMM-USDC/FLY",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x5Ba62cbDab03aC70652293e5F5f8afC919CfFd78",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x3c66e918025739e2e61d7b98da6ca6759841fcf8",
+    "symbol": "vAMM-SATS/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xbfa536126C1C2b7cbA94807a39213fAb913950A3",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x3e78c1f766d7fe2c3dcef6afe6609966540b6391",
+    "symbol": "vAMM-USDC/LYNX",
+    "gauge": "0xbD9Ac1dae15608ee839838F91796d9281C7342FB",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "isStrategy": false,
+    "bribe": "0x6f0F1e19836B7F24f16CD7afa59560C908F6514e"
+  },
+  {
+    "address": "0x42544da1a642eb32f36841cde92f2bed85514fb3",
+    "symbol": "vAMM-USDC/FOXY",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x5FBDF89403270a1846F5ae7D113A989F850d1566",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x46463aa62249e21188ca9babbff08b5c4542eefd",
+    "symbol": "sAMM-USDC/eUSD",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xBA2f9e7ae9F5f03FCe7D560f986743659e768bbF",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x46e3847474b0aeb1a6b693ccc222af430896a593",
+    "symbol": "sAMM-USDC/LYU",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xb20116eE399f15647BB1eEf9A74f6ef3b58bc951",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x49bc134cb005a24d32540ae23f9b50235473d14a",
+    "symbol": "sAMM-USDC/MENDI",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x49ecb11e7a0031c371ed0377057c205569d322ec",
+    "symbol": "vAMM-Foxy/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x2DFFd3B1701e6d703a444C6a1AfCCF7dd700dC97",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x49ecb11e7a0031c371ed0377057c205569d322ec",
+    "symbol": "vAMM-Foxy/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x2DFFd3B1701e6d703a444C6a1AfCCF7dd700dC97",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x4b7bbef16ec422dd4c2ca823cb3d986e4044a25e",
+    "symbol": "vAMM-tok/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xB672BB2024304a33d35afF28256C4ebddEF1d5f0",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x4cc73f7240f29a9f5d419a4696ebe8138a06d438",
+    "symbol": "vAMM-weETH/STONE",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+    "token1": "0x93F4d0ab6a8B4271f4a28Db399b5E30612D21116",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x4cc73f7240f29a9f5d419a4696ebe8138a06d438",
+    "symbol": "vAMM-weETH/STONE",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+    "token1": "0x93F4d0ab6a8B4271f4a28Db399b5E30612D21116",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x4cf89aa883b261221c8858709c3d09b7d4901939",
+    "symbol": "vAMM-APE/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x93b836057989689eB89204dF10D0519B99b9EB85",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x4d776eb578196ee0725bda3319b4fb615bbf0ac5",
+    "symbol": "vAMM-STONE/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x93F4d0ab6a8B4271f4a28Db399b5E30612D21116",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x4d999d130baa971cc640bfea3ad704b58553bc17",
+    "symbol": "vAMM-BUSD/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x4e78173588f16ee42b61aa6b6bf7f02fc86a7d89",
+    "symbol": "vAMM-LYNX/WBTC",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x4f74ed3b2278dae2119658ab2c235bbcd2306d29",
+    "symbol": "USDC/WETH (YieldIQ)",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x504f0d95d3a43a6c9fcd86782a93e043e78d1ab0",
+    "symbol": "USDC/WETH (High Low Channel)",
+    "gauge": "0xE2d69E2b34D176B3d4A6209fDf95091E22eDB604",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0xc3a2b088Af1180C93f90bF75B726444407fb01E0"
+  },
+  {
+    "address": "0x511481ef0deb10eb5c1e36b72140718c58921265",
+    "symbol": "LYNX/WETH (YieldIQ)",
+    "gauge": "0x72125a1c4A6E663c5E4dA0bbFff9Ae02b5EF727a",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x5a5e10C6a2b5517B3cF919f6BD28628287E69E00"
+  },
+  {
+    "address": "0x52555fa67687288fc70791beae2b92754fdd0341",
+    "symbol": "vAMM-LUCIA/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x4Fa0dE5d9217722A37247808c08Cde1C976879b9",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x530071b0373ab3029cad32e0c19b75253e231b69",
+    "symbol": "weETH/WETH (Narrow)",
+    "gauge": "0x1480808349772759DF7422a3440EDb998A749C3c",
+    "token0": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x26fD89234FeBCf38e9Bd3b384dE733F84a4032eA"
+  },
+  {
+    "address": "0x53c3b77df14d9dbe572a858ba6ed2cc073a0cfe0",
+    "symbol": "vAMM-MENDI/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x54001e83fcf7654e8a974c0ed2ef4b9cc4e6ff63",
+    "symbol": "SolvBTC.m/WETH (Classic Rebalance)",
+    "gauge": "0x6264f6260A7C11FA80D14d2f474D5e03C3Ee2c89",
+    "token0": "0x5FFcE65A40f6d3de5332766ffF6A28BF491C868c",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x4eFd4425b02De698ac18117C7021aD1c20b4aCac"
+  },
+  {
+    "address": "0x5452dedffedcf6f9cd8d550f4e008ab66357951e",
+    "symbol": "vAMM-WETH/KOXY",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1": "0xE8bcdC6364173Ca0700dCF4FE7331c701845Ba72",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x5452dedffedcf6f9cd8d550f4e008ab66357951e",
+    "symbol": "vAMM-WETH/KOXY",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1": "0xE8bcdC6364173Ca0700dCF4FE7331c701845Ba72",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x54789d829aac7f7c0cecf661deef8bd524c42879",
+    "symbol": "vAMM-WETH/ALN",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1": "0xF9C51a91933a576c9cC177f8da439A5cd69D33fd",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x555267747b0918abce10335f154fbe7b636f7804",
+    "symbol": "LYNX/USDT (YieldIQ)",
+    "gauge": "0x68672D332d246508b519deFa1Beac74E2d2F00b5",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "isStrategy": true,
+    "bribe": "0xaf9ef0cd5d10aBd84c773E79001C9858Ca42fAEC"
+  },
+  {
+    "address": "0x56732de537ca41b06452aa783d0fc75655ed3525",
+    "symbol": "vAMM-QI/MAI",
+    "gauge": "0x49e8aeB92B4d2FdC4bA9279bB0Bb968054B2c7Bf",
+    "token0": "0xD3FDCb837DAfdb7C9C3eBD48FE22a53F6Dd3d7D7",
+    "token1": "0xf3B001D64C656e30a62fbaacA003B1336b4ce12A",
+    "isStrategy": false,
+    "bribe": "0x81F65286eA44db6C002180E2019AE9CeEfb4058c"
+  },
+  {
+    "address": "0x57d2ef499ace72f10be152808f73ce75f1639ed9",
+    "symbol": "vAMM-MOXY/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x42F83B73900cfFECF7A3E34C620D9a39699CbBb0",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x58aacbccaec30938cb2bb11653cad726e5c4194a",
+    "symbol": "sAMM-USDC/USD+",
+    "gauge": "0xEaf988C649f44c4DDFd7FDe1a8cB290569B66253",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+    "isStrategy": false,
+    "bribe": "0x2198BbF8A4f1A52161ab3411897CC4fb4E2CD5ca"
+  },
+  {
+    "address": "0x5bcc6c14f962d8062aef6505b6e047e86b92b366",
+    "symbol": "sAMM-LYNX/WBTC",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x5e4df5861dfe516f8ab88766dca04a2ff7141cdf",
+    "symbol": "vAMM-DAGOBAH/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x9BAe5CCFb25Fe4eA94E97026470f7C225578B914",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x5ec38a5e010d4fc99c1285ca3bfedd51eec2e193",
+    "symbol": "sAMM-ezETH/WETH",
+    "gauge": "0x517BEf9a451Bdcd214fa56617698747A35500c91",
+    "token0": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0xbC56b2B8922CD3a8b48C7D319e5aBaC886c9Dc5C"
+  },
+  {
+    "address": "0x6057f9dff137315e0eb9560f6bc3759061a5c013",
+    "symbol": "vAMM-USDC/weETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x60890cf6de535dbb5da9f1b8841481b408e011a2",
+    "symbol": "vAMM-USDC/DUSD",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xA88B54E6b76Fb97CdB8eCAE868f1458e18a953F4",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x620855ac3dcf06dbb12647b997a991f479442f7d",
+    "symbol": "SHIB/WETH (Volatile)",
+    "gauge": "0x2DD9736C8dE184eD0387D697725Cc4F2E3Cc4CEC",
+    "token0": "0x99AD925C1Dc14Ac7cc6ca1244eeF8043C74E99d5",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x9D6cc21709Dce69D485c78f9Cc5F098ef63a3f71"
+  },
+  {
+    "address": "0x624919d32d1563e33710b585f212664701869e64",
+    "symbol": "CROAK/WETH (Wide)",
+    "gauge": "0x4F9728be55032d510b869C3A2781Ca976aAaabed",
+    "token0": "0xaCb54d07cA167934F57F829BeE2cC665e1A5ebEF",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x10cc4819D0545F6D984A514C76CfdC5b47bB00e6"
+  },
+  {
+    "address": "0x624db235d1f39ac8fe9b96814ce8acc9e7010b05",
+    "symbol": "vAMM-ANL/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x01eadE398A08d22508BA00dd93aCb5136BD48590",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x65bd47b99dec53605e390acb9f5508169a796bb0",
+    "symbol": "vAMM-JOXY/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xbf145ED36619b935Eb53c8EC4db6c9c50F5f1f2e",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x6adfe27c0430de3de2dd32f121af9c69cee96d11",
+    "symbol": "vAMM-AOXY/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xD083E58d0D80BCa7044345a8cD2f0F047e0DD746",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x6cb078a1d428a203d569f7f092e38157590362c9",
+    "symbol": "sAMM-Foxy/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x2DFFd3B1701e6d703a444C6a1AfCCF7dd700dC97",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x6ce0414c17495d12e6744e0ce5330b258525975e",
+    "symbol": "sAMM-WETH/bveLYNX",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1": "0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x6e9d701fb6478ed5972a37886c2ba6c82a4cbb4c",
+    "symbol": "BUSD/WETH (Narrow)",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x6f501662a76577fbb3bb230be5e8e69d41d8c711",
+    "symbol": "vAMM-FLY/USD+",
+    "gauge": "0xDA5895DcDb431308230F5808bF39865B76815129",
+    "token0": "0x5Ba62cbDab03aC70652293e5F5f8afC919CfFd78",
+    "token1": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+    "isStrategy": false,
+    "bribe": "0xE7C6085FA4eAD157dCEb5a907CE01073b83E78fD"
+  },
+  {
+    "address": "0x6fb413595e0949b85b0861233b39d8ddec872afa",
+    "symbol": "vAMM-LUBE/LINE",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1bE3735Dd0C0Eb229fB11094B6c277192349EBbf",
+    "token1": "0x2Fab0952449378DfdF4625fE37F9603011F189ab",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x6fb44889a9aa69f7290258d3716bffcb33cde184",
+    "symbol": "vAMM-USDC/WETH",
+    "gauge": "0xa9946Cd8b9B902FB50239a6fBE0f62f6cb0F0E0D",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0b10c23932232B317e9a2C75fA903Dc489DB5796"
+  },
+  {
+    "address": "0x6fd181396c1b6869b2592babb461bca2b2887f1d",
+    "symbol": "vAMM-ROXY/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x85C2160b06D48C8B6F5ea5bAFb1a3137ee620784",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x7088a31d53fc1fa300ceb5f9103343137a62b545",
+    "symbol": "sAMM-USDC/DUSD",
+    "gauge": "0xe9E48c99C9cb2b5a5deb85E913f52A22e5B53026",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xA88B54E6b76Fb97CdB8eCAE868f1458e18a953F4",
+    "isStrategy": false,
+    "bribe": "0x8dc958b827edD436959679b57c3c304A4ad033e3"
+  },
+  {
+    "address": "0x740bb4250398f2b87e70cb21f459de4df80012dc",
+    "symbol": "sAMM-MENDI/oLYNX",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+    "token1": "0x63349BA5E1F71252eCD56E8F950D1A518B400b60",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x75d0e6a78dd8f693c73275a1a86f0ca054e5a95f",
+    "symbol": "sAMM-USDC/DAI",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x763c452d471d18ef55f70e383cc3fcd77eae5cad",
+    "symbol": "vAMM-OOXY/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x9abE0D6a4E4a3aDe4aF80b25A724963563e55C07",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x7679b3b4c2f9930abb54b4199f81105445f564b5",
+    "symbol": "vAMM-NWG/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xE2a6e74118E708f7652FC4c74D2F9Ee5Fa210563",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x774869310922c4e0748f9f477754a5725e383a83",
+    "symbol": "sAMM-MENDI/ZERO",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+    "token1": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x77a0006fdeb1ce7f521a01852a632b2a21490d67",
+    "symbol": "USDC/EURO3 (Stable)",
+    "gauge": "0x281Be483Ed6F5e101dE186B61DCB57f663cfAd93",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x3F817b28Da4940F018C6b5c0A11C555ebB1264f9",
+    "isStrategy": true,
+    "bribe": "0x88BF17F9bB7779f51BEC92936558Db831268ae36"
+  },
+  {
+    "address": "0x77dc428d56c1fb3d77043c5077a281c4ecbb3146",
+    "symbol": "sAMM-inETH/wstETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
+    "token1": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x77eafc6d2594ef5b7430f2c69fa95961f0175fdd",
+    "symbol": "vAMM-LSHIB/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x3b91a28d71eA7acD1558E9B84B79C1D140e7BC6C",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x79b2593e1e8ff882a6f26bc2cb4854b68751887d",
+    "symbol": "sAMM-LYNX/WETH",
+    "gauge": "0xc44B10f1175e34C836b76A514360C3815cDAC8F2",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x224319CEFd3F8963827b58e572c15B4464936004"
+  },
+  {
+    "address": "0x7a21302bd6d314c1f46797115d704d664e0635d0",
+    "symbol": "vAMM-TEUR/USDT",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x8A16b95EA186FE2e0AD6eAb9efB764be7846c50f",
+    "token1": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x7cac0bd586fdd087fcb7635a62280a30ddb547af",
+    "symbol": "vAMM-EURO3/FOXY",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x3F817b28Da4940F018C6b5c0A11C555ebB1264f9",
+    "token1": "0x5FBDF89403270a1846F5ae7D113A989F850d1566",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x7f80ffe8e0fbbb82aefa9d848636c73f679219c4",
+    "symbol": "vAMM-dnb/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xa82DAa64e9D2D9AB17619312dA3F591De1a4F06f",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x7fee4f637bc38e73ebf4caed22a1941236b79bf4",
+    "symbol": "vAMM-FAITH/WETH",
+    "gauge": "0x33017a470F6CD3BCE89C0888061e7b4d96C19F60",
+    "token0": "0x373d04A7F3594FF9011Af5084587182C0056721e",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x1d31fdC7b71AF60D355a8B4DE4Ea5Ad2396e5fA0"
+  },
+  {
+    "address": "0x80295173fd6962f38671c39ba726309b637ca241",
+    "symbol": "vAMM-ezETH/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x80b3b2bdc115b70f4fd5a50352f81cbd3aaf48b3",
+    "symbol": "vAMM-weETH/FOXY",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+    "token1": "0x5FBDF89403270a1846F5ae7D113A989F850d1566",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x8421c6102ee8a147facc01977df3b159f7921d54",
+    "symbol": "MATIC/WETH (Narrow)",
+    "gauge": "0x04939a947404Cad457A56c11103bc92D43984Fc2",
+    "token0": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0xea4A8d08b7a51f9F5735C45F821A060a97521D87"
+  },
+  {
+    "address": "0x878c05f03a177188937cc3de6cc370f961f91404",
+    "symbol": "vAMM-Foxy2.0/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x3909ecd098F8Ee9bb7107D364639eA19DDA5A996",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x878c05f03a177188937cc3de6cc370f961f91404",
+    "symbol": "vAMM-Foxy2.0/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x3909ecd098F8Ee9bb7107D364639eA19DDA5A996",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x8954bc9a15176ba2302fa68c6ec6a7534b563ca0",
+    "symbol": "vAMM-CROAK/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xaCb54d07cA167934F57F829BeE2cC665e1A5ebEF",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x8a33eae82534b8e6cce270538faf83d11734f1f1",
+    "symbol": "sAMM-USDC/USDe",
+    "gauge": "0xeF010a4815c401841904a21885dbbB6E036F5AA6",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+    "isStrategy": false,
+    "bribe": "0xfd1A46dD32e62958b2A9d90F8b2e386CcDA240F8"
+  },
+  {
+    "address": "0x8a9570ec97534277ade6e46d100939fbce4968f0",
+    "symbol": "WBTC/WETH (Narrow)",
+    "gauge": "0x81921e25c109aB1eF910081184295387f50e1f78",
+    "token0": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x3C16f9Ec9E90C0407388228609cbdeE48dE9013b"
+  },
+  {
+    "address": "0x8cb615373f16a727f61457213866267b70051ae5",
+    "symbol": "vAMM-A3A/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x3d4b2132eD4eA0aa93903713a4dE9F98e625a5c7",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x8d2a23eb25a0a8213319a4ed2984602a7c23f06b",
+    "symbol": "vAMM-WBTC/WETH",
+    "gauge": "0x049c14D930F81233921E7591f47D104900b6c3D1",
+    "token0": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0xCD6925c4D822098A74311F1C77BDc38629Db6277"
+  },
+  {
+    "address": "0x8dabf94c7bdd771e448a4ae4794cd71f9f3d7a0d",
+    "symbol": "EURO3/USD+ (Stable)",
+    "gauge": "0xC8E3E29e006Cd48a4f0AD0A06558E41853a1bAbD",
+    "token0": "0x3F817b28Da4940F018C6b5c0A11C555ebB1264f9",
+    "token1": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+    "isStrategy": true,
+    "bribe": "0x4489E4e7973967a05a5311b4E099A25D3f31c392"
+  },
+  {
+    "address": "0x8e9f777f2448590ccd9d547f49489948a6001d41",
+    "symbol": "vAMM-MENDI/uMendi",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+    "token1": "0xcf8deDCdC62317beAEdfBee3C77C08425F284486",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x8f3e0a2378b0b5838e0e0d99fcecc167d47bc9a7",
+    "symbol": "sAMM-STONE/WETH",
+    "gauge": "0xB301DB65B71589d2fFDa38B2BECFBDdf584D538E",
+    "token0": "0x93F4d0ab6a8B4271f4a28Db399b5E30612D21116",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x414a76E7150213A99795fF361B197C26F9374994"
+  },
+  {
+    "address": "0x8f63b44d31fbca1d62ab4e32663fb91b4a363d01",
+    "symbol": "vAMM-FOXY/WETH",
+    "gauge": "0x1D7592454e3eEaE0e603F2FA96E2f1d47F5B3434",
+    "token0": "0x5FBDF89403270a1846F5ae7D113A989F850d1566",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x6dA7A54451B0a753fEBF2340a8b0de376A69CF95"
+  },
+  {
+    "address": "0x904e2bbdb669cb30f51d69daefdcdeb83759d833",
+    "symbol": "vAMM-ZERO/WETH",
+    "gauge": "0xC61ac4F795425CD4507f584bd84ae02D280F8956",
+    "token0": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0xBE7710E45060BB9bC1C2d7cC8F6084d15288d955"
+  },
+  {
+    "address": "0x90b85ea29d1df5fe44432e1847067e494c2d50ca",
+    "symbol": "sAMM-FOXY/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x5FBDF89403270a1846F5ae7D113A989F850d1566",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x9262edde191bd9b6914821e75019d327f5e42a4f",
+    "symbol": "vAMM-SUE/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xE112246eFA632CD670a3f872633B29018fF86966",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x92ccb773da4f3974c941974bdb978bad7efa7744",
+    "symbol": "USDC/LYNX (YieldIQ)",
+    "gauge": "0x14aF0979e96deA94ad2466dFDF11e85886Ce04F9",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "isStrategy": true,
+    "bribe": "0x9b752D5c90dec9926BbD3A7DFa1e4448CBF044E2"
+  },
+  {
+    "address": "0x93b6d53d8a33c92003d0c41065cb2842934c2619",
+    "symbol": "sAMM-EURO3/USD+",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x3F817b28Da4940F018C6b5c0A11C555ebB1264f9",
+    "token1": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x93b6d53d8a33c92003d0c41065cb2842934c2619",
+    "symbol": "sAMM-EURO3/USD+",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x3F817b28Da4940F018C6b5c0A11C555ebB1264f9",
+    "token1": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x94769abfbeb114cf7ba2e7b9cef242ac70da20d6",
+    "symbol": "vAMM-USDT/WETH",
+    "gauge": "0x136679A42ED9d4Ca89FE14eF38b1f5787F63F2c7",
+    "token0": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x28d48140D505a9B594409EFd77e9a3d36D3fC5C5"
+  },
+  {
+    "address": "0x96411166448feed82661e164c38fc71d0ff169b0",
+    "symbol": "USDT/WETH (Classic Rebalance)",
+    "gauge": "0xc5e563F17551b16a13680210e7FA3A36eB591587",
+    "token0": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x9061afDe893526e7edDF4aE5B96AdA5cbee4470F"
+  },
+  {
+    "address": "0x9832a4cc0cfbadda9e535e5bff65928e6b9c06e2",
+    "symbol": "vAMM-WBTC/M-BTC",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token1": "0xe4D584ae9b753e549cAE66200A6475d2f00705f7",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x9a146698b16dc334f9b99af20b359649e6f4c844",
+    "symbol": "vAMM-LYNX/weETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x9a9987c6853c513b1c1ada3db8bc8fedf426acce",
+    "symbol": "vAMM-ALM/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xD2F78eC9eAe17FF34CC551262A54F6fE0Dc16564",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x9b3eaa1c305f32c9b651ac8521563462705e2358",
+    "symbol": "vAMM-LYNX/DAI",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x9cbe4ebcf697e98efc22e2595209c5d62d8fc4f0",
+    "symbol": "sAMM-USDC/LYNX",
+    "gauge": "0x3ec33c3B8eDa69e2Cf9Ff46f512E2367e6f9bCa2",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "isStrategy": false,
+    "bribe": "0xF62cd8DE4f7e8eb797467f595b905CFC51A1e10C"
+  },
+  {
+    "address": "0x9d2495ee468dd08e072514b6924a140632c281b1",
+    "symbol": "vAMM-weETH/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x9d9070462eb1cbfe2b8cfa337bb4d0a3ac420bd6",
+    "symbol": "FOXY/WETH (YieldIQ)",
+    "gauge": "0x3fb2364B74Aac581f52f7329b99E8e10caB29433",
+    "token0": "0x5FBDF89403270a1846F5ae7D113A989F850d1566",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0xD3175f38630c84AEEFcb8E45dE811A8dfbaf2275"
+  },
+  {
+    "address": "0x9e1881b7af88c468cf048e265e5afcd92852767d",
+    "symbol": "sAMM-weETH/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0x9e480e37a036b6703818d701544763a36bfed35b",
+    "symbol": "ZERO/WETH (YieldIQ)",
+    "gauge": "0xc89aB5c69fC16202FdDDB16766981cab58e8BBED",
+    "token0": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x5bE821bB63B6130ed40A77D86Bf59f94a860D92d"
+  },
+  {
+    "address": "0xa3d9745dcd138bd2ba4b039fa61c042756bfe1e8",
+    "symbol": "USDC/WBTC (Narrow)",
+    "gauge": "0x51D1079f100EcFd2F421758EACC99BE3f9B06710",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "isStrategy": true,
+    "bribe": "0x075836DF61a0CDF46D29Fc2df97784A31830B7fd"
+  },
+  {
+    "address": "0xa420222933f158249ed57bf12f70de0fc66cdc4e",
+    "symbol": "vAMM-COXY/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xC8E159E286425Fb25a2949D1B952147059DFd17f",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xa4477d98e519d4c1d66aef4efdf7cbeb84f4f778",
+    "symbol": "sAMM-USDC/USDT",
+    "gauge": "0x388eE0012B9A5987689703Af37922551983168FE",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "isStrategy": false,
+    "bribe": "0xfC7003cd5192C8FaC780b60F19328448144A92db"
+  },
+  {
+    "address": "0xa45f03ffa6d5b7c5f8484b02ed5301ed59d47c4d",
+    "symbol": "NWG/WETH (Wide)",
+    "gauge": "0xD0300B59794Ab0f591CFb066CfBA8fa615E53696",
+    "token0": "0xE2a6e74118E708f7652FC4c74D2F9Ee5Fa210563",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x4B7B39Fb93a94263D46c0F33526ebBB9a0F7bF55"
+  },
+  {
+    "address": "0xa5d10e2350c4794d06de9ac1b373e4114ff0f0ec",
+    "symbol": "vAMM-WETH/ORDI",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1": "0xec45e3C3C5410CBDBCe81dd35Edcf9f0f13fc2cB",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xa8e4b5401f98cf20f7e4e9323b02c40f10661f06",
+    "symbol": "sAMM-wstETH/WETH",
+    "gauge": "0x0E48FBA6e0aF346BBD9227f1Ea134937ffD032ab",
+    "token0": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x1a4182337120B5E62540D3e54cf4b64DeA96BBE6"
+  },
+  {
+    "address": "0xa9a369b28390829b7103bb3b5b3597ea220c1250",
+    "symbol": "vAMM-🚬2PUFFS/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x931e09aE6baD446586F6Cb6C28e2A1445bfbd26E",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xaad8a008496d789f48f23c4778b4fbddb7a1c937",
+    "symbol": "vAMM-axlLqdr/WETH",
+    "gauge": "0x12bD7793D869d2Ed64f6eAF4e945042C92955EFE",
+    "token0": "0x332c72dd7E77070740F01d2d35851c461585D5d0",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x928d729dC219D5ec27493dba29ECB59a49a75f93"
+  },
+  {
+    "address": "0xab065835669eb9edeefe5e0fa7ae90c8fb93b35c",
+    "symbol": "sAMM-USDT/bveLYNX",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1": "0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xac716681656d3f22c23bf09c9b52786216827ac3",
+    "symbol": "vAMM-wstETH/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xad53f20917b144cd0b100dbe75988c0e4b919dba",
+    "symbol": "WBTC/WETH (YieldIQ)",
+    "gauge": "0xB7276152751b126A34860A90c6269994Bf524F4f",
+    "token0": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x3cE03C820E3E15afFA6ab39B97AAA61726830F3c"
+  },
+  {
+    "address": "0xadd8d818b15c7ed8f4872d4e1fd409238668ffcc",
+    "symbol": "USDC/DAI (Stable)",
+    "gauge": "0x28b763cdfBA05a1d928a1720379225a6Fa7F9d6c",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "isStrategy": true,
+    "bribe": "0x562cCD0fb75A07E61165baf71E18F81B95750A36"
+  },
+  {
+    "address": "0xae5e4a028120b711c5c5dc8a9162bcdaa88936ae",
+    "symbol": "LYNX/WBTC (YieldIQ)",
+    "gauge": "0x0Cc0439C04760db602EE7ca2cBB4372BA4d28476",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "isStrategy": true,
+    "bribe": "0x642c46E03d59c0323a55bad3250d7Ae6D4053E93"
+  },
+  {
+    "address": "0xaf453a22c59bc4796f78a176fdcc443cfd9ab3c3",
+    "symbol": "vAMM-DOGE/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x5ed3675867Ae3E3582b819cCB88f48c836E69edE",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xafbb06b87b8142e3e2492b59861c26341b57b3a1",
+    "symbol": "vAMM-LAB1/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x4DAABF013a1F3b5001b08272B496D02278bFa5A5",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xb0290ccf9fc890415c86ac208e3b78224dc1d12a",
+    "symbol": "vAMM-inETH/wstETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
+    "token1": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xb114effc5c76fe697c6a2400948dce1de1ec2442",
+    "symbol": "sAMM-USDC/ezETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xb24e6cc3f8637063fc465fe992fbc5b747e20825",
+    "symbol": "vAMM-MAAV3/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x9132f228D31D5F887DD995231813109C80A4dE68",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xb2e8eca0add374aa63f6df92dcdfda596eaa470a",
+    "symbol": "sAMM-WBTC/WETH",
+    "gauge": "0x14F063708fF3b7df4Ee83A04DeB047e23cDE5978",
+    "token0": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x7a4F872D654aC4CFf4bCE00ca05C54bc6065DE90"
+  },
+  {
+    "address": "0xb302d7236e7b53bbb384a25608c4fb55152ac6cc",
+    "symbol": "vAMM-WETH/XHNY",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1": "0xF3829aF0C018c8c1685B3d3d33B21cC98935fC87",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xb456626eb905a7548869e2f82b0433a3c8431436",
+    "symbol": "vAMM-uniETH/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x15EEfE5B297136b8712291B632404B66A8eF4D25",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xb79dd267455df54595938060d379b82f40ebfa63",
+    "symbol": "sAMM-LYNX/oLYNX",
+    "gauge": "0xDAaF0e15D574d61a2EeE6452125C3aa419e3697c",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0x63349BA5E1F71252eCD56E8F950D1A518B400b60",
+    "isStrategy": false,
+    "bribe": "0xf32Bc339f675e838773C8dF758995D0D5F63Ca68"
+  },
+  {
+    "address": "0xb7d02ec92fe7bf5e47fcf82ac21575e01fe4f5f1",
+    "symbol": "sAMM-SolvBTC.m/M-BTC",
+    "gauge": "0x9fbd00A5c26c38D22904fe29Ad66cD30e51725b7",
+    "token0": "0x5FFcE65A40f6d3de5332766ffF6A28BF491C868c",
+    "token1": "0xe4D584ae9b753e549cAE66200A6475d2f00705f7",
+    "isStrategy": false,
+    "bribe": "0xEa92870d41458F5322769097E2B65a01CcA51590"
+  },
+  {
+    "address": "0xb8fcdef79792e94973a2b4bb3be2df3830fa0283",
+    "symbol": "vAMM-WETH/TBH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1": "0xEBde02166CF5e9CE2DBf27895AFF3FFD0055b873",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xb93498171d5f0e395c868aedce72d77888f532bc",
+    "symbol": "vAMM-SolvBTC.m/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x5FFcE65A40f6d3de5332766ffF6A28BF491C868c",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xb93498171d5f0e395c868aedce72d77888f532bc",
+    "symbol": "vAMM-SolvBTC.m/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x5FFcE65A40f6d3de5332766ffF6A28BF491C868c",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xba4becdb0394d3db69bca50f70cacb7d2bab0ea9",
+    "symbol": "vAMM-LYNX/oLYNX",
+    "gauge": "0xF142D8a0A53C84290FF7f835F08C0F465c7856A0",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0x63349BA5E1F71252eCD56E8F950D1A518B400b60",
+    "isStrategy": false,
+    "bribe": "0x6a996946e26fe0E61788791e8d9e6574bF0E468F"
+  },
+  {
+    "address": "0xbb9da18545f6705047b42523aac1d558260b213c",
+    "symbol": "vAMM-LYNX/USDT",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xbbd94eef0109ec29433073e30c6ece83fd3c4c52",
+    "symbol": "vAMM-agEUR/USDT",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+    "token1": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xbcfd78835d3c6bade26a606f40fd90fc580fa3f6",
+    "symbol": "vAMM-weETH/wstETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+    "token1": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xbd6b43cdbe497892692e73350fcde075ede83d33",
+    "symbol": "vAMM-USDC/USD+",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xbde12bdbeb92b0dca3f3c37a749633a24717b24d",
+    "symbol": "vAMM-USDC/A3A",
+    "gauge": "0x044cE3603b1A813c828E05c1305dFAb8A0d74C69",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x3d4b2132eD4eA0aa93903713a4dE9F98e625a5c7",
+    "isStrategy": false,
+    "bribe": "0x7bE690A799477A22E42b524550b242AEb40bCFB8"
+  },
+  {
+    "address": "0xbe23da11fbf9da0f7c13ea73a4bb511b9bc00177",
+    "symbol": "sAMM-USDT+/USDT",
+    "gauge": "0xd81B697999fa523b9B84876c9738a7aB7e4D298F",
+    "token0": "0x1E1F509963A6D33e169D9497b11c7DbFe73B7F13",
+    "token1": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "isStrategy": false,
+    "bribe": "0x40EDa9062ff60baDE8B8eA06E254135529e8792B"
+  },
+  {
+    "address": "0xc491c1b173e932e97d9f739ccd9ae5b6d5fce4ce",
+    "symbol": "inETH/wstETH (Narrow)",
+    "gauge": "0x26D9DaD34412bbA1C5aD4b78a272537eB0ABA836",
+    "token0": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
+    "token1": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+    "isStrategy": true,
+    "bribe": "0x52e1f9626d5B2A1933a9776C02751De980EA62A5"
+  },
+  {
+    "address": "0xc5c2f8beabd4d4553063f7359c38b4f1aa0c3808",
+    "symbol": "vAMM-LYNX/LINE",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0x2Fab0952449378DfdF4625fE37F9603011F189ab",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xc5f4c5c2077bbbac5a8381cf30ecdf18fde42a91",
+    "symbol": "sAMM-USDT+/USD+",
+    "gauge": "0x58AC068Eef3F49E019A88C7ecc9Ac2Fdd63fA755",
+    "token0": "0x1E1F509963A6D33e169D9497b11c7DbFe73B7F13",
+    "token1": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+    "isStrategy": false,
+    "bribe": "0xcC56DD87294fDA597F71ABADE8e233cF3A84fE43"
+  },
+  {
+    "address": "0xc674b36ce15abe09777efeb11c47e849921d2ca4",
+    "symbol": "sAMM-WETH/ORDI",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1": "0xec45e3C3C5410CBDBCe81dd35Edcf9f0f13fc2cB",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xc6b70e88332cce9c946a45d0381a14b92abfecf3",
+    "symbol": "sAMM-M-BTC/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xe4D584ae9b753e549cAE66200A6475d2f00705f7",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xc6c46cd01403ac0b28ef92c4880f2e4be2d410e1",
+    "symbol": "vAMM-USDC/USDT",
+    "gauge": "0x452d930540BA0B84358795BB8295F21F0D2E58FA",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "isStrategy": false,
+    "bribe": "0x90691596fc62B14F7D5fE431DdC6FFa47105CF40"
+  },
+  {
+    "address": "0xc97ce419663d9e1c06f48c5032ab61715a62272a",
+    "symbol": "vAMM-NILE/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xAAAac83751090C6ea42379626435f805DDF54DC8",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xc9888eaefed21d33ae6bbf659778ed06f4656a67",
+    "symbol": "vAMM-IOXY/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x16e6970c536FF1f0017C06c6eD7099911f0e9427",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xca23b0ff0b5e22b04633c982738e0714e91b934a",
+    "symbol": "vAMM-WBTC/SolvBTC.m",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token1": "0x5FFcE65A40f6d3de5332766ffF6A28BF491C868c",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xca2bb0d69e78d9b64e7f3ac02a4f1ff365e3b896",
+    "symbol": "vAMM-LYNX/wstETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xca2bb0d69e78d9b64e7f3ac02a4f1ff365e3b896",
+    "symbol": "vAMM-LYNX/wstETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xcbd199dac72793139de3fc6026d8d0da5f833154",
+    "symbol": "sAMM-LYNX/FOXY",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0x5FBDF89403270a1846F5ae7D113A989F850d1566",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xcc2be07ad5d1bd4621726cfddbef2ffd248b8d70",
+    "symbol": "ankrETH/wstETH (Classic Rebalance)",
+    "gauge": "0x8C677C7C5326fEd3e021E3A3FC1b08c13B04d3eD",
+    "token0": "0x11D8680C7f8f82F623e840130eB06C33d9F90c89",
+    "token1": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+    "isStrategy": true,
+    "bribe": "0x896ebd7c0e1D771EF9085DC520c8e8fa2A06E8cF"
+  },
+  {
+    "address": "0xcc3880b990b11a712f2f42c0c0db57a0ca1529a9",
+    "symbol": "vAMM-USDC/NDX_2412",
+    "gauge": "0xa37425AEe66b6560eA1cbae02040b8203Bef218e",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xa09d7f02BaD175a9d6BcBeDf1A992EEAD1e33604",
+    "isStrategy": false,
+    "bribe": "0x6F4F680a42d8B77C90c8A6F76a2AA9256eaB7b45"
+  },
+  {
+    "address": "0xcc86572ce5a6eee74c76c57e9ea7b08221f06bb9",
+    "symbol": "USDC/LYNX (Wide)",
+    "gauge": "0x48C93b97A6AFf589B4Bc8B60865165ab19D509A0",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "isStrategy": true,
+    "bribe": "0x106932000083a21798Cba1E75cee1159D3f27084"
+  },
+  {
+    "address": "0xccbe14a02267a224e25431b798a128091d32b3ef",
+    "symbol": "vAMM-fBOMB/WETH",
+    "gauge": "0x79f9c3D666C5407199a4F711f6F17ABDFE809a0D",
+    "token0": "0x8cf881799E3B5ab24271A9B66b6Ca2b0e575B1ef",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x38A7Ac36b1d79B1e990a2655397866035ca63D40"
+  },
+  {
+    "address": "0xccf4fd9f2fbe89917821e4629cb2a6b760651baf",
+    "symbol": "vAMM-XRGB/WETH",
+    "gauge": "0x88D26a1aFe866dfA1d4a575CED0045F0d3c90E01",
+    "token0": "0x5cc5E64AB764A0f1E97F23984E20fD4528356a6a",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0xcd51f9572dba19CF5Ea22cbA1Ed1049aDA48e276"
+  },
+  {
+    "address": "0xcef24c763e79329f48756f5a76d08b650c6f2293",
+    "symbol": "vAMM-LYNX/STONE",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0x93F4d0ab6a8B4271f4a28Db399b5E30612D21116",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xcffbfd665bedb19b47837461a5abf4388c560d35",
+    "symbol": "STONE/WETH (Narrow)",
+    "gauge": "0x86d2D7709D390bd2946A335147965E54947c82d7",
+    "token0": "0x93F4d0ab6a8B4271f4a28Db399b5E30612D21116",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0xbBFEAf5fB451e6Ac31D707fd0F3FDf5B9E06545B"
+  },
+  {
+    "address": "0xd00531070aded5f3d5fbe7fc44d528769776fe40",
+    "symbol": "sAMM-RED/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x8Fd688B09BddeB8B78F70bD67e61669b305B4B35",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xd02f9d76901f034820d1029732ffa6e88390c190",
+    "symbol": "vAMM-WETH/NOXY",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1": "0xF4b17519E6137D72Ec900aC1901b0352c01C2856",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xd09513f40c8b4ec890e7dd6a0ca9c3e62bf950b5",
+    "symbol": "vAMM-RED/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x8Fd688B09BddeB8B78F70bD67e61669b305B4B35",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xd125b51c93c574ecd415167f6955e6f43957fca6",
+    "symbol": "sAMM-CROAK/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xaCb54d07cA167934F57F829BeE2cC665e1A5ebEF",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xd14a66cb33d07cc019d990a1f62c7ab9bc20a418",
+    "symbol": "DAI/WETH (Volatile)",
+    "gauge": "0x4c8A8e7E050fC5523a448D4Dc2CF32f51d1334f5",
+    "token0": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0xc34B003257b5138972dd5393EbAf0c5d38C5A0e6"
+  },
+  {
+    "address": "0xd4025fa2e6b8c1726b12eecd0a8fd05a88b85fea",
+    "symbol": "vAMM-LYNX/FOXY",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0x5FBDF89403270a1846F5ae7D113A989F850d1566",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xd4630a296e33dff7fdacca2c6f192e9c78dcde13",
+    "symbol": "vAMM-USDC/WBTC",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xd4c69bcd53aaf29fcb47c47b81c172d72fae62bb",
+    "symbol": "vAMM-LINDA/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x82cC61354d78b846016b559e3cCD766fa7E793D5",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xd4c69bcd53aaf29fcb47c47b81c172d72fae62bb",
+    "symbol": "vAMM-LINDA/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x82cC61354d78b846016b559e3cCD766fa7E793D5",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xd4c69bcd53aaf29fcb47c47b81c172d72fae62bb",
+    "symbol": "vAMM-LINDA/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x82cC61354d78b846016b559e3cCD766fa7E793D5",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xd5bef1e3dae741172cbc7f01d0b9f9d97c3630dc",
+    "symbol": "vAMM-inETH/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xd6cc4a33da7557a629e819c68fb805ddb225f517",
+    "symbol": "USDC/BUSD (Stable)",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+    "isStrategy": true,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xd6f4060669f4f2fe8be4d612a8019b8aa5cab9f8",
+    "symbol": "vAMM-CHDR/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xB4eBBFa229CD36cA8d84E900bE361D4132fD49c0",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xd72c68b1d6b677b2903f45d7677bd9a59157b57e",
+    "symbol": "vAMM-FLY/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x5Ba62cbDab03aC70652293e5F5f8afC919CfFd78",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xd7d93be6dfea608961f794c0b0a2a719a038c945",
+    "symbol": "sAMM-USDC/ZERO",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xd92b724e02b7d43cd13197a9e1ef4b654a856eb3",
+    "symbol": "sAMM-oLYNX/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x63349BA5E1F71252eCD56E8F950D1A518B400b60",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xd9ce0c669c3f83c2836a6748bea3a98152bc5ec6",
+    "symbol": "vAMM-MANA/LINA",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xbAACD8E57387eB5db90229c312F0e867f66041D0",
+    "token1": "0xe9945Bab095157E632BCd0605c8ED8d9BAfd639D",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xda5e27b907f8b2dda973c6aeabc52011b0422dc7",
+    "symbol": "sAMM-USDT/DUSD",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1": "0xA88B54E6b76Fb97CdB8eCAE868f1458e18a953F4",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xda5e27b907f8b2dda973c6aeabc52011b0422dc7",
+    "symbol": "sAMM-USDT/DUSD",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1": "0xA88B54E6b76Fb97CdB8eCAE868f1458e18a953F4",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xdb4ecdf24559fbac12eb4ab7574185409c09875f",
+    "symbol": "vAMM-USDC/DAI",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xe27529456541bdeb011a9f5f591095fddf9e00f0",
+    "symbol": "vAMM-USDC/ezETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xe3164204a93bcb833f09b3fc9552680547bb3039",
+    "symbol": "vAMM-ezETH/USDT",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "token1": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xe34b928996cc73fc3894898102842e86aa0ba33a",
+    "symbol": "sAMM-USDT/USD+",
+    "gauge": "0x4BfA5fE55Dc3e5e59038511FE53dAd6a508B9eD9",
+    "token0": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+    "isStrategy": false,
+    "bribe": "0xd1EcF4f239c10De0AE0C16A90ce8242E1d7F4fB8"
+  },
+  {
+    "address": "0xe400c1a76a26a4f02d5591a676fddbc66ed07baf",
+    "symbol": "vAMM-LYNX/MATIC",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xe4ddb1da034919bbed2d5a203bb9991efada16d0",
+    "symbol": "vAMM-GOXY/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x083F696270ba137B891c44bf27a4e470bc689C6E",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xe549e5401707c430d92fad861d10af9074c3274d",
+    "symbol": "vAMM-FOXY/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x88eFfcce9067F7A7A27e158220adc190CeDa5725",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xe57f293520cbf7d5a17629cbfb06eabdb759a151",
+    "symbol": "LYNX/STONE (YieldIQ)",
+    "gauge": "0x96B7062cFd1Af7e4DE5eF513Ce66015E9ee6A991",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0x93F4d0ab6a8B4271f4a28Db399b5E30612D21116",
+    "isStrategy": true,
+    "bribe": "0x85528c3A3F6fA289Ccfe585FB51CC1FBBD8C9E4F"
+  },
+  {
+    "address": "0xe5e19bbf39c76a8c980b48f2ec89d0de877bf567",
+    "symbol": "vAMM-USDC/MENDI",
+    "gauge": "0x623AC24d0586579482184f5CBD07EA12CB0A4003",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+    "isStrategy": false,
+    "bribe": "0xec9453d72613c2c9d6a639784F9dB4A230cc0F5A"
+  },
+  {
+    "address": "0xe6c38e4572281e390a7231b9dc96f1a52e78ec4c",
+    "symbol": "vAMM-MECH/WETH",
+    "gauge": "0x41d245492B3a9C5a5364e8F6Bb75035abfe4079e",
+    "token0": "0x0A696A1328A5FF7fF7E89D248C963D9069a7ebA9",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x1a4170c9ef944120a9e756933E7Ef7BFa6a8Fd38"
+  },
+  {
+    "address": "0xe8f2288c21105d9cba6355c8833026f01e0f1cc3",
+    "symbol": "vAMM-oLYNX/WETH",
+    "gauge": "0xfE1b56D870eE14B992884E1908CE929DC5Da6C83",
+    "token0": "0x63349BA5E1F71252eCD56E8F950D1A518B400b60",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x22c7e42698E6B3A05393B5DD5652ABDA3b80d31e"
+  },
+  {
+    "address": "0xe91022615bbd55c8140109fd75ea18a573360917",
+    "symbol": "vAMM-DAI/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xe91022615bbd55c8140109fd75ea18a573360917",
+    "symbol": "vAMM-DAI/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xe9b8d8db72e15d4396bfd1619e7dd82a551e1092",
+    "symbol": "vAMM-CATA/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x04F3A4a7b4c8B1f950273D69FdBf1186ef27B20f",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xe9ccbdd21486ed72844e18776f79af10e4c07ad5",
+    "symbol": "sAMM-weETH/USDT",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+    "token1": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xe9e146f5bcebd71fb8c526ea036de6bbfb1b0ad7",
+    "symbol": "sAMM-USDC/MAI",
+    "gauge": "0x19468fAea74029e5DCF86e5f78c99e44a5Ddf3e3",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xf3B001D64C656e30a62fbaacA003B1336b4ce12A",
+    "isStrategy": false,
+    "bribe": "0x5787BCAbFb559Ea64CE5F460678961A74865F7DD"
+  },
+  {
+    "address": "0xe9eabf2a9d930314cc8fa388be2d78c4330f3eea",
+    "symbol": "vAMM-PUSSASSIN/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x68F813555C507c3Cbae83f84585Af21D33D63849",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xea392b8332378ca039d6b91d024b94ce9d1c31b6",
+    "symbol": "PEPE/WETH (Wide)",
+    "gauge": "0x65603f1dce8087B564f7aFdcE01b280f6f855726",
+    "token0": "0x7da14988E4f390C2E34ed41DF1814467D3aDe0c3",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x225136D1ac89F7B171ED05d609bd5BF86acF168C"
+  },
+  {
+    "address": "0xea5abd5d15b8cd168e9eff78047db52af079e094",
+    "symbol": "wstETH/WETH (Narrow)",
+    "gauge": "0xf213573c49B89e4ACEDE11bC97aaF2a88F02f878",
+    "token0": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x50bDaA06Ba523725FF5fD11d94DfB294F44d20B0"
+  },
+  {
+    "address": "0xebdc263df047256d0d06c4cbc83d8ba97adeee39",
+    "symbol": "vAMM-LYNX/ZERO",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xebdc263df047256d0d06c4cbc83d8ba97adeee39",
+    "symbol": "vAMM-LYNX/ZERO",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xecf459bfd8764c700f05d2aff37ac40b27ade330",
+    "symbol": "vAMM-KJGAYQIC/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x0306deEfA3ee5268b0400A3014d6B002C2D2913c",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xedea699669bde2f4cd6a319268fb250a32d04606",
+    "symbol": "vAMM-USDC/LINUS",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xe07C2bdbb8C787962C2C6e93C11a152110E7E4d2",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xee18362b766905cc47df273fe0ed967c0c2827e0",
+    "symbol": "sAMM-LYNX/weETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xf0759fcda52471ac0bdf434e4e043d0193a0f639",
+    "symbol": "vAMM-BULL/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x7e37624613ebc2DeeA15b8e710EDFD373175662A",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xf0e450af028a37124417abf7a0d6830c1300d9aa",
+    "symbol": "vAMM-DAI/USDT",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "token1": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xf1866f414ce68512a5e2923673aa376341cb6cde",
+    "symbol": "sAMM-wDAI/USDC",
+    "gauge": "0x559143F118548E7E9213909077F9277E9EC65274",
+    "token0": "0x023617bAbEd6CeF5Da825BEa8363A5a9862E120F",
+    "token1": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "isStrategy": false,
+    "bribe": "0x193B4f8fc2dfB5a476B7568d9E92D2aFCCc5e22e"
+  },
+  {
+    "address": "0xf3b1125c8505f038503e002e61a78253610d4f60",
+    "symbol": "USDT/WETH (Narrow)",
+    "gauge": "0x7dB1b80ecF40A6a5F84554fD047aafdEEeBc4230",
+    "token0": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": true,
+    "bribe": "0x1a1099B7877b6715F03b973f3F165E7fB3Ddb96b"
+  },
+  {
+    "address": "0xf6e908e2a70e6af4d1ffa770e684f4f4f0ab2867",
+    "symbol": "sAMM-LYNX/wstETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xf9069043603cf745935b9f7558e1917e9a276ed9",
+    "symbol": "vAMM-LYNX/LINUS",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0xe07C2bdbb8C787962C2C6e93C11a152110E7E4d2",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xf93f79c2557ebc38c6eb9d020b8ef50b8eb97b48",
+    "symbol": "vAMM-USDC/iNDX_2412",
+    "gauge": "0xa312C8D44C001fF887c22C64Fe9DB09Ab3Bc1df2",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xA7020f1Cf5d3aAa5f6f9f376d10D0DbFf647C4Cb",
+    "isStrategy": false,
+    "bribe": "0x9BFdb8181F8bB9470189d4883Ed8A0A96aB7161a"
+  },
+  {
+    "address": "0xfae49ae339c053d7b639bd666e2b3b19de9e06e3",
+    "symbol": "vAMM-USDC/EURO3",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0x3F817b28Da4940F018C6b5c0A11C555ebB1264f9",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xfb26fdeb0d7151731afccdffb0e38d2c5f33c807",
+    "symbol": "vAMM-LINUS/WETH",
+    "gauge": "0x90fb440828f67B702144c1739c82dA58dEaCB023",
+    "token0": "0xe07C2bdbb8C787962C2C6e93C11a152110E7E4d2",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0xd9c65B9fF0d04d464633d81868a297A598b2B5c8"
+  },
+  {
+    "address": "0xfb636707412d580f5333635a0d61523be5b09bdd",
+    "symbol": "vAMM-LINE/MENDI",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x2Fab0952449378DfdF4625fE37F9603011F189ab",
+    "token1": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xfb957de375cc10450d7a34ab85b1f15ef58680b4",
+    "symbol": "sAMM-USDC/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xfbc7deb1aff394131e5c550b984023096c54388f",
+    "symbol": "vAMM-EURO3/USD+",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x3F817b28Da4940F018C6b5c0A11C555ebB1264f9",
+    "token1": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "address": "0xfc69ad9d220d03d8644d2a1b7ce8537e587d1f4a",
+    "symbol": "sAMM-uniETH/WETH",
+    "gauge": "0x0000000000000000000000000000000000000000",
+    "token0": "0x15EEfE5B297136b8712291B632404B66A8eF4D25",
+    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "isStrategy": false,
+    "bribe": "0x0000000000000000000000000000000000000000"
+  }
+]
