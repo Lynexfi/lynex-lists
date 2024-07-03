@@ -1,0 +1,24 @@
+{
+  "name": "@lynex.fi/lynex-lists",
+  "version": "1.0.5",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lynexfi/lynex-lists.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build-ts": "tsc",
+    "build-json": "node ./dist/buildJson.js",
+    "build": "yarn build-ts && yarn build-json",
+    "update-gauges": "node src/updateGauges.cjs"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.8",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.2"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}

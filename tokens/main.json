@@ -837,6 +837,15 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/APE.png"
+    },
+    {
+      "name": "Lucia",
+      "symbol": "LUCIA",
+      "tokenId": "https://lineascan.build/address/0x4Fa0dE5d9217722A37247808c08Cde1C976879b9",
+      "address": "0x4Fa0dE5d9217722A37247808c08Cde1C976879b9",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LUCIA.png"
     }
   ]
 }
