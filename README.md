@@ -38,7 +38,7 @@ Developers should interact with `tokens/main.json` file to WL a token on fronten
 
 ## How To Add a Gauge ?
 
-To add a new gauge, append a new object to the array in the `gauges.ts` file with the following structure:
+To add a new gauge, you'll need to run `yarn update-gauges` command and it'll create a file at `gauges.json` with the following structure automatically:
 
 ```typescript
 {
@@ -59,13 +59,7 @@ To add a new gauge, append a new object to the array in the `gauges.ts` file wit
 - `isStrategy` : Boolean indicating whether this gauge is part of a strategic implementation.
 - `bribe` : Address used for bribe mechanisms, if applicable.
 
-After updating gauges.ts, you must rebuild the project to reflect these changes in the output JSON file. Execute the following command in your terminal within the project directory:
-
-```ts
-yarn build
-```
-
-This command compiles the TypeScript files and generates the updated JSON files necessary for the project deployment.
+Make sure to double check if your gauge has been generated at `gauges.json` file.
 
 ## How To Add a Strategy ?
 
@@ -73,20 +67,19 @@ To add a new strategy, append a new object to the array in the `strategies.ts` f
 
 ```typescript
 {
-    chainId: ChainId.LINEA_MAINNET,
-    symbol: "WBTC/WETH Narrow",
-    title: "GAMMA_NARROW",
-    type: StrategyType.Narrow,
-    strategist: Strategist.Gamma,
-    allowed0: true,
-    allowed1: true,
-    address: "0x8a9570ec97534277ade6e46d100939fbce4968f0",
-    token0: "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
-    token1: "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
-}
+      symbol: "USDC/LYNX Wide",
+      title: "Gamma Wide",
+      type: "Wide",
+      address: "0xcC86572Ce5a6EEe74c76c57E9ea7b08221F06bb9",
+      token0: {
+        address: "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+      },
+      token1: {
+        address: "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af ",
+      },
+    },
 ```
 
-- `chainId`: Specifies the blockchain network (e.g., ChainId.LINEA_MAINNET).
 - `symbol`: A descriptive symbol for the strategy, typically representing the token pair involved.
 - `title`: A unique identifier for the strategy setup.
 - `type`: The strategy type, e.g., Narrow, Stable, Wide, etc.
