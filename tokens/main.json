@@ -527,7 +527,7 @@
       "name": "Mendi Finance",
       "symbol": "MENDI",
       "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27844.png"
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/MENDI.png"
     },
     {
       "chainId": 59144,
