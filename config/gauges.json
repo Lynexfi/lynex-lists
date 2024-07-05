@@ -2133,15 +2133,6 @@
     "bribe": "0xec9453d72613c2c9d6a639784F9dB4A230cc0F5A"
   },
   {
-    "address": "0xe6c38e4572281e390a7231b9dc96f1a52e78ec4c",
-    "symbol": "vAMM-MECH/WETH",
-    "gauge": "0x41d245492B3a9C5a5364e8F6Bb75035abfe4079e",
-    "token0": "0x0A696A1328A5FF7fF7E89D248C963D9069a7ebA9",
-    "token1": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
-    "isStrategy": false,
-    "bribe": "0x1a4170c9ef944120a9e756933E7Ef7BFa6a8Fd38"
-  },
-  {
     "address": "0xe8f2288c21105d9cba6355c8833026f01e0f1cc3",
     "symbol": "vAMM-oLYNX/WETH",
     "gauge": "0xfE1b56D870eE14B992884E1908CE929DC5Da6C83",
