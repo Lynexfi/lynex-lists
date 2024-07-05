@@ -1,7 +1,19 @@
-import { Strategist, StrategyType, ChainId } from "../types/index";
-
-const strategies = {
+// TODO: This on lists repo
+export const strategies = {
   59144: [
+    // Gamma pools
+    {
+      symbol: "BUSD/WETH Narrow",
+      title: "Gamma Narrow",
+      type: "Narrow",
+      address: "0x6e9d701fb6478ed5972a37886c2ba6c82a4cbb4c",
+      token0: {
+        address: "0x7d43AABC515C356145049227CeE54B608342c0ad",
+      },
+      token1: {
+        address: "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+      },
+    },
     {
       symbol: "WBTC/WETH Narrow",
       title: "Gamma Narrow",
@@ -609,19 +621,17 @@ const strategies = {
     },
   ],
   59140: [
-    /************  Testnet Strategies Starts Here ************/
     {
       symbol: "USDC/WETH Narrow",
-      title: "GAMMA_NARROW",
-      type: StrategyType.Narrow,
-      strategist: Strategist.Gamma,
+      title: "Gamma Narrow",
+      type: "Narrow",
       address: "0x6e9d701fB6478Ed5972a37886C2BA6C82a4cBb4C",
-      token0: "0x2c1b868d6596a18e32e61b901e4060c872647b6c",
-      token1: "0xc0f8ee736cec8c1a12e9c25272e6f417510165ff",
-      allowed0: true,
-      allowed1: true,
+      token0: {
+        address: "0x2c1b868d6596a18e32e61b901e4060c872647b6c",
+      },
+      token1: {
+        address: "0xc0f8ee736cec8c1a12e9c25272e6f417510165ff",
+      },
     },
   ],
 };
-
-export { strategies };
