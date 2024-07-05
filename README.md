@@ -96,3 +96,29 @@ yarn build
 
 This command compiles the TypeScript files and updates the JSON files necessary for deployment, ensuring that the new strategies are correctly integrated into the project.
 
+## Publishing a New Package
+
+Once you have made the necessary changes and are ready to release a new version of the package, follow these steps:
+
+1. **Increment the Version:**
+   - Open the `package.json` file.
+   - Increment the version number in a way that follows semantic versioning (MAJOR.MINOR.PATCH).
+   - For example, if the current version is `1.0.0` and you've added functionality in a backwards-compatible manner, you would update it to `1.0.1`.
+
+2. **Publish the Package:**
+   - Run the following command to publish the updated package to npm:
+     ```bash
+     npm publish
+     ```
+   - This command sends the updated package to npm with the new version, making it available for installation.
+
+3. **Commit and Push Changes:**
+   - After publishing, make sure to commit the changes made to the `package.json` and any other modified files to your Git repository.
+   - Push the changes to GitHub or your preferred source control host:
+     ```bash
+     git add .
+     git commit -m "Updated package version to 1.0.1 and built new changes."
+     git push origin <branch>
+     ```
+
+These steps ensure that your changes are not only saved and tracked but also available for using at other repos through npm as an updated package. Always verify the new package works as expected after publishing.
