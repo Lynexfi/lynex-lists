@@ -443,22 +443,6 @@
       }
     },
     {
-      "symbol": "EUR3/USD+ Narrow",
-      "title": "Steer Stable",
-      "type": "Stable",
-      "startBlock": 4037230,
-      "strategist": "Steer",
-      "allowed0": true,
-      "allowed1": true,
-      "address": "0x8dabf94c7bdd771e448a4ae4794cd71f9f3d7a0d",
-      "token0": {
-        "address": "0x3f817b28da4940f018c6b5c0a11c555ebb1264f9"
-      },
-      "token1": {
-        "address": "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376"
-      }
-    },
-    {
       "symbol": "USDT/WETH Narrow",
       "title": "Steer (Classic Rebalance)",
       "type": "Classic Rebalance",
