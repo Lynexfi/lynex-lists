@@ -846,6 +846,15 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WEF.png"
+    },
+    {
+      "name": "Dachshund Coin",
+      "symbol": "HOTDOG",
+      "tokenId": "https://lineascan.build/address/0xce28211Ed1b2Eeb0C909C83D273DeBE041A12EE9",
+      "address": "0xce28211Ed1b2Eeb0C909C83D273DeBE041A12EE9",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/HOTDOG.png"
     }
   ]
 }
