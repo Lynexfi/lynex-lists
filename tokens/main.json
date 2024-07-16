@@ -837,6 +837,15 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LUCIA.png"
+    },
+    {
+      "name": "frogwifcat",
+      "symbol": "WEF",
+      "tokenId": "https://lineascan.build/address/0x889400fB9BDE04BFdf353cC718fED3d6dDcF735F",
+      "address": "0x889400fB9BDE04BFdf353cC718fED3d6dDcF735F",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WEF.png"
     }
   ]
 }
