@@ -855,6 +855,15 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/HOTDOG.png"
+    },
+    {
+      "name": "WeFi",
+      "symbol": "WEFI",
+      "tokenId": "https://lineascan.build/address/0x60892e742d91d16Be2cB0ffE847e85445989e30B",
+      "address": "0x60892e742d91d16Be2cB0ffE847e85445989e30B",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WEFI.png"
     }
   ]
 }
