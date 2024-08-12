@@ -4,7 +4,7 @@ export const strategies = {
     // Gamma strategies
     {
       symbol: "BUSD/WETH Narrow",
-      title: "GAMMA_NARROW",
+      title: "Gamma Narrow",
       type: "Narrow",
       strategist: "Gamma",
       allowed0: true,
@@ -19,7 +19,7 @@ export const strategies = {
     },
     {
       symbol: "WBTC/WETH Narrow",
-      title: "GAMMA_NARROW",
+      title: "Gamma Narrow",
       type: "Narrow",
       strategist: "Gamma",
       allowed0: true,
@@ -64,7 +64,7 @@ export const strategies = {
     },
     {
       symbol: "USDT/WETH Narrow",
-      title: "GAMMA_NARROW",
+      title: "Gamma Narrow",
       type: "Narrow",
       strategist: "Gamma",
       allowed0: true,
@@ -79,7 +79,7 @@ export const strategies = {
     },
     {
       symbol: "USDC/WETH Narrow",
-      title: "GAMMA_NARROW",
+      title: "Gamma Narrow",
       type: "Narrow",
       strategist: "Gamma",
       allowed0: true,
@@ -94,7 +94,7 @@ export const strategies = {
     },
     {
       symbol: "MATIC/WETH Narrow",
-      title: "GAMMA_NARROW",
+      title: "Gamma Narrow",
       type: "Narrow",
       strategist: "Gamma",
       allowed0: true,
