@@ -873,6 +873,15 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/CLIP.png"
+    },
+    {
+      "name": "Unfettered Ecosystem",
+      "symbol": "SOULS",
+      "tokenId": "https://lineascan.build/address/0xeC859566fC5d7ED84Ac823509F3f7db06C461b20",
+      "address": "0xeC859566fC5d7ED84Ac823509F3f7db06C461b20",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/SOULS.png"
     }
   ]
 }
