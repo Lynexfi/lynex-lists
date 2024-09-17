@@ -780,6 +780,36 @@ export const strategies = {
         address: "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
       },
     },
+    {
+      symbol: "wETH/SOULS Narrow",
+      title: "Clip Narrow",
+      type: "Narrow",
+      strategist: "Clip Finance",
+      allowed0: true,
+      allowed1: true,
+      address: "0x0C09a674Cab73316f63889ce716Ca503699B5CEB",
+      token0: {
+        address: "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+      },
+      token1: {
+        address: "0xeC859566fC5d7ED84Ac823509F3f7db06C461b20",
+      },
+    },
+    {
+      symbol: "wETH/SOULS Wide",
+      title: "Clip Wide",
+      type: "Wide",
+      strategist: "Clip Finance",
+      allowed0: true,
+      allowed1: true,
+      address: "0xdA9B26B44C7C8E571A82802f8fd6ebA7A253020F",
+      token0: {
+        address: "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+      },
+      token1: {
+        address: "0xeC859566fC5d7ED84Ac823509F3f7db06C461b20",
+      },
+    },
   ],
   59140: [
     {
