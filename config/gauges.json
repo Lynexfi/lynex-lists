@@ -2115,6 +2115,15 @@
     "bribe": "0x0000000000000000000000000000000000000000"
   },
   {
+    "address": "0xda9b26b44c7c8e571a82802f8fd6eba7a253020f",
+    "symbol": "WETH/SOULS (Wide)",
+    "gauge": "0xaE0DDcF3A8E8e2b2aD36bE1F83eA1582Dc4075C7",
+    "token0": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1": "0xeC859566fC5d7ED84Ac823509F3f7db06C461b20",
+    "isStrategy": true,
+    "bribe": "0xFa9671D3585eD67035720a4Ac9f31154F276Dc1a"
+  },
+  {
     "address": "0xd9ce0c669c3f83c2836a6748bea3a98152bc5ec6",
     "symbol": "vAMM-MANA/LINA",
     "gauge": "0x0000000000000000000000000000000000000000",
