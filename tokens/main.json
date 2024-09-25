@@ -866,6 +866,15 @@
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WEFI.png"
     },
     {
+      "name": "abcLYNX",
+      "symbol": "abcLYNX",
+      "tokenId": "https://lineascan.build/address/0x4a2694FdF12EE1BF3d5c646Ba66ea55ED8727850",
+      "address": "0x4a2694FdF12EE1BF3d5c646Ba66ea55ED8727850",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/abcLYNX.png"
+    },
+    {
       "name": "Clip Finance",
       "symbol": "CLIP",
       "tokenId": "https://lineascan.build/address/0x4Ea77a86d6E70FfE8Bb947FC86D68a7F086f198a",
@@ -882,15 +891,6 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/SOULS.png"
-    },
-    {
-      "name": "abcLYNX",
-      "symbol": "abcLYNX",
-      "tokenId": "https://lineascan.build/address/0x4a2694FdF12EE1BF3d5c646Ba66ea55ED8727850",
-      "address": "0x4a2694FdF12EE1BF3d5c646Ba66ea55ED8727850",
-      "chainId": 59144,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/abcLYNX.png"
     }
   ]
 }
