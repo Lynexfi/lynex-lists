@@ -90,7 +90,19 @@
       "decimals": 18,
       "createdAt": "2024-03-20",
       "updatedAt": "2024-03-20",
-      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-lists/tokens/assets/OCX.png"
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-lists/tokens/assets/oOCX.png"
+    },
+    {
+      "chainId": 48899,
+      "chainURI": "https://explorer.testnet.zircuit.com/block/0",
+      "tokenId": "https://explorer.testnet.zircuit.com/address/0x23d7e79b0dce4fDE492732Fa0461432eD353ad51",
+      "address": "0x23d7e79b0dce4fDE492732Fa0461432eD353ad51",
+      "name": "Brive Vote Escrow Ocelex",
+      "symbol": "bveOCX",
+      "decimals": 18,
+      "createdAt": "2024-03-20",
+      "updatedAt": "2024-03-20",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-lists/tokens/assets/bveOCX.png"
     }
   ]
 }
