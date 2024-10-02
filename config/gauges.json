@@ -1845,6 +1845,15 @@
     "bribe": "0x6a996946e26fe0E61788791e8d9e6574bF0E468F"
   },
   {
+    "address": "0xbb7dd479c8bdda24122695079f2cf68eba308152",
+    "symbol": "sAMM-LYNX/abcLYNX",
+    "gauge": "0xcD7731d878CBc41154393C82e06107d08442F41E",
+    "token0": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token1": "0x4a2694FdF12EE1BF3d5c646Ba66ea55ED8727850",
+    "isStrategy": false,
+    "bribe": "0x2D4D9D5534FfAdFF31EAa1cE09F524C476244a6a"
+  },
+  {
     "address": "0xbb9da18545f6705047b42523aac1d558260b213c",
     "symbol": "vAMM-LYNX/USDT",
     "gauge": "0x0000000000000000000000000000000000000000",
