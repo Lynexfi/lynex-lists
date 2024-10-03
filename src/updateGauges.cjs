@@ -5,12 +5,12 @@ async function main() {
   const fetch = (await import("node-fetch")).default;
   const blacklistedGauges = [
     "0x0000000000000000000000000000000000000000",
-    "0x41d245492B3a9C5a5364e8F6Bb75035abfe4079e", //vAMM-MECH/WETH
-    "0xC8E3E29e006Cd48a4f0AD0A06558E41853a1bAbD", // EURO3/USD+ (Stable)
+    "0x41d245492b3a9c5a5364e8f6bb75035abfe4079e", //vAMM-MECH/WETH
+    "0xc8e3e29e006cd48a4f0ad0a06558e41853a1babd", // EURO3/USD+ (Stable)
   ];
-  const res = await fetch("https://api.lynex.fi/api/v1/fusions");
+  const res = await fetch("https://da.lynex.fi/tracking/pools");
   const json = await res.json();
-  let result = json.data
+  let result = json
     .filter((item) => !blacklistedGauges.includes(item.gauge.address))
     .map((item) => {
       return {
