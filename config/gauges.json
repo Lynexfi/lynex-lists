@@ -630,6 +630,15 @@
     "bribe": "0x75c3243238fdcdbae7bfcb4248ca59ced27e5946"
   },
   {
+    "address": "0xac73c5f3d110bb051100cfd8afa4ac4339f239e7",
+    "symbol": "vAMM-USDC/ALCX",
+    "gauge": "0x0d47192a891caba2f7cc349dd4392d2a1fa5082a",
+    "token0": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+    "token1": "0x303c4f39ea359155c698807168e9dc3aa1df2b95",
+    "isStrategy": false,
+    "bribe": "0xe1688b6e6e72e814e8420581fbc635ddffd16505"
+  },
+  {
     "address": "0xad2406af7fb59f9949af7d355aa19941178809a8",
     "symbol": "MENDI/WETH (YieldIQ)",
     "gauge": "0x2892b24412757d4da23df46342bb5ca686d915b4",
@@ -835,6 +844,15 @@
     "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
     "isStrategy": true,
     "bribe": "0xc34b003257b5138972dd5393ebaf0c5d38c5a0e6"
+  },
+  {
+    "address": "0xd72c68b1d6b677b2903f45d7677bd9a59157b57e",
+    "symbol": "vAMM-FLY/WETH",
+    "gauge": "0xbc986b9bd92cba30381b13b0766f63c8ac2981ea",
+    "token0": "0x5ba62cbdab03ac70652293e5f5f8afc919cffd78",
+    "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+    "isStrategy": false,
+    "bribe": "0x66e3cafb79c23650a49a27efe08d9f9e72904f4b"
   },
   {
     "address": "0xda9b26b44c7c8e571a82802f8fd6eba7a253020f",
