@@ -796,6 +796,36 @@
       "token1": {
         "address": "0xeC859566fC5d7ED84Ac823509F3f7db06C461b20"
       }
+    },
+    {
+      "symbol": "USDC/DAI Stable",
+      "title": "Clip Stable",
+      "type": "Stable",
+      "strategist": "Clip Finance",
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0xb1C9F83099C88c8544004Bf7a4d1F7b434869B44",
+      "token0": {
+        "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff"
+      },
+      "token1": {
+        "address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5"
+      }
+    },
+    {
+      "symbol": "DAI/WETH Volatile",
+      "title": "Clip (Volatile)",
+      "type": "Volatile",
+      "strategist": "Clip Finance",
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x8eFFB06ceF54167587643123e6B0588E08E81c04",
+      "token0": {
+        "address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5"
+      },
+      "token1": {
+        "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+      }
     }
   ]
 }
