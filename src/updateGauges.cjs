@@ -7,6 +7,7 @@ async function main() {
     "0x0000000000000000000000000000000000000000",
     "0x41d245492b3a9c5a5364e8f6bb75035abfe4079e", //vAMM-MECH/WETH
     "0xc8e3e29e006cd48a4f0ad0a06558e41853a1babd", // EURO3/USD+ (Stable)
+    "0xcd7731d878cbc41154393c82e06107d08442f41e", // abcLYNX
   ];
   const res = await fetch("https://da.lynex.fi/tracking/pools");
   const json = await res.json();
