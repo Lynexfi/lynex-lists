@@ -459,6 +459,15 @@
     "bribe": "0xcd6925c4d822098a74311f1c77bdc38629db6277"
   },
   {
+    "address": "0x8effb06cef54167587643123e6b0588e08e81c04",
+    "symbol": "DAI/WETH (Volatile)",
+    "gauge": "0x10458d28bba5b9e212a1fbe7df7171a655f3f04c",
+    "token0": "0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5",
+    "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+    "isStrategy": true,
+    "bribe": "0x680b0d5382af38b48b9ecbf1dc68c37ae1ae33bc"
+  },
+  {
     "address": "0x8f3e0a2378b0b5838e0e0d99fcecc167d47bc9a7",
     "symbol": "sAMM-STONE/WETH",
     "gauge": "0xb301db65b71589d2ffda38b2becfbddf584d538e",
@@ -646,6 +655,15 @@
     "token1": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
     "isStrategy": true,
     "bribe": "0x642c46e03d59c0323a55bad3250d7ae6d4053e93"
+  },
+  {
+    "address": "0xb1c9f83099c88c8544004bf7a4d1f7b434869b44",
+    "symbol": "USDC/DAI (Stable)",
+    "gauge": "0xc7d3c12e3fdd2ae541123f7cb9f7e6c9bc30f0ba",
+    "token0": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+    "token1": "0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5",
+    "isStrategy": true,
+    "bribe": "0xb6e553d1e4d65ebaa01c37c5dc10f4dc7a81d4ab"
   },
   {
     "address": "0xb2e8eca0add374aa63f6df92dcdfda596eaa470a",
