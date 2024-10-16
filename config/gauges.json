@@ -261,6 +261,15 @@
     "bribe": "0x5a5e10c6a2b5517b3cf919f6bd28628287e69e00"
   },
   {
+    "address": "0x51b41ed7d7869b84be5647e9beec9f8b7e70ba1d",
+    "symbol": "sAMM-alETH/WETH",
+    "gauge": "0x0a11609ccfbaad7337fda55e7b9e4114294f8136",
+    "token0": "0x303241e2b3b4aed0bb0f8623e7442368fed8faf3",
+    "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+    "isStrategy": false,
+    "bribe": "0x7ddd438ee9fd328835b2075c1d932a7bca6e7e4c"
+  },
+  {
     "address": "0x52555fa67687288fc70791beae2b92754fdd0341",
     "symbol": "vAMM-LUCIA/WETH",
     "gauge": "0xad4486c7187d9abcdb05ba2a4e585ac8156628bf",
@@ -331,6 +340,15 @@
     "token1": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
     "isStrategy": false,
     "bribe": "0xf175a72e9cda2c8fa8fb40df74aaf87e6fce8e4f"
+  },
+  {
+    "address": "0x5db4533ecc4c455504821fa2dee56c2ea459ce37",
+    "symbol": "sAMM-alUSD/USDC",
+    "gauge": "0x8262945d7b654f9b530999553eb9002d4c653c30",
+    "token0": "0x0e17934b9735d479b2388347faef0f4e58b9cc06",
+    "token1": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+    "isStrategy": false,
+    "bribe": "0xfea10abbe7564190d40fbfc946f93c39fa64566b"
   },
   {
     "address": "0x5ec38a5e010d4fc99c1285ca3bfedd51eec2e193",
@@ -619,6 +637,15 @@
     "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
     "isStrategy": false,
     "bribe": "0x75c3243238fdcdbae7bfcb4248ca59ced27e5946"
+  },
+  {
+    "address": "0xac73c5f3d110bb051100cfd8afa4ac4339f239e7",
+    "symbol": "vAMM-USDC/ALCX",
+    "gauge": "0x0d47192a891caba2f7cc349dd4392d2a1fa5082a",
+    "token0": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+    "token1": "0x303c4f39ea359155c698807168e9dc3aa1df2b95",
+    "isStrategy": false,
+    "bribe": "0xe1688b6e6e72e814e8420581fbc635ddffd16505"
   },
   {
     "address": "0xad2406af7fb59f9949af7d355aa19941178809a8",
