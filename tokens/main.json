@@ -9,7 +9,7 @@
   "keywords": ["lynex", "default"],
   "tokens": [
     {
-      "chainId": 48899,
+      "chainId": 48900,
       "chainURI": "https://explorer.testnet.zircuit.com/block/0",
       "tokenId": "https://explorer.testnet.zircuit.com/address/0x4200000000000000000000000000000000000006",
       "address": "0x4200000000000000000000000000000000000006",
@@ -21,88 +21,28 @@
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WETH.png"
     },
     {
-      "chainId": 48899,
+      "chainId": 48900,
       "chainURI": "https://explorer.testnet.zircuit.com/block/0",
-      "tokenId": "https://explorer.testnet.zircuit.com/address/0xf5Ae153f66BE265BAC0e25b54Bf6819e156B8d25",
-      "address": "0xf5Ae153f66BE265BAC0e25b54Bf6819e156B8d25",
-      "name": "USD Coin",
-      "symbol": "USDC",
+      "tokenId": "https://explorer.testnet.zircuit.com/address/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "name": "Ethena USD",
+      "symbol": "USDe",
       "decimals": 18,
-      "createdAt": "2024-03-20",
-      "updatedAt": "2024-03-20",
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+      "createdAt": "2024-10-16",
+      "updatedAt": "2024-10-16",
+      "logoURI": "https://assets.coingecko.com/coins/images/33613/standard/USDE.png?1716355685"
     },
     {
-      "chainId": 48899,
+      "chainId": 48900,
       "chainURI": "https://explorer.testnet.zircuit.com/block/0",
-      "tokenId": "https://explorer.testnet.zircuit.com/address/0x0bAaC8a475F40A355F882B1805a4cF66BF5aafe1",
-      "address": "0x0bAaC8a475F40A355F882B1805a4cF66BF5aafe1",
-      "name": "USD Coin 2",
-      "symbol": "USDC",
+      "tokenId": "https://explorer.testnet.zircuit.com/address/0xf0e673Bc224A8Ca3ff67a61605814666b1234833",
+      "address": "0xf0e673Bc224A8Ca3ff67a61605814666b1234833",
+      "name": "Wrapped Liquid Staked ETH",
+      "symbol": "wstETH",
       "decimals": 18,
-      "createdAt": "2024-03-20",
-      "updatedAt": "2024-03-20",
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
-    },
-    {
-      "chainId": 48899,
-      "chainURI": "https://explorer.testnet.zircuit.com/block/0",
-      "tokenId": "https://explorer.testnet.zircuit.com/address/0xB8a69c080F08c11df3DF85BfBbe7C1fb1Ab2C4b1",
-      "address": "0xB8a69c080F08c11df3DF85BfBbe7C1fb1Ab2C4b1",
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "decimals": 18,
-      "createdAt": "2024-03-20",
-      "updatedAt": "2024-03-20",
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
-    },
-    {
-      "chainId": 48899,
-      "chainURI": "https://explorer.testnet.zircuit.com/block/0",
-      "tokenId": "https://explorer.testnet.zircuit.com/address/0xE37D5F3e45d9f617C566606e9A3Ab68448B6729F",
-      "address": "0xE37D5F3e45d9f617C566606e9A3Ab68448B6729F",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 6,
-      "createdAt": "2024-03-20",
-      "updatedAt": "2024-03-20",
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
-    },
-    {
-      "chainId": 48899,
-      "chainURI": "https://explorer.testnet.zircuit.com/block/0",
-      "tokenId": "https://explorer.testnet.zircuit.com/address/0x87D43A0be4dD8982F7e8C9dF5abdac9Ffef41C80",
-      "address": "0x87D43A0be4dD8982F7e8C9dF5abdac9Ffef41C80",
-      "name": "Ocelex",
-      "symbol": "OCX",
-      "decimals": 18,
-      "createdAt": "2024-03-20",
-      "updatedAt": "2024-03-20",
-      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-lists/tokens/assets/OCX.png"
-    },
-    {
-      "chainId": 48899,
-      "chainURI": "https://explorer.testnet.zircuit.com/block/0",
-      "tokenId": "https://explorer.testnet.zircuit.com/address/0xFE8e00c4cEeb946453555640F48CD4AA002495f9",
-      "address": "0xFE8e00c4cEeb946453555640F48CD4AA002495f9",
-      "name": "Option Ocelex",
-      "symbol": "oOCX",
-      "decimals": 18,
-      "createdAt": "2024-03-20",
-      "updatedAt": "2024-03-20",
-      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-lists/tokens/assets/oOCX.png"
-    },
-    {
-      "chainId": 48899,
-      "chainURI": "https://explorer.testnet.zircuit.com/block/0",
-      "tokenId": "https://explorer.testnet.zircuit.com/address/0xaABC1EaEf356978d504A458F509800606c9bC53C",
-      "address": "0xaABC1EaEf356978d504A458F509800606c9bC53C",
-      "name": "Brive Vote Escrow Ocelex",
-      "symbol": "bveOCX",
-      "decimals": 18,
-      "createdAt": "2024-03-20",
-      "updatedAt": "2024-03-20",
-      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-lists/tokens/assets/bveOCX.png"
+      "createdAt": "2024-10-16",
+      "updatedAt": "2024-10-16",
+      "logoURI": "https://assets.coingecko.com/coins/images/18834/standard/wstETH.png?1696518295"
     }
   ]
 }
