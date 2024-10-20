@@ -30,7 +30,7 @@
       "decimals": 18,
       "createdAt": "2024-10-16",
       "updatedAt": "2024-10-16",
-      "logoURI": "https://assets.coingecko.com/coins/images/33613/standard/USDE.png?1716355685"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29470.png"
     },
     {
       "chainId": 48900,
@@ -42,7 +42,7 @@
       "decimals": 18,
       "createdAt": "2024-10-16",
       "updatedAt": "2024-10-16",
-      "logoURI": "https://assets.coingecko.com/coins/images/18834/standard/wstETH.png?1696518295"
+      "logoURI": "https://assets.coingecko.com/coins/images/18834/standard/wstETH.png"
     }
   ]
 }
