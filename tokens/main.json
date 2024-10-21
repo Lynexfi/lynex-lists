@@ -43,6 +43,30 @@
       "createdAt": "2024-10-16",
       "updatedAt": "2024-10-16",
       "logoURI": "https://assets.coingecko.com/coins/images/18834/standard/wstETH.png"
+    },
+    {
+      "chainId": 48900,
+      "chainURI": "https://explorer.testnet.zircuit.com/block/0",
+      "tokenId": "https://explorer.testnet.zircuit.com/address/0x80137510979822322193FC997d400D5A6C747bf7",
+      "address": "0x80137510979822322193FC997d400D5A6C747bf7",
+      "name": "StakeStone Ether",
+      "symbol": "STONE",
+      "decimals": 18,
+      "createdAt": "2024-11-21",
+      "updatedAt": "2024-11-21",
+      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/dee351e5-ff61-4a8f-994d-82f3078119661696785945490.png"
+    },
+    {
+      "chainId": 48900,
+      "chainURI": "https://explorer.testnet.zircuit.com/block/0",
+      "tokenId": "https://explorer.testnet.zircuit.com/address/0x2416092f143378750bb29b79eD961ab195CcEea5",
+      "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+      "name": "Renzo Restaked ETH",
+      "symbol": "ezETH",
+      "decimals": 18,
+      "createdAt": "2024-11-21",
+      "updatedAt": "2024-11-21",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ezETH.png"
     }
   ]
 }
