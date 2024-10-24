@@ -810,4 +810,51 @@ export const strategies = {
       },
     },
   ],
+  48900: [
+    {
+      symbol: "WETH-STONE Correlated",
+      title: "Gamma Correlated",
+      type: "Narrow",
+      strategist: "Gamma",
+      allowed0: true,
+      allowed1: true,
+      address: "0x09A8ebB5Bf22B1Da81835164D6653FA1D57DbbeE",
+      token0: {
+        address: "0x4200000000000000000000000000000000000006",
+      },
+      token1: {
+        address: "0x80137510979822322193FC997d400D5A6C747bf7",
+      },
+    },
+    {
+      symbol: "WETH-wstETH Correlated",
+      title: "Gamma Correlated",
+      type: "Narrow",
+      strategist: "Gamma",
+      allowed0: true,
+      allowed1: true,
+      address: "0x53BCC093d2Cb6De857e296A9E723F58C4f2876a0",
+      token0: {
+        address: "0x4200000000000000000000000000000000000006",
+      },
+      token1: {
+        address: "0xf0e673Bc224A8Ca3ff67a61605814666b1234833",
+      },
+    },
+    {
+      symbol: "WETH-USDe Narrow",
+      title: "Gamma Narrow",
+      type: "Narrow",
+      strategist: "Gamma",
+      allowed0: true,
+      allowed1: true,
+      address: "0x911BfbAca43f117E52197AE62D439d6A645C8886",
+      token0: {
+        address: "0x4200000000000000000000000000000000000006",
+      },
+      token1: {
+        address: "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      },
+    },
+  ],
 };
