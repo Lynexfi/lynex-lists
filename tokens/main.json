@@ -909,6 +909,15 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/alETH.svg"
+    },
+    {
+      "name": "Aryze",
+      "symbol": "RYZE",
+      "tokenId": "https://lineascan.build/address/0x34B5c2936DAe6698e54781EDb8B1E69A2C2873F8",
+      "address": "0x34B5c2936DAe6698e54781EDb8B1E69A2C2873F8",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/RYZE.png"
     }
   ]
 }

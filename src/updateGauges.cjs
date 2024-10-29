@@ -9,7 +9,7 @@ async function main() {
     "0xc8e3e29e006cd48a4f0ad0a06558e41853a1babd", // EURO3/USD+ (Stable)
     "0xcd7731d878cbc41154393c82e06107d08442f41e", // abcLYNX
   ];
-  const res = await fetch("https://da.lynex.fi/tracking/pools");
+  const res = await fetch("https://dev.da.lynex.fi/tracking/pools");
   const json = await res.json();
   let result = json
     .filter((item) => !blacklistedGauges.includes(item.gauge.address))
