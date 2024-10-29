@@ -920,10 +920,10 @@ export const strategies = {
       address: "0xE284E8AD2ba6A10bAeAac270e846AA3993Db485d",
       depositToken: "0x4200000000000000000000000000000000000006",
       token0: {
-        address: "0x4200000000000000000000000000000000000006",
+        address: "0x19df5689Cfce64bC2A55F7220B0Cd522659955EF",
       },
       token1: {
-        address: "0x19df5689Cfce64bC2A55F7220B0Cd522659955EF",
+        address: "0x4200000000000000000000000000000000000006",
       },
       promoted: false,
       percentage: 70,
