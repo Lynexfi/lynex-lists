@@ -855,6 +855,15 @@
     "bribe": "0xc34b003257b5138972dd5393ebaf0c5d38c5a0e6"
   },
   {
+    "address": "0xd1cd6a2062963e4a62ff65a5ab07c69b28f16be1",
+    "symbol": "vAMM-RYZE/WETH",
+    "gauge": "0xcc341cda8ab5ef87118a77ed93072b50a095dc4e",
+    "token0": "0x34b5c2936dae6698e54781edb8b1e69a2c2873f8",
+    "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+    "isStrategy": false,
+    "bribe": "0xb4eb7826bdccef009a791db5ed49c2d9835ff6ca"
+  },
+  {
     "address": "0xd72c68b1d6b677b2903f45d7677bd9a59157b57e",
     "symbol": "vAMM-FLY/WETH",
     "gauge": "0xbc986b9bd92cba30381b13b0766f63c8ac2981ea",
