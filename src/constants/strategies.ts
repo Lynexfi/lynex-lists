@@ -915,8 +915,8 @@ export const strategies = {
       title: "Yield IQ (WETH)",
       type: "YieldIQ",
       strategist: "Ichi",
-      allowed0: true,
-      allowed1: false,
+      allowed0: false,
+      allowed1: true,
       address: "0xE284E8AD2ba6A10bAeAac270e846AA3993Db485d",
       depositToken: "0x4200000000000000000000000000000000000006",
       token0: {
