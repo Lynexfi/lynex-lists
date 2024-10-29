@@ -894,7 +894,7 @@ export const strategies = {
     },
     {
       symbol: "WBTC-WETH Yield IQ (WBTC)",
-      title: "Yield IQ (USDT)",
+      title: "Yield IQ (WBTC)",
       type: "YieldIQ",
       strategist: "Ichi",
       allowed0: true,
@@ -912,7 +912,7 @@ export const strategies = {
     },
     {
       symbol: "WETH/WBTC Yield IQ (WETH)",
-      title: "Yield IQ (WBTC)",
+      title: "Yield IQ (WETH)",
       type: "YieldIQ",
       strategist: "Ichi",
       allowed0: true,
