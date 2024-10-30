@@ -10,8 +10,8 @@
   "tokens": [
     {
       "chainId": 48900,
-      "chainURI": "https://explorer.testnet.zircuit.com/block/0",
-      "tokenId": "https://explorer.testnet.zircuit.com/address/0x4200000000000000000000000000000000000006",
+      "chainURI": "https://explorer.zircuit.com/block/0",
+      "tokenId": "https://explorer.zircuit.com/address/0x4200000000000000000000000000000000000006",
       "address": "0x4200000000000000000000000000000000000006",
       "name": "Wrapped Ether",
       "symbol": "WETH",
@@ -22,8 +22,8 @@
     },
     {
       "chainId": 48900,
-      "chainURI": "https://explorer.testnet.zircuit.com/block/0",
-      "tokenId": "https://explorer.testnet.zircuit.com/address/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "chainURI": "https://explorer.zircuit.com/block/0",
+      "tokenId": "https://explorer.zircuit.com/address/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
       "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
       "name": "Ethena USD",
       "symbol": "USDe",
@@ -34,8 +34,8 @@
     },
     {
       "chainId": 48900,
-      "chainURI": "https://explorer.testnet.zircuit.com/block/0",
-      "tokenId": "https://explorer.testnet.zircuit.com/address/0xf0e673Bc224A8Ca3ff67a61605814666b1234833",
+      "chainURI": "https://explorer.zircuit.com/block/0",
+      "tokenId": "https://explorer.zircuit.com/address/0xf0e673Bc224A8Ca3ff67a61605814666b1234833",
       "address": "0xf0e673Bc224A8Ca3ff67a61605814666b1234833",
       "name": "Wrapped Liquid Staked ETH",
       "symbol": "wstETH",
@@ -46,8 +46,8 @@
     },
     {
       "chainId": 48900,
-      "chainURI": "https://explorer.testnet.zircuit.com/block/0",
-      "tokenId": "https://explorer.testnet.zircuit.com/address/0x80137510979822322193FC997d400D5A6C747bf7",
+      "chainURI": "https://explorer.zircuit.com/block/0",
+      "tokenId": "https://explorer.zircuit.com/address/0x80137510979822322193FC997d400D5A6C747bf7",
       "address": "0x80137510979822322193FC997d400D5A6C747bf7",
       "name": "StakeStone Ether",
       "symbol": "STONE",
@@ -58,8 +58,8 @@
     },
     {
       "chainId": 48900,
-      "chainURI": "https://explorer.testnet.zircuit.com/block/0",
-      "tokenId": "https://explorer.testnet.zircuit.com/address/0x2416092f143378750bb29b79eD961ab195CcEea5",
+      "chainURI": "https://explorer.zircuit.com/block/0",
+      "tokenId": "https://explorer.zircuit.com/address/0x2416092f143378750bb29b79eD961ab195CcEea5",
       "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
       "name": "Renzo Restaked ETH",
       "symbol": "ezETH",
