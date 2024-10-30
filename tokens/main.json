@@ -91,18 +91,6 @@
       "createdAt": "2024-11-28",
       "updatedAt": "2024-11-28",
       "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661"
-    },
-    {
-      "chainId": 48900,
-      "chainURI": "https://explorer.zircuit.com/block/0",
-      "tokenId": "https://explorer.zircuit.com/address/0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742",
-      "address": "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742",
-      "name": "Tether",
-      "symbol": "USDT",
-      "decimals": 6,
-      "createdAt": "2024-11-28",
-      "updatedAt": "2024-11-28",
-      "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661"
     }
   ]
 }
