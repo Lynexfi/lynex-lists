@@ -959,7 +959,7 @@ export const strategies = {
       },
     },
     {
-      symbol: "USDe-USDT Correlated",
+      symbol: "USDe-USDT Stable",
       title: "Gamma Stable",
       type: "Stable",
       strategist: "Gamma",
