@@ -812,7 +812,7 @@ export const strategies = {
   ],
   48900: [
     {
-      symbol: "WETH-STONE Correlated",
+      symbol: "WETH/STONE Correlated",
       title: "Gamma Correlated",
       type: "Narrow",
       strategist: "Gamma",
@@ -827,7 +827,7 @@ export const strategies = {
       },
     },
     {
-      symbol: "WETH-wstETH Correlated",
+      symbol: "WETH/wstETH Correlated",
       title: "Gamma Correlated",
       type: "Narrow",
       strategist: "Gamma",
@@ -842,7 +842,7 @@ export const strategies = {
       },
     },
     {
-      symbol: "WETH-USDe Narrow",
+      symbol: "WETH/USDe Narrow",
       title: "Gamma Narrow",
       type: "Narrow",
       strategist: "Gamma",
@@ -857,7 +857,7 @@ export const strategies = {
       },
     },
     {
-      symbol: "WETH-USDT Yield IQ (WETH)",
+      symbol: "WETH/USDT Yield IQ (WETH)",
       title: "Yield IQ (WETH)",
       type: "YieldIQ",
       strategist: "Ichi",
@@ -875,7 +875,7 @@ export const strategies = {
       percentage: 70,
     },
     {
-      symbol: "USDT-WETH Yield IQ (USDT)",
+      symbol: "USDT/WETH Yield IQ (USDT)",
       title: "Yield IQ (USDT)",
       type: "YieldIQ",
       strategist: "Ichi",
@@ -893,7 +893,7 @@ export const strategies = {
       percentage: 70,
     },
     {
-      symbol: "WBTC-WETH Yield IQ (WBTC)",
+      symbol: "WBTC/WETH Yield IQ (WBTC)",
       title: "Yield IQ (WBTC)",
       type: "YieldIQ",
       strategist: "Ichi",
@@ -927,6 +927,51 @@ export const strategies = {
       },
       promoted: false,
       percentage: 70,
+    },
+    {
+      symbol: "WETH/USDT Narrow",
+      title: "Gamma Narrow",
+      type: "Narrow",
+      strategist: "Gamma",
+      allowed0: true,
+      allowed1: true,
+      address: "0x318E378b6EC1590315e5e8160A2eF28308AE7Cfc",
+      token0: {
+        address: "0x4200000000000000000000000000000000000006",
+      },
+      token1: {
+        address: "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742",
+      },
+    },
+    {
+      symbol: "WBTC/WETH Narrow",
+      title: "Gamma Narrow",
+      type: "Narrow",
+      strategist: "Gamma",
+      allowed0: true,
+      allowed1: true,
+      address: "0xBd3332466d13588B1BFe8673B58190645bFE26bE",
+      token0: {
+        address: "0x19df5689Cfce64bC2A55F7220B0Cd522659955EF",
+      },
+      token1: {
+        address: "0x4200000000000000000000000000000000000006",
+      },
+    },
+    {
+      symbol: "USDe/USDT Stable",
+      title: "Gamma Stable",
+      type: "Stable",
+      strategist: "Gamma",
+      allowed0: true,
+      allowed1: true,
+      address: "0x6a9641bf145aF165388E6856a6183e1F095DB8FA",
+      token0: {
+        address: "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742",
+      },
+      token1: {
+        address: "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      },
     },
   ],
 };
