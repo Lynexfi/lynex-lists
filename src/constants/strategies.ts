@@ -812,7 +812,7 @@ export const strategies = {
   ],
   48900: [
     {
-      symbol: "WETH-STONE Correlated",
+      symbol: "WETH/STONE Correlated",
       title: "Gamma Correlated",
       type: "Narrow",
       strategist: "Gamma",
@@ -827,7 +827,7 @@ export const strategies = {
       },
     },
     {
-      symbol: "WETH-wstETH Correlated",
+      symbol: "WETH/wstETH Correlated",
       title: "Gamma Correlated",
       type: "Narrow",
       strategist: "Gamma",
@@ -842,7 +842,7 @@ export const strategies = {
       },
     },
     {
-      symbol: "WETH-USDe Narrow",
+      symbol: "WETH/USDe Narrow",
       title: "Gamma Narrow",
       type: "Narrow",
       strategist: "Gamma",
@@ -857,7 +857,7 @@ export const strategies = {
       },
     },
     {
-      symbol: "WETH-USDT Yield IQ (WETH)",
+      symbol: "WETH/USDT Yield IQ (WETH)",
       title: "Yield IQ (WETH)",
       type: "YieldIQ",
       strategist: "Ichi",
@@ -875,7 +875,7 @@ export const strategies = {
       percentage: 70,
     },
     {
-      symbol: "USDT-WETH Yield IQ (USDT)",
+      symbol: "USDT/WETH Yield IQ (USDT)",
       title: "Yield IQ (USDT)",
       type: "YieldIQ",
       strategist: "Ichi",
@@ -893,7 +893,7 @@ export const strategies = {
       percentage: 70,
     },
     {
-      symbol: "WBTC-WETH Yield IQ (WBTC)",
+      symbol: "WBTC/WETH Yield IQ (WBTC)",
       title: "Yield IQ (WBTC)",
       type: "YieldIQ",
       strategist: "Ichi",
@@ -929,7 +929,7 @@ export const strategies = {
       percentage: 70,
     },
     {
-      symbol: "WETH-USDT Narrow",
+      symbol: "WETH/USDT Narrow",
       title: "Gamma Narrow",
       type: "Narrow",
       strategist: "Gamma",
@@ -944,7 +944,7 @@ export const strategies = {
       },
     },
     {
-      symbol: "WBTC-WETH Narrow",
+      symbol: "WBTC/WETH Narrow",
       title: "Gamma Narrow",
       type: "Narrow",
       strategist: "Gamma",
@@ -959,7 +959,7 @@ export const strategies = {
       },
     },
     {
-      symbol: "USDe-USDT Stable",
+      symbol: "USDe/USDT Stable",
       title: "Gamma Stable",
       type: "Stable",
       strategist: "Gamma",
