@@ -918,6 +918,24 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/RYZE.png"
+    },
+    {
+      "name": "Impermax",
+      "symbol": "IBEX",
+      "tokenId": "https://lineascan.build/address/0xcf0f95E34F25d1BB3D9cad3Cbb2EB40dAb7c3841",
+      "address": "0xcf0f95E34F25d1BB3D9cad3Cbb2EB40dAb7c3841",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/IBEX.png"
+    },
+    {
+      "name": "LamboLlama",
+      "symbol": "LLL",
+      "tokenId": "https://lineascan.build/address/0x63cF844710BF16E42571839EdF0Bd807114060Bd",
+      "address": "0x63cF844710BF16E42571839EdF0Bd807114060Bd",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LLL.png"
     }
   ]
 }
