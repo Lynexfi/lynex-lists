@@ -83,6 +83,18 @@
     {
       "chainId": 48900,
       "chainURI": "https://explorer.zircuit.com/block/0",
+      "tokenId": "https://explorer.zircuit.com/address/0x3535DF6e1d776631D0cBA53FE9efD34bCbDcEeD4",
+      "address": "0x3535DF6e1d776631D0cBA53FE9efD34bCbDcEeD4",
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "decimals": 18,
+      "createdAt": "2024-11-07",
+      "updatedAt": "2024-11-07",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/weETH.svg"
+    },
+    {
+      "chainId": 48900,
+      "chainURI": "https://explorer.zircuit.com/block/0",
       "tokenId": "https://explorer.zircuit.com/address/0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742",
       "address": "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742",
       "name": "Tether",
