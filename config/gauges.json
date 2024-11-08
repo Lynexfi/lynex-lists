@@ -702,6 +702,15 @@
     "bribe": "0x7a4f872d654ac4cff4bce00ca05c54bc6065de90"
   },
   {
+    "address": "0xb6d1dec41395f70181768e8b91afa57ea511e0c3",
+    "symbol": "vAMM-IBEX/WETH",
+    "gauge": "0xa15a263f8a19875a7a1467f87a00eb72d755fbc8",
+    "token0": "0xcf0f95e34f25d1bb3d9cad3cbb2eb40dab7c3841",
+    "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+    "isStrategy": false,
+    "bribe": "0xb34b54e197d2e363adaeebf49726c7ee9210a446"
+  },
+  {
     "address": "0xb79dd267455df54595938060d379b82f40ebfa63",
     "symbol": "sAMM-LYNX/oLYNX",
     "gauge": "0xdaaf0e15d574d61a2eee6452125c3aa419e3697c",
