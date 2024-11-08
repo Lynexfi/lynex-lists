@@ -936,6 +936,15 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LLL.png"
+    },
+    {
+      "name": "Donald Toad Coin",
+      "symbol": "DTC",
+      "tokenId": "https://lineascan.build/address/0xEb1fD1dBB8aDDA4fa2b5A5C4bcE34F6F20d125D2",
+      "address": "0xEb1fD1dBB8aDDA4fa2b5A5C4bcE34F6F20d125D2",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/DTC.png"
     }
   ]
 }
