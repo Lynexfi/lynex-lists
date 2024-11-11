@@ -825,6 +825,21 @@ export const strategies = {
         address: "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
       },
     },
+    {
+      symbol: "WETH/LLL Wide",
+      title: "Clip (Wide)",
+      type: "Wide",
+      strategist: "Clip Finance",
+      allowed0: true,
+      allowed1: true,
+      address: "0x908EBbEab8c4bB1D3f1182Ecc3f5D95ef34F47b1",
+      token0: {
+        address: "0x63cF844710BF16E42571839EdF0Bd807114060Bd",
+      },
+      token1: {
+        address: "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+      },
+    },
   ],
   59140: [
     {
