@@ -513,6 +513,15 @@
     "bribe": "0xbe7710e45060bb9bc1c2d7cc8f6084d15288d955"
   },
   {
+    "address": "0x908ebbeab8c4bb1d3f1182ecc3f5d95ef34f47b1",
+    "symbol": "LLL/WETH (Wide)",
+    "gauge": "0x5cd52cf135775efd34cc680e3c38807e07961a69",
+    "token0": "0x63cf844710bf16e42571839edf0bd807114060bd",
+    "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+    "isStrategy": true,
+    "bribe": "0x513d8c38be9badbef70898ff2a75d5ecd3b8e487"
+  },
+  {
     "address": "0x90b85ea29d1df5fe44432e1847067e494c2d50ca",
     "symbol": "sAMM-FOXY/WETH",
     "gauge": "0xc7208f5e03fba9b3e6f79fabb61dffa8b5f3aee6",
