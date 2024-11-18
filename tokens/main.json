@@ -945,6 +945,24 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/DTC.png"
+    },
+    {
+      "name": "ALEX",
+      "symbol": "ALEX",
+      "tokenId": "https://lineascan.build/address/0xdfd0660032c2D0D38a9092a43d1669D6568cAF71",
+      "address": "0xdfd0660032c2D0D38a9092a43d1669D6568cAF71",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ALEX.png"
+    },
+    {
+      "name": "aBTC",
+      "symbol": "aBTC",
+      "tokenId": "https://lineascan.build/address/0x7A087e75807F2E5143C161a817E64dF6dC5EAFe0",
+      "address": "0x7A087e75807F2E5143C161a817E64dF6dC5EAFe0",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/aBTC.png"
     }
   ]
 }
