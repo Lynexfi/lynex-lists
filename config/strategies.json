@@ -513,6 +513,74 @@
       "percentage": 70
     },
     {
+      "symbol": "aBTC-WBTC YieldIq",
+      "title": "Yield IQ (aBTC)",
+      "type": "YieldIQ",
+      "strategist": "Ichi",
+      "allowed0": false,
+      "allowed1": true,
+      "address": "0x19E622264aeE6c32Ba1E1B68b8338d3c43B80Ef2",
+      "depositToken": "0x7A087e75807F2E5143C161a817E64dF6dC5EAFe0",
+      "token0": {
+        "address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4"
+      },
+      "token1": {
+        "address": "0x7A087e75807F2E5143C161a817E64dF6dC5EAFe0"
+      },
+      "percentage": 70
+    },
+    {
+      "symbol": "WBTC-aBTC YieldIq",
+      "title": "Yield IQ (WBTC)",
+      "type": "YieldIQ",
+      "strategist": "Ichi",
+      "allowed0": true,
+      "allowed1": false,
+      "address": "0x16FE021BFc4E9e0E3fBCc082C76eE4d67cB85DDA",
+      "depositToken": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+      "token0": {
+        "address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4"
+      },
+      "token1": {
+        "address": "0x7A087e75807F2E5143C161a817E64dF6dC5EAFe0"
+      },
+      "percentage": 70
+    },
+    {
+      "symbol": "ALEX-USDT YieldIq",
+      "title": "Yield IQ (ALEX)",
+      "type": "YieldIQ",
+      "strategist": "Ichi",
+      "allowed0": false,
+      "allowed1": true,
+      "address": "0xb4b1a076214c84e3173eed00cd52E50a8904B174",
+      "depositToken": "0xdfd0660032c2D0D38a9092a43d1669D6568cAF71",
+      "token0": {
+        "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93"
+      },
+      "token1": {
+        "address": "0xdfd0660032c2D0D38a9092a43d1669D6568cAF71"
+      },
+      "percentage": 70
+    },
+    {
+      "symbol": "USDT-ALEX YieldIq",
+      "title": "Yield IQ (USDT)",
+      "type": "YieldIQ",
+      "strategist": "Ichi",
+      "allowed0": true,
+      "allowed1": false,
+      "address": "0x87A5c04Bc996Dd23E80e025daCe5f00F20Ccc717",
+      "depositToken": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+      "token0": {
+        "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93"
+      },
+      "token1": {
+        "address": "0xdfd0660032c2D0D38a9092a43d1669D6568cAF71"
+      },
+      "percentage": 70
+    },
+    {
       "symbol": "USDC/USDT Narrow",
       "title": "Steer Stable",
       "type": "Stable",
