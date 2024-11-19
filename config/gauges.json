@@ -1,5 +1,14 @@
 [
   {
+    "address": "0x075ce660a13c7f83e5452652a3f3d936d2601c79",
+    "symbol": "sAMM-WETH/DTC",
+    "gauge": "0x825580e609892c1457292ca16f76f23f2c99efb6",
+    "token0": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+    "token1": "0xeb1fd1dbb8adda4fa2b5a5c4bce34f6f20d125d2",
+    "isStrategy": false,
+    "bribe": "0xcbc827ea929987720f0cbcde3d648e957860532b"
+  },
+  {
     "address": "0x091872441a89b699ccc805c1d1ec67c4f2c8fa2c",
     "symbol": "DOGE/WETH (Volatile)",
     "gauge": "0x4efdfc355cf347f20dd2324f3abfae32fbd9a5e7",
@@ -45,6 +54,15 @@
     "bribe": "0x227293549b3afee7525cb8bd32455e29cfada5a3"
   },
   {
+    "address": "0x16fe021bfc4e9e0e3fbcc082c76ee4d67cb85dda",
+    "symbol": "WBTC/aBTC (YieldIQ)",
+    "gauge": "0xda4b210ed1e9b3cb7c8c1ada605c8328bcb3267d",
+    "token0": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
+    "token1": "0x7a087e75807f2e5143c161a817e64df6dc5eafe0",
+    "isStrategy": true,
+    "bribe": "0x7df4cae97afa281d06f0d20c9bfa87f74c4012da"
+  },
+  {
     "address": "0x1795c4b23ec93c852653045dab4dd1ac796d5248",
     "symbol": "FOXY/WETH (YieldIQ)",
     "gauge": "0x8bbca13fa5028eda6e990ecc7e1053b1493818bd",
@@ -52,6 +70,15 @@
     "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
     "isStrategy": true,
     "bribe": "0x2125c5b3976943b6f5d6b69fdd748410f52a6d86"
+  },
+  {
+    "address": "0x19e622264aee6c32ba1e1b68b8338d3c43b80ef2",
+    "symbol": "WBTC/aBTC (YieldIQ)",
+    "gauge": "0x348655e97bc529fcf15401fd6e80a7160c289e46",
+    "token0": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
+    "token1": "0x7a087e75807f2e5143c161a817e64df6dc5eafe0",
+    "isStrategy": true,
+    "bribe": "0x37a4999dca9baac789f0a9e74258ffa7443ce50f"
   },
   {
     "address": "0x1bb15aa9a8bdeea7bb3a21bd239a232c5a09b0c6",
@@ -450,6 +477,15 @@
     "bribe": "0xea4a8d08b7a51f9f5735c45f821a060a97521d87"
   },
   {
+    "address": "0x87a5c04bc996dd23e80e025dace5f00f20ccc717",
+    "symbol": "USDT/ALEX (YieldIQ)",
+    "gauge": "0x9527697f0a9c52bc54e87674a4dae95c35c3cdb1",
+    "token0": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
+    "token1": "0xdfd0660032c2d0d38a9092a43d1669d6568caf71",
+    "isStrategy": true,
+    "bribe": "0xcc83c535914d9d6155a81f2b8adb020a9d482418"
+  },
+  {
     "address": "0x8a33eae82534b8e6cce270538faf83d11734f1f1",
     "symbol": "sAMM-USDC/USDe",
     "gauge": "0xef010a4815c401841904a21885dbbb6e036f5aa6",
@@ -709,6 +745,15 @@
     "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
     "isStrategy": false,
     "bribe": "0x7a4f872d654ac4cff4bce00ca05c54bc6065de90"
+  },
+  {
+    "address": "0xb4b1a076214c84e3173eed00cd52e50a8904b174",
+    "symbol": "USDT/ALEX (YieldIQ)",
+    "gauge": "0x3872dd6274c25850c0fa16e6f34e6428e1e0403a",
+    "token0": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
+    "token1": "0xdfd0660032c2d0d38a9092a43d1669d6568caf71",
+    "isStrategy": true,
+    "bribe": "0x52ab16316aa13a487b9228f06722f2a0ba73e79b"
   },
   {
     "address": "0xb6d1dec41395f70181768e8b91afa57ea511e0c3",
