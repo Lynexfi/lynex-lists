@@ -103,6 +103,18 @@
       "createdAt": "2024-11-28",
       "updatedAt": "2024-11-28",
       "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661"
+    },
+    {
+      "chainId": 48900,
+      "chainURI": "https://explorer.zircuit.com/block/0",
+      "tokenId": "https://explorer.zircuit.com/address/0x311a51Ff8839B6afcAA9426BdBffDF2e70A0dA25",
+      "address": "0x311a51Ff8839B6afcAA9426BdBffDF2e70A0dA25",
+      "name": "Wrapped rsETH",
+      "symbol": "wrsETH",
+      "decimals": 18,
+      "createdAt": "2024-11-21",
+      "updatedAt": "2024-11-21",
+      "logoURI": "https://assets.coingecko.com/coins/images/37919/standard/rseth.png"
     }
   ]
 }
