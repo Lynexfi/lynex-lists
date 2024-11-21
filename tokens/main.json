@@ -963,6 +963,24 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/aBTC.png"
+    },
+    {
+      "name": "ARYZE eGold",
+      "symbol": "eGold",
+      "tokenId": "https://lineascan.build/address/0x0047C3c6D6A9537B2b5D2D969D44A8bEf5bC7067",
+      "address": "0x0047C3c6D6A9537B2b5D2D969D44A8bEf5bC7067",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/eGOLD.png"
+    },
+    {
+      "name": "Linpuss",
+      "symbol": "LPUSS",
+      "tokenId": "https://lineascan.build/address/0x81BE2aCB2e9291dB6400f9f6a4D0f35f24de2E77",
+      "address": "0x81BE2aCB2e9291dB6400f9f6a4D0f35f24de2E77",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LPUSS.png"
     }
   ]
 }
