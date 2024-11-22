@@ -115,6 +115,18 @@
       "createdAt": "2024-11-21",
       "updatedAt": "2024-11-21",
       "logoURI": "https://assets.coingecko.com/coins/images/37919/standard/rseth.png"
+    },
+    {
+      "chainId": 48900,
+      "chainURI": "https://explorer.zircuit.com/block/0",
+      "tokenId": "https://explorer.zircuit.com/address/0x3b952c8C9C44e8Fe201e2b26F6B2200203214cfF",
+      "address": "0x3b952c8C9C44e8Fe201e2b26F6B2200203214cfF",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "createdAt": "2024-11-22",
+      "updatedAt": "2024-11-22",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
     }
   ]
 }
