@@ -973,5 +973,80 @@ export const strategies = {
         address: "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
       },
     },
+    {
+      symbol: "USDC/USDT Stable",
+      title: "Gamma Stable",
+      type: "Stable",
+      strategist: "Gamma",
+      allowed0: true,
+      allowed1: true,
+      address: "0x8118C33513feC13f8cf488CCb4509190650F0e92",
+      token0: {
+        address: "0x3b952c8C9C44e8Fe201e2b26F6B2200203214cfF",
+      },
+      token1: {
+        address: "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      },
+    },
+    {
+      symbol: "USDC/WETH Narrow",
+      title: "Gamma Narrow",
+      type: "Narrow",
+      strategist: "Gamma",
+      allowed0: true,
+      allowed1: true,
+      address: "0xFCDd868D81DD18E8ADe649bf7bcA354Ca13Fc723",
+      token0: {
+        address: "0x3b952c8C9C44e8Fe201e2b26F6B2200203214cfF",
+      },
+      token1: {
+        address: "0x4200000000000000000000000000000000000006",
+      },
+    },
+    {
+      symbol: "ZRC/WETH Narrow",
+      title: "Gamma Narrow",
+      type: "Narrow",
+      strategist: "Gamma",
+      allowed0: true,
+      allowed1: true,
+      address: "0x181F22F21d1f0228d99741A5a84954CE78DB1137",
+      token0: {
+        address: "0x4200000000000000000000000000000000000006",
+      },
+      token1: {
+        address: "0xfd418e42783382E86Ae91e445406600Ba144D162",
+      },
+    },
+    {
+      symbol: "ezETH/WETH Correlated",
+      title: "Steer Correlated",
+      type: "Correlated",
+      strategist: "Steer",
+      allowed0: true,
+      allowed1: true,
+      address: "0xbc9a377f56765ab35075e1c7ec7926cdc8417d5f",
+      token0: {
+        address: "0x2416092f143378750bb29b79eD961ab195CcEea5",
+      },
+      token1: {
+        address: "0x4200000000000000000000000000000000000006",
+      },
+    },
+    {
+      symbol: "weETH/WETH Correlated",
+      title: "Steer Correlated",
+      type: "Correlated",
+      strategist: "Gamma",
+      allowed0: true,
+      allowed1: true,
+      address: "0xad81a9c5304f9ea016c9c03bbf95f2acc3b0274a",
+      token0: {
+        address: "0x3535DF6e1d776631D0cBA53FE9efD34bCbDcEeD4",
+      },
+      token1: {
+        address: "0x4200000000000000000000000000000000000006",
+      },
+    },
   ],
 };
