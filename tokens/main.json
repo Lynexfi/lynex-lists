@@ -127,6 +127,16 @@
       "createdAt": "2024-11-22",
       "updatedAt": "2024-11-22",
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+    },
+    {
+      "chainId": 48900,
+      "chainURI": "https://explorer.zircuit.com/block/0",
+      "tokenId": "https://explorer.zircuit.com/address/0xfd418e42783382e86ae91e445406600ba144d162",
+      "address": "0xfd418e42783382e86ae91e445406600ba144d162",
+      "name": "Zircuit Token",
+      "symbol": "ZRC",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29711.png"
     }
   ]
 }
