@@ -1037,7 +1037,7 @@ export const strategies = {
       symbol: "weETH/WETH Correlated",
       title: "Steer Correlated",
       type: "Correlated",
-      strategist: "Gamma",
+      strategist: "Steer",
       allowed0: true,
       allowed1: true,
       address: "0xad81a9c5304f9ea016c9c03bbf95f2acc3b0274a",
