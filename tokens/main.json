@@ -71,8 +71,8 @@
     {
       "chainId": 48899,
       "chainURI": "https://explorer.testnet.zircuit.com/block/0",
-      "tokenId": "https://explorer.testnet.zircuit.com/address/0x185b963679Cc9189f7fA91c36a13f42Bd58E56DE",
-      "address": "0x185b963679Cc9189f7fA91c36a13f42Bd58E56DE",
+      "tokenId": "https://explorer.testnet.zircuit.com/address/0x720555B19793BAd23d15D44C6CdBD91cA3aF7D7B",
+      "address": "0x720555B19793BAd23d15D44C6CdBD91cA3aF7D7B",
       "name": "Ocelex",
       "symbol": "OCX",
       "decimals": 18,
@@ -83,8 +83,8 @@
     {
       "chainId": 48899,
       "chainURI": "https://explorer.testnet.zircuit.com/block/0",
-      "tokenId": "https://explorer.testnet.zircuit.com/address/0xB9148Fd809bc550Ff168322Fec78191D7C2ad076",
-      "address": "0xB9148Fd809bc550Ff168322Fec78191D7C2ad076",
+      "tokenId": "https://explorer.testnet.zircuit.com/address/0x35e126ec9f4eB635C52BE943FBAF000FE7D28E63",
+      "address": "0x35e126ec9f4eB635C52BE943FBAF000FE7D28E63",
       "name": "Option Ocelex",
       "symbol": "oOCX",
       "decimals": 18,
@@ -95,8 +95,8 @@
     {
       "chainId": 48899,
       "chainURI": "https://explorer.testnet.zircuit.com/block/0",
-      "tokenId": "https://explorer.testnet.zircuit.com/address/0x2cE6234F2C1B535fb42575708e117771A7184446",
-      "address": "0x2cE6234F2C1B535fb42575708e117771A7184446",
+      "tokenId": "https://explorer.testnet.zircuit.com/address/0x40e4149082a243ca063C40cd7b2893c2365De748",
+      "address": "0x40e4149082a243ca063C40cd7b2893c2365De748",
       "name": "Brive Vote Escrow Ocelex",
       "symbol": "bveOCX",
       "decimals": 18,
