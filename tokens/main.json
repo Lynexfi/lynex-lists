@@ -59,6 +59,18 @@
     {
       "chainId": 48899,
       "chainURI": "https://explorer.testnet.zircuit.com/block/0",
+      "tokenId": "https://explorer.testnet.zircuit.com/address/0xB8a69c080F08c11df3DF85BfBbe7C1fb1Ab2C4b1",
+      "address": "0xB8a69c080F08c11df3DF85BfBbe7C1fb1Ab2C4b1",
+      "name": "Tether USD 2",
+      "symbol": "USDTt2",
+      "decimals": 18,
+      "createdAt": "2024-03-20",
+      "updatedAt": "2024-03-20",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    },
+    {
+      "chainId": 48899,
+      "chainURI": "https://explorer.testnet.zircuit.com/block/0",
       "tokenId": "https://explorer.testnet.zircuit.com/address/0xE37D5F3e45d9f617C566606e9A3Ab68448B6729F",
       "address": "0xE37D5F3e45d9f617C566606e9A3Ab68448B6729F",
       "name": "Wrapped BTC",
@@ -71,8 +83,8 @@
     {
       "chainId": 48899,
       "chainURI": "https://explorer.testnet.zircuit.com/block/0",
-      "tokenId": "https://explorer.testnet.zircuit.com/address/0x720555B19793BAd23d15D44C6CdBD91cA3aF7D7B",
-      "address": "0x720555B19793BAd23d15D44C6CdBD91cA3aF7D7B",
+      "tokenId": "https://explorer.testnet.zircuit.com/address/0x5A913B3699929845D1712564101D64C492bA77F5",
+      "address": "0x5A913B3699929845D1712564101D64C492bA77F5",
       "name": "Ocelex",
       "symbol": "OCX",
       "decimals": 18,
@@ -83,8 +95,8 @@
     {
       "chainId": 48899,
       "chainURI": "https://explorer.testnet.zircuit.com/block/0",
-      "tokenId": "https://explorer.testnet.zircuit.com/address/0x35e126ec9f4eB635C52BE943FBAF000FE7D28E63",
-      "address": "0x35e126ec9f4eB635C52BE943FBAF000FE7D28E63",
+      "tokenId": "https://explorer.testnet.zircuit.com/address/0x761a5e2cF9A7d74afd39c3B976dF96dE91605773",
+      "address": "0x761a5e2cF9A7d74afd39c3B976dF96dE91605773",
       "name": "Option Ocelex",
       "symbol": "oOCX",
       "decimals": 18,
@@ -95,8 +107,8 @@
     {
       "chainId": 48899,
       "chainURI": "https://explorer.testnet.zircuit.com/block/0",
-      "tokenId": "https://explorer.testnet.zircuit.com/address/0x40e4149082a243ca063C40cd7b2893c2365De748",
-      "address": "0x40e4149082a243ca063C40cd7b2893c2365De748",
+      "tokenId": "https://explorer.testnet.zircuit.com/address/0x41D68A04DAd0eb8b62E421864F63b408535E847c",
+      "address": "0x41D68A04DAd0eb8b62E421864F63b408535E847c",
       "name": "Brive Vote Escrow Ocelex",
       "symbol": "bveOCX",
       "decimals": 18,
