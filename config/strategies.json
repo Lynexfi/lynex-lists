@@ -236,6 +236,21 @@
       "token1": {
         "address": "0x4200000000000000000000000000000000000006"
       }
+    },
+    {
+      "symbol": "wrsETH/WETH Correlated",
+      "title": "Gamma Correlated",
+      "type": "Narrow",
+      "strategist": "Gamma",
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x9Ed3c5382Dc6d13AAD0fD19536e7e2D427D9656C",
+      "token0": {
+        "address": "0x311a51Ff8839B6afcAA9426BdBffDF2e70A0dA25"
+      },
+      "token1": {
+        "address": "0x4200000000000000000000000000000000000006"
+      }
     }
   ],
   "59140": [
