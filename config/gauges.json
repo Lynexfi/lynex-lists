@@ -171,6 +171,15 @@
     "bribe": "0x6acea3009357dffe7a3625075a604adc9e3c8619"
   },
   {
+    "address": "0x2ce48d62f409e5d8d4a650ed82d60339664643e6",
+    "symbol": "vAMM-LINEA/WETH",
+    "gauge": "0xaf8bc67fa769841230ccce1ab73867cc8ab6aefd",
+    "token0": "0xb3b3ca7cb0bccb6a9316764826324a312665dc53",
+    "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+    "isStrategy": false,
+    "bribe": "0x19ecbe9d63e0e75e7a24e7c847ee54fb39aff804"
+  },
+  {
     "address": "0x31f5fb5d70b00398821b0e1d1db9bab4a0231fc3",
     "symbol": "vAMM-QI/WETH",
     "gauge": "0xa90c883879bf63b9a02983d1ad2d2497814261c6",
