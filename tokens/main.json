@@ -981,6 +981,15 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LPUSS.png"
+    },
+    {
+      "name": "Lost In Never Ending Airdrop",
+      "symbol": "LINEA",
+      "tokenId": "https://lineascan.build/address/0xb3B3CA7cb0BCCb6A9316764826324A312665DC53",
+      "address": "0xb3B3CA7cb0BCCb6A9316764826324A312665DC53",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LINEA.png"
     }
   ]
 }
