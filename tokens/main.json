@@ -137,6 +137,42 @@
       "symbol": "ZRC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-mainnet-lists/tokens/assets/ZRC.png"
+    },
+    {
+      "chainId": 48899,
+      "chainURI": "https://explorer.zircuit.com/block/0",
+      "tokenId": "https://explorer.zircuit.com/address/0x58024021Fe3eF613fA76e2f36A3Da97eb1454C36",
+      "address": "0x58024021Fe3eF613fA76e2f36A3Da97eb1454C36",
+      "name": "Ocelex",
+      "symbol": "OCX",
+      "decimals": 18,
+      "createdAt": "2024-03-20",
+      "updatedAt": "2024-03-20",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-lists/tokens/assets/OCX.png"
+    },
+    {
+      "chainId": 48899,
+      "chainURI": "https://explorer.zircuit.com/block/0",
+      "tokenId": "https://explorer.zircuit.com/address/0x5B77BaA28e134444cA5cbb67e4E5691087ED28fA",
+      "address": "0x5B77BaA28e134444cA5cbb67e4E5691087ED28fA",
+      "name": "Option Ocelex",
+      "symbol": "oOCX",
+      "decimals": 18,
+      "createdAt": "2024-03-20",
+      "updatedAt": "2024-03-20",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-lists/tokens/assets/oOCX.png"
+    },
+    {
+      "chainId": 48899,
+      "chainURI": "https://explorer.testnet.zircuit.com/block/0",
+      "tokenId": "https://explorer.zircuit.com/address/0x8D4e0dF890507517b5f018F7e0eB619D5aD7bbDc",
+      "address": "0x8D4e0dF890507517b5f018F7e0eB619D5aD7bbDc",
+      "name": "Brive Vote Escrow Ocelex",
+      "symbol": "bveOCX",
+      "decimals": 18,
+      "createdAt": "2024-03-20",
+      "updatedAt": "2024-03-20",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-lists/tokens/assets/bveOCX.png"
     }
   ]
 }
