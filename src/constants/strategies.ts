@@ -929,6 +929,24 @@ export const strategies = {
       percentage: 70,
     },
     {
+      symbol: "ZRC/WETH Yield IQ (ZRC)",
+      title: "Yield IQ (ZRC)",
+      type: "YieldIQ",
+      strategist: "Ichi",
+      allowed0: false,
+      allowed1: true,
+      address: "0x9ac11Fc3De0533d6A0dB68e78991aAEd0c7A48c8",
+      depositToken: "0xfd418e42783382E86Ae91e445406600Ba144D162",
+      token0: {
+        address: "0x4200000000000000000000000000000000000006",
+      },
+      token1: {
+        address: "0xfd418e42783382E86Ae91e445406600Ba144D162",
+      },
+      promoted: false,
+      percentage: 70,
+    },
+    {
       symbol: "WETH/USDT Narrow",
       title: "Gamma Narrow",
       type: "Narrow",
