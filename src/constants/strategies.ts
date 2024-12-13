@@ -650,74 +650,6 @@ export const strategies = {
         address: "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
       },
     },
-    {
-      symbol: "USDT/WETH",
-      title: "Steer (Classic Rebalance)",
-      type: "Classic Rebalance",
-      strategist: "Steer",
-      startBlock: 7034477,
-      allowed0: true,
-      allowed1: true,
-      address: "0x4f84351f2124bd4ba820730d3643984344ca481f",
-      url: "https://app.steer.finance/vault/0x4f84351f2124bd4ba820730d3643984344ca481f",
-      token0: {
-        address: "0x4200000000000000000000000000000000000006",
-      },
-      token1: {
-        address: "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
-      },
-    },
-    {
-      symbol: "USDC/WETH",
-      title: "Steer (Classic Rebalance)",
-      type: "Classic Rebalance",
-      strategist: "Steer",
-      startBlock: 7034361,
-      allowed0: true,
-      allowed1: true,
-      address: "0xbfff632091ce8d5bcc2bd960c419afd0291d13b4",
-      url: "https://app.steer.finance/vault/0xbfff632091ce8d5bcc2bd960c419afd0291d13b4",
-      token0: {
-        address: "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
-      },
-      token1: {
-        address: "0x4200000000000000000000000000000000000006",
-      },
-    },
-    {
-      symbol: "WBTC/WETH",
-      title: "Steer (Classic Rebalance)",
-      type: "Classic Rebalance",
-      strategist: "Steer",
-      startBlock: 7021888,
-      allowed0: true,
-      allowed1: true,
-      address: "0xe9962ab730b9fe4b5186278b6b55152ea2ccf793",
-      url: " https://app.steer.finance/vault/0xe9962ab730b9fe4b5186278b6b55152ea2ccf793",
-      token0: {
-        address: "0x19df5689cfce64bc2a55f7220b0cd522659955ef",
-      },
-      token1: {
-        address: "0x4200000000000000000000000000000000000006",
-      },
-    },
-    {
-      symbol: "ZRC/WETH",
-      title: "Steer (Classic Rebalance)",
-      type: "Classic Rebalance",
-      strategist: "Steer",
-      startBlock: 7058183,
-      allowed0: true,
-      allowed1: true,
-      address: "0x2cbcc27a9d4497342c3b7ce67152f447fe63d42a",
-      url: "https://app.steer.finance/vault/0x2cbcc27a9d4497342c3b7ce67152f447fe63d42a",
-      token0: {
-        address: "0x4200000000000000000000000000000000000006",
-      },
-      token1: {
-        address: "0xfd418e42783382e86ae91e445406600ba144d162",
-      },
-    },
     // DefiEdge
     {
       symbol: "USDC/DAI Stable",
@@ -1114,6 +1046,74 @@ export const strategies = {
       },
       token1: {
         address: "0x4200000000000000000000000000000000000006",
+      },
+    },
+    {
+      symbol: "USDT/WETH",
+      title: "Steer (Classic Rebalance)",
+      type: "Classic Rebalance",
+      strategist: "Steer",
+      startBlock: 7034477,
+      allowed0: true,
+      allowed1: true,
+      address: "0x4f84351f2124bd4ba820730d3643984344ca481f",
+      url: "https://app.steer.finance/vault/0x4f84351f2124bd4ba820730d3643984344ca481f",
+      token0: {
+        address: "0x4200000000000000000000000000000000000006",
+      },
+      token1: {
+        address: "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
+      },
+    },
+    {
+      symbol: "USDC/WETH",
+      title: "Steer (Classic Rebalance)",
+      type: "Classic Rebalance",
+      strategist: "Steer",
+      startBlock: 7034361,
+      allowed0: true,
+      allowed1: true,
+      address: "0xbfff632091ce8d5bcc2bd960c419afd0291d13b4",
+      url: "https://app.steer.finance/vault/0xbfff632091ce8d5bcc2bd960c419afd0291d13b4",
+      token0: {
+        address: "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
+      },
+      token1: {
+        address: "0x4200000000000000000000000000000000000006",
+      },
+    },
+    {
+      symbol: "WBTC/WETH",
+      title: "Steer (Classic Rebalance)",
+      type: "Classic Rebalance",
+      strategist: "Steer",
+      startBlock: 7021888,
+      allowed0: true,
+      allowed1: true,
+      address: "0xe9962ab730b9fe4b5186278b6b55152ea2ccf793",
+      url: " https://app.steer.finance/vault/0xe9962ab730b9fe4b5186278b6b55152ea2ccf793",
+      token0: {
+        address: "0x19df5689cfce64bc2a55f7220b0cd522659955ef",
+      },
+      token1: {
+        address: "0x4200000000000000000000000000000000000006",
+      },
+    },
+    {
+      symbol: "ZRC/WETH",
+      title: "Steer (Classic Rebalance)",
+      type: "Classic Rebalance",
+      strategist: "Steer",
+      startBlock: 7058183,
+      allowed0: true,
+      allowed1: true,
+      address: "0x2cbcc27a9d4497342c3b7ce67152f447fe63d42a",
+      url: "https://app.steer.finance/vault/0x2cbcc27a9d4497342c3b7ce67152f447fe63d42a",
+      token0: {
+        address: "0x4200000000000000000000000000000000000006",
+      },
+      token1: {
+        address: "0xfd418e42783382e86ae91e445406600ba144d162",
       },
     },
     {
