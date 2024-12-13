@@ -139,6 +139,16 @@
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-mainnet-lists/tokens/assets/ZRC.png"
     },
     {
+      "chainId": 48900,
+      "chainURI": "https://explorer.zircuit.com/block/0",
+      "tokenId": "https://explorer.zircuit.com/address/0xA608512BBC9934E4b1DDeCF0F5Fb38b6Ad93308D",
+      "address": "0xA608512BBC9934E4b1DDeCF0F5Fb38b6Ad93308D",
+      "name": "Gud.Tech",
+      "symbol": "GUD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/GUD.png"
+    },
+    {
       "chainId": 48899,
       "chainURI": "https://explorer.zircuit.com/block/0",
       "tokenId": "https://explorer.zircuit.com/address/0x58024021Fe3eF613fA76e2f36A3Da97eb1454C36",
