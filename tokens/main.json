@@ -149,6 +149,18 @@
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/GUD.png"
     },
     {
+      "chainId": 48900,
+      "chainURI": "https://explorer.zircuit.com/block/0",
+      "tokenId": "https://explorer.zircuit.com/address/0x2af315fcCBD9dCA3A76B704A159a4A80124532DF",
+      "address": "0x2af315fcCBD9dCA3A76B704A159a4A80124532DF",
+      "name": "Brive Vote Escrow Ocelex",
+      "symbol": "bveOCX",
+      "decimals": 18,
+      "createdAt": "2024-12-10",
+      "updatedAt": "2024-12-17",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-lists/tokens/assets/bveOCX.png"
+    },
+    {
       "chainId": 48899,
       "chainURI": "https://explorer.zircuit.com/block/0",
       "tokenId": "https://explorer.zircuit.com/address/0x58024021Fe3eF613fA76e2f36A3Da97eb1454C36",
