@@ -136,6 +136,42 @@
       "percentage": 70
     },
     {
+      "symbol": "WETH/OCX Yield IQ (WETH)",
+      "title": "Yield IQ (WETH)",
+      "type": "YieldIQ",
+      "strategist": "Ichi",
+      "allowed0": true,
+      "allowed1": false,
+      "address": "0xeEEA06204DDc3ac67f4c9DD145c98be33F46C24a",
+      "depositToken": "0x4200000000000000000000000000000000000006",
+      "token0": {
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "token1": {
+        "address": "0x58024021Fe3eF613fA76e2f36A3Da97eb1454C36"
+      },
+      "promoted": false,
+      "percentage": 70
+    },
+    {
+      "symbol": "USDC/OCX Yield IQ (USDC)",
+      "title": "Yield IQ (USDC)",
+      "type": "YieldIQ",
+      "strategist": "Ichi",
+      "allowed0": true,
+      "allowed1": false,
+      "address": "0x6E1d274Fe62eb856DEB71ED9db45cB95e2e3388D",
+      "depositToken": "0x3b952c8C9C44e8Fe201e2b26F6B2200203214cfF",
+      "token0": {
+        "address": "0x3b952c8C9C44e8Fe201e2b26F6B2200203214cfF"
+      },
+      "token1": {
+        "address": "0x58024021Fe3eF613fA76e2f36A3Da97eb1454C36"
+      },
+      "promoted": false,
+      "percentage": 70
+    },
+    {
       "symbol": "WETH/USDT Narrow",
       "title": "Gamma Narrow",
       "type": "Narrow",
