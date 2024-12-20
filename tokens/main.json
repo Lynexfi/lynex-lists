@@ -42,7 +42,7 @@
       "decimals": 18,
       "createdAt": "2024-10-16",
       "updatedAt": "2024-10-16",
-      "logoURI": "https://assets.coingecko.com/coins/images/18834/standard/wstETH.png"
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/wstETH.png"
     },
     {
       "chainId": 48900,
