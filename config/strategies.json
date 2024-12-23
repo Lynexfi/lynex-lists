@@ -262,6 +262,36 @@
       }
     },
     {
+      "symbol": "GUD/ZRC Narrow",
+      "title": "Gamma Narrow",
+      "type": "Narrow",
+      "strategist": "Gamma",
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x4d4a316774Ae3f294905E530Bf19221E427E1Dd9",
+      "token0": {
+        "address": "0xA608512BBC9934E4b1DDeCF0F5Fb38b6Ad93308D"
+      },
+      "token1": {
+        "address": "0xfd418e42783382E86Ae91e445406600Ba144D162"
+      }
+    },
+    {
+      "symbol": "wrsETH/WETH Correlated",
+      "title": "Gamma Correlated",
+      "type": "Narrow",
+      "strategist": "Gamma",
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x9Ed3c5382Dc6d13AAD0fD19536e7e2D427D9656C",
+      "token0": {
+        "address": "0x311a51Ff8839B6afcAA9426BdBffDF2e70A0dA25"
+      },
+      "token1": {
+        "address": "0x4200000000000000000000000000000000000006"
+      }
+    },
+    {
       "symbol": "ezETH/WETH Correlated",
       "title": "Steer Correlated",
       "type": "Correlated",
@@ -360,18 +390,20 @@
       }
     },
     {
-      "symbol": "wrsETH/WETH Correlated",
-      "title": "Gamma Correlated",
-      "type": "Narrow",
-      "strategist": "Gamma",
+      "symbol": "GUD/ZRC",
+      "title": "Steer (Classic Rebalance)",
+      "type": "Classic Rebalance",
+      "strategist": "Steer",
+      "startBlock": 7392401,
       "allowed0": true,
       "allowed1": true,
-      "address": "0x9Ed3c5382Dc6d13AAD0fD19536e7e2D427D9656C",
+      "address": "0x9a3a74b7ecc0f2c838a1de6c8253a458b56c7ffb",
+      "url": "https://app.steer.finance/vault/0x9a3a74b7ecc0f2c838a1de6c8253a458b56c7ffb",
       "token0": {
-        "address": "0x311a51Ff8839B6afcAA9426BdBffDF2e70A0dA25"
+        "address": "0xa608512bbc9934e4b1ddecf0f5fb38b6ad93308d"
       },
       "token1": {
-        "address": "0x4200000000000000000000000000000000000006"
+        "address": "0xfd418e42783382e86ae91e445406600ba144d162"
       }
     }
   ],
