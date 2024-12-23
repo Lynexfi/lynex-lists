@@ -45,6 +45,15 @@
     "bribe": "0x08a4f94a59ad02cbfe68e8d71a7fcb7802cac76b"
   },
   {
+    "address": "0x2cbcc27a9d4497342c3b7ce67152f447fe63d42a",
+    "symbol": "WETH/ZRC (Classic Rebalance)",
+    "gauge": "0x2518f68c9579ca0d4fea569f2473eac8faac4120",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0xfd418e42783382e86ae91e445406600ba144d162",
+    "isStrategy": true,
+    "bribe": "0x906eac11177e0c8fab1c1f1d51091f50e3cd9a93"
+  },
+  {
     "address": "0x318e378b6ec1590315e5e8160a2ef28308ae7cfc",
     "symbol": "WETH/USDT (Narrow)",
     "gauge": "0xbef9ffeb53b8ee653536c5fb4f2f6e0d97d60925",
@@ -52,6 +61,24 @@
     "token1": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
     "isStrategy": true,
     "bribe": "0x80700f33e7938497d39e0a36c9d81a4bae92f7f2"
+  },
+  {
+    "address": "0x4d4a316774ae3f294905e530bf19221e427e1dd9",
+    "symbol": "GUD/ZRC (Narrow)",
+    "gauge": "0xeb4b6d211869999d87e57aabb68df4aa8f2fd133",
+    "token0": "0xa608512bbc9934e4b1ddecf0f5fb38b6ad93308d",
+    "token1": "0xfd418e42783382e86ae91e445406600ba144d162",
+    "isStrategy": true,
+    "bribe": "0x5c24d11e550b8bb5dded939bde49f9963f67be01"
+  },
+  {
+    "address": "0x4f84351f2124bd4ba820730d3643984344ca481f",
+    "symbol": "WETH/USDT (Classic Rebalance)",
+    "gauge": "0x99f78ac6b68fdb67b770d0a1cc2b492e24c458b5",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
+    "isStrategy": true,
+    "bribe": "0x61a114432f42cbcbf76c5dca076bfcb596ad60c8"
   },
   {
     "address": "0x506bab07ddbe5c1d81889a42f43ed87bc1b0b1ee",
@@ -99,6 +126,15 @@
     "bribe": "0xf6758a10d076c770874ee683199439abcf53f635"
   },
   {
+    "address": "0x6e1d274fe62eb856deb71ed9db45cb95e2e3388d",
+    "symbol": "USDC.e/OCX (YieldIQ)",
+    "gauge": "0x7dfcbed9d4aa982553ce79fc178e6304967b388a",
+    "token0": "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
+    "token1": "0x58024021fe3ef613fa76e2f36a3da97eb1454c36",
+    "isStrategy": true,
+    "bribe": "0xe97b3a393ca91a365c7a8784cac4e6dc6ce82f21"
+  },
+  {
     "address": "0x8118c33513fec13f8cf488ccb4509190650f0e92",
     "symbol": "USDC.e/USDT (Stable)",
     "gauge": "0xabb1f2fafe3829b31552bf81c74aa61ca521f3b5",
@@ -142,6 +178,24 @@
     "token1": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
     "isStrategy": false,
     "bribe": "0x92d0a22e6c32193dc5960560f75ae5c338033314"
+  },
+  {
+    "address": "0x9a3a74b7ecc0f2c838a1de6c8253a458b56c7ffb",
+    "symbol": "GUD/ZRC (Classic Rebalance)",
+    "gauge": "0xa577f24481df9876a2fea2b1a94a15cbfe46ec2c",
+    "token0": "0xa608512bbc9934e4b1ddecf0f5fb38b6ad93308d",
+    "token1": "0xfd418e42783382e86ae91e445406600ba144d162",
+    "isStrategy": true,
+    "bribe": "0x95548e29aa004abc598e26a943864f8a6ed487bd"
+  },
+  {
+    "address": "0x9ac11fc3de0533d6a0db68e78991aaed0c7a48c8",
+    "symbol": "WETH/ZRC (YieldIQ)",
+    "gauge": "0x1d4f6f58eb8fd1aa602d5e98e8e2468422f2ded6",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0xfd418e42783382e86ae91e445406600ba144d162",
+    "isStrategy": true,
+    "bribe": "0x462d29e9a584e409134d84a5c7ddef0c994fb36f"
   },
   {
     "address": "0x9ed3c5382dc6d13aad0fd19536e7e2d427d9656c",
@@ -198,6 +252,15 @@
     "bribe": "0x39d9f5f5858a37f5c13994fc0ffe3dc20d59df03"
   },
   {
+    "address": "0xbfff632091ce8d5bcc2bd960c419afd0291d13b4",
+    "symbol": "USDC.e/WETH (Classic Rebalance)",
+    "gauge": "0xf760e68fd9ad662f49d8d5a7e0fa19e1e0594c6c",
+    "token0": "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
+    "token1": "0x4200000000000000000000000000000000000006",
+    "isStrategy": true,
+    "bribe": "0xef1a9def46449a0f4b4dd333036f55cd84471a6d"
+  },
+  {
     "address": "0xc14ee8d65f5e9d42e00518776711753c258655ef",
     "symbol": "WETH/USDT (YieldIQ)",
     "gauge": "0x03fb0de6e67b76a01dfa0406c96a57a3640ff00a",
@@ -232,6 +295,24 @@
     "token1": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
     "isStrategy": false,
     "bribe": "0x7a3ca9b72a3d608a80d15582638b0984b906e9ec"
+  },
+  {
+    "address": "0xe9962ab730b9fe4b5186278b6b55152ea2ccf793",
+    "symbol": "WBTC.e/WETH (Classic Rebalance)",
+    "gauge": "0xbbd17d0fe0bea8170e3697e698e4766b33097fba",
+    "token0": "0x19df5689cfce64bc2a55f7220b0cd522659955ef",
+    "token1": "0x4200000000000000000000000000000000000006",
+    "isStrategy": true,
+    "bribe": "0x24997f04ba4350c01c3666b5158c1e864a90b048"
+  },
+  {
+    "address": "0xeeea06204ddc3ac67f4c9dd145c98be33f46c24a",
+    "symbol": "WETH/OCX (YieldIQ)",
+    "gauge": "0x17b69c33fb1acaa9b8974f686694c218bacaba58",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0x58024021fe3ef613fa76e2f36a3da97eb1454c36",
+    "isStrategy": true,
+    "bribe": "0x352fab5c8921128cfd4475e6b986e31a1c687c0b"
   },
   {
     "address": "0xf9a5f5229dba326b656e363c323714cb7ce24248",
