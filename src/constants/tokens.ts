@@ -1,6 +1,6 @@
 import { Token, ChainId } from "../types/index";
 
-// This part of this repo is created in case will be usable in the future.
+// THIS PART OF LISTS REPO BEEN BUILT JUST IN CASE AND NOT IN USE ANYWHERE [DATE: 24.12.2024]
 export const tokens: { [key: string]: Token } = {
   lynx: {
     name: "Lynex",
