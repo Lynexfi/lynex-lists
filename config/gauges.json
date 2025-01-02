@@ -567,6 +567,15 @@
     "bribe": "0xbe7710e45060bb9bc1c2d7cc8f6084d15288d955"
   },
   {
+    "address": "0x905e01a568f4e595d3e1889a4c4d82d441bc9ef9",
+    "symbol": "USDC/WETH (Long-Short)",
+    "gauge": "0x1eee543f328fb9cdbc655dc269f8fb7f614c97b1",
+    "token0": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+    "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+    "isStrategy": true,
+    "bribe": "0xf4e7508a7b6924dbbbf000cbdf6c724dc965b3f9"
+  },
+  {
     "address": "0x908ebbeab8c4bb1d3f1182ecc3f5d95ef34f47b1",
     "symbol": "LLL/WETH (Wide)",
     "gauge": "0x5cd52cf135775efd34cc680e3c38807e07961a69",
@@ -862,6 +871,15 @@
     "token1": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
     "isStrategy": false,
     "bribe": "0x90691596fc62b14f7d5fe431ddc6ffa47105cf40"
+  },
+  {
+    "address": "0xcbd199dac72793139de3fc6026d8d0da5f833154",
+    "symbol": "sAMM-LYNX/FOXY",
+    "gauge": "0xd7d25bb8c0f27411004fe3a2c5e0e7cbee206d33",
+    "token0": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
+    "token1": "0x5fbdf89403270a1846f5ae7d113a989f850d1566",
+    "isStrategy": false,
+    "bribe": "0x8c15c9977b5a68ae6e51dd80c21bb74318aaded7"
   },
   {
     "address": "0xcc2be07ad5d1bd4621726cfddbef2ffd248b8d70",
