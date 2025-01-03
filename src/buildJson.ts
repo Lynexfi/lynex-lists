@@ -3,17 +3,6 @@ import path from "path";
 import { tokens } from "./constants/tokens";
 import { strategies } from "./constants/strategies";
 
-const strategyJsonFileNames: Record<string, string> = {
-  "48900": "zircuitStrategies",
-  "59144": "lineaStrategies",
-  "59140": "lineaTestnetStrategies",
-};
-
-const tokenJsonFileNames: Record<string, string> = {
-  "48900": "zircuitTokens",
-  "59144": "lineaTokens",
-};
-
 // Function to write JSON files
 function writeJSON(fileName: string, data: any): void {
   const dirPath = path.resolve(__dirname, "../config");
@@ -33,10 +22,12 @@ function generateStrategyFiles() {
     fs.mkdirSync(dirPath, { recursive: true });
   }
 
-  Object.entries(strategies).forEach(([key, value]) => {
-    const fileName = strategyJsonFileNames[key] || `strategies_${key}`;
-    writeJSON(path.join("strategies", fileName), value);
+  Object.entries(strategies).forEach(([chainId, value]) => {
+    writeJSON(path.join("strategies", chainId), value);
   });
+
+  // Generate all.json for strategies
+  writeJSON(path.join("strategies", "all"), strategies);
 
   console.log(
     "🍑🍑Strategy JSON files have been generated in the config/strategies directory!🍑🍑"
@@ -50,10 +41,12 @@ function generateTokenFiles() {
     fs.mkdirSync(dirPath, { recursive: true });
   }
 
-  Object.entries(tokens).forEach(([key, value]) => {
-    const fileName = tokenJsonFileNames[key] || `tokens_${key}`;
-    writeJSON(path.join("tokens", fileName), value);
+  Object.entries(tokens).forEach(([chainId, value]) => {
+    writeJSON(path.join("tokens", chainId), value);
   });
+
+  // Generate all.json for tokens
+  writeJSON(path.join("tokens", "all"), tokens);
 
   console.log(
     "🍌🍌Token JSON files have been generated in the config/tokens directory!🍌🍌"
