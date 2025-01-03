@@ -1,0 +1,344 @@
+[
+  {
+    "address": "0x052f713fc84df7ff2bd450d226d4b2781f55fba8",
+    "symbol": "vAMM-ezETH/WETH",
+    "gauge": "0x18c328a545b48e69342792b4f09a8b048e7ec483",
+    "token0": "0x2416092f143378750bb29b79ed961ab195cceea5",
+    "token1": "0x4200000000000000000000000000000000000006",
+    "isStrategy": false,
+    "bribe": "0xbcf20e5dd9d6a676ce4e0aa8dd3788194907e431"
+  },
+  {
+    "address": "0x09a8ebb5bf22b1da81835164d6653fa1d57dbbee",
+    "symbol": "WETH/STONE (Narrow)",
+    "gauge": "0x81d6d6bad0df3bbcb5bd2bdda0417bde4046d184",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0x80137510979822322193fc997d400d5a6c747bf7",
+    "isStrategy": true,
+    "bribe": "0x98947b89f95f6d04e681f461628019f25bd69b8a"
+  },
+  {
+    "address": "0x1206fb230f60062fbe38c571ee689ec9127ef097",
+    "symbol": "WETH/USDT (YieldIQ)",
+    "gauge": "0xe8a11f4761de8169027a6f1f8d1351b9eaccfb15",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
+    "isStrategy": true,
+    "bribe": "0x6d4630fe5ee86749e8f2c6243e33f7dd9872a1cb"
+  },
+  {
+    "address": "0x181f22f21d1f0228d99741a5a84954ce78db1137",
+    "symbol": "ZRC/WETH (Narrow)",
+    "gauge": "0xc58b6be564b91329ffd77d6d5676259161b2092a",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0xfd418e42783382e86ae91e445406600ba144d162",
+    "isStrategy": true,
+    "bribe": "0x72f20dbfbdab6c8103e6b4c42131e1ca58f31f04"
+  },
+  {
+    "address": "0x1ece78b38845518a018a60ec919af470aa4f512f",
+    "symbol": "WBTC/WETH (YieldIQ)",
+    "gauge": "0xdb44a36d89f59d4e2c4898997bf2f6fbf0e7d520",
+    "token0": "0x19df5689cfce64bc2a55f7220b0cd522659955ef",
+    "token1": "0x4200000000000000000000000000000000000006",
+    "isStrategy": true,
+    "bribe": "0x08a4f94a59ad02cbfe68e8d71a7fcb7802cac76b"
+  },
+  {
+    "address": "0x2cbcc27a9d4497342c3b7ce67152f447fe63d42a",
+    "symbol": "ZRC/WETH (Classic Rebalance)",
+    "gauge": "0x2518f68c9579ca0d4fea569f2473eac8faac4120",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0xfd418e42783382e86ae91e445406600ba144d162",
+    "isStrategy": true,
+    "bribe": "0x906eac11177e0c8fab1c1f1d51091f50e3cd9a93"
+  },
+  {
+    "address": "0x318e378b6ec1590315e5e8160a2ef28308ae7cfc",
+    "symbol": "WETH/USDT (Narrow)",
+    "gauge": "0xbef9ffeb53b8ee653536c5fb4f2f6e0d97d60925",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
+    "isStrategy": true,
+    "bribe": "0x80700f33e7938497d39e0a36c9d81a4bae92f7f2"
+  },
+  {
+    "address": "0x4d4a316774ae3f294905e530bf19221e427e1dd9",
+    "symbol": "GUD/ZRC (Narrow)",
+    "gauge": "0xeb4b6d211869999d87e57aabb68df4aa8f2fd133",
+    "token0": "0xa608512bbc9934e4b1ddecf0f5fb38b6ad93308d",
+    "token1": "0xfd418e42783382e86ae91e445406600ba144d162",
+    "isStrategy": true,
+    "bribe": "0x5c24d11e550b8bb5dded939bde49f9963f67be01"
+  },
+  {
+    "address": "0x4f84351f2124bd4ba820730d3643984344ca481f",
+    "symbol": "USDT/WETH (Classic Rebalance)",
+    "gauge": "0x99f78ac6b68fdb67b770d0a1cc2b492e24c458b5",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
+    "isStrategy": true,
+    "bribe": "0x61a114432f42cbcbf76c5dca076bfcb596ad60c8"
+  },
+  {
+    "address": "0x506bab07ddbe5c1d81889a42f43ed87bc1b0b1ee",
+    "symbol": "vAMM-WETH/USDe",
+    "gauge": "0x62aeed60dda65d03daad5913c9ab9f7b93875d95",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "isStrategy": false,
+    "bribe": "0xd2304217ad884a0b7e2b650414ac9999abaeab1e"
+  },
+  {
+    "address": "0x53bcc093d2cb6de857e296a9e723f58c4f2876a0",
+    "symbol": "WETH/wstETH (Narrow)",
+    "gauge": "0x2f36acc3a9e219f4236f7ec5ca9866cb2bbbbcec",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0xf0e673bc224a8ca3ff67a61605814666b1234833",
+    "isStrategy": true,
+    "bribe": "0x269df2e57cf2c818b590e91f08dbc805856ce0b9"
+  },
+  {
+    "address": "0x64d3bde1674a01bf5a9cf78f809056ac5580d579",
+    "symbol": "vAMM-USDT/USDe",
+    "gauge": "0x7f50c27a3360f261125bd17a95eb11cda3d3c18f",
+    "token0": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
+    "token1": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "isStrategy": false,
+    "bribe": "0x9df1e136213307551f5f5da0018992c91e49b04a"
+  },
+  {
+    "address": "0x6a9641bf145af165388e6856a6183e1f095db8fa",
+    "symbol": "USDe/USDT (Stable)",
+    "gauge": "0x2efd7186a8367239cd7bf42c5476406a8e0d10e2",
+    "token0": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
+    "token1": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "isStrategy": true,
+    "bribe": "0xb46b49988b03aacb1bfee994e5ea60c8e7f9528d"
+  },
+  {
+    "address": "0x6aa97b8fa97b18a26694442d72623a995d5c91f6",
+    "symbol": "sAMM-USDT/USDe",
+    "gauge": "0x94a5f1d7d982b5f746de85d3be0729e65a716fd1",
+    "token0": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
+    "token1": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "isStrategy": false,
+    "bribe": "0xf6758a10d076c770874ee683199439abcf53f635"
+  },
+  {
+    "address": "0x6e1d274fe62eb856deb71ed9db45cb95e2e3388d",
+    "symbol": "USDC/OCX (YieldIQ)",
+    "gauge": "0x7dfcbed9d4aa982553ce79fc178e6304967b388a",
+    "token0": "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
+    "token1": "0x58024021fe3ef613fa76e2f36a3da97eb1454c36",
+    "isStrategy": true,
+    "bribe": "0xe97b3a393ca91a365c7a8784cac4e6dc6ce82f21"
+  },
+  {
+    "address": "0x8118c33513fec13f8cf488ccb4509190650f0e92",
+    "symbol": "USDC/USDT (Stable)",
+    "gauge": "0xabb1f2fafe3829b31552bf81c74aa61ca521f3b5",
+    "token0": "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
+    "token1": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
+    "isStrategy": true,
+    "bribe": "0xda6aee01ddde0225793ecae2090a2e27a3d3bba2"
+  },
+  {
+    "address": "0x81fea22e4af1dd4d58b47c068752b0f0908ca039",
+    "symbol": "sAMM-weETH/WETH",
+    "gauge": "0xac175e12f19975dfff928b2ca87eef8314e67554",
+    "token0": "0x3535df6e1d776631d0cba53fe9efd34bcbdceed4",
+    "token1": "0x4200000000000000000000000000000000000006",
+    "isStrategy": false,
+    "bribe": "0x76de1cd385fcd6080c5af9ec15ad674fde73e9c7"
+  },
+  {
+    "address": "0x907e0035661bf239a2c9b9cbf7cc87e3d240c848",
+    "symbol": "vAMM-USDC.e/WETH",
+    "gauge": "0xf5b5723b1f4208e039d0afd5045430f51e10c854",
+    "token0": "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
+    "token1": "0x4200000000000000000000000000000000000006",
+    "isStrategy": false,
+    "bribe": "0x27d93ff21eac1f5b925a143441b531b37a6dbec4"
+  },
+  {
+    "address": "0x911bfbaca43f117e52197ae62d439d6a645c8886",
+    "symbol": "WETH/USDe (Narrow)",
+    "gauge": "0xea9035ee9fd07dd2772ff56345eb45ef602c7499",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "isStrategy": true,
+    "bribe": "0x4a26355fce1c898e0493c2cc89b89d53be677ec5"
+  },
+  {
+    "address": "0x951184b8adcf92d6e3594abe0cdcf21b46704412",
+    "symbol": "vAMM-WETH/USDT",
+    "gauge": "0x92109119b3d9d5233047c8e7a040bd7cfff9cb9f",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
+    "isStrategy": false,
+    "bribe": "0x92d0a22e6c32193dc5960560f75ae5c338033314"
+  },
+  {
+    "address": "0x9a3a74b7ecc0f2c838a1de6c8253a458b56c7ffb",
+    "symbol": "GUD/ZRC (Classic Rebalance)",
+    "gauge": "0xa577f24481df9876a2fea2b1a94a15cbfe46ec2c",
+    "token0": "0xa608512bbc9934e4b1ddecf0f5fb38b6ad93308d",
+    "token1": "0xfd418e42783382e86ae91e445406600ba144d162",
+    "isStrategy": true,
+    "bribe": "0x95548e29aa004abc598e26a943864f8a6ed487bd"
+  },
+  {
+    "address": "0x9ac11fc3de0533d6a0db68e78991aaed0c7a48c8",
+    "symbol": "ZRC/WETH (YieldIQ)",
+    "gauge": "0x1d4f6f58eb8fd1aa602d5e98e8e2468422f2ded6",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0xfd418e42783382e86ae91e445406600ba144d162",
+    "isStrategy": true,
+    "bribe": "0x462d29e9a584e409134d84a5c7ddef0c994fb36f"
+  },
+  {
+    "address": "0x9ed3c5382dc6d13aad0fd19536e7e2d427d9656c",
+    "symbol": "wrsETH/WETH (Narrow)",
+    "gauge": "0x8cfff3e98366f3cd4f1eb2b193fd3069185862a9",
+    "token0": "0x311a51ff8839b6afcaa9426bdbffdf2e70a0da25",
+    "token1": "0x4200000000000000000000000000000000000006",
+    "isStrategy": true,
+    "bribe": "0x181e02ad86c0b242a6b74ab6186de17ce7c39103"
+  },
+  {
+    "address": "0xa9dbab55fe180c1d4c2892fc41bad3d946faca89",
+    "symbol": "vAMM-USDC.e/OCX",
+    "gauge": "0xe7966b3444aec90de4fb857d6d3c054e849f7714",
+    "token0": "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
+    "token1": "0x58024021fe3ef613fa76e2f36a3da97eb1454c36",
+    "isStrategy": false,
+    "bribe": "0x83b00083b8a20f58764c2dc204a7940b1c445c6c"
+  },
+  {
+    "address": "0xad81a9c5304f9ea016c9c03bbf95f2acc3b0274a",
+    "symbol": "weETH/WETH (Correlated)",
+    "gauge": "0xf1617e423ba55813b3282100e91e3f9e544787f2",
+    "token0": "0x3535df6e1d776631d0cba53fe9efd34bcbdceed4",
+    "token1": "0x4200000000000000000000000000000000000006",
+    "isStrategy": true,
+    "bribe": "0x459d5357b0e8a4de0bd763ea31a71c8cb9d9fd0c"
+  },
+  {
+    "address": "0xbc9a377f56765ab35075e1c7ec7926cdc8417d5f",
+    "symbol": "ezETH/WETH (Correlated)",
+    "gauge": "0x791871733b88f7d5b88f7d9660a39853d69f1462",
+    "token0": "0x2416092f143378750bb29b79ed961ab195cceea5",
+    "token1": "0x4200000000000000000000000000000000000006",
+    "isStrategy": true,
+    "bribe": "0x77b1c4bb57cfbb73cd8cc703b4fe7c9b11f05390"
+  },
+  {
+    "address": "0xbd3332466d13588b1bfe8673b58190645bfe26be",
+    "symbol": "WBTC/WETH (Narrow)",
+    "gauge": "0xe903ffb1c0b66e68e7a3dad16f57486f92096961",
+    "token0": "0x19df5689cfce64bc2a55f7220b0cd522659955ef",
+    "token1": "0x4200000000000000000000000000000000000006",
+    "isStrategy": true,
+    "bribe": "0x1cc158a0c51e47ac89d3ebf76c62aed843adfbba"
+  },
+  {
+    "address": "0xbf65e0c82e2ee0cd0e42c9cdfa36027d0b32762d",
+    "symbol": "vAMM-USDT/ZRC",
+    "gauge": "0x22bf2e76eaef2721981e3e3c3e184ded2bd7a561",
+    "token0": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
+    "token1": "0xfd418e42783382e86ae91e445406600ba144d162",
+    "isStrategy": false,
+    "bribe": "0x39d9f5f5858a37f5c13994fc0ffe3dc20d59df03"
+  },
+  {
+    "address": "0xbfff632091ce8d5bcc2bd960c419afd0291d13b4",
+    "symbol": "USDC/WETH (Classic Rebalance)",
+    "gauge": "0xf760e68fd9ad662f49d8d5a7e0fa19e1e0594c6c",
+    "token0": "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
+    "token1": "0x4200000000000000000000000000000000000006",
+    "isStrategy": true,
+    "bribe": "0xef1a9def46449a0f4b4dd333036f55cd84471a6d"
+  },
+  {
+    "address": "0xc14ee8d65f5e9d42e00518776711753c258655ef",
+    "symbol": "USDT/WETH (YieldIQ)",
+    "gauge": "0x03fb0de6e67b76a01dfa0406c96a57a3640ff00a",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
+    "isStrategy": true,
+    "bribe": "0xbe40ab7d6d81bd828407a3fc2b27d552c9339639"
+  },
+  {
+    "address": "0xd9da08b8c5f469a033ac1218659dd62b8480fd78",
+    "symbol": "vAMM-WETH/ZRC",
+    "gauge": "0x3bd0bff165d58260e3fd30917c639807b308fa77",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0xfd418e42783382e86ae91e445406600ba144d162",
+    "isStrategy": false,
+    "bribe": "0xe0b9746f34e76de91cc70652988c261a3dbff521"
+  },
+  {
+    "address": "0xe284e8ad2ba6a10baeaac270e846aa3993db485d",
+    "symbol": "WETH/WBTC (YieldIQ)",
+    "gauge": "0xfd568a0c85b773626d607711da9a688aa79d9ff4",
+    "token0": "0x19df5689cfce64bc2a55f7220b0cd522659955ef",
+    "token1": "0x4200000000000000000000000000000000000006",
+    "isStrategy": true,
+    "bribe": "0x081bd951cbf64400503c4d4d1ab3cb5b91105f66"
+  },
+  {
+    "address": "0xe6806d1bfadf76efc73f876f86ef01f8f2d72fb7",
+    "symbol": "sAMM-WETH/USDe",
+    "gauge": "0xba7fb6ce978cf610bcb699d85e70334e3ff89a58",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "isStrategy": false,
+    "bribe": "0x7a3ca9b72a3d608a80d15582638b0984b906e9ec"
+  },
+  {
+    "address": "0xe9962ab730b9fe4b5186278b6b55152ea2ccf793",
+    "symbol": "WBTC/WETH (Classic Rebalance)",
+    "gauge": "0xbbd17d0fe0bea8170e3697e698e4766b33097fba",
+    "token0": "0x19df5689cfce64bc2a55f7220b0cd522659955ef",
+    "token1": "0x4200000000000000000000000000000000000006",
+    "isStrategy": true,
+    "bribe": "0x24997f04ba4350c01c3666b5158c1e864a90b048"
+  },
+  {
+    "address": "0xeeea06204ddc3ac67f4c9dd145c98be33f46c24a",
+    "symbol": "WETH/OCX (YieldIQ)",
+    "gauge": "0x17b69c33fb1acaa9b8974f686694c218bacaba58",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0x58024021fe3ef613fa76e2f36a3da97eb1454c36",
+    "isStrategy": true,
+    "bribe": "0x352fab5c8921128cfd4475e6b986e31a1c687c0b"
+  },
+  {
+    "address": "0xf9a5f5229dba326b656e363c323714cb7ce24248",
+    "symbol": "vAMM-USDC.e/USDT",
+    "gauge": "0x474384939cd9964f9bc246bd6e8b65bbc7546f39",
+    "token0": "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
+    "token1": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
+    "isStrategy": false,
+    "bribe": "0x2e80ef3cd36b5914d7e8225cfe3901e9501f1b41"
+  },
+  {
+    "address": "0xfcdd868d81dd18e8ade649bf7bca354ca13fc723",
+    "symbol": "USDC/WETH (Narrow)",
+    "gauge": "0xc99361e1e9d561bb57b5ef10d8518b8cb25b64d5",
+    "token0": "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
+    "token1": "0x4200000000000000000000000000000000000006",
+    "isStrategy": true,
+    "bribe": "0x0718ebfc7a9fca5b2ed0961d62cfd21388d33fac"
+  },
+  {
+    "address": "0xffe296604ec5822475c627cecb91a03365f99574",
+    "symbol": "sAMM-USDC.e/USDT",
+    "gauge": "0x47b7a70525799d285e6e13eea58c317716933490",
+    "token0": "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
+    "token1": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
+    "isStrategy": false,
+    "bribe": "0xbd6d40f2a6cfee1de23211fbf99ef6d79b44fb9f"
+  }
+]

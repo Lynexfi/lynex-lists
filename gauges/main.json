@@ -29,7 +29,7 @@
     },
     {
       "address": "0x181f22f21d1f0228d99741a5a84954ce78db1137",
-      "symbol": "WETH/ZRC (Narrow)",
+      "symbol": "ZRC/WETH (Narrow)",
       "gauge": "0xc58b6be564b91329ffd77d6d5676259161b2092a",
       "token0": "0x4200000000000000000000000000000000000006",
       "token1": "0xfd418e42783382e86ae91e445406600ba144d162",
@@ -38,7 +38,7 @@
     },
     {
       "address": "0x1ece78b38845518a018a60ec919af470aa4f512f",
-      "symbol": "WBTC.e/WETH (YieldIQ)",
+      "symbol": "WBTC/WETH (YieldIQ)",
       "gauge": "0xdb44a36d89f59d4e2c4898997bf2f6fbf0e7d520",
       "token0": "0x19df5689cfce64bc2a55f7220b0cd522659955ef",
       "token1": "0x4200000000000000000000000000000000000006",
@@ -47,7 +47,7 @@
     },
     {
       "address": "0x2cbcc27a9d4497342c3b7ce67152f447fe63d42a",
-      "symbol": "WETH/ZRC (Classic Rebalance)",
+      "symbol": "ZRC/WETH (Classic Rebalance)",
       "gauge": "0x2518f68c9579ca0d4fea569f2473eac8faac4120",
       "token0": "0x4200000000000000000000000000000000000006",
       "token1": "0xfd418e42783382e86ae91e445406600ba144d162",
@@ -74,7 +74,7 @@
     },
     {
       "address": "0x4f84351f2124bd4ba820730d3643984344ca481f",
-      "symbol": "WETH/USDT (Classic Rebalance)",
+      "symbol": "USDT/WETH (Classic Rebalance)",
       "gauge": "0x99f78ac6b68fdb67b770d0a1cc2b492e24c458b5",
       "token0": "0x4200000000000000000000000000000000000006",
       "token1": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
@@ -110,7 +110,7 @@
     },
     {
       "address": "0x6a9641bf145af165388e6856a6183e1f095db8fa",
-      "symbol": "USDT/USDe (Stable)",
+      "symbol": "USDe/USDT (Stable)",
       "gauge": "0x2efd7186a8367239cd7bf42c5476406a8e0d10e2",
       "token0": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
       "token1": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
@@ -128,7 +128,7 @@
     },
     {
       "address": "0x6e1d274fe62eb856deb71ed9db45cb95e2e3388d",
-      "symbol": "USDC.e/OCX (YieldIQ)",
+      "symbol": "USDC/OCX (YieldIQ)",
       "gauge": "0x7dfcbed9d4aa982553ce79fc178e6304967b388a",
       "token0": "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
       "token1": "0x58024021fe3ef613fa76e2f36a3da97eb1454c36",
@@ -137,7 +137,7 @@
     },
     {
       "address": "0x8118c33513fec13f8cf488ccb4509190650f0e92",
-      "symbol": "USDC.e/USDT (Stable)",
+      "symbol": "USDC/USDT (Stable)",
       "gauge": "0xabb1f2fafe3829b31552bf81c74aa61ca521f3b5",
       "token0": "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
       "token1": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
@@ -191,7 +191,7 @@
     },
     {
       "address": "0x9ac11fc3de0533d6a0db68e78991aaed0c7a48c8",
-      "symbol": "WETH/ZRC (YieldIQ)",
+      "symbol": "ZRC/WETH (YieldIQ)",
       "gauge": "0x1d4f6f58eb8fd1aa602d5e98e8e2468422f2ded6",
       "token0": "0x4200000000000000000000000000000000000006",
       "token1": "0xfd418e42783382e86ae91e445406600ba144d162",
@@ -236,7 +236,7 @@
     },
     {
       "address": "0xbd3332466d13588b1bfe8673b58190645bfe26be",
-      "symbol": "WBTC.e/WETH (Narrow)",
+      "symbol": "WBTC/WETH (Narrow)",
       "gauge": "0xe903ffb1c0b66e68e7a3dad16f57486f92096961",
       "token0": "0x19df5689cfce64bc2a55f7220b0cd522659955ef",
       "token1": "0x4200000000000000000000000000000000000006",
@@ -254,7 +254,7 @@
     },
     {
       "address": "0xbfff632091ce8d5bcc2bd960c419afd0291d13b4",
-      "symbol": "USDC.e/WETH (Classic Rebalance)",
+      "symbol": "USDC/WETH (Classic Rebalance)",
       "gauge": "0xf760e68fd9ad662f49d8d5a7e0fa19e1e0594c6c",
       "token0": "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
       "token1": "0x4200000000000000000000000000000000000006",
@@ -263,7 +263,7 @@
     },
     {
       "address": "0xc14ee8d65f5e9d42e00518776711753c258655ef",
-      "symbol": "WETH/USDT (YieldIQ)",
+      "symbol": "USDT/WETH (YieldIQ)",
       "gauge": "0x03fb0de6e67b76a01dfa0406c96a57a3640ff00a",
       "token0": "0x4200000000000000000000000000000000000006",
       "token1": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
@@ -281,7 +281,7 @@
     },
     {
       "address": "0xe284e8ad2ba6a10baeaac270e846aa3993db485d",
-      "symbol": "WBTC.e/WETH (YieldIQ)",
+      "symbol": "WETH/WBTC (YieldIQ)",
       "gauge": "0xfd568a0c85b773626d607711da9a688aa79d9ff4",
       "token0": "0x19df5689cfce64bc2a55f7220b0cd522659955ef",
       "token1": "0x4200000000000000000000000000000000000006",
@@ -299,7 +299,7 @@
     },
     {
       "address": "0xe9962ab730b9fe4b5186278b6b55152ea2ccf793",
-      "symbol": "WBTC.e/WETH (Classic Rebalance)",
+      "symbol": "WBTC/WETH (Classic Rebalance)",
       "gauge": "0xbbd17d0fe0bea8170e3697e698e4766b33097fba",
       "token0": "0x19df5689cfce64bc2a55f7220b0cd522659955ef",
       "token1": "0x4200000000000000000000000000000000000006",
@@ -326,7 +326,7 @@
     },
     {
       "address": "0xfcdd868d81dd18e8ade649bf7bca354ca13fc723",
-      "symbol": "USDC.e/WETH (Narrow)",
+      "symbol": "USDC/WETH (Narrow)",
       "gauge": "0xc99361e1e9d561bb57b5ef10d8518b8cb25b64d5",
       "token0": "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
       "token1": "0x4200000000000000000000000000000000000006",
@@ -364,7 +364,7 @@
     },
     {
       "address": "0x0a4a0c5bc4d404d48a5a47ef9197500acbdea0a8",
-      "symbol": "uniETH/WETH (Narrow)",
+      "symbol": "uniETH/ETH (Narrow)",
       "gauge": "0x465fb2f1a45c585273d1d1ca9cc18a0c69b3f161",
       "token0": "0x15eefe5b297136b8712291b632404b66a8ef4d25",
       "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
@@ -400,7 +400,7 @@
     },
     {
       "address": "0x16fe021bfc4e9e0e3fbcc082c76ee4d67cb85dda",
-      "symbol": "WBTC/aBTC (YieldIQ)",
+      "symbol": "WBTC-aBTC (YieldIQ)",
       "gauge": "0xda4b210ed1e9b3cb7c8c1ada605c8328bcb3267d",
       "token0": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
       "token1": "0x7a087e75807f2e5143c161a817e64df6dc5eafe0",
@@ -418,7 +418,7 @@
     },
     {
       "address": "0x19e622264aee6c32ba1e1b68b8338d3c43b80ef2",
-      "symbol": "WBTC/aBTC (YieldIQ)",
+      "symbol": "aBTC-WBTC (YieldIQ)",
       "gauge": "0x348655e97bc529fcf15401fd6e80a7160c289e46",
       "token0": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
       "token1": "0x7a087e75807f2e5143c161a817e64df6dc5eafe0",
@@ -562,7 +562,7 @@
     },
     {
       "address": "0x392ac7d2d09042ec9fafaeb8d52a88dc591e9fea",
-      "symbol": "ezETH/WETH (Narrow)",
+      "symbol": "ezETH/ETH (Narrow)",
       "gauge": "0x133629348f5f3632f46d8fd0a5c3b49a4fadf2b6",
       "token0": "0x2416092f143378750bb29b79ed961ab195cceea5",
       "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
@@ -576,6 +576,15 @@
       "token0": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
       "token1": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
       "isStrategy": false,
+      "bribe": "0x6f0f1e19836b7f24f16cd7afa59560c908f6514e"
+    },
+    {
+      "address": "0x3e78c1f766d7fe2c3dcef6afe6609966540b6391",
+      "symbol": "vAMM-USDC/LYNX",
+      "gauge": "0xbd9ac1dae15608ee839838f91796d9281c7342fb",
+      "token0": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+      "token1": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
+      "isStrategy": true,
       "bribe": "0x6f0f1e19836b7f24f16cd7afa59560c908f6514e"
     },
     {
@@ -634,7 +643,7 @@
     },
     {
       "address": "0x511481ef0deb10eb5c1e36b72140718c58921265",
-      "symbol": "LYNX/WETH (YieldIQ)",
+      "symbol": "wETH/LYNX (YieldIQ)",
       "gauge": "0x72125a1c4a6e663c5e4da0bbfff9ae02b5ef727a",
       "token0": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
       "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
@@ -688,7 +697,7 @@
     },
     {
       "address": "0x555267747b0918abce10335f154fbe7b636f7804",
-      "symbol": "LYNX/USDT (YieldIQ)",
+      "symbol": "USDT/LYNX (YieldIQ)",
       "gauge": "0x68672d332d246508b519defa1beac74e2d2f00b5",
       "token0": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
       "token1": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
@@ -805,7 +814,7 @@
     },
     {
       "address": "0x77a0006fdeb1ce7f521a01852a632b2a21490d67",
-      "symbol": "USDC/EURO3 (Stable)",
+      "symbol": "USDC/EUR3 (Stable)",
       "gauge": "0x281be483ed6f5e101de186b61dcb57f663cfad93",
       "token0": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
       "token1": "0x3f817b28da4940f018c6b5c0a11c555ebb1264f9",
@@ -841,7 +850,7 @@
     },
     {
       "address": "0x87a5c04bc996dd23e80e025dace5f00f20ccc717",
-      "symbol": "USDT/ALEX (YieldIQ)",
+      "symbol": "USDT-ALEX (YieldIQ)",
       "gauge": "0x9527697f0a9c52bc54e87674a4dae95c35c3cdb1",
       "token0": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
       "token1": "0xdfd0660032c2d0d38a9092a43d1669d6568caf71",
@@ -912,8 +921,17 @@
       "bribe": "0xbe7710e45060bb9bc1c2d7cc8f6084d15288d955"
     },
     {
+      "address": "0x905e01a568f4e595d3e1889a4c4d82d441bc9ef9",
+      "symbol": "USDC/WETH (Long-Short)",
+      "gauge": "0x1eee543f328fb9cdbc655dc269f8fb7f614c97b1",
+      "token0": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+      "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+      "isStrategy": true,
+      "bribe": "0xf4e7508a7b6924dbbbf000cbdf6c724dc965b3f9"
+    },
+    {
       "address": "0x908ebbeab8c4bb1d3f1182ecc3f5d95ef34f47b1",
-      "symbol": "LLL/WETH (Wide)",
+      "symbol": "WETH/LLL (Wide)",
       "gauge": "0x5cd52cf135775efd34cc680e3c38807e07961a69",
       "token0": "0x63cf844710bf16e42571839edf0bd807114060bd",
       "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
@@ -1003,7 +1021,7 @@
     },
     {
       "address": "0xa3d9745dcd138bd2ba4b039fa61c042756bfe1e8",
-      "symbol": "USDC/WBTC (Narrow)",
+      "symbol": "wBTC/USDC (Narrow)",
       "gauge": "0x51d1079f100ecfd2f421758eacc99be3f9b06710",
       "token0": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
       "token1": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
@@ -1075,7 +1093,7 @@
     },
     {
       "address": "0xad53f20917b144cd0b100dbe75988c0e4b919dba",
-      "symbol": "WBTC/WETH (YieldIQ)",
+      "symbol": "wBTC/WETH (YieldIQ)",
       "gauge": "0xb7276152751b126a34860a90c6269994bf524f4f",
       "token0": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
       "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
@@ -1093,7 +1111,7 @@
     },
     {
       "address": "0xae5e4a028120b711c5c5dc8a9162bcdaa88936ae",
-      "symbol": "LYNX/WBTC (YieldIQ)",
+      "symbol": "wBTC/LYNX (YieldIQ)",
       "gauge": "0x0cc0439c04760db602ee7ca2cbb4372ba4d28476",
       "token0": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
       "token1": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
@@ -1120,7 +1138,7 @@
     },
     {
       "address": "0xb4b1a076214c84e3173eed00cd52e50a8904b174",
-      "symbol": "USDT/ALEX (YieldIQ)",
+      "symbol": "ALEX-USDT (YieldIQ)",
       "gauge": "0x3872dd6274c25850c0fa16e6f34e6428e1e0403a",
       "token0": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
       "token1": "0xdfd0660032c2d0d38a9092a43d1669d6568caf71",
@@ -1273,7 +1291,7 @@
     },
     {
       "address": "0xcffbfd665bedb19b47837461a5abf4388c560d35",
-      "symbol": "STONE/WETH (Narrow)",
+      "symbol": "STONE/ETH (Narrow)",
       "gauge": "0x86d2d7709d390bd2946a335147965e54947c82d7",
       "token0": "0x93f4d0ab6a8b4271f4a28db399b5e30612d21116",
       "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
@@ -1327,7 +1345,7 @@
     },
     {
       "address": "0xda9b26b44c7c8e571a82802f8fd6eba7a253020f",
-      "symbol": "WETH/SOULS (Wide)",
+      "symbol": "wETH/SOULS (Wide)",
       "gauge": "0xae0ddcf3a8e8e2b2ad36be1f83ea1582dc4075c7",
       "token0": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
       "token1": "0xec859566fc5d7ed84ac823509f3f7db06c461b20",
@@ -1345,7 +1363,7 @@
     },
     {
       "address": "0xe57f293520cbf7d5a17629cbfb06eabdb759a151",
-      "symbol": "LYNX/STONE (YieldIQ)",
+      "symbol": "STONE/LYNX (YieldIQ)",
       "gauge": "0x96b7062cfd1af7e4de5ef513ce66015e9ee6a991",
       "token0": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
       "token1": "0x93f4d0ab6a8b4271f4a28db399b5e30612d21116",
@@ -1390,12 +1408,21 @@
     },
     {
       "address": "0xea5abd5d15b8cd168e9eff78047db52af079e094",
-      "symbol": "wstETH/WETH (Narrow)",
+      "symbol": "wstETH/ETH (Narrow)",
       "gauge": "0xf213573c49b89e4acede11bc97aaf2a88f02f878",
       "token0": "0xb5bedd42000b71fdde22d3ee8a79bd49a568fc8f",
       "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
       "isStrategy": true,
       "bribe": "0x50bdaa06ba523725ff5fd11d94dfb294f44d20b0"
+    },
+    {
+      "address": "0xee18362b766905cc47df273fe0ed967c0c2827e0",
+      "symbol": "sAMM-LYNX/weETH",
+      "gauge": "0x9bebf928170fea4068f9e3dc52c8634cd8a3b673",
+      "token0": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
+      "token1": "0x1bf74c010e6320bab11e2e5a532b5ac15e0b8aa6",
+      "isStrategy": false,
+      "bribe": "0x2dea6a4854a05820c63db5d9d327033f994fd27d"
     },
     {
       "address": "0xf0759fcda52471ac0bdf434e4e043d0193a0f639",
