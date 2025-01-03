@@ -29,15 +29,6 @@ export interface Token {
   logoURL?: string;
 }
 
-export interface Farm {
-  pid: number;
-  lpSymbol: string;
-  stakeTokenAddress: string;
-  token: Token;
-  quoteToken: Token;
-  chainId: ChainId;
-}
-
 export interface Strategy {
   symbol: string;
   title: string;
