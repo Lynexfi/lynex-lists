@@ -1,6 +1,5 @@
 import fs from "fs";
 import path from "path";
-import { tokens } from "./constants/tokens";
 import { strategies } from "./constants/strategies";
 
 // Function to write JSON files
@@ -34,28 +33,8 @@ function generateStrategyFiles() {
   );
 }
 
-// converting ts file to json files for tokens here:
-function generateTokenFiles() {
-  const dirPath = path.resolve(__dirname, "../config/tokens");
-  if (!fs.existsSync(dirPath)) {
-    fs.mkdirSync(dirPath, { recursive: true });
-  }
-
-  Object.entries(tokens).forEach(([chainId, value]) => {
-    writeJSON(path.join("tokens", chainId), value);
-  });
-
-  // Generate all.json for tokens
-  writeJSON(path.join("tokens", "all"), tokens);
-
-  console.log(
-    "🍌🍌Token JSON files have been generated in the config/tokens directory!🍌🍌"
-  );
-}
-
 generateStrategyFiles();
-generateTokenFiles();
 
 console.log(
-  "🍆🍆All JSON files for strategies and tokens have been generated successfully🍆🍆"
+  "🍆🍆All JSON files for strategies have been generated successfully🍆🍆"
 );

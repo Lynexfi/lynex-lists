@@ -8,10 +8,9 @@
   },
   "license": "MIT",
   "scripts": {
-    "build-ts": "tsc",
-    "build-json": "node ./dist/buildJson.js",
-    "build": "yarn build-ts && yarn build-json",
-    "update-gauges": "node src/updateGauges.cjs"
+    "build-strategies": "ts-node src/buildStrategies.ts",
+    "update-gauges": "ts-node src/buildGauges.ts",
+    "build": "yarn build-strategies && yarn update-gauges"
   },
   "devDependencies": {
     "@types/node": "^20.14.8",
@@ -19,6 +18,7 @@
     "typescript": "^5.5.2"
   },
   "dependencies": {
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^3.3.2",
+    "viem": "^2.22.2"
   }
 }
