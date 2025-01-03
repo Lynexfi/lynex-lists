@@ -9,8 +9,9 @@
   "license": "MIT",
   "scripts": {
     "build-strategies": "ts-node src/buildStrategies.ts",
-    "update-gauges": "ts-node src/buildGauges.ts",
-    "build": "yarn build-strategies && yarn update-gauges"
+    "build-gauges": "ts-node src/buildGauges.ts",
+    "build-tokens": "ts-node src/buildTokens.ts",
+    "build": "yarn build-strategies && yarn build-gauges && yarn build-tokens"
   },
   "devDependencies": {
     "@types/node": "^20.14.8",

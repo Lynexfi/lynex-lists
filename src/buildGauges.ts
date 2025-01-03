@@ -132,7 +132,7 @@ async function main() {
   };
 
   // Create gauges directory if it doesn't exist
-  const gaugesDir = path.resolve("./config/gauges");
+  const gaugesDir = path.resolve("gauges");
   if (!fs.existsSync(gaugesDir)) {
     fs.mkdirSync(gaugesDir, { recursive: true });
   }
@@ -143,18 +143,20 @@ async function main() {
     fs.writeFileSync(destination, JSON.stringify(gauges, null, 2));
   });
 
-  // Write all.json
-  const allDestination = path.resolve(gaugesDir, "all.json");
+  // Write main.json
+  const allDestination = path.resolve(gaugesDir, "main.json");
   fs.writeFileSync(allDestination, JSON.stringify(result, null, 2));
 
   console.log(
-    "🍑🍑Gauge JSON files have been generated in the config/gauges directory!🍑🍑"
+    "🍑🍑Gauge JSON files have been generated in the gauges directory!🍑🍑"
   );
 }
 
 main()
   .then(() => {
-    console.log("🍆🍆All JSON files for gauges have been generated successfully🍆🍆");
+    console.log(
+      "🍆🍆All JSON files for gauges have been generated successfully🍆🍆"
+    );
     process.exit(0);
   })
   .catch((error) => {

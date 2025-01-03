@@ -4,7 +4,7 @@ import { strategies } from "./constants/strategies";
 
 // Function to write JSON files
 function writeJSON(fileName: string, data: any): void {
-  const dirPath = path.resolve(__dirname, "../config");
+  const dirPath = path.resolve(__dirname, "../");
   if (!fs.existsSync(dirPath)) {
     fs.mkdirSync(dirPath);
   }
@@ -16,7 +16,7 @@ function writeJSON(fileName: string, data: any): void {
 
 // converting ts file to json files for strategies here:
 function generateStrategyFiles() {
-  const dirPath = path.resolve(__dirname, "../config/strategies");
+  const dirPath = path.resolve(__dirname, "../strategies");
   if (!fs.existsSync(dirPath)) {
     fs.mkdirSync(dirPath, { recursive: true });
   }
@@ -26,7 +26,7 @@ function generateStrategyFiles() {
   });
 
   // Generate all.json for strategies
-  writeJSON(path.join("strategies", "all"), strategies);
+  writeJSON(path.join("strategies", "main"), strategies);
 
   console.log(
     "🍑🍑Strategy JSON files have been generated in the config/strategies directory!🍑🍑"
