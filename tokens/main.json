@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -186,18 +186,6 @@
       "createdAt": "2024-03-20",
       "updatedAt": "2024-03-20",
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-lists/tokens/assets/oOCX.png"
-    },
-    {
-      "chainId": 48900,
-      "chainURI": "https://explorer.testnet.zircuit.com/block/0",
-      "tokenId": "https://explorer.zircuit.com/address/0x8D4e0dF890507517b5f018F7e0eB619D5aD7bbDc",
-      "address": "0x8D4e0dF890507517b5f018F7e0eB619D5aD7bbDc",
-      "name": "Brive Vote Escrow Ocelex",
-      "symbol": "bveOCX",
-      "decimals": 18,
-      "createdAt": "2024-03-20",
-      "updatedAt": "2024-03-20",
-      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-lists/tokens/assets/bveOCX.png"
     },
     {
       "chainId": 59144,

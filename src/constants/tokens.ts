@@ -1102,16 +1102,5 @@ export const tokens = {
       updatedAt: '2024-03-20',
       logoURI: 'https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-lists/tokens/assets/oOCX.png',
     },
-    {
-      chainURI: 'https://explorer.testnet.zircuit.com/block/0',
-      tokenId: 'https://explorer.zircuit.com/address/0x8D4e0dF890507517b5f018F7e0eB619D5aD7bbDc',
-      address: '0x8D4e0dF890507517b5f018F7e0eB619D5aD7bbDc',
-      name: 'Brive Vote Escrow Ocelex',
-      symbol: 'bveOCX',
-      decimals: 18,
-      createdAt: '2024-03-20',
-      updatedAt: '2024-03-20',
-      logoURI: 'https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-lists/tokens/assets/bveOCX.png',
-    },
   ],
 };
