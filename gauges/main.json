@@ -525,6 +525,15 @@
       "bribe": "0x19ecbe9d63e0e75e7a24e7c847ee54fb39aff804"
     },
     {
+      "address": "0x2f65d4c1d277c32c37f4eec39ed440dcbbfdf134",
+      "symbol": "sAMM-USDC/weETH",
+      "gauge": "0xe4972606366edd243251f61e7bc5cafa1dd5f37e",
+      "token0": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+      "token1": "0x1bf74c010e6320bab11e2e5a532b5ac15e0b8aa6",
+      "isStrategy": false,
+      "bribe": "0x0d6665a659f17166ea1729831db256946aafc151"
+    },
+    {
       "address": "0x31f5fb5d70b00398821b0e1d1db9bab4a0231fc3",
       "symbol": "vAMM-QI/WETH",
       "gauge": "0xa90c883879bf63b9a02983d1ad2d2497814261c6",
