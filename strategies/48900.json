@@ -1,0 +1,408 @@
+[
+  {
+    "symbol": "WETH/STONE Correlated",
+    "title": "Gamma Correlated",
+    "type": "Narrow",
+    "strategist": "Gamma",
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x09A8ebB5Bf22B1Da81835164D6653FA1D57DbbeE",
+    "token0": {
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "token1": {
+      "address": "0x80137510979822322193FC997d400D5A6C747bf7"
+    }
+  },
+  {
+    "symbol": "WETH/wstETH Correlated",
+    "title": "Gamma Correlated",
+    "type": "Narrow",
+    "strategist": "Gamma",
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x53BCC093d2Cb6De857e296A9E723F58C4f2876a0",
+    "token0": {
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "token1": {
+      "address": "0xf0e673Bc224A8Ca3ff67a61605814666b1234833"
+    }
+  },
+  {
+    "symbol": "WETH/USDe Narrow",
+    "title": "Gamma Narrow",
+    "type": "Narrow",
+    "strategist": "Gamma",
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x911BfbAca43f117E52197AE62D439d6A645C8886",
+    "token0": {
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "token1": {
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34"
+    }
+  },
+  {
+    "symbol": "WETH/USDT Yield IQ (WETH)",
+    "title": "Yield IQ (WETH)",
+    "type": "YieldIQ",
+    "strategist": "Ichi",
+    "allowed0": true,
+    "allowed1": false,
+    "address": "0x1206fB230F60062fbE38C571eE689eC9127ef097",
+    "depositToken": "0x4200000000000000000000000000000000000006",
+    "token0": {
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "token1": {
+      "address": "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742"
+    },
+    "promoted": false,
+    "percentage": 70
+  },
+  {
+    "symbol": "USDT/WETH Yield IQ (USDT)",
+    "title": "Yield IQ (USDT)",
+    "type": "YieldIQ",
+    "strategist": "Ichi",
+    "allowed0": true,
+    "allowed1": false,
+    "address": "0xc14eE8D65f5E9D42e00518776711753C258655eF",
+    "depositToken": "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742",
+    "token0": {
+      "address": "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742"
+    },
+    "token1": {
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "promoted": false,
+    "percentage": 70
+  },
+  {
+    "symbol": "WBTC/WETH Yield IQ (WBTC)",
+    "title": "Yield IQ (WBTC)",
+    "type": "YieldIQ",
+    "strategist": "Ichi",
+    "allowed0": true,
+    "allowed1": false,
+    "address": "0x1Ece78B38845518A018A60eC919AF470AA4f512f",
+    "depositToken": "0x19df5689Cfce64bC2A55F7220B0Cd522659955EF",
+    "token0": {
+      "address": "0x19df5689Cfce64bC2A55F7220B0Cd522659955EF"
+    },
+    "token1": {
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "promoted": false,
+    "percentage": 70
+  },
+  {
+    "symbol": "WETH/WBTC Yield IQ (WETH)",
+    "title": "Yield IQ (WETH)",
+    "type": "YieldIQ",
+    "strategist": "Ichi",
+    "allowed0": false,
+    "allowed1": true,
+    "address": "0xE284E8AD2ba6A10bAeAac270e846AA3993Db485d",
+    "depositToken": "0x4200000000000000000000000000000000000006",
+    "token0": {
+      "address": "0x19df5689Cfce64bC2A55F7220B0Cd522659955EF"
+    },
+    "token1": {
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "promoted": false,
+    "percentage": 70
+  },
+  {
+    "symbol": "ZRC/WETH Yield IQ (ZRC)",
+    "title": "Yield IQ (ZRC)",
+    "type": "YieldIQ",
+    "strategist": "Ichi",
+    "allowed0": false,
+    "allowed1": true,
+    "address": "0x9ac11Fc3De0533d6A0dB68e78991aAEd0c7A48c8",
+    "depositToken": "0xfd418e42783382E86Ae91e445406600Ba144D162",
+    "token0": {
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "token1": {
+      "address": "0xfd418e42783382E86Ae91e445406600Ba144D162"
+    },
+    "promoted": false,
+    "percentage": 70
+  },
+  {
+    "symbol": "WETH/OCX Yield IQ (WETH)",
+    "title": "Yield IQ (WETH)",
+    "type": "YieldIQ",
+    "strategist": "Ichi",
+    "allowed0": true,
+    "allowed1": false,
+    "address": "0xeEEA06204DDc3ac67f4c9DD145c98be33F46C24a",
+    "depositToken": "0x4200000000000000000000000000000000000006",
+    "token0": {
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "token1": {
+      "address": "0x58024021Fe3eF613fA76e2f36A3Da97eb1454C36"
+    },
+    "promoted": false,
+    "percentage": 70
+  },
+  {
+    "symbol": "USDC/OCX Yield IQ (USDC)",
+    "title": "Yield IQ (USDC)",
+    "type": "YieldIQ",
+    "strategist": "Ichi",
+    "allowed0": true,
+    "allowed1": false,
+    "address": "0x6E1d274Fe62eb856DEB71ED9db45cB95e2e3388D",
+    "depositToken": "0x3b952c8C9C44e8Fe201e2b26F6B2200203214cfF",
+    "token0": {
+      "address": "0x3b952c8C9C44e8Fe201e2b26F6B2200203214cfF"
+    },
+    "token1": {
+      "address": "0x58024021Fe3eF613fA76e2f36A3Da97eb1454C36"
+    },
+    "promoted": false,
+    "percentage": 70
+  },
+  {
+    "symbol": "WETH/USDT Narrow",
+    "title": "Gamma Narrow",
+    "type": "Narrow",
+    "strategist": "Gamma",
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x318E378b6EC1590315e5e8160A2eF28308AE7Cfc",
+    "token0": {
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "token1": {
+      "address": "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742"
+    }
+  },
+  {
+    "symbol": "WBTC/WETH Narrow",
+    "title": "Gamma Narrow",
+    "type": "Narrow",
+    "strategist": "Gamma",
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0xBd3332466d13588B1BFe8673B58190645bFE26bE",
+    "token0": {
+      "address": "0x19df5689Cfce64bC2A55F7220B0Cd522659955EF"
+    },
+    "token1": {
+      "address": "0x4200000000000000000000000000000000000006"
+    }
+  },
+  {
+    "symbol": "USDe/USDT Stable",
+    "title": "Gamma Stable",
+    "type": "Stable",
+    "strategist": "Gamma",
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x6a9641bf145aF165388E6856a6183e1F095DB8FA",
+    "token0": {
+      "address": "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742"
+    },
+    "token1": {
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34"
+    }
+  },
+  {
+    "symbol": "USDC/USDT Stable",
+    "title": "Gamma Stable",
+    "type": "Stable",
+    "strategist": "Gamma",
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x8118C33513feC13f8cf488CCb4509190650F0e92",
+    "token0": {
+      "address": "0x3b952c8C9C44e8Fe201e2b26F6B2200203214cfF"
+    },
+    "token1": {
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34"
+    }
+  },
+  {
+    "symbol": "USDC/WETH Narrow",
+    "title": "Gamma Narrow",
+    "type": "Narrow",
+    "strategist": "Gamma",
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0xFCDd868D81DD18E8ADe649bf7bcA354Ca13Fc723",
+    "token0": {
+      "address": "0x3b952c8C9C44e8Fe201e2b26F6B2200203214cfF"
+    },
+    "token1": {
+      "address": "0x4200000000000000000000000000000000000006"
+    }
+  },
+  {
+    "symbol": "ZRC/WETH Narrow",
+    "title": "Gamma Narrow",
+    "type": "Narrow",
+    "strategist": "Gamma",
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x181F22F21d1f0228d99741A5a84954CE78DB1137",
+    "token0": {
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "token1": {
+      "address": "0xfd418e42783382E86Ae91e445406600Ba144D162"
+    }
+  },
+  {
+    "symbol": "GUD/ZRC Narrow",
+    "title": "Gamma Narrow",
+    "type": "Narrow",
+    "strategist": "Gamma",
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x4d4a316774Ae3f294905E530Bf19221E427E1Dd9",
+    "token0": {
+      "address": "0xA608512BBC9934E4b1DDeCF0F5Fb38b6Ad93308D"
+    },
+    "token1": {
+      "address": "0xfd418e42783382E86Ae91e445406600Ba144D162"
+    }
+  },
+  {
+    "symbol": "wrsETH/WETH Correlated",
+    "title": "Gamma Correlated",
+    "type": "Narrow",
+    "strategist": "Gamma",
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x9Ed3c5382Dc6d13AAD0fD19536e7e2D427D9656C",
+    "token0": {
+      "address": "0x311a51Ff8839B6afcAA9426BdBffDF2e70A0dA25"
+    },
+    "token1": {
+      "address": "0x4200000000000000000000000000000000000006"
+    }
+  },
+  {
+    "symbol": "ezETH/WETH Correlated",
+    "title": "Steer Correlated",
+    "type": "Correlated",
+    "strategist": "Steer",
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0xbc9a377f56765ab35075e1c7ec7926cdc8417d5f",
+    "token0": {
+      "address": "0x2416092f143378750bb29b79eD961ab195CcEea5"
+    },
+    "token1": {
+      "address": "0x4200000000000000000000000000000000000006"
+    }
+  },
+  {
+    "symbol": "weETH/WETH Correlated",
+    "title": "Steer Correlated",
+    "type": "Correlated",
+    "strategist": "Steer",
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0xad81a9c5304f9ea016c9c03bbf95f2acc3b0274a",
+    "token0": {
+      "address": "0x3535DF6e1d776631D0cBA53FE9efD34bCbDcEeD4"
+    },
+    "token1": {
+      "address": "0x4200000000000000000000000000000000000006"
+    }
+  },
+  {
+    "symbol": "USDT/WETH",
+    "title": "Steer (Classic Rebalance)",
+    "type": "Classic Rebalance",
+    "strategist": "Steer",
+    "startBlock": 7034477,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x4f84351f2124bd4ba820730d3643984344ca481f",
+    "url": "https://app.steer.finance/vault/0x4f84351f2124bd4ba820730d3643984344ca481f",
+    "token0": {
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "token1": {
+      "address": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742"
+    }
+  },
+  {
+    "symbol": "USDC/WETH",
+    "title": "Steer (Classic Rebalance)",
+    "type": "Classic Rebalance",
+    "strategist": "Steer",
+    "startBlock": 7034361,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0xbfff632091ce8d5bcc2bd960c419afd0291d13b4",
+    "url": "https://app.steer.finance/vault/0xbfff632091ce8d5bcc2bd960c419afd0291d13b4",
+    "token0": {
+      "address": "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff"
+    },
+    "token1": {
+      "address": "0x4200000000000000000000000000000000000006"
+    }
+  },
+  {
+    "symbol": "WBTC/WETH",
+    "title": "Steer (Classic Rebalance)",
+    "type": "Classic Rebalance",
+    "strategist": "Steer",
+    "startBlock": 7021888,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0xe9962ab730b9fe4b5186278b6b55152ea2ccf793",
+    "url": " https://app.steer.finance/vault/0xe9962ab730b9fe4b5186278b6b55152ea2ccf793",
+    "token0": {
+      "address": "0x19df5689cfce64bc2a55f7220b0cd522659955ef"
+    },
+    "token1": {
+      "address": "0x4200000000000000000000000000000000000006"
+    }
+  },
+  {
+    "symbol": "ZRC/WETH",
+    "title": "Steer (Classic Rebalance)",
+    "type": "Classic Rebalance",
+    "strategist": "Steer",
+    "startBlock": 7058183,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x2cbcc27a9d4497342c3b7ce67152f447fe63d42a",
+    "url": "https://app.steer.finance/vault/0x2cbcc27a9d4497342c3b7ce67152f447fe63d42a",
+    "token0": {
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "token1": {
+      "address": "0xfd418e42783382e86ae91e445406600ba144d162"
+    }
+  },
+  {
+    "symbol": "GUD/ZRC",
+    "title": "Steer (Classic Rebalance)",
+    "type": "Classic Rebalance",
+    "strategist": "Steer",
+    "startBlock": 7392401,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x9a3a74b7ecc0f2c838a1de6c8253a458b56c7ffb",
+    "url": "https://app.steer.finance/vault/0x9a3a74b7ecc0f2c838a1de6c8253a458b56c7ffb",
+    "token0": {
+      "address": "0xa608512bbc9934e4b1ddecf0f5fb38b6ad93308d"
+    },
+    "token1": {
+      "address": "0xfd418e42783382e86ae91e445406600ba144d162"
+    }
+  }
+]

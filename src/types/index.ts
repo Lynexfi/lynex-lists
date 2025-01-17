@@ -4,16 +4,16 @@ export enum ChainId {
 }
 
 export enum Strategist {
-  Gamma = 'Gamma',
-  Ichi = 'Ichi',
-  Steer = 'Steer',
+  Gamma = "Gamma",
+  Ichi = "Ichi",
+  Steer = "Steer",
 }
 
 export enum StrategyType {
-  Narrow = 'Narrow',
-  Stable = 'Stable',
-  Wide = 'Wide',
-  YieldIQ = 'yieldiq',
+  Narrow = "Narrow",
+  Stable = "Stable",
+  Wide = "Wide",
+  YieldIQ = "yieldiq",
 }
 
 export interface NetworkTokenInfo {
@@ -27,15 +27,6 @@ export interface Token {
   symbol: string;
   networks: NetworkTokenInfo[];
   logoURL?: string;
-}
-
-export interface Farm {
-  pid: number;
-  lpSymbol: string;
-  stakeTokenAddress: string;
-  token: Token;
-  quoteToken: Token;
-  chainId: ChainId;
 }
 
 export interface Strategy {
@@ -63,4 +54,3 @@ export interface Gauge {
   isStrategy: boolean;
   bribe: string;
 }
-export { tokens } from '../constants/tokens';
