@@ -73,10 +73,10 @@
       "address": "0xc14eE8D65f5E9D42e00518776711753C258655eF",
       "depositToken": "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742",
       "token0": {
-        "address": "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742"
+        "address": "0x4200000000000000000000000000000000000006"
       },
       "token1": {
-        "address": "0x4200000000000000000000000000000000000006"
+        "address": "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742"
       },
       "promoted": false,
       "percentage": 70
