@@ -147,7 +147,7 @@ export const tokens = {
       decimals: 18,
       createdAt: '2023-08-08',
       updatedAt: '2023-08-08',
-      logoURI: 'https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png',
+      logoURI: 'https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/PEPE.png',
       extension: {
         rootChainId: 1,
         rootChainURI: 'https://etherscan.io/block/0',
@@ -1073,7 +1073,7 @@ export const tokens = {
       chainURI: 'https://explorer.zircuit.com/block/0',
       tokenId: 'https://explorer.zircuit.com/address/0x2af315fcCBD9dCA3A76B704A159a4A80124532DF',
       address: '0x2af315fcCBD9dCA3A76B704A159a4A80124532DF',
-      name: 'Brive Vote Escrow Ocelex',
+      name: 'Bribe Vote Escrow Ocelex',
       symbol: 'bveOCX',
       decimals: 18,
       createdAt: '2024-12-10',
