@@ -1073,7 +1073,7 @@ export const tokens = {
       chainURI: 'https://explorer.zircuit.com/block/0',
       tokenId: 'https://explorer.zircuit.com/address/0x2af315fcCBD9dCA3A76B704A159a4A80124532DF',
       address: '0x2af315fcCBD9dCA3A76B704A159a4A80124532DF',
-      name: 'Brive Vote Escrow Ocelex',
+      name: 'Bribe Vote Escrow Ocelex',
       symbol: 'bveOCX',
       decimals: 18,
       createdAt: '2024-12-10',
