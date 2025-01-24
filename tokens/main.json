@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -356,7 +356,7 @@
       "decimals": 18,
       "createdAt": "2023-08-08",
       "updatedAt": "2023-08-08",
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/PEPE.png",
       "extension": {
         "rootChainId": 1,
         "rootChainURI": "https://etherscan.io/block/0",
