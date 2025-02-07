@@ -116,7 +116,7 @@
     "name": "Zircuit Token",
     "symbol": "ZRC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-mainnet-lists/tokens/assets/ZRC.png"
+    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ZRC.png"
   },
   {
     "chainURI": "https://explorer.zircuit.com/block/0",
@@ -136,7 +136,7 @@
     "decimals": 18,
     "createdAt": "2024-12-10",
     "updatedAt": "2024-12-17",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-lists/tokens/assets/bveOCX.png"
+    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/bveOCX.png"
   },
   {
     "chainURI": "https://explorer.zircuit.com/block/0",
@@ -147,7 +147,7 @@
     "decimals": 18,
     "createdAt": "2024-03-20",
     "updatedAt": "2024-03-20",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-lists/tokens/assets/OCX.png"
+    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/OCX.png"
   },
   {
     "chainURI": "https://explorer.zircuit.com/block/0",
@@ -158,6 +158,6 @@
     "decimals": 18,
     "createdAt": "2024-03-20",
     "updatedAt": "2024-03-20",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/ocelex-lists/tokens/assets/oOCX.png"
+    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/oOCX.png"
   }
 ]
