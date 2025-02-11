@@ -1260,4 +1260,67 @@ export const tokens = {
         "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/oOCX.png",
     },
   ],
+
+  137: [
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+      address: "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      name: "Wrapped Ether",
+      symbol: "WETH",
+      decimals: 18,
+      createdAt: "2025-02-11",
+      updatedAt: "2025-02-11",
+      logoURI: "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WETH.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+      address: "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      name: "Tether USD",
+      symbol: "USDT",
+      decimals: 6,
+      createdAt: "2025-02-11",
+      updatedAt: "2025-02-11",
+      logoURI: "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+      address: "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+      name: "USD Coin",
+      symbol: "USDC",
+      decimals: 6,
+      createdAt: "2025-02-11",
+      updatedAt: "2025-02-11",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+      address: "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      name: "Wrapped BTC",
+      symbol: "WBTC",
+      decimals: 8,
+      createdAt: "2025-02-11",
+      updatedAt: "2025-02-11",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      address: "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      name: "Wrapped POL",
+      symbol: "WPOL",
+      decimals: 18,
+      createdAt: "2025-02-11",
+      updatedAt: "2025-02-11",
+      logoURI: "https://assets.coingecko.com/coins/images/14073/large/matic.png?1696513797",
+    },
+  ],
 };
