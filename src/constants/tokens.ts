@@ -229,8 +229,8 @@ export const tokens = {
       symbol: "USDT",
       decimals: 6,
       createdAt: "2023-08-08",
-      updatedAt: "2023-08-08",
-      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+      updatedAt: "2025-02-11",
+      logoURI: "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/USDT.png",
       extension: {
         rootChainId: 1,
         rootChainURI: "https://etherscan.io/block/0",
@@ -1169,9 +1169,9 @@ export const tokens = {
       symbol: "USDT",
       decimals: 6,
       createdAt: "2024-11-28",
-      updatedAt: "2024-11-28",
+      updatedAt: "2025-02-11",
       logoURI:
-        "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661",
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/USDT.png",
     },
     {
       chainURI: "https://explorer.zircuit.com/block/0",
