@@ -1,0 +1,66 @@
+[
+  {
+    "symbol": "WBTC/WETH Narrow",
+    "title": "Gamma Narrow",
+    "type": "Narrow",
+    "strategist": "Gamma",
+    "startBlock": 67877897,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0xE510Fe2879C2b2969c6eA2a246C6c26FBE438b1a",
+    "token0": {
+      "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6"
+    },
+    "token1": {
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+    }
+  },
+  {
+    "symbol": "WETH/USDT Narrow",
+    "title": "Gamma Narrow",
+    "type": "Narrow",
+    "strategist": "Gamma",
+    "startBlock": 67879785,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x2746071DFf89Cec9E4B14e8F8C55E208aa8fc4DB",
+    "token0": {
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+    },
+    "token1": {
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
+    }
+  },
+  {
+    "symbol": "WMATIC/ETH Narrow",
+    "title": "Gamma Narrow",
+    "type": "Narrow",
+    "strategist": "Gamma",
+    "startBlock": 67879801,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x6a6a108c8631437e255B6B9fB6e26B33315637b2",
+    "token0": {
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+    },
+    "token1": {
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+    }
+  },
+  {
+    "symbol": "WMATIC/USDT Narrow",
+    "title": "Gamma Narrow",
+    "type": "Narrow",
+    "strategist": "Gamma",
+    "startBlock": 67879851,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0xb6b96e37E5F9ed4c3Ab313fe34e8d13d3BB5fd5B",
+    "token0": {
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+    },
+    "token1": {
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
+    }
+  }
+]

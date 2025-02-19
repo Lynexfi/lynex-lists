@@ -1315,8 +1315,8 @@ export const tokens = {
       tokenId:
         "https://polygonscan.com/address/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       address: "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-      name: "Wrapped POL",
-      symbol: "WPOL",
+      name: "Wrapped Matic",
+      symbol: "WMATIC",
       decimals: 18,
       createdAt: "2025-02-11",
       updatedAt: "2025-02-11",
