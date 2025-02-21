@@ -944,5 +944,15 @@
     "address": "0xb3B3CA7cb0BCCb6A9316764826324A312665DC53",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LINEA.png"
+  },
+  {
+    "name": "DGAF",
+    "symbol": "DGAF",
+    "tokenId": "https://lineascan.build/address/0xcBf0cDF8fF5CC8A7990c52216954B025039f48Bb",
+    "address": "0xcBf0cDF8fF5CC8A7990c52216954B025039f48Bb",
+    "decimals": 18,
+    "createdAt": "2025-02-21",
+    "updatedAt": "2025-02-21",
+    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/DGAF.png"
   }
 ]
