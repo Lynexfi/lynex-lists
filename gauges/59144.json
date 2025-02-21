@@ -891,6 +891,15 @@
     "bribe": "0x90691596fc62b14f7d5fe431ddc6ffa47105cf40"
   },
   {
+    "address": "0xc9be3917d88065ea73247dd1df043ea90d1d46e9",
+    "symbol": "vAMM-DGAF/WETH",
+    "gauge": "0xcef4f7e1356777bdbcb0ea5a6adc3b2db7d71f40",
+    "token0": "0xcbf0cdf8ff5cc8a7990c52216954b025039f48bb",
+    "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+    "isStrategy": false,
+    "bribe": "0xb25a01c2706995d74c6bf2eddc665d2d8b632af9"
+  },
+  {
     "address": "0xcbd199dac72793139de3fc6026d8d0da5f833154",
     "symbol": "sAMM-LYNX/FOXY",
     "gauge": "0xd7d25bb8c0f27411004fe3a2c5e0e7cbee206d33",
