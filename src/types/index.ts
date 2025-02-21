@@ -54,3 +54,9 @@ export interface Gauge {
   isStrategy: boolean;
   bribe: string;
 }
+
+export interface Points {
+  name: string;
+  logoURI: string;
+  poolAddresses: string[];
+}
