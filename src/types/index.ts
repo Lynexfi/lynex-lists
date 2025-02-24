@@ -28,5 +28,11 @@ export interface Strategy {
   percentage?: number;
   promoted?: boolean;
 }
-
+export interface Points {
+  name: string;
+  logoURI: string;
+  poolAddresses: string[];
+}
 export type Strategies = Record<number, Strategy[]>;
+
+
