@@ -1,62 +1,38 @@
-export enum ChainId {
-  LINEA_TESTNET = 59140,
-  LINEA_MAINNET = 59144,
-}
-
-export enum Strategist {
-  Gamma = "Gamma",
-  Ichi = "Ichi",
-  Steer = "Steer",
-}
-
-export enum StrategyType {
-  Narrow = "Narrow",
-  Stable = "Stable",
-  Wide = "Wide",
-  YieldIQ = "yieldiq",
-}
-
-export interface NetworkTokenInfo {
-  address: string;
-  decimals: number;
-  chainId: ChainId;
-}
+export type PoolVariant = "uniV4" | "uniV3" | "algebraV3" | "classic";
+export type Manager = "Ichi" | "Gamma" | "Steer" | "Defiedge" | "Clip Finance";
+export type StrategyType = "Narrow" | "Stable" | "Wide" | "Single Deposit" | "Correlated" | "Long-Short" | "Classic Rebalance" | "High Low Channel" | "Elastic Expansion" | "Volatile";
+export type Strategist =  "Ichi" | "Gamma" | "Steer" | "Defiedge" | "Clip Finance";
 
 export interface Token {
-  name: string;
-  symbol: string;
-  networks: NetworkTokenInfo[];
-  logoURL?: string;
+  address: string;
 }
 
 export interface Strategy {
-  symbol: string;
+  symbol?: string; // Deprecated (kept for backward compatibility)
+  lpSymbol: string;
   title: string;
-  chainId: ChainId;
   type: StrategyType;
-  strategist: Strategist;
+  variant: PoolVariant;
+  strategist?: Strategist; // Deprecated (optional for backward compatibility)
+  manager: Manager;
+  startBlock: number;
   allowed0: boolean;
   allowed1: boolean;
   address: string;
   token0: Token;
   token1: Token;
-  gaugeAddress?: string;
-  rewardAddress?: string;
   depositToken?: string;
+  token0Address?: string;
+  token1Address?: string;
+  rewardAddress?: string;
+  percentage?: number;
+  promoted?: boolean;
 }
-
-export interface Gauge {
-  address: string;
-  symbol: string;
-  gauge: string;
-  token0: Token;
-  token1: Token;
-  isStrategy: boolean;
-  bribe: string;
-}
-
 export interface Points {
   name: string;
   logoURI: string;
   poolAddresses: string[];
 }
+export type Strategies = Record<number, Strategy[]>;
+
+
