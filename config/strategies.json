@@ -490,27 +490,6 @@
       }
     }
   ],
-  "59140": [
-    {
-      "symbol": "USDC/WETH",
-      "lpSymbol": "USDC/WETH",
-      "title": "Gamma (Narrow)",
-      "type": "Narrow",
-      "variant": "algebraV3",
-      "strategist": "Gamma",
-      "manager": "Gamma",
-      "startBlock": 6264342,
-      "allowed0": true,
-      "allowed1": true,
-      "address": "0x6e9d701fB6478Ed5972a37886C2BA6C82a4cBb4C",
-      "token0": {
-        "address": "0x2c1b868d6596a18e32e61b901e4060c872647b6c"
-      },
-      "token1": {
-        "address": "0xc0f8ee736cec8c1a12e9c25272e6f417510165ff"
-      }
-    }
-  ],
   "59144": [
     {
       "symbol": "BUSD/WETH",
@@ -884,9 +863,6 @@
       "startBlock": 1599844,
       "address": "0x4f74ED3b2278dAE2119658aB2c235BBcd2306d29",
       "depositToken": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
-      "token0Address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
-      "token1Address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
-      "rewardAddress": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
       "allowed0": true,
       "allowed1": false,
       "token0": {
@@ -908,9 +884,6 @@
       "startBlock": 1688727,
       "address": "0x00b34e51ac2a78761982485a618b235a211f5d86",
       "depositToken": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
-      "token0Address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
-      "token1Address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
-      "rewardAddress": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
       "allowed0": false,
       "allowed1": true,
       "token0": {
@@ -932,9 +905,6 @@
       "startBlock": 1688764,
       "address": "0xad53f20917b144cd0b100dbe75988c0e4b919dba",
       "depositToken": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
-      "token0Address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
-      "token1Address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
-      "rewardAddress": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
       "allowed0": true,
       "allowed1": false,
       "token0": {
@@ -956,9 +926,6 @@
       "startBlock": 2376228,
       "address": "0x511481ef0DEB10eB5c1E36B72140718c58921265",
       "depositToken": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
-      "token0Address": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
-      "token1Address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
-      "rewardAddress": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
       "allowed0": false,
       "allowed1": true,
       "token0": {
@@ -980,9 +947,6 @@
       "startBlock": 2376321,
       "address": "0x92ccb773da4f3974c941974bDb978bAd7efa7744",
       "depositToken": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
-      "token0Address": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
-      "token1Address": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
-      "rewardAddress": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
       "allowed0": true,
       "allowed1": false,
       "token0": {
@@ -1005,9 +969,6 @@
       "startBlock": 2848144,
       "address": "0xae5e4a028120b711c5c5dc8a9162bcdaa88936ae",
       "depositToken": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
-      "token0Address": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
-      "token1Address": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
-      "rewardAddress": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
       "allowed0": false,
       "allowed1": true,
       "token0": {
@@ -1030,9 +991,6 @@
       "startBlock": 3320203,
       "address": "0x555267747b0918ABce10335F154FbE7B636F7804",
       "depositToken": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
-      "token0Address": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
-      "token1Address": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
-      "rewardAddress": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
       "allowed0": false,
       "allowed1": true,
       "token0": {
@@ -1055,9 +1013,6 @@
       "startBlock": 3320182,
       "address": "0xe57F293520CBf7d5a17629CbFB06eAbdb759a151",
       "depositToken": "0x93f4d0ab6a8b4271f4a28db399b5e30612d21116",
-      "token0Address": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
-      "token1Address": "0x93f4d0ab6a8b4271f4a28db399b5e30612d21116",
-      "rewardAddress": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
       "allowed0": false,
       "allowed1": true,
       "token0": {
@@ -1080,9 +1035,6 @@
       "startBlock": 3602124,
       "address": "0x1795C4b23Ec93C852653045DaB4dD1AC796D5248",
       "depositToken": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
-      "token0Address": "0x5fbdf89403270a1846f5ae7d113a989f850d1566",
-      "token1Address": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
-      "rewardAddress": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
       "allowed0": false,
       "allowed1": true,
       "token0": {
@@ -1104,9 +1056,6 @@
       "startBlock": 3602146,
       "address": "0x9d9070462eB1CBFE2b8cfA337bb4D0A3Ac420bD6",
       "depositToken": "0x5fbdf89403270a1846f5ae7d113a989f850d1566",
-      "token0Address": "0x5fbdf89403270a1846f5ae7d113a989f850d1566",
-      "token1Address": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
-      "rewardAddress": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
       "allowed0": true,
       "allowed1": false,
       "token0": {
@@ -1128,9 +1077,6 @@
       "startBlock": 4239558,
       "address": "0x9e480e37a036b6703818D701544763a36bfed35b",
       "depositToken": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
-      "token0Address": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
-      "token1Address": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
-      "rewardAddress": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
       "allowed0": false,
       "allowed1": true,
       "token0": {
@@ -1152,9 +1098,6 @@
       "startBlock": 7273977,
       "address": "0xad2406aF7fB59F9949af7D355AA19941178809a8",
       "depositToken": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
-      "token0Address": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
-      "token1Address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
-      "rewardAddress": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
       "allowed0": false,
       "allowed1": true,
       "token0": {
@@ -1177,9 +1120,6 @@
       "startBlock": 12100315,
       "address": "0x19E622264aeE6c32Ba1E1B68b8338d3c43B80Ef2",
       "depositToken": "0x7A087e75807F2E5143C161a817E64dF6dC5EAFe0",
-      "token0Address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
-      "token1Address": "0x7A087e75807F2E5143C161a817E64dF6dC5EAFe0",
-      "rewardAddress": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
       "allowed0": false,
       "allowed1": true,
       "token0": {
@@ -1201,9 +1141,6 @@
       "startBlock": 12185615,
       "address": "0x16FE021BFc4E9e0E3fBCc082C76eE4d67cB85DDA",
       "depositToken": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
-      "token0Address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
-      "token1Address": "0x7A087e75807F2E5143C161a817E64dF6dC5EAFe0",
-      "rewardAddress": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
       "allowed0": true,
       "allowed1": false,
       "token0": {
@@ -1225,9 +1162,6 @@
       "startBlock": 12186104,
       "address": "0xb4b1a076214c84e3173eed00cd52E50a8904B174",
       "depositToken": "0xdfd0660032c2D0D38a9092a43d1669D6568cAF71",
-      "token0Address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
-      "token1Address": "0xdfd0660032c2D0D38a9092a43d1669D6568cAF71",
-      "rewardAddress": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
       "allowed0": false,
       "allowed1": true,
       "token0": {
@@ -1249,9 +1183,6 @@
       "startBlock": 12186163,
       "address": "0x87A5c04Bc996Dd23E80e025daCe5f00F20Ccc717",
       "depositToken": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
-      "token0Address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
-      "token1Address": "0xdfd0660032c2D0D38a9092a43d1669D6568cAF71",
-      "rewardAddress": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
       "allowed0": true,
       "allowed1": false,
       "token0": {
