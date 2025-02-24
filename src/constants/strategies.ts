@@ -233,8 +233,8 @@ export const strategies: Strategies = {
       },
     },
     {
-      symbol: "ezETH/ETH Correlated",
-      lpSymbol: "ezETH/ETH Correlated",
+      symbol: "ezETH/ETH",
+      lpSymbol: "ezETH/ETH",
       title: "Gamma (Correlated)",
       type: "Correlated",
       variant: "algebraV3",
