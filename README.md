@@ -122,3 +122,30 @@ Once you have made the necessary changes and are ready to release a new version 
      ```
 
 These steps ensure that your changes are not only saved and tracked but also available for using at other repos through npm as an updated package. Always verify the new package works as expected after publishing.
+
+## Code Formatting with Prettier
+
+This repository uses Prettier for consistent code formatting. To set up formatting in your development environment:
+
+1. Install dependencies:
+```bash
+yarn install
+```
+2. Install the "Prettier - Code formatter" extension in VS Code
+   - Open VS Code
+   - Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
+   - Search for "Prettier - Code formatter"
+   - Click Install
+
+3. Configure VS Code settings:
+   - Open Settings (Ctrl+, / Cmd+,)
+   - Add these settings to your workspace or user settings:
+   ```json
+   {
+       "editor.defaultFormatter": "esbenp.prettier-vscode",
+       "editor.formatOnSave": true
+   }
+   ```
+
+After completing these steps, your code will automatically format on save according to the project's Prettier configuration.
+
