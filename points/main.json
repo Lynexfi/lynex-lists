@@ -2,7 +2,8 @@
   "59144": [
     {
       "name": "Linea LXP points",
-      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/points/LXP.png",
+      "logoUrl": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/points/LXP.png",
+      "infoUrl": "https://support.linea.build/linea-voyage/lxp",
       "poolAddresses": [
         "0x6e9d701fb6478ed5972a37886c2ba6c82a4cbb4c",
         "0x8a9570ec97534277ade6e46d100939fbce4968f0",
