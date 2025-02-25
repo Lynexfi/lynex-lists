@@ -3,10 +3,11 @@ import { Points } from "../types";
 export const points: Record<number, Points[]> = {
   59144: [
     {
-      name: "Linea LXP points",
+      name: "Linea LXP Points",
       logoUrl:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/points/LXP.png",
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/lxpBadge.png",
       infoUrl: "https://support.linea.build/linea-voyage/lxp",
+      tooltipDescription: "Liquidity Providers in this pool also earn Linea LXP Points.",
       poolAddresses: [
         "0x6e9d701fb6478ed5972a37886c2ba6c82a4cbb4c", //BUSD/WETH
         "0x8a9570ec97534277ade6e46d100939fbce4968f0", //WBTC/WETH
@@ -66,5 +67,152 @@ export const points: Record<number, Points[]> = {
         "0x908EBbEab8c4bB1D3f1182Ecc3f5D95ef34F47b1", //WETH/LLL
       ],
     },
+    {
+      name: "Eigenlayer Restaked Points",
+      logoUrl:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/eigenlrBadge.png",
+      infoUrl: "https://docs.eigenlayer.xyz/", //Ask marketing if that's the link we need to use.
+      tooltipDescription: "Liquidity Providers in this pool also earn Eigenlayer Restaked Points.",
+      poolAddresses: [
+        "0x530071b0373ab3029cad32e0c19b75253e231b69", // weETH/WETH (Narrow)
+        "0x0a4a0c5bc4d404d48a5a47ef9197500acbdea0a8", // uniETH/ETH Gamma (Correlated)
+      ],
+    },
+    {
+      name: "Renzo ezPoints",
+      logoUrl:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/renzoBadge.png",
+      infoUrl: "https://mirror.xyz/10/0x965e92f21b8da409de9d1ca8e8a99e4d326e9bd5/render",
+      tooltipDescription: "Liquidity Providers in this pool also earn x4 Renzo ezPoints.",
+      poolAddresses: [
+        "0x392ac7d2d09042ec9fafaeb8d52a88dc591e9fea", // ezETH/WETH (Narrow)
+      ],
+    },
+    {
+      name: "Bedrock Diamonds",
+      logoUrl:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/bedrockBadge.png",
+      infoUrl: "https://docs.bedrock.technology/bedrock-lrt/bedrock-diamonds",
+      tooltipDescription: "Liquidity Providers in this pool also earn Bedrock Diamonds.",
+      poolAddresses: [
+        "0x0a4a0c5bc4d404d48a5a47ef9197500acbdea0a8", // uniETH/ETH Gamma (Correlated)
+      ],
+    },
+    {
+      name: "Ether.Fi Points",
+      logoUrl:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/etherfiBadge.png",
+      infoUrl: "https://etherfi.gitbook.io/etherfi/getting-started/loyalty-points",
+      tooltipDescription: "Liquidity Providers in this pool also earn 3x Ether.Fi points.",
+      poolAddresses: [
+        "0x530071b0373ab3029cad32e0c19b75253e231b69", // weETH/WETH (Narrow)
+      ],
+    },
+    {
+      name: "Inception Totems",
+      logoUrl:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/inceptionlrtBadge.png",
+      infoUrl: "https://docs.inceptionlrt.com/inceptionlrt/totems",
+      tooltipDescription: "Liquidity Providers in this pool also earn Inception totems.",
+      poolAddresses: [
+        "0xc491c1b173e932e97d9f739ccd9ae5b6d5fce4ce", // inETH/wstETH Gamma
+      ],
+    },
+    {
+      name: "Davos Peaks",
+      logoUrl:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/davosBadge.png",
+      infoUrl: "https://davos.xyz/",
+      tooltipDescription: "Liquidity Providers in this pool also earn Davos peaks.",
+      poolAddresses: [
+        "0x7088a31d53fc1fa300ceb5f9103343137a62b545",  // sAMM-USDC/DUSD
+      ],
+    },
+    {
+      name: "LayerBank Points",
+      logoUrl:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/layerbankBadge.png",
+      infoUrl: "https://donvegas.medium.com/introducing-layerbanks-linea-points-program-your-path-to-a-potential-airdrop-7de1c2f7af2c",
+      tooltipDescription: "Liquidity Providers in this pool also earn LayerBank points.",
+      poolAddresses: [
+        "0x1e0015f45e339c08f7c891f83e579fbe9ea9cd37", // sAMM-solvBTC/WBTC
+        "0x54001e83fcf7654e8a974c0ed2ef4b9cc4e6ff63", // solvBTC/WETH Steer
+        "0x1bb15aa9a8bdeea7bb3a21bd239a232c5a09b0c6", // sAMM-M-BTC/WBTC
+        "0xb7d02ec92fe7bf5e47fcf82ac21575e01fe4f5f1", // sAMM-M-BTC/solvBTC.m
+        "0x1577fb60deb25dc9d9c6f0ed736a682b849e6bfb", // vAMM-M-BTC/WETH
+      ],
+    },
+    {
+      name: "SolvBTC Points",
+      logoUrl:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/solvBadge.png",
+      infoUrl: "https://app.solv.finance/points",
+      tooltipDescription: "Liquidity Providers in this pool also earn SolvBTC points.",
+      poolAddresses: [
+        "0x1e0015f45e339c08f7c891f83e579fbe9ea9cd37", // sAMM-solvBTC/WBTC
+        "0x54001e83fcf7654e8a974c0ed2ef4b9cc4e6ff63", // solvBTC/WETH Steer
+        "0xb7d02ec92fe7bf5e47fcf82ac21575e01fe4f5f1", // sAMM-M-BTC/solvBTC.m
+      ],
+    },
+    {
+      name: "StakeStone Points",
+      logoUrl:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/stakestoneBadge.png",
+      infoUrl: "https://stakestone.io/#/home",
+      tooltipDescription: "Liquidity Providers in this pool also earn x2 StakeStone points.",
+      poolAddresses: [
+        "0x8f3e0a2378b0b5838e0e0d99fcecc167d47bc9a7", // sAMM-STONE/WETH
+        "0xcffbfd665bedb19b47837461a5abf4388c560d35", // STONE/WETH (Narrow)
+      ],
+    },
+    {
+      name: "Turtle Points",
+      logoUrl:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/turtleBadge.png",
+      infoUrl: "https://turtle.club/",
+      tooltipDescription: "Liquidity Providers in this pool also earn Turtle points.",
+      poolAddresses: [
+        "0x8a9570ec97534277ade6e46d100939fbce4968f0", // WBTC/WETH (Narrow)
+        "0xf3b1125c8505f038503e002e61a78253610d4f60", // USDT/WETH (Narrow)
+        "0x392ac7d2d09042ec9fafaeb8d52a88dc591e9fea", // ezETH/WETH (Narrow)
+        "0x511481ef0deb10eb5c1e36b72140718c58921265", // LYNX/WETH (Single Deposit)
+        "0xae5e4a028120b711c5c5dc8a9162bcdaa88936ae", // LYNX/WBTC (Single Deposit)
+        "0x92ccb773da4f3974c941974bdb978bad7efa7744", // USDC/LYNX (Single Deposit)
+        "0xa3d9745dcd138bd2ba4b039fa61c042756bfe1e8", // USDC/WBTC (Narrow)
+        "0xcffbfd665bedb19b47837461a5abf4388c560d35", // STONE/WETH (Narrow)
+        "0x555267747b0918abce10335f154fbe7b636f7804", // LYNX/USDT (Single Deposit)
+        "0xe57f293520cbf7d5a17629cbfb06eabdb759a151", // LYNX/STONE (Single Deposit)
+        "0x530071b0373ab3029cad32e0c19b75253e231b69", // weETH/WETH (Narrow)
+        "0x0a4a0c5bc4d404d48a5a47ef9197500acbdea0a8", // uniETH/ETH Gamma (Correlated)
+        "0x24c6d82d316f80421f3e0f58c70127a97a5f1db7", // WBTC/WETH (Elastic Expansion)
+        "0x96411166448feed82661e164c38fc71d0ff169b0", // USDT/WETH Steer (Classic Rebalance)
+        "0x504f0d95d3a43a6c9fcd86782a93e043e78d1ab0", // vAMM-USDT/WETH
+        "0xc491c1b173e932e97d9f739ccd9ae5b6d5fce4ce", // inETH/wstETH Gamma
+        "0x54001e83fcf7654e8a974c0ed2ef4b9cc4e6ff63", // solvBTC/WETH Steer
+      ],
+    },
   ],
+  48900: [
+    {
+      name: "Zircuit Points",
+      logoUrl:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/zircuitBadge.png",
+      infoUrl: "https://app.zircuit.com/dex",
+      tooltipDescription: "Liquidity Providers in this pool also earn Zircuit points.",
+      poolAddresses: [
+        '0xbd3332466d13588b1bfe8673b58190645bfe26be', // WBTC/WETH - Gamma Narrow
+        '0x318e378b6ec1590315e5e8160a2ef28308ae7cfc', // WETH/USDT - Gamma Narrow
+        '0x8118c33513fec13f8cf488ccb4509190650f0e92', // USDT/USDC - Gamma Narrow
+        '0x181f22f21d1f0228d99741a5a84954ce78db1137', // ZRC/WETH - Gamma Narrow
+        '0x2cbcc27a9d4497342c3b7ce67152f447fe63d42a', // WETH/ZRC (Classic Rebalance)
+        '0x4f84351f2124bd4ba820730d3643984344ca481f', // WETH/USDT (Classic Rebalance)
+        '0xe9962ab730b9fe4b5186278b6b55152ea2ccf793', // WBTC.e/WETH (Classic Rebalance)
+        '0x9ac11fc3de0533d6a0db68e78991aaed0c7a48c8', // WETH/ZRC (Single Deposit)
+        '0x1ece78b38845518a018a60ec919af470aa4f512f', // WBTC.e/WETH (Single Deposit) (WBTC)
+        '0xe284e8ad2ba6a10baeaac270e846aa3993db485d', // WBTC.e/WETH (Single Deposit) (WETH)
+        '0x1206fb230f60062fbe38c571ee689ec9127ef097', // WETH/USDT (Single Deposit) (WETH)
+        '0xc14ee8d65f5e9d42e00518776711753c258655ef', // WETH/USDT (Single Deposit)(USDT)
+      ],
+    },
+  ]
 };

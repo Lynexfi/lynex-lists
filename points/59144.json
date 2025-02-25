@@ -1,8 +1,9 @@
 [
   {
-    "name": "Linea LXP points",
-    "logoUrl": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/points/LXP.png",
+    "name": "Linea LXP Points",
+    "logoUrl": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/lxpBadge.png",
     "infoUrl": "https://support.linea.build/linea-voyage/lxp",
+    "tooltipDescription": "Liquidity Providers in this pool also earn Linea LXP Points.",
     "poolAddresses": [
       "0x6e9d701fb6478ed5972a37886c2ba6c82a4cbb4c",
       "0x8a9570ec97534277ade6e46d100939fbce4968f0",
@@ -60,6 +61,120 @@
       "0xb1C9F83099C88c8544004Bf7a4d1F7b434869B44",
       "0x8eFFB06ceF54167587643123e6B0588E08E81c04",
       "0x908EBbEab8c4bB1D3f1182Ecc3f5D95ef34F47b1"
+    ]
+  },
+  {
+    "name": "Eigenlayer Restaked Points",
+    "logoUrl": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/eigenlrBadge.png",
+    "infoUrl": "https://docs.eigenlayer.xyz/",
+    "tooltipDescription": "Liquidity Providers in this pool also earn Eigenlayer Restaked Points.",
+    "poolAddresses": [
+      "0x530071b0373ab3029cad32e0c19b75253e231b69",
+      "0x0a4a0c5bc4d404d48a5a47ef9197500acbdea0a8"
+    ]
+  },
+  {
+    "name": "Renzo ezPoints",
+    "logoUrl": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/renzoBadge.png",
+    "infoUrl": "https://mirror.xyz/10/0x965e92f21b8da409de9d1ca8e8a99e4d326e9bd5/render",
+    "tooltipDescription": "Liquidity Providers in this pool also earn x4 Renzo ezPoints.",
+    "poolAddresses": [
+      "0x392ac7d2d09042ec9fafaeb8d52a88dc591e9fea"
+    ]
+  },
+  {
+    "name": "Bedrock Diamonds",
+    "logoUrl": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/bedrockBadge.png",
+    "infoUrl": "https://docs.bedrock.technology/bedrock-lrt/bedrock-diamonds",
+    "tooltipDescription": "Liquidity Providers in this pool also earn Bedrock Diamonds.",
+    "poolAddresses": [
+      "0x0a4a0c5bc4d404d48a5a47ef9197500acbdea0a8"
+    ]
+  },
+  {
+    "name": "Ether.Fi Points",
+    "logoUrl": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/etherfiBadge.png",
+    "infoUrl": "https://etherfi.gitbook.io/etherfi/getting-started/loyalty-points",
+    "tooltipDescription": "Liquidity Providers in this pool also earn 3x Ether.Fi points.",
+    "poolAddresses": [
+      "0x530071b0373ab3029cad32e0c19b75253e231b69"
+    ]
+  },
+  {
+    "name": "Inception Totems",
+    "logoUrl": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/inceptionlrtBadge.png",
+    "infoUrl": "https://docs.inceptionlrt.com/inceptionlrt/totems",
+    "tooltipDescription": "Liquidity Providers in this pool also earn Inception totems.",
+    "poolAddresses": [
+      "0xc491c1b173e932e97d9f739ccd9ae5b6d5fce4ce"
+    ]
+  },
+  {
+    "name": "Davos Peaks",
+    "logoUrl": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/davosBadge.png",
+    "infoUrl": "https://davos.xyz/",
+    "tooltipDescription": "Liquidity Providers in this pool also earn Davos peaks.",
+    "poolAddresses": [
+      "0x7088a31d53fc1fa300ceb5f9103343137a62b545"
+    ]
+  },
+  {
+    "name": "LayerBank Points",
+    "logoUrl": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/layerbankBadge.png",
+    "infoUrl": "https://donvegas.medium.com/introducing-layerbanks-linea-points-program-your-path-to-a-potential-airdrop-7de1c2f7af2c",
+    "tooltipDescription": "Liquidity Providers in this pool also earn LayerBank points.",
+    "poolAddresses": [
+      "0x1e0015f45e339c08f7c891f83e579fbe9ea9cd37",
+      "0x54001e83fcf7654e8a974c0ed2ef4b9cc4e6ff63",
+      "0x1bb15aa9a8bdeea7bb3a21bd239a232c5a09b0c6",
+      "0xb7d02ec92fe7bf5e47fcf82ac21575e01fe4f5f1",
+      "0x1577fb60deb25dc9d9c6f0ed736a682b849e6bfb"
+    ]
+  },
+  {
+    "name": "SolvBTC Points",
+    "logoUrl": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/solvBadge.png",
+    "infoUrl": "https://app.solv.finance/points",
+    "tooltipDescription": "Liquidity Providers in this pool also earn SolvBTC points.",
+    "poolAddresses": [
+      "0x1e0015f45e339c08f7c891f83e579fbe9ea9cd37",
+      "0x54001e83fcf7654e8a974c0ed2ef4b9cc4e6ff63",
+      "0xb7d02ec92fe7bf5e47fcf82ac21575e01fe4f5f1"
+    ]
+  },
+  {
+    "name": "StakeStone Points",
+    "logoUrl": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/stakestoneBadge.png",
+    "infoUrl": "https://stakestone.io/#/home",
+    "tooltipDescription": "Liquidity Providers in this pool also earn x2 StakeStone points.",
+    "poolAddresses": [
+      "0x8f3e0a2378b0b5838e0e0d99fcecc167d47bc9a7",
+      "0xcffbfd665bedb19b47837461a5abf4388c560d35"
+    ]
+  },
+  {
+    "name": "Turtle Points",
+    "logoUrl": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/turtleBadge.png",
+    "infoUrl": "https://turtle.club/",
+    "tooltipDescription": "Liquidity Providers in this pool also earn Turtle points.",
+    "poolAddresses": [
+      "0x8a9570ec97534277ade6e46d100939fbce4968f0",
+      "0xf3b1125c8505f038503e002e61a78253610d4f60",
+      "0x392ac7d2d09042ec9fafaeb8d52a88dc591e9fea",
+      "0x511481ef0deb10eb5c1e36b72140718c58921265",
+      "0xae5e4a028120b711c5c5dc8a9162bcdaa88936ae",
+      "0x92ccb773da4f3974c941974bdb978bad7efa7744",
+      "0xa3d9745dcd138bd2ba4b039fa61c042756bfe1e8",
+      "0xcffbfd665bedb19b47837461a5abf4388c560d35",
+      "0x555267747b0918abce10335f154fbe7b636f7804",
+      "0xe57f293520cbf7d5a17629cbfb06eabdb759a151",
+      "0x530071b0373ab3029cad32e0c19b75253e231b69",
+      "0x0a4a0c5bc4d404d48a5a47ef9197500acbdea0a8",
+      "0x24c6d82d316f80421f3e0f58c70127a97a5f1db7",
+      "0x96411166448feed82661e164c38fc71d0ff169b0",
+      "0x504f0d95d3a43a6c9fcd86782a93e043e78d1ab0",
+      "0xc491c1b173e932e97d9f739ccd9ae5b6d5fce4ce",
+      "0x54001e83fcf7654e8a974c0ed2ef4b9cc4e6ff63"
     ]
   }
 ]

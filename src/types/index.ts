@@ -32,6 +32,7 @@ export interface Points {
   name: string
   logoUrl: string
   infoUrl: string
+  tooltipDescription: string,
   poolAddresses: string[]
 }
 export type Strategies = Record<number, Strategy[]>;
