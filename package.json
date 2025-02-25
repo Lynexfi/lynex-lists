@@ -11,7 +11,8 @@
     "build-strategies": "ts-node src/buildStrategies.ts",
     "build-gauges": "ts-node src/buildGauges.ts",
     "build-tokens": "ts-node src/buildTokens.ts",
-    "build": "yarn build-strategies && yarn build-gauges && yarn build-tokens"
+    "build-points": "ts-node src/buildPoints.ts",
+    "build": "yarn build-strategies && yarn build-gauges && yarn build-tokens && yarn build-points"
   },
   "devDependencies": {
     "@types/node": "^20.14.8",

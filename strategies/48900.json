@@ -1,9 +1,13 @@
 [
   {
-    "symbol": "WETH/STONE Correlated",
-    "title": "Gamma Correlated",
-    "type": "Narrow",
+    "symbol": "WETH/STONE",
+    "lpSymbol": "WETH/STONE",
+    "title": "Gamma (Correlated)",
+    "type": "Correlated",
+    "variant": "algebraV3",
     "strategist": "Gamma",
+    "manager": "Gamma",
+    "startBlock": 4832309,
     "allowed0": true,
     "allowed1": true,
     "address": "0x09A8ebB5Bf22B1Da81835164D6653FA1D57DbbeE",
@@ -15,10 +19,14 @@
     }
   },
   {
-    "symbol": "WETH/wstETH Correlated",
-    "title": "Gamma Correlated",
-    "type": "Narrow",
+    "symbol": "WETH/wstETH",
+    "lpSymbol": "WETH/wstETH",
+    "title": "Gamma (Correlated)",
+    "type": "Correlated",
+    "variant": "algebraV3",
     "strategist": "Gamma",
+    "manager": "Gamma",
+    "startBlock": 4832332,
     "allowed0": true,
     "allowed1": true,
     "address": "0x53BCC093d2Cb6De857e296A9E723F58C4f2876a0",
@@ -30,10 +38,14 @@
     }
   },
   {
-    "symbol": "WETH/USDe Narrow",
-    "title": "Gamma Narrow",
+    "symbol": "WETH/USDe",
+    "lpSymbol": "WETH/USDe",
+    "title": "Gamma (Narrow)",
     "type": "Narrow",
+    "variant": "algebraV3",
     "strategist": "Gamma",
+    "manager": "Gamma",
+    "startBlock": 4832344,
     "allowed0": true,
     "allowed1": true,
     "address": "0x911BfbAca43f117E52197AE62D439d6A645C8886",
@@ -45,136 +57,14 @@
     }
   },
   {
-    "symbol": "WETH/USDT Yield IQ (WETH)",
-    "title": "Yield IQ (WETH)",
-    "type": "YieldIQ",
-    "strategist": "Ichi",
-    "allowed0": true,
-    "allowed1": false,
-    "address": "0x1206fB230F60062fbE38C571eE689eC9127ef097",
-    "depositToken": "0x4200000000000000000000000000000000000006",
-    "token0": {
-      "address": "0x4200000000000000000000000000000000000006"
-    },
-    "token1": {
-      "address": "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742"
-    },
-    "promoted": false,
-    "percentage": 70
-  },
-  {
-    "symbol": "USDT/WETH Yield IQ (USDT)",
-    "title": "Yield IQ (USDT)",
-    "type": "YieldIQ",
-    "strategist": "Ichi",
-    "allowed0": false,
-    "allowed1": true,
-    "address": "0xc14eE8D65f5E9D42e00518776711753C258655eF",
-    "depositToken": "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742",
-    "token0": {
-      "address": "0x4200000000000000000000000000000000000006"
-    },
-    "token1": {
-      "address": "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742"
-    },
-    "promoted": false,
-    "percentage": 70
-  },
-  {
-    "symbol": "WBTC/WETH Yield IQ (WBTC)",
-    "title": "Yield IQ (WBTC)",
-    "type": "YieldIQ",
-    "strategist": "Ichi",
-    "allowed0": true,
-    "allowed1": false,
-    "address": "0x1Ece78B38845518A018A60eC919AF470AA4f512f",
-    "depositToken": "0x19df5689Cfce64bC2A55F7220B0Cd522659955EF",
-    "token0": {
-      "address": "0x19df5689Cfce64bC2A55F7220B0Cd522659955EF"
-    },
-    "token1": {
-      "address": "0x4200000000000000000000000000000000000006"
-    },
-    "promoted": false,
-    "percentage": 70
-  },
-  {
-    "symbol": "WETH/WBTC Yield IQ (WETH)",
-    "title": "Yield IQ (WETH)",
-    "type": "YieldIQ",
-    "strategist": "Ichi",
-    "allowed0": false,
-    "allowed1": true,
-    "address": "0xE284E8AD2ba6A10bAeAac270e846AA3993Db485d",
-    "depositToken": "0x4200000000000000000000000000000000000006",
-    "token0": {
-      "address": "0x19df5689Cfce64bC2A55F7220B0Cd522659955EF"
-    },
-    "token1": {
-      "address": "0x4200000000000000000000000000000000000006"
-    },
-    "promoted": false,
-    "percentage": 70
-  },
-  {
-    "symbol": "ZRC/WETH Yield IQ (ZRC)",
-    "title": "Yield IQ (ZRC)",
-    "type": "YieldIQ",
-    "strategist": "Ichi",
-    "allowed0": false,
-    "allowed1": true,
-    "address": "0x9ac11Fc3De0533d6A0dB68e78991aAEd0c7A48c8",
-    "depositToken": "0xfd418e42783382E86Ae91e445406600Ba144D162",
-    "token0": {
-      "address": "0x4200000000000000000000000000000000000006"
-    },
-    "token1": {
-      "address": "0xfd418e42783382E86Ae91e445406600Ba144D162"
-    },
-    "promoted": false,
-    "percentage": 70
-  },
-  {
-    "symbol": "WETH/OCX Yield IQ (WETH)",
-    "title": "Yield IQ (WETH)",
-    "type": "YieldIQ",
-    "strategist": "Ichi",
-    "allowed0": true,
-    "allowed1": false,
-    "address": "0xeEEA06204DDc3ac67f4c9DD145c98be33F46C24a",
-    "depositToken": "0x4200000000000000000000000000000000000006",
-    "token0": {
-      "address": "0x4200000000000000000000000000000000000006"
-    },
-    "token1": {
-      "address": "0x58024021Fe3eF613fA76e2f36A3Da97eb1454C36"
-    },
-    "promoted": false,
-    "percentage": 70
-  },
-  {
-    "symbol": "USDC/OCX Yield IQ (USDC)",
-    "title": "Yield IQ (USDC)",
-    "type": "YieldIQ",
-    "strategist": "Ichi",
-    "allowed0": true,
-    "allowed1": false,
-    "address": "0x6E1d274Fe62eb856DEB71ED9db45cB95e2e3388D",
-    "depositToken": "0x3b952c8C9C44e8Fe201e2b26F6B2200203214cfF",
-    "token0": {
-      "address": "0x3b952c8C9C44e8Fe201e2b26F6B2200203214cfF"
-    },
-    "token1": {
-      "address": "0x58024021Fe3eF613fA76e2f36A3Da97eb1454C36"
-    },
-    "promoted": false,
-    "percentage": 70
-  },
-  {
-    "symbol": "WETH/USDT Narrow",
-    "title": "Gamma Narrow",
+    "symbol": "WETH/USDT",
+    "lpSymbol": "WETH/USDT",
+    "title": "Gamma (Narrow)",
     "type": "Narrow",
+    "variant": "algebraV3",
     "strategist": "Gamma",
+    "manager": "Gamma",
+    "startBlock": 5131401,
     "allowed0": true,
     "allowed1": true,
     "address": "0x318E378b6EC1590315e5e8160A2eF28308AE7Cfc",
@@ -186,10 +76,14 @@
     }
   },
   {
-    "symbol": "WBTC/WETH Narrow",
-    "title": "Gamma Narrow",
+    "symbol": "WBTC/WETH",
+    "lpSymbol": "WBTC/WETH",
+    "title": "Gamma (Narrow)",
     "type": "Narrow",
+    "variant": "algebraV3",
     "strategist": "Gamma",
+    "manager": "Gamma",
+    "startBlock": 5131419,
     "allowed0": true,
     "allowed1": true,
     "address": "0xBd3332466d13588B1BFe8673B58190645bFE26bE",
@@ -201,10 +95,14 @@
     }
   },
   {
-    "symbol": "USDe/USDT Stable",
-    "title": "Gamma Stable",
+    "symbol": "USDe/USDT ",
+    "lpSymbol": "USDe/USDT ",
+    "title": "Gamma (Stable)",
     "type": "Stable",
+    "variant": "algebraV3",
     "strategist": "Gamma",
+    "manager": "Gamma",
+    "startBlock": 5131433,
     "allowed0": true,
     "allowed1": true,
     "address": "0x6a9641bf145aF165388E6856a6183e1F095DB8FA",
@@ -216,10 +114,14 @@
     }
   },
   {
-    "symbol": "USDC/USDT Stable",
-    "title": "Gamma Stable",
+    "symbol": "USDC/USDT",
+    "lpSymbol": "USDC/USDT",
+    "title": "Gamma (Stable)",
     "type": "Stable",
+    "variant": "algebraV3",
     "strategist": "Gamma",
+    "manager": "Gamma",
+    "startBlock": 6264362,
     "allowed0": true,
     "allowed1": true,
     "address": "0x8118C33513feC13f8cf488CCb4509190650F0e92",
@@ -231,10 +133,14 @@
     }
   },
   {
-    "symbol": "USDC/WETH Narrow",
-    "title": "Gamma Narrow",
+    "symbol": "USDC/WETH",
+    "lpSymbol": "USDC/WETH",
+    "title": "Gamma (Narrow)",
     "type": "Narrow",
+    "variant": "algebraV3",
     "strategist": "Gamma",
+    "manager": "Gamma",
+    "startBlock": 6264342,
     "allowed0": true,
     "allowed1": true,
     "address": "0xFCDd868D81DD18E8ADe649bf7bcA354Ca13Fc723",
@@ -246,10 +152,14 @@
     }
   },
   {
-    "symbol": "ZRC/WETH Narrow",
-    "title": "Gamma Narrow",
+    "symbol": "ZRC/WETH",
+    "lpSymbol": "ZRC/WETH",
+    "title": "Gamma (Narrow)",
     "type": "Narrow",
+    "variant": "algebraV3",
     "strategist": "Gamma",
+    "manager": "Gamma",
+    "startBlock": 6264213,
     "allowed0": true,
     "allowed1": true,
     "address": "0x181F22F21d1f0228d99741A5a84954CE78DB1137",
@@ -261,10 +171,14 @@
     }
   },
   {
-    "symbol": "GUD/ZRC Narrow",
-    "title": "Gamma Narrow",
+    "symbol": "GUD/ZRC",
+    "lpSymbol": "GUD/ZRC",
+    "title": "Gamma (Narrow)",
     "type": "Narrow",
+    "variant": "algebraV3",
     "strategist": "Gamma",
+    "manager": "Gamma",
+    "startBlock": 7385465,
     "allowed0": true,
     "allowed1": true,
     "address": "0x4d4a316774Ae3f294905E530Bf19221E427E1Dd9",
@@ -276,10 +190,14 @@
     }
   },
   {
-    "symbol": "wrsETH/WETH Correlated",
-    "title": "Gamma Correlated",
-    "type": "Narrow",
+    "symbol": "wrsETH/WETH",
+    "lpSymbol": "wrsETH/WETH",
+    "title": "Gamma (Correlated)",
+    "type": "Correlated",
+    "variant": "algebraV3",
     "strategist": "Gamma",
+    "manager": "Gamma",
+    "startBlock": 6425694,
     "allowed0": true,
     "allowed1": true,
     "address": "0x9Ed3c5382Dc6d13AAD0fD19536e7e2D427D9656C",
@@ -291,10 +209,161 @@
     }
   },
   {
-    "symbol": "ezETH/WETH Correlated",
-    "title": "Steer Correlated",
+    "symbol": "WETH/USDT",
+    "lpSymbol": "WETH/USDT",
+    "title": "Single Deposit (WETH)",
+    "type": "Single Deposit",
+    "variant": "algebraV3",
+    "strategist": "Ichi",
+    "manager": "Ichi",
+    "startBlock": 5133782,
+    "address": "0x1206fB230F60062fbE38C571eE689eC9127ef097",
+    "depositToken": "0x4200000000000000000000000000000000000006",
+    "allowed0": true,
+    "allowed1": false,
+    "token0": {
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "token1": {
+      "address": "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742"
+    },
+    "percentage": 70
+  },
+  {
+    "symbol": "USDT/WETH",
+    "lpSymbol": "USDT/WETH",
+    "title": "Single Deposit (USDT)",
+    "type": "Single Deposit",
+    "variant": "algebraV3",
+    "strategist": "Ichi",
+    "manager": "Ichi",
+    "startBlock": 5133800,
+    "address": "0xc14eE8D65f5E9D42e00518776711753C258655eF",
+    "depositToken": "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742",
+    "allowed0": false,
+    "allowed1": true,
+    "token0": {
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "token1": {
+      "address": "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742"
+    },
+    "percentage": 70
+  },
+  {
+    "symbol": "wBTC/WETH",
+    "lpSymbol": "wBTC/WETH",
+    "title": "Single Deposit (wBTC)",
+    "type": "Single Deposit",
+    "variant": "algebraV3",
+    "strategist": "Ichi",
+    "manager": "Ichi",
+    "startBlock": 5133325,
+    "address": "0x1Ece78B38845518A018A60eC919AF470AA4f512f",
+    "depositToken": "0x19df5689Cfce64bC2A55F7220B0Cd522659955EF",
+    "allowed0": true,
+    "allowed1": false,
+    "token0": {
+      "address": "0x19df5689Cfce64bC2A55F7220B0Cd522659955EF"
+    },
+    "token1": {
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "percentage": 70
+  },
+  {
+    "symbol": "WETH/WBTC",
+    "lpSymbol": "WETH/WBTC",
+    "title": "Single Deposit (WETH)",
+    "type": "Single Deposit",
+    "variant": "algebraV3",
+    "strategist": "Ichi",
+    "manager": "Ichi",
+    "startBlock": 5133367,
+    "address": "0xE284E8AD2ba6A10bAeAac270e846AA3993Db485d",
+    "depositToken": "0x4200000000000000000000000000000000000006",
+    "allowed0": false,
+    "allowed1": true,
+    "token0": {
+      "address": "0x19df5689Cfce64bC2A55F7220B0Cd522659955EF"
+    },
+    "token1": {
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "percentage": 70
+  },
+  {
+    "symbol": "ZRC/WETH",
+    "lpSymbol": "ZRC/WETH",
+    "title": "Single Deposit (ZRC)",
+    "type": "Single Deposit",
+    "variant": "algebraV3",
+    "strategist": "Ichi",
+    "manager": "Ichi",
+    "startBlock": 6324630,
+    "address": "0x9ac11Fc3De0533d6A0dB68e78991aAEd0c7A48c8",
+    "depositToken": "0xfd418e42783382E86Ae91e445406600Ba144D162",
+    "allowed0": false,
+    "allowed1": true,
+    "token0": {
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "token1": {
+      "address": "0xfd418e42783382E86Ae91e445406600Ba144D162"
+    },
+    "percentage": 70
+  },
+  {
+    "symbol": "WETH/OCX",
+    "lpSymbol": "WETH/OCX",
+    "title": "Single Deposit (WETH)",
+    "type": "Single Deposit",
+    "variant": "algebraV3",
+    "strategist": "Ichi",
+    "manager": "Ichi",
+    "startBlock": 7266929,
+    "address": "0xeEEA06204DDc3ac67f4c9DD145c98be33F46C24a",
+    "depositToken": "0x4200000000000000000000000000000000000006",
+    "allowed0": true,
+    "allowed1": false,
+    "token0": {
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "token1": {
+      "address": "0x58024021Fe3eF613fA76e2f36A3Da97eb1454C36"
+    },
+    "percentage": 70
+  },
+  {
+    "symbol": "USDC/OCX",
+    "lpSymbol": "USDC/OCX",
+    "title": "Single Deposit (USDC)",
+    "type": "Single Deposit",
+    "variant": "algebraV3",
+    "strategist": "Ichi",
+    "manager": "Ichi",
+    "startBlock": 7266992,
+    "address": "0x6E1d274Fe62eb856DEB71ED9db45cB95e2e3388D",
+    "depositToken": "0x3b952c8C9C44e8Fe201e2b26F6B2200203214cfF",
+    "allowed0": true,
+    "allowed1": false,
+    "token0": {
+      "address": "0x3b952c8C9C44e8Fe201e2b26F6B2200203214cfF"
+    },
+    "token1": {
+      "address": "0x58024021Fe3eF613fA76e2f36A3Da97eb1454C36"
+    },
+    "percentage": 70
+  },
+  {
+    "symbol": "ezETH/WETH",
+    "lpSymbol": "ezETH/WETH",
+    "title": "Steer (Correlated)",
     "type": "Correlated",
+    "variant": "algebraV3",
     "strategist": "Steer",
+    "manager": "Steer",
+    "startBlock": 6269142,
     "allowed0": true,
     "allowed1": true,
     "address": "0xbc9a377f56765ab35075e1c7ec7926cdc8417d5f",
@@ -306,10 +375,14 @@
     }
   },
   {
-    "symbol": "weETH/WETH Correlated",
-    "title": "Steer Correlated",
+    "symbol": "weETH/WETH",
+    "lpSymbol": "weETH/WETH",
+    "title": "Steer (Correlated)",
     "type": "Correlated",
+    "variant": "algebraV3",
     "strategist": "Steer",
+    "manager": "Steer",
+    "startBlock": 6269146,
     "allowed0": true,
     "allowed1": true,
     "address": "0xad81a9c5304f9ea016c9c03bbf95f2acc3b0274a",
@@ -322,14 +395,16 @@
   },
   {
     "symbol": "USDT/WETH",
+    "lpSymbol": "USDT/WETH",
     "title": "Steer (Classic Rebalance)",
     "type": "Classic Rebalance",
+    "variant": "algebraV3",
     "strategist": "Steer",
+    "manager": "Steer",
     "startBlock": 7034477,
     "allowed0": true,
     "allowed1": true,
     "address": "0x4f84351f2124bd4ba820730d3643984344ca481f",
-    "url": "https://app.steer.finance/vault/0x4f84351f2124bd4ba820730d3643984344ca481f",
     "token0": {
       "address": "0x4200000000000000000000000000000000000006"
     },
@@ -339,14 +414,16 @@
   },
   {
     "symbol": "USDC/WETH",
+    "lpSymbol": "USDC/WETH",
     "title": "Steer (Classic Rebalance)",
     "type": "Classic Rebalance",
+    "variant": "algebraV3",
     "strategist": "Steer",
+    "manager": "Steer",
     "startBlock": 7034361,
     "allowed0": true,
     "allowed1": true,
     "address": "0xbfff632091ce8d5bcc2bd960c419afd0291d13b4",
-    "url": "https://app.steer.finance/vault/0xbfff632091ce8d5bcc2bd960c419afd0291d13b4",
     "token0": {
       "address": "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff"
     },
@@ -355,15 +432,17 @@
     }
   },
   {
-    "symbol": "WBTC/WETH",
+    "symbol": "wBTC/WETH",
+    "lpSymbol": "wBTC/WETH",
     "title": "Steer (Classic Rebalance)",
     "type": "Classic Rebalance",
+    "variant": "algebraV3",
     "strategist": "Steer",
+    "manager": "Steer",
     "startBlock": 7021888,
     "allowed0": true,
     "allowed1": true,
     "address": "0xe9962ab730b9fe4b5186278b6b55152ea2ccf793",
-    "url": " https://app.steer.finance/vault/0xe9962ab730b9fe4b5186278b6b55152ea2ccf793",
     "token0": {
       "address": "0x19df5689cfce64bc2a55f7220b0cd522659955ef"
     },
@@ -373,14 +452,16 @@
   },
   {
     "symbol": "ZRC/WETH",
+    "lpSymbol": "ZRC/WETH",
     "title": "Steer (Classic Rebalance)",
     "type": "Classic Rebalance",
+    "variant": "algebraV3",
     "strategist": "Steer",
+    "manager": "Steer",
     "startBlock": 7058183,
     "allowed0": true,
     "allowed1": true,
     "address": "0x2cbcc27a9d4497342c3b7ce67152f447fe63d42a",
-    "url": "https://app.steer.finance/vault/0x2cbcc27a9d4497342c3b7ce67152f447fe63d42a",
     "token0": {
       "address": "0x4200000000000000000000000000000000000006"
     },
@@ -390,14 +471,16 @@
   },
   {
     "symbol": "GUD/ZRC",
+    "lpSymbol": "GUD/ZRC",
     "title": "Steer (Classic Rebalance)",
     "type": "Classic Rebalance",
+    "variant": "algebraV3",
     "strategist": "Steer",
+    "manager": "Steer",
     "startBlock": 7392401,
     "allowed0": true,
     "allowed1": true,
     "address": "0x9a3a74b7ecc0f2c838a1de6c8253a458b56c7ffb",
-    "url": "https://app.steer.finance/vault/0x9a3a74b7ecc0f2c838a1de6c8253a458b56c7ffb",
     "token0": {
       "address": "0xa608512bbc9934e4b1ddecf0f5fb38b6ad93308d"
     },
