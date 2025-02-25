@@ -4,8 +4,9 @@ export const points: Record<number, Points[]> = {
   59144: [
     {
       name: "Linea LXP points",
-      logoURI:
+      logoUrl:
         "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/points/LXP.png",
+      infoUrl: "https://support.linea.build/linea-voyage/lxp",
       poolAddresses: [
         "0x6e9d701fb6478ed5972a37886c2ba6c82a4cbb4c", //BUSD/WETH
         "0x8a9570ec97534277ade6e46d100939fbce4968f0", //WBTC/WETH

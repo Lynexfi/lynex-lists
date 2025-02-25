@@ -29,9 +29,10 @@ export interface Strategy {
   promoted?: boolean;
 }
 export interface Points {
-  name: string;
-  logoURI: string;
-  poolAddresses: string[];
+  name: string
+  logoUrl: string
+  infoUrl: string
+  poolAddresses: string[]
 }
 export type Strategies = Record<number, Strategy[]>;
 
