@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 7
+    "patch": 8
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -205,7 +205,7 @@
       "symbol": "LYNX",
       "address": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
       "decimals": 18,
-      "logoURI": "https://app.lynex.fi/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LYNX.png"
     },
     {
       "chainId": 59144,

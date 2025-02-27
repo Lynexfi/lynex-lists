@@ -19,7 +19,8 @@ export const tokens = {
       address: "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
 
       decimals: 18,
-      logoURI: "https://app.lynex.fi/logo.png",
+      logoURI:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LYNX.png",
     },
     {
       name: "Options Lynex",
