@@ -28,7 +28,8 @@ export const tokens = {
       address: "0x63349BA5E1F71252eCD56E8F950D1A518B400b60",
 
       decimals: 18,
-      logoURI: "https://app.lynex.fi/images/tokens/oLYNX.png",
+      logoURI:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/oLYNX.png",
     },
     {
       name: "Bribe veLYNX",
@@ -36,7 +37,8 @@ export const tokens = {
       address: "0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B",
 
       decimals: 18,
-      logoURI: "https://alpha.lynex.fi/images/tokens/bveLYNX.png",
+      logoURI:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/bveLYNX.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -723,7 +725,8 @@ export const tokens = {
       symbol: "DUSD",
       address: "0xa88b54e6b76fb97cdb8ecae868f1458e18a953f4",
       decimals: 18,
-      logoURI: "https://alpha.lynex.fi/images/tokens/DUSD.png",
+      logoURI:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/DUSD.png",
     },
     {
       name: "Metavualt Trade",
