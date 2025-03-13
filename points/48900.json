@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Zircuit Points",
+    "logoUrl": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/zircuitBadge.png",
+    "infoUrl": "https://app.zircuit.com/dex",
+    "tooltipDescription": "Liquidity Providers in this pool also earn Zircuit points.",
+    "poolAddresses": [
+      "0xbd3332466d13588b1bfe8673b58190645bfe26be",
+      "0x318e378b6ec1590315e5e8160a2ef28308ae7cfc",
+      "0x8118c33513fec13f8cf488ccb4509190650f0e92",
+      "0x181f22f21d1f0228d99741a5a84954ce78db1137",
+      "0x2cbcc27a9d4497342c3b7ce67152f447fe63d42a",
+      "0x4f84351f2124bd4ba820730d3643984344ca481f",
+      "0xe9962ab730b9fe4b5186278b6b55152ea2ccf793",
+      "0x9ac11fc3de0533d6a0db68e78991aaed0c7a48c8",
+      "0x1ece78b38845518a018a60ec919af470aa4f512f",
+      "0xe284e8ad2ba6a10baeaac270e846aa3993db485d",
+      "0x1206fb230f60062fbe38c571ee689ec9127ef097",
+      "0xc14ee8d65f5e9d42e00518776711753c258655ef"
+    ]
+  }
+]
