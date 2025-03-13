@@ -1054,18 +1054,6 @@ export const tokens = {
       logoURI:
         "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/DGAF.png",
     },
-    {
-      name: "abcLYNX",
-      symbol: "abcLYNX",
-      tokenId:
-        "https://lineascan.build/address/0x4a2694FdF12EE1BF3d5c646Ba66ea55ED8727850",
-      address: "0x4a2694FdF12EE1BF3d5c646Ba66ea55ED8727850",
-      decimals: 18,
-      createdAt: "2025-03-13",
-      updatedAt: "2025-03-13",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/abcLYNX.png",
-    },
   ],
 
   48900: [
