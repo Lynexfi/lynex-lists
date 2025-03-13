@@ -1613,10 +1613,13 @@ export const strategies: Strategies = {
   137: [
     // Gamma strategies
     {
-      symbol: "WBTC/WETH Narrow",
+      symbol: "WBTC/WETH",
+      lpSymbol: "WBTC/WETH",
       title: "Gamma Narrow",
       type: "Narrow",
+      variant: "algebraV3",
       strategist: "Gamma",
+      manager: "Gamma",
       startBlock: 67877897,
       allowed0: true,
       allowed1: true,
@@ -1629,10 +1632,13 @@ export const strategies: Strategies = {
       },
     },
     {
-      symbol: "WETH/USDT Narrow",
+      symbol: "WETH/USDT",
+      lpSymbol: "WETH/USDT",
       title: "Gamma Narrow",
       type: "Narrow",
+      variant: "algebraV3",
       strategist: "Gamma",
+      manager: "Gamma",
       startBlock: 67879785,
       allowed0: true,
       allowed1: true,
@@ -1645,10 +1651,13 @@ export const strategies: Strategies = {
       },
     },
     {
-      symbol: "WMATIC/ETH Narrow", //Change naming to WPOL if marketing wants like that.
+      symbol: "WPOL/ETH",
+      lpSymbol: "WPOL/ETH",
       title: "Gamma Narrow",
       type: "Narrow",
+      variant: "algebraV3",
       strategist: "Gamma",
+      manager: "Gamma",
       startBlock: 67879801,
       allowed0: true,
       allowed1: true,
@@ -1661,10 +1670,13 @@ export const strategies: Strategies = {
       },
     },
     {
-      symbol: "WMATIC/USDT Narrow", //Change naming to WPOL if marketing wants it like that.
+      symbol: "WPOL/USDT",
+      lpSymbol: "WPOL/USDT",
       title: "Gamma Narrow",
       type: "Narrow",
+      variant: "algebraV3",
       strategist: "Gamma",
+      manager: "Gamma",
       startBlock: 67879851,
       allowed0: true,
       allowed1: true,
@@ -1674,22 +1686,6 @@ export const strategies: Strategies = {
       },
       token1: {
         address: "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
-      },
-    },
-  ],
-
-  //LINEA TESTNET
-  59140: [
-    {
-      symbol: "USDC/WETH Narrow",
-      title: "Gamma Narrow",
-      type: "Narrow",
-      address: "0x6e9d701fB6478Ed5972a37886C2BA6C82a4cBb4C",
-      token0: {
-        address: "0x2c1b868d6596a18e32e61b901e4060c872647b6c",
-      },
-      token1: {
-        address: "0xc0f8ee736cec8c1a12e9c25272e6f417510165ff",
       },
     },
   ],

@@ -1,10 +1,13 @@
 {
   "137": [
     {
-      "symbol": "WBTC/WETH Narrow",
+      "symbol": "WBTC/WETH",
+      "lpSymbol": "WBTC/WETH",
       "title": "Gamma Narrow",
       "type": "Narrow",
+      "variant": "algebraV3",
       "strategist": "Gamma",
+      "manager": "Gamma",
       "startBlock": 67877897,
       "allowed0": true,
       "allowed1": true,
@@ -17,10 +20,13 @@
       }
     },
     {
-      "symbol": "WETH/USDT Narrow",
+      "symbol": "WETH/USDT",
+      "lpSymbol": "WETH/USDT",
       "title": "Gamma Narrow",
       "type": "Narrow",
+      "variant": "algebraV3",
       "strategist": "Gamma",
+      "manager": "Gamma",
       "startBlock": 67879785,
       "allowed0": true,
       "allowed1": true,
@@ -33,10 +39,13 @@
       }
     },
     {
-      "symbol": "WMATIC/ETH Narrow",
+      "symbol": "WPOL/ETH",
+      "lpSymbol": "WPOL/ETH",
       "title": "Gamma Narrow",
       "type": "Narrow",
+      "variant": "algebraV3",
       "strategist": "Gamma",
+      "manager": "Gamma",
       "startBlock": 67879801,
       "allowed0": true,
       "allowed1": true,
@@ -49,10 +58,13 @@
       }
     },
     {
-      "symbol": "WMATIC/USDT Narrow",
+      "symbol": "WPOL/USDT",
+      "lpSymbol": "WPOL/USDT",
       "title": "Gamma Narrow",
       "type": "Narrow",
+      "variant": "algebraV3",
       "strategist": "Gamma",
+      "manager": "Gamma",
       "startBlock": 67879851,
       "allowed0": true,
       "allowed1": true,
