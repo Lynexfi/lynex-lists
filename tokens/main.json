@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 9
+    "patch": 10
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -1225,6 +1225,17 @@
       "createdAt": "2025-02-21",
       "updatedAt": "2025-02-21",
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/DGAF.png"
+    },
+    {
+      "chainId": 59144,
+      "name": "abcLYNX",
+      "symbol": "abcLYNX",
+      "tokenId": "https://lineascan.build/address/0x4a2694FdF12EE1BF3d5c646Ba66ea55ED8727850",
+      "address": "0x4a2694FdF12EE1BF3d5c646Ba66ea55ED8727850",
+      "decimals": 18,
+      "createdAt": "2025-03-13",
+      "updatedAt": "2025-03-13",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/abcLYNX.png"
     }
   ]
 }
