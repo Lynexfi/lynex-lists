@@ -10,7 +10,7 @@
   },
   {
     "address": "0x09a8ebb5bf22b1da81835164d6653fa1d57dbbee",
-    "symbol": "WETH/STONE (Narrow)",
+    "symbol": "WETH/STONE (Correlated)",
     "gauge": "0x81d6d6bad0df3bbcb5bd2bdda0417bde4046d184",
     "token0": "0x4200000000000000000000000000000000000006",
     "token1": "0x80137510979822322193fc997d400d5a6c747bf7",
@@ -19,7 +19,7 @@
   },
   {
     "address": "0x1206fb230f60062fbe38c571ee689ec9127ef097",
-    "symbol": "WETH/USDT (YieldIQ)",
+    "symbol": "WETH/USDT (Single Deposit)",
     "gauge": "0xe8a11f4761de8169027a6f1f8d1351b9eaccfb15",
     "token0": "0x4200000000000000000000000000000000000006",
     "token1": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
@@ -37,7 +37,7 @@
   },
   {
     "address": "0x1ece78b38845518a018a60ec919af470aa4f512f",
-    "symbol": "WBTC/WETH (YieldIQ)",
+    "symbol": "wBTC/WETH (Single Deposit)",
     "gauge": "0xdb44a36d89f59d4e2c4898997bf2f6fbf0e7d520",
     "token0": "0x19df5689cfce64bc2a55f7220b0cd522659955ef",
     "token1": "0x4200000000000000000000000000000000000006",
@@ -91,7 +91,7 @@
   },
   {
     "address": "0x53bcc093d2cb6de857e296a9e723f58c4f2876a0",
-    "symbol": "WETH/wstETH (Narrow)",
+    "symbol": "WETH/wstETH (Correlated)",
     "gauge": "0x2f36acc3a9e219f4236f7ec5ca9866cb2bbbbcec",
     "token0": "0x4200000000000000000000000000000000000006",
     "token1": "0xf0e673bc224a8ca3ff67a61605814666b1234833",
@@ -127,7 +127,7 @@
   },
   {
     "address": "0x6e1d274fe62eb856deb71ed9db45cb95e2e3388d",
-    "symbol": "USDC/OCX (YieldIQ)",
+    "symbol": "USDC/OCX (Single Deposit)",
     "gauge": "0x7dfcbed9d4aa982553ce79fc178e6304967b388a",
     "token0": "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
     "token1": "0x58024021fe3ef613fa76e2f36a3da97eb1454c36",
@@ -190,7 +190,7 @@
   },
   {
     "address": "0x9ac11fc3de0533d6a0db68e78991aaed0c7a48c8",
-    "symbol": "ZRC/WETH (YieldIQ)",
+    "symbol": "ZRC/WETH (Single Deposit)",
     "gauge": "0x1d4f6f58eb8fd1aa602d5e98e8e2468422f2ded6",
     "token0": "0x4200000000000000000000000000000000000006",
     "token1": "0xfd418e42783382e86ae91e445406600ba144d162",
@@ -199,7 +199,7 @@
   },
   {
     "address": "0x9ed3c5382dc6d13aad0fd19536e7e2d427d9656c",
-    "symbol": "wrsETH/WETH (Narrow)",
+    "symbol": "wrsETH/WETH (Correlated)",
     "gauge": "0x8cfff3e98366f3cd4f1eb2b193fd3069185862a9",
     "token0": "0x311a51ff8839b6afcaa9426bdbffdf2e70a0da25",
     "token1": "0x4200000000000000000000000000000000000006",
@@ -262,7 +262,7 @@
   },
   {
     "address": "0xc14ee8d65f5e9d42e00518776711753c258655ef",
-    "symbol": "USDT/WETH (YieldIQ)",
+    "symbol": "USDT/WETH (Single Deposit)",
     "gauge": "0x03fb0de6e67b76a01dfa0406c96a57a3640ff00a",
     "token0": "0x4200000000000000000000000000000000000006",
     "token1": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
@@ -280,7 +280,7 @@
   },
   {
     "address": "0xe284e8ad2ba6a10baeaac270e846aa3993db485d",
-    "symbol": "WETH/WBTC (YieldIQ)",
+    "symbol": "WETH/WBTC (Single Deposit)",
     "gauge": "0xfd568a0c85b773626d607711da9a688aa79d9ff4",
     "token0": "0x19df5689cfce64bc2a55f7220b0cd522659955ef",
     "token1": "0x4200000000000000000000000000000000000006",
@@ -298,7 +298,7 @@
   },
   {
     "address": "0xe9962ab730b9fe4b5186278b6b55152ea2ccf793",
-    "symbol": "WBTC/WETH (Classic Rebalance)",
+    "symbol": "wBTC/WETH (Classic Rebalance)",
     "gauge": "0xbbd17d0fe0bea8170e3697e698e4766b33097fba",
     "token0": "0x19df5689cfce64bc2a55f7220b0cd522659955ef",
     "token1": "0x4200000000000000000000000000000000000006",
@@ -307,7 +307,7 @@
   },
   {
     "address": "0xeeea06204ddc3ac67f4c9dd145c98be33f46c24a",
-    "symbol": "WETH/OCX (YieldIQ)",
+    "symbol": "WETH/OCX (Single Deposit)",
     "gauge": "0x17b69c33fb1acaa9b8974f686694c218bacaba58",
     "token0": "0x4200000000000000000000000000000000000006",
     "token1": "0x58024021fe3ef613fa76e2f36a3da97eb1454c36",
