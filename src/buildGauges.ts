@@ -106,8 +106,8 @@ async function gaugeGod(chainId: 48900 | 59144) {
         return {
           address: item.pair_address.toLowerCase(),
           symbol: strategy
-            ? `${strategy.symbol.split(" ")[0]} (${strategy.type})`
-            : item.symbol,
+          ? `${(strategy.symbol || "").split(" ")[0]} (${strategy.type || "Unknown"})`
+          : item.symbol,
           gauge: item.gauge.toLowerCase(),
           token0: item.token0.toLowerCase(),
           token1: item.token1.toLowerCase(),
