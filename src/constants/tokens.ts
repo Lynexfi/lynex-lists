@@ -1259,7 +1259,8 @@ export const tokens = {
       decimals: 18,
       createdAt: "2025-02-11",
       updatedAt: "2025-02-11",
-      logoURI: "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WETH.png",
+      logoURI:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WETH.png",
     },
     {
       chainURI: "https://polygonscan.com/block/0",
@@ -1271,7 +1272,8 @@ export const tokens = {
       decimals: 6,
       createdAt: "2025-02-11",
       updatedAt: "2025-02-11",
-      logoURI: "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661",
+      logoURI:
+        "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661",
     },
     {
       chainURI: "https://polygonscan.com/block/0",
@@ -1302,12 +1304,52 @@ export const tokens = {
       tokenId:
         "https://polygonscan.com/address/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       address: "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-      name: "Wrapped Matic",
-      symbol: "WMATIC",
+      name: "Wrapped POL",
+      symbol: "wPOL",
       decimals: 18,
       createdAt: "2025-02-11",
-      updatedAt: "2025-02-11",
-      logoURI: "https://assets.coingecko.com/coins/images/14073/large/matic.png?1696513797",
+      updatedAt: "2025-03-19",
+      logoURI:
+        "https://assets.coingecko.com/coins/images/14073/large/matic.png?1696513797",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+      address: "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+      name: "Aave (PoS)",
+      symbol: "AAVE",
+      decimals: 18,
+      createdAt: "2025-03-19",
+      updatedAt: "2025-03-19",
+      logoURI:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/AAVE.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+      address: "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+      name: "ChainLink Token",
+      symbol: "LINK",
+      decimals: 18,
+      createdAt: "2025-03-19",
+      updatedAt: "2025-03-19",
+      logoURI:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LINK.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+      address: "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+      name: "Uniswap (PoS)",
+      symbol: "UNI",
+      decimals: 18,
+      createdAt: "2025-03-19",
+      updatedAt: "2025-03-19",
+      logoURI:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/UNI.png",
     },
   ],
 };
