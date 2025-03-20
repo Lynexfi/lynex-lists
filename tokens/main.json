@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 10
+    "patch": 11
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -46,6 +46,30 @@
       "createdAt": "2025-02-11",
       "updatedAt": "2025-02-11",
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+    },
+    {
+      "chainId": 137,
+      "chainURI": "https://polygonscan.com/block/0",
+      "tokenId": "https://polygonscan.com/address/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "name": "USD Coin (PoS)",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "createdAt": "2025-03-20",
+      "updatedAt": "2025-03-20",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+    },
+    {
+      "chainId": 137,
+      "chainURI": "https://polygonscan.com/block/0",
+      "tokenId": "https://polygonscan.com/address/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "name": "DAI (PoS)",
+      "symbol": "DAI",
+      "decimals": 18,
+      "createdAt": "2025-03-20",
+      "updatedAt": "2025-03-20",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
     },
     {
       "chainId": 137,
@@ -106,6 +130,54 @@
       "createdAt": "2025-03-19",
       "updatedAt": "2025-03-19",
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/UNI.png"
+    },
+    {
+      "chainId": 137,
+      "chainURI": "https://polygonscan.com/block/0",
+      "tokenId": "https://polygonscan.com/address/0xd93f7E271cB87c23AaA73edC008A79646d1F9912",
+      "address": "0xd93f7E271cB87c23AaA73edC008A79646d1F9912",
+      "name": "Wrapped SOL",
+      "symbol": "SOL",
+      "decimals": 9,
+      "createdAt": "2025-03-20",
+      "updatedAt": "2025-03-20",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"
+    },
+    {
+      "chainId": 137,
+      "chainURI": "https://polygonscan.com/block/0",
+      "tokenId": "https://polygonscan.com/address/0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "name": "Stargate Token",
+      "symbol": "STG",
+      "decimals": 18,
+      "createdAt": "2025-03-20",
+      "updatedAt": "2025-03-20",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18934.png"
+    },
+    {
+      "chainId": 137,
+      "chainURI": "https://polygonscan.com/block/0",
+      "tokenId": "https://polygonscan.com/address/0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+      "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+      "name": "Sandbox",
+      "symbol": "SAND",
+      "decimals": 18,
+      "createdAt": "2025-03-20",
+      "updatedAt": "2025-03-20",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png"
+    },
+    {
+      "chainId": 137,
+      "chainURI": "https://polygonscan.com/block/0",
+      "tokenId": "https://polygonscan.com/address/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+      "address": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+      "name": "Aavegotchi",
+      "symbol": "GHST",
+      "decimals": 18,
+      "createdAt": "2025-03-20",
+      "updatedAt": "2025-03-20",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7046.png"
     },
     {
       "chainId": 48900,
