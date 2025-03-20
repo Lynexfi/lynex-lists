@@ -1630,6 +1630,8 @@ export const strategies: Strategies = {
       token1: {
         address: "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
       },
+      v4PoolId:
+        "0xdb26d6f2af41f431d447f292d9d96950f3d3a86cdfc321673301d029412502a1",
     },
     {
       symbol: "WBTC/WETH",
@@ -1649,6 +1651,8 @@ export const strategies: Strategies = {
       token1: {
         address: "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
       },
+      v4PoolId:
+        "0x6826ff7e51df3bb57ba65a9ec1296a6074abce905f26b2e2917dc3f0bd9a88b9",
     },
     {
       symbol: "POL/USDC",
@@ -1668,6 +1672,8 @@ export const strategies: Strategies = {
       token1: {
         address: "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
       },
+      v4PoolId:
+        "0x81d3c57932bb451b60029c9e60832e00a220af4a14c15f829b9090b3fd5717f2",
     },
 
     // Gamma strategies
