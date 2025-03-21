@@ -615,6 +615,15 @@
       "bribe": "0x9e95c3dd77ef5b58a6b998767a218a1834430d2b"
     },
     {
+      "address": "0x48a62b84ee25d5e8a3d43670b41786e2dc91ece4",
+      "symbol": "vAMM-LYNX/LPUSS",
+      "gauge": "0xbdbaeb8e6972574a2f380916b2d9c8b68462b873",
+      "token0": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
+      "token1": "0x81be2acb2e9291db6400f9f6a4d0f35f24de2e77",
+      "isStrategy": false,
+      "bribe": "0x3023e6f965e650e5c46e25791d3e3e48ed615bbb"
+    },
+    {
       "address": "0x4cf89aa883b261221c8858709c3d09b7d4901939",
       "symbol": "vAMM-APE/WETH",
       "gauge": "0x45ba47787483f7e14d608b075b76bdac0b4335a5",
