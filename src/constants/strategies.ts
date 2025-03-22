@@ -1303,7 +1303,6 @@ export const strategies: Strategies = {
       token1: {
         address: "0xfd418e42783382E86Ae91e445406600Ba144D162",
       },
-      promoted: true,
     },
     {
       symbol: "wrsETH/WETH",
