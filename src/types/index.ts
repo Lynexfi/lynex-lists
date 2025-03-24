@@ -27,6 +27,7 @@ export interface Strategy {
   rewardAddress?: string;
   percentage?: number;
   promoted?: boolean;
+  v4PoolId?: string;
 }
 export interface Points {
   name: string

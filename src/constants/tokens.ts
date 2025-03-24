@@ -1259,4 +1259,181 @@ export const tokens = {
         "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/oOCX.png",
     },
   ],
+
+  137: [
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+      address: "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      name: "Wrapped Ether",
+      symbol: "WETH",
+      decimals: 18,
+      createdAt: "2025-02-11",
+      updatedAt: "2025-02-11",
+      logoURI:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WETH.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+      address: "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      name: "Tether USD",
+      symbol: "USDT",
+      decimals: 6,
+      createdAt: "2025-02-11",
+      updatedAt: "2025-02-11",
+      logoURI:
+        "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+      address: "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+      name: "USD Coin",
+      symbol: "USDC",
+      decimals: 6,
+      createdAt: "2025-02-11",
+      updatedAt: "2025-02-11",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      address: "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      name: "USD Coin (PoS)",
+      symbol: "USDC.e",
+      decimals: 6,
+      createdAt: "2025-03-20",
+      updatedAt: "2025-03-20",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      address: "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      name: "DAI (PoS)",
+      symbol: "DAI",
+      decimals: 18,
+      createdAt: "2025-03-20",
+      updatedAt: "2025-03-20",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+      address: "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      name: "Wrapped BTC",
+      symbol: "WBTC",
+      decimals: 8,
+      createdAt: "2025-02-11",
+      updatedAt: "2025-02-11",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      address: "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      name: "Wrapped POL",
+      symbol: "wPOL",
+      decimals: 18,
+      createdAt: "2025-02-11",
+      updatedAt: "2025-03-19",
+      logoURI:
+        "https://assets.coingecko.com/coins/images/14073/large/matic.png?1696513797",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+      address: "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+      name: "Aave (PoS)",
+      symbol: "AAVE",
+      decimals: 18,
+      createdAt: "2025-03-19",
+      updatedAt: "2025-03-19",
+      logoURI:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/AAVE.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+      address: "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+      name: "ChainLink Token",
+      symbol: "LINK",
+      decimals: 18,
+      createdAt: "2025-03-19",
+      updatedAt: "2025-03-19",
+      logoURI:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LINK.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+      address: "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+      name: "Uniswap (PoS)",
+      symbol: "UNI",
+      decimals: 18,
+      createdAt: "2025-03-19",
+      updatedAt: "2025-03-19",
+      logoURI:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/UNI.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0xd93f7E271cB87c23AaA73edC008A79646d1F9912",
+      address: "0xd93f7E271cB87c23AaA73edC008A79646d1F9912",
+      name: "Wrapped SOL",
+      symbol: "SOL",
+      decimals: 9,
+      createdAt: "2025-03-20",
+      updatedAt: "2025-03-20",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      address: "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      name: "Stargate Token",
+      symbol: "STG",
+      decimals: 18,
+      createdAt: "2025-03-20",
+      updatedAt: "2025-03-20",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/18934.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+      address: "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+      name: "Sandbox",
+      symbol: "SAND",
+      decimals: 18,
+      createdAt: "2025-03-20",
+      updatedAt: "2025-03-20",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+      address: "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+      name: "Aavegotchi",
+      symbol: "GHST",
+      decimals: 18,
+      createdAt: "2025-03-20",
+      updatedAt: "2025-03-20",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/7046.png",
+    },
+  ],
 };
