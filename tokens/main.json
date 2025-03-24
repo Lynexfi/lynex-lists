@@ -3,13 +3,10 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 11
+    "patch": 12
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
-  "keywords": [
-    "lynex",
-    "default"
-  ],
+  "keywords": ["lynex", "default"],
   "tokens": [
     {
       "chainId": 137,
@@ -395,9 +392,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
@@ -415,9 +410,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x1f031f8c523b339c7a831355879e3568fa3eb263",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0x1f031f8c523b339c7a831355879e3568fa3eb263",
       "name": "DeversiFi Token",
       "symbol": "DVF",
@@ -435,9 +428,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x0e5F2ee8C29e7eBc14e45dA7FF90566d8c407dB7",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0x0e5F2ee8C29e7eBc14e45dA7FF90566d8c407dB7",
       "name": "HAPI Protocol",
       "symbol": "HAPI",
@@ -455,9 +446,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x3b2F62d42DB19B30588648bf1c184865D4C3B1D6",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0x3b2F62d42DB19B30588648bf1c184865D4C3B1D6",
       "name": "Kyber Network Crystal v2",
       "symbol": "KNC",
@@ -475,9 +464,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x0e076AAFd86a71dCEAC65508DAF975425c9D0cB6",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0x0e076AAFd86a71dCEAC65508DAF975425c9D0cB6",
       "name": "Lido DAO Token",
       "symbol": "LDO",
@@ -495,9 +482,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x5B16228B94b68C7cE33AF2ACc5663eBdE4dCFA2d",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0x5B16228B94b68C7cE33AF2ACc5663eBdE4dCFA2d",
       "name": "ChainLink Token",
       "symbol": "LINK",
@@ -515,9 +500,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x7da14988E4f390C2E34ed41DF1814467D3aDe0c3",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0x7da14988E4f390C2E34ed41DF1814467D3aDe0c3",
       "name": "Pepe",
       "symbol": "PEPE",
@@ -535,9 +518,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x99AD925C1Dc14Ac7cc6ca1244eeF8043C74E99d5",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0x99AD925C1Dc14Ac7cc6ca1244eeF8043C74E99d5",
       "name": "SHIBA INU",
       "symbol": "SHIB",
@@ -555,9 +536,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x636B22bC471c955A8DB60f28D4795066a8201fa3",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0x636B22bC471c955A8DB60f28D4795066a8201fa3",
       "name": "Uniswap",
       "symbol": "UNI",
@@ -575,9 +554,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x636B22bC471c955A8DB60f28D4795066a8201fa3",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
       "name": "BUSD",
       "symbol": "BUSD",
@@ -595,9 +572,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0xA219439258ca9da29E9Cc4cE5596924745e12B93",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
       "name": "Tether USD",
       "symbol": "USDT",
@@ -615,9 +590,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
       "name": "USDC",
       "symbol": "USDC",
@@ -635,9 +608,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
       "name": "USDe",
       "symbol": "USDe",
@@ -650,9 +621,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
       "name": "sUSDe",
       "symbol": "sUSDe",
@@ -665,9 +634,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
@@ -685,9 +652,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x5FFcE65A40f6d3de5332766ffF6A28BF491C868c",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0x5FFcE65A40f6d3de5332766ffF6A28BF491C868c",
       "name": "SolvBTC",
       "symbol": "SolvBTC.m",
@@ -700,9 +665,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0xe4D584ae9b753e549cAE66200A6475d2f00705f7",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0xe4D584ae9b753e549cAE66200A6475d2f00705f7",
       "name": "Merlin BTC",
       "symbol": "M-BTC",
@@ -715,9 +678,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
       "name": "Matic Token",
       "symbol": "MATIC",
@@ -761,9 +722,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0xa8ae6365383eb907e6b4b1b7e82a35752cc5ef8c",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0xa8ae6365383eb907e6b4b1b7e82a35752cc5ef8c",
       "name": "Ankr Network",
       "symbol": "ANKR",
@@ -781,9 +740,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x11d8680c7f8f82f623e840130eb06c33d9f90c89",
-      "tokenType": [
-        "bridged"
-      ],
+      "tokenType": ["bridged"],
       "address": "0x11d8680c7f8f82f623e840130eb06c33d9f90c89",
       "name": "Ankr Staked ETH",
       "symbol": "ankrETH",
@@ -1039,9 +996,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0x0A79e44c99505c7f388CA30c787ff97217E73ecC",
-      "tokenType": [
-        "canonical-bridge"
-      ],
+      "tokenType": ["canonical-bridge"],
       "address": "0x0A79e44c99505c7f388CA30c787ff97217E73ecC",
       "name": "Frax Share",
       "symbol": "FXS",
@@ -1059,9 +1014,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0xf3B001D64C656e30a62fbaacA003B1336b4ce12A",
-      "tokenType": [
-        "native"
-      ],
+      "tokenType": ["native"],
       "address": "0xf3B001D64C656e30a62fbaacA003B1336b4ce12A",
       "name": "Mai Stablecoin",
       "symbol": "MAI",
@@ -1074,9 +1027,7 @@
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
-      "tokenType": [
-        "canonical-bridge"
-      ],
+      "tokenType": ["canonical-bridge"],
       "address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
@@ -1393,6 +1344,17 @@
       "createdAt": "2025-02-21",
       "updatedAt": "2025-02-21",
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/DGAF.png"
+    },
+    {
+      "chainId": 59144,
+      "name": "abcLYNX",
+      "symbol": "abcLYNX",
+      "tokenId": "https://lineascan.build/address/0x4a2694FdF12EE1BF3d5c646Ba66ea55ED8727850",
+      "address": "0x4a2694FdF12EE1BF3d5c646Ba66ea55ED8727850",
+      "decimals": 18,
+      "createdAt": "2025-03-17",
+      "updatedAt": "2025-03-17",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/abcLYNX.png"
     }
   ]
 }

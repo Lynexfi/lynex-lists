@@ -449,6 +449,7 @@ export const strategies: Strategies = {
         address: "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
       },
       percentage: 70,
+      promoted: true,
     },
     {
       symbol: "USDC/LYNX",
@@ -621,7 +622,6 @@ export const strategies: Strategies = {
         address: "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
       },
       percentage: 70,
-      promoted: true,
     },
     {
       symbol: "aBTC/wBTC",
@@ -1450,6 +1450,7 @@ export const strategies: Strategies = {
         address: "0x58024021Fe3eF613fA76e2f36A3Da97eb1454C36",
       },
       percentage: 70,
+      promoted: true,
     },
     {
       symbol: "USDC/OCX",
@@ -1471,6 +1472,7 @@ export const strategies: Strategies = {
         address: "0x58024021Fe3eF613fA76e2f36A3Da97eb1454C36",
       },
       percentage: 70,
+      promoted: true,
     },
 
     //STEER STRATEGIES
@@ -1606,6 +1608,7 @@ export const strategies: Strategies = {
       token1: {
         address: "0xfd418e42783382e86ae91e445406600ba144d162",
       },
+      promoted: true,
     },
   ],
 
