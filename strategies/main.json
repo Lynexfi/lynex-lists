@@ -11,7 +11,7 @@
       "startBlock": 67877897,
       "allowed0": true,
       "allowed1": true,
-      "address": "0xCcF4B4887D99Dc870c78cD1b017919e577887a12",
+      "address": "0xF83d5F96fB4715D4E52359089fA3e4D7C7C32298",
       "token0": {
         "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359"
       },
@@ -31,7 +31,7 @@
       "startBlock": 67877897,
       "allowed0": true,
       "allowed1": true,
-      "address": "0xF2e5a44D79c8c81760B13cF4b2E6D1E0Ed5Eb058",
+      "address": "0xdf0f120e2ef4B55Ad525F2558144049BfFA3D0b2",
       "token0": {
         "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6"
       },
@@ -51,7 +51,7 @@
       "startBlock": 67877897,
       "allowed0": true,
       "allowed1": true,
-      "address": "0x587f1b4e2d6e07b9a142cfe699c16dc874879ab2",
+      "address": "0x236B70D439aE9cD52EBAF9Bfae40AB18549b7fbd",
       "token0": {
         "address": "0x0000000000000000000000000000000000000000"
       },
