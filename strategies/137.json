@@ -58,5 +58,25 @@
       "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359"
     },
     "v4PoolId": "0x81d3c57932bb451b60029c9e60832e00a220af4a14c15f829b9090b3fd5717f2"
+  },
+  {
+    "symbol": "USDC/USDT",
+    "lpSymbol": "USDC/USDT",
+    "title": "Gamma Correlated",
+    "type": "Correlated",
+    "variant": "uniV4",
+    "strategist": "Gamma",
+    "manager": "Gamma",
+    "startBlock": 67877897,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x92d24ac95d2a06a225fd746491d54178045c8a77",
+    "token0": {
+      "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359"
+    },
+    "token1": {
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
+    },
+    "v4PoolId": "0x8d1b5f8da63fa29b191672231d3845740a11fcbef6c76e077cfffe56cc27c707"
   }
 ]
