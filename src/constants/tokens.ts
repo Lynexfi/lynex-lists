@@ -1285,7 +1285,7 @@ export const tokens = {
       createdAt: "2025-02-11",
       updatedAt: "2025-02-11",
       logoURI:
-        "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661",
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/USDT.png",
     },
     {
       chainURI: "https://polygonscan.com/block/0",
