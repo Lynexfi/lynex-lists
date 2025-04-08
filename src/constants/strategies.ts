@@ -1699,5 +1699,110 @@ export const strategies: Strategies = {
       v4PoolId:
         "0x8d1b5f8da63fa29b191672231d3845740a11fcbef6c76e077cfffe56cc27c707",
     },
+    {
+      symbol: "POL/USDT",
+      lpSymbol: "POL/USDT",
+      title: "Gamma Narrow",
+      type: "Narrow",
+      variant: "uniV4",
+      strategist: "Gamma",
+      manager: "Gamma",
+      startBlock: 67877897,
+      allowed0: true,
+      allowed1: true,
+      address: "0x265A0f96B61849773a7B515495c6f04B364B28D8",
+      token0: {
+        address: "0x0000000000000000000000000000000000000000",
+      },
+      token1: {
+        address: "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      },
+      v4PoolId:
+        "0x94dc4253699730d7ddce46aa2766547a03d2387313248dc240283d10fd3014c5",
+    },
+    {
+      symbol: "WETH/USDT",
+      lpSymbol: "WETH/USDT",
+      title: "Gamma Narrow",
+      type: "Narrow",
+      variant: "uniV4",
+      strategist: "Gamma",
+      manager: "Gamma",
+      startBlock: 67877897,
+      allowed0: true,
+      allowed1: true,
+      address: "0xE227cE7361afA1A4e59baeF6e81dFB48F425Fb03",
+      token0: {
+        address: "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      },
+      token1: {
+        address: "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      },
+      v4PoolId:
+        "0x38f76aeed8a852c046c40a3c46f54458791f5b8fdbc20c4f99eda33890809017",
+    },
+    {
+      symbol: "AAVE/WETH",
+      lpSymbol: "AAVE/WETH",
+      title: "Gamma Narrow",
+      type: "Narrow",
+      variant: "uniV4",
+      strategist: "Gamma",
+      manager: "Gamma",
+      startBlock: 67877897,
+      allowed0: true,
+      allowed1: true,
+      address: "0xF0B332B1991EC3c4Fcd5F027517a8F223Ec0690f",
+      token0: {
+        address: "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      },
+      token1: {
+        address: "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+      },
+      v4PoolId:
+        "0x71aa4532365075474994cbf9638f0239895d8ed9fdcbb4cb31abe7dffaa8f021",
+    },
+    {
+      symbol: "LINK/WETH",
+      lpSymbol: "LINK/WETH",
+      title: "Gamma Narrow",
+      type: "Narrow",
+      variant: "uniV4",
+      strategist: "Gamma",
+      manager: "Gamma",
+      startBlock: 67877897,
+      allowed0: true,
+      allowed1: true,
+      address: "0xd773ea2090c11cc3c54BaA530F1ee114A874D610",
+      token0: {
+        address: "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+      },
+      token1: {
+        address: "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      },
+      v4PoolId:
+        "0xf9848d3a80d85e12b9015989c288c005eeffcae46c9a092273483f01612e2a24",
+    },
+    {
+      symbol: "UNI/WETH",
+      lpSymbol: "UNI/WETH",
+      title: "Gamma Narrow",
+      type: "Narrow",
+      variant: "uniV4",
+      strategist: "Gamma",
+      manager: "Gamma",
+      startBlock: 67877897,
+      allowed0: true,
+      allowed1: true,
+      address: "0x29022867Ec10E3d797F3c6826BA2fd98A4a69549",
+      token0: {
+        address: "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      },
+      token1: {
+        address: "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+      },
+      v4PoolId:
+        "0xb5c75ea74972d5174e616555338f5a9601b066e5881074cde2117e867fa2ceda",
+    },
   ],
 };
