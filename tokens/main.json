@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 13
+    "patch": 14
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -106,6 +106,30 @@
       "createdAt": "2025-03-19",
       "updatedAt": "2025-03-19",
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/AAVE.png"
+    },
+    {
+      "chainId": 137,
+      "chainURI": "https://polygonscan.com/block/0",
+      "tokenId": "https://polygonscan.com/address/0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+      "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+      "name": "ThresholdBTC",
+      "symbol": "tBTC",
+      "decimals": 18,
+      "createdAt": "2025-04-14",
+      "updatedAt": "2025-04-14",
+      "logoURI": "https://assets.coingecko.com/coins/images/11224/standard/0x18084fba666a33d37592fa2633fd49a74dd93a88.png"
+    },
+    {
+      "chainId": 137,
+      "chainURI": "https://polygonscan.com/block/0",
+      "tokenId": "https://polygonscan.com/address/0xf33687811f3ad0cd6b48Dd4B39F9F977BD7165A2",
+      "address": "0xf33687811f3ad0cd6b48Dd4B39F9F977BD7165A2",
+      "name": "truMATIC",
+      "symbol": "truMATIC",
+      "decimals": 18,
+      "createdAt": "2025-04-14",
+      "updatedAt": "2025-04-14",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/TRUMATIC.png"
     },
     {
       "chainId": 137,
