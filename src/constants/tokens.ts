@@ -1364,6 +1364,32 @@ export const tokens = {
     {
       chainURI: "https://polygonscan.com/block/0",
       tokenId:
+        "https://polygonscan.com/address/0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+      address: "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+      name: "ThresholdBTC",
+      symbol: "tBTC",
+      decimals: 18,
+      createdAt: "2025-04-14",
+      updatedAt: "2025-04-14",
+      logoURI:
+        "https://assets.coingecko.com/coins/images/11224/standard/0x18084fba666a33d37592fa2633fd49a74dd93a88.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0xf33687811f3ad0cd6b48Dd4B39F9F977BD7165A2",
+      address: "0xf33687811f3ad0cd6b48Dd4B39F9F977BD7165A2",
+      name: "truMATIC",
+      symbol: "truMATIC",
+      decimals: 18,
+      createdAt: "2025-04-14",
+      updatedAt: "2025-04-14",
+      logoURI:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/TRUMATIC.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
         "https://polygonscan.com/address/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
       address: "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
       name: "ChainLink Token",

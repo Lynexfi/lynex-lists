@@ -648,6 +648,15 @@
     "bribe": "0x9061afde893526e7eddf4ae5b96ada5cbee4470f"
   },
   {
+    "address": "0x9a146698b16dc334f9b99af20b359649e6f4c844",
+    "symbol": "vAMM-LYNX/weETH",
+    "gauge": "0x825d045286513e7e13d723672f231625ea699909",
+    "token0": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
+    "token1": "0x1bf74c010e6320bab11e2e5a532b5ac15e0b8aa6",
+    "isStrategy": false,
+    "bribe": "0xa925e4f0f2a1c4dbbea8e4ba9c6334d14bf5224e"
+  },
+  {
     "address": "0x9cbe4ebcf697e98efc22e2595209c5d62d8fc4f0",
     "symbol": "sAMM-USDC/LYNX",
     "gauge": "0x3ec33c3b8eda69e2cf9ff46f512e2367e6f9bca2",
