@@ -121,6 +121,26 @@
       "v4PoolId": "0x0e71ce611b054e71707fca6bb57b784e4636376b1740a799f1313c0b84c3f68e"
     },
     {
+      "symbol": "BRZ/USDT",
+      "lpSymbol": "BRZ/USDT",
+      "title": "Gamma Correlated",
+      "type": "Correlated",
+      "variant": "uniV4",
+      "strategist": "Gamma",
+      "manager": "Gamma",
+      "startBlock": 67877897,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0xb5eac63f00d2c6d9158bac99e6eb37ecfeac3ea0",
+      "token0": {
+        "address": "0x4eD141110F6EeeAbA9A1df36d8c26f684d2475Dc"
+      },
+      "token1": {
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
+      },
+      "v4PoolId": "0x18a21938cb1bbdaeb9930a102f4dffe3e663c681fb357b0531638f1f3c2aa1c1"
+    },
+    {
       "symbol": "tBTC/WBTC",
       "lpSymbol": "tBTC/WBTC",
       "title": "Gamma Correlated",

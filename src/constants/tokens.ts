@@ -1390,6 +1390,19 @@ export const tokens = {
     {
       chainURI: "https://polygonscan.com/block/0",
       tokenId:
+        "https://polygonscan.com/address/0x4eD141110F6EeeAbA9A1df36d8c26f684d2475Dc",
+      address: "0x4eD141110F6EeeAbA9A1df36d8c26f684d2475Dc",
+      name: "Brazilian Digital",
+      symbol: "BRZ",
+      decimals: 18,
+      createdAt: "2025-04-22",
+      updatedAt: "2025-04-22",
+      logoURI:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/BRZ.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
         "https://polygonscan.com/address/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
       address: "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
       name: "ChainLink Token",
