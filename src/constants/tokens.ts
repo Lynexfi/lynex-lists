@@ -1475,4 +1475,56 @@ export const tokens = {
       logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/7046.png",
     },
   ],
+  999: [
+    {
+      chainURI: "https://k8s.testnet.evm.blockscout.injective.network",
+      tokenId:
+        "https://k8s.testnet.evm.blockscout.injective.network/address/0xB46bd8df6E54a771b4F575433A359F85f270147b",
+      address: "0xB46bd8df6E54a771b4F575433A359F85f270147b",
+      name: "USDC",
+      symbol: "USDC",
+      decimals: 18,
+      createdAt: "2025-05-07",
+      updatedAt: "2025-05-07",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    },
+    {
+      chainURI: "https://k8s.testnet.evm.blockscout.injective.network",
+      tokenId:
+        "https://k8s.testnet.evm.blockscout.injective.network/address/0x8b778FDaaf21Ae0dA1ceb809f39eF8E70d671B0c",
+      address: "0x8b778FDaaf21Ae0dA1ceb809f39eF8E70d671B0c",
+      name: "Wrapped BTC",
+      symbol: "WBTC",
+      decimals: 8,
+      createdAt: "2025-05-07",
+      updatedAt: "2025-05-07",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+    },
+    {
+      chainURI: "https://k8s.testnet.evm.blockscout.injective.network",
+      tokenId:
+        "https://k8s.testnet.evm.blockscout.injective.network/address/0xCfF4768aC9a66405dcE0D9D63773D93f9A40F6bD",
+      address: "0xCfF4768aC9a66405dcE0D9D63773D93f9A40F6bD",
+      name: "Pumex",
+      symbol: "PMX",
+      decimals: 18,
+      createdAt: "2025-05-07",
+      updatedAt: "2025-05-07",
+      logoURI:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/PMX.png",
+    },
+    {
+      chainURI: "https://k8s.testnet.evm.blockscout.injective.network",
+      tokenId:
+        "https://k8s.testnet.evm.blockscout.injective.network/address/0x4200000000000000000000000000000000000006",
+      address: "0x4200000000000000000000000000000000000006",
+      name: "Wrapped Injective",
+      symbol: "WINJ",
+      decimals: 18,
+      createdAt: "2025-05-07",
+      updatedAt: "2025-05-07",
+      logoURI:
+        "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212",
+    },
+  ],
 };
