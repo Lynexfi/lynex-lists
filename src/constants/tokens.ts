@@ -1516,8 +1516,8 @@ export const tokens = {
     {
       chainURI: "https://k8s.testnet.evm.blockscout.injective.network",
       tokenId:
-        "https://k8s.testnet.evm.blockscout.injective.network/address/0x4200000000000000000000000000000000000006",
-      address: "0x4200000000000000000000000000000000000006",
+        "https://k8s.testnet.evm.blockscout.injective.network/address/0xedAc7B9ae8A4b5e23cAC5DF88e9F4F8E7A454AF5",
+      address: "0xedAc7B9ae8A4b5e23cAC5DF88e9F4F8E7A454AF5",
       name: "Wrapped Injective",
       symbol: "WINJ",
       decimals: 18,

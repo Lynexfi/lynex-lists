@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 16
+    "patch": 17
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -254,8 +254,8 @@
     {
       "chainId": 999,
       "chainURI": "https://k8s.testnet.evm.blockscout.injective.network",
-      "tokenId": "https://k8s.testnet.evm.blockscout.injective.network/address/0x4200000000000000000000000000000000000006",
-      "address": "0x4200000000000000000000000000000000000006",
+      "tokenId": "https://k8s.testnet.evm.blockscout.injective.network/address/0xedAc7B9ae8A4b5e23cAC5DF88e9F4F8E7A454AF5",
+      "address": "0xedAc7B9ae8A4b5e23cAC5DF88e9F4F8E7A454AF5",
       "name": "Wrapped Injective",
       "symbol": "WINJ",
       "decimals": 18,

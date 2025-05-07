@@ -45,6 +45,15 @@
     "bribe": "0x08a4f94a59ad02cbfe68e8d71a7fcb7802cac76b"
   },
   {
+    "address": "0x1f9099a307942842404a003065c182c87d192867",
+    "symbol": "ZRC/OCX (Single Deposit)",
+    "gauge": "0x983eb99d44a63001b9e81d51a4b9c58e1468aee7",
+    "token0": "0x58024021fe3ef613fa76e2f36a3da97eb1454c36",
+    "token1": "0xfd418e42783382e86ae91e445406600ba144d162",
+    "isStrategy": true,
+    "bribe": "0x53beeade300824c5ec95da1119b1b77cd8e2dc53"
+  },
+  {
     "address": "0x2cbcc27a9d4497342c3b7ce67152f447fe63d42a",
     "symbol": "ZRC/WETH (Classic Rebalance)",
     "gauge": "0x2518f68c9579ca0d4fea569f2473eac8faac4120",
