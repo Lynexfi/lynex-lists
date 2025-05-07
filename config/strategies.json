@@ -661,6 +661,28 @@
       "promoted": true
     },
     {
+      "symbol": "ZRC/OCX",
+      "lpSymbol": "ZRC/OCX",
+      "title": "Single Deposit (ZRC)",
+      "type": "Single Deposit",
+      "variant": "algebraV3",
+      "strategist": "Ichi",
+      "manager": "Ichi",
+      "startBlock": 13306994,
+      "address": "0x1f9099a307942842404A003065c182c87D192867",
+      "depositToken": "0xfd418e42783382E86Ae91e445406600Ba144D162",
+      "allowed0": false,
+      "allowed1": true,
+      "token0": {
+        "address": "0x58024021Fe3eF613fA76e2f36A3Da97eb1454C36"
+      },
+      "token1": {
+        "address": "0xfd418e42783382E86Ae91e445406600Ba144D162"
+      },
+      "percentage": 70,
+      "promoted": true
+    },
+    {
       "symbol": "ezETH/WETH",
       "lpSymbol": "ezETH/WETH",
       "title": "Steer (Correlated)",
