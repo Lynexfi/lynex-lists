@@ -1953,4 +1953,7 @@ export const strategies: Strategies = {
         "0x7f27b0291a7fd2d75f3f0ea77f77eb2014f8d7b7941bb488037bc0c79bee09ac",
     },
   ],
+
+  //INJECTIVE TESTNET
+  999: [],
 };

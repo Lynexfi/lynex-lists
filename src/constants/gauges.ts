@@ -22,8 +22,8 @@ export const injectiveEvmTestnet = defineChain({
   },
   contracts: {
     multicall3: {
-      address: "0xcA11bde05977b3631167028862bE2a173976CA11",
-      blockCreated: 7336830,
+      address: "0x3E0EdA688D4b48aFd5fD9c6af78BE0CF2ef40f7E",
+      blockCreated: 39021756,
     },
   },
 });
