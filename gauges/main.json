@@ -37,6 +37,15 @@
       "bribe": "0x3fa9bc2f9d4fdc04c1d7661c627665e618250612"
     },
     {
+      "address": "0x949499607c62266a1010fa4775baf80119f0a11d",
+      "symbol": "sAMM-mUSDC/mUSDT",
+      "gauge": "0xbcdfaec6e25215898804c5a18cae468985011c65",
+      "token0": "0xb46bd8df6e54a771b4f575433a359f85f270147b",
+      "token1": "0xcd28be839348ad49144d4fe1d38a27fbfa338a83",
+      "isStrategy": false,
+      "bribe": "0xa1013225c69ac6f2f97e4fa932ea2ad1349a65eb"
+    },
+    {
       "address": "0xeae1a529ac5a2ed0d68888aa1a6559b8768d4983",
       "symbol": "vAMM-mWBTC/mUSDC",
       "gauge": "0x79d889c5763669f74e41ae3fafee120596972be6",
