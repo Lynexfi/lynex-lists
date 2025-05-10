@@ -1,5 +1,14 @@
 [
   {
+    "address": "0x1211859bc1d72a871c727db9c2b27ebc8dfa0ed5",
+    "symbol": "vAMM-PMX/WINJ",
+    "gauge": "0xb584e8eeea08f66a25aa65ca011085ef59ba75c4",
+    "token0": "0xcff4768ac9a66405dce0d9d63773d93f9a40f6bd",
+    "token1": "0xedac7b9ae8a4b5e23cac5df88e9f4f8e7a454af5",
+    "isStrategy": false,
+    "bribe": "0x076474460511af57264afaa795c11e502eec2e02"
+  },
+  {
     "address": "0x142e8ab16e7d20b49ca1721eb9faa670af8b5e33",
     "symbol": "vAMM-mUSDC/WINJ",
     "gauge": "0x418d9afb20ad5eec6d078fdc1d689a97f8e0ad34",
@@ -9,6 +18,15 @@
     "bribe": "0x0a1c54f0fd95e08e7fcb4de9d89f1942d2126249"
   },
   {
+    "address": "0x17a8545661a85f50a765cba87cc1c8407f13ec0d",
+    "symbol": "vAMM-mWBTC/WINJ",
+    "gauge": "0x51b2275303007ca2cc80b64c355d65968fdd2b14",
+    "token0": "0x8b778fdaaf21ae0da1ceb809f39ef8e70d671b0c",
+    "token1": "0xedac7b9ae8a4b5e23cac5df88e9f4f8e7a454af5",
+    "isStrategy": false,
+    "bribe": "0x869d1c7cfef11d164e3dc89ec649db1eb6dd27d8"
+  },
+  {
     "address": "0x6f670022c80998c47faf19d3ad48cebed8085039",
     "symbol": "vAMM-mUSDC/PMX",
     "gauge": "0xf562cf7704e08539bba665f7736049d9a7ad2279",
@@ -16,5 +34,14 @@
     "token1": "0xcff4768ac9a66405dce0d9d63773d93f9a40f6bd",
     "isStrategy": false,
     "bribe": "0x3fa9bc2f9d4fdc04c1d7661c627665e618250612"
+  },
+  {
+    "address": "0xeae1a529ac5a2ed0d68888aa1a6559b8768d4983",
+    "symbol": "vAMM-mWBTC/mUSDC",
+    "gauge": "0x79d889c5763669f74e41ae3fafee120596972be6",
+    "token0": "0x8b778fdaaf21ae0da1ceb809f39ef8e70d671b0c",
+    "token1": "0xb46bd8df6e54a771b4f575433a359f85f270147b",
+    "isStrategy": false,
+    "bribe": "0xe5372f0784e3f563f1af9fd20857746a2cb5d386"
   }
 ]
