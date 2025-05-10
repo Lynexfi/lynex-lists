@@ -1507,7 +1507,7 @@ export const tokens = {
       address: "0xcD28Be839348ad49144D4fe1D38a27fBFA338A83",
       name: "USDT",
       symbol: "USDT",
-      decimals: 18,
+      decimals: 6,
       createdAt: "2025-05-10",
       updatedAt: "2025-05-10",
       logoURI:
