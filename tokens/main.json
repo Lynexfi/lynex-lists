@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 21
+    "patch": 22
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -274,6 +274,30 @@
       "createdAt": "2025-05-07",
       "updatedAt": "2025-05-07",
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/PMX.png"
+    },
+    {
+      "chainId": 999,
+      "chainURI": "https://k8s.testnet.evm.blockscout.injective.network",
+      "tokenId": "https://k8s.testnet.evm.blockscout.injective.network/address/0xBe488F462449b272710Dd6cA977AF0BeE4Fa7e5d",
+      "address": "0xBe488F462449b272710Dd6cA977AF0BeE4Fa7e5d",
+      "createdAt": "2025-05-10",
+      "updatedAt": "2025-05-10",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/bvePMX.png",
+      "name": "bvePMX",
+      "symbol": "bvePMX",
+      "decimals": 18
+    },
+    {
+      "chainId": 999,
+      "chainURI": "https://k8s.testnet.evm.blockscout.injective.network",
+      "tokenId": "https://k8s.testnet.evm.blockscout.injective.network/address/0xB46bd8df6E54a771b4F575433A359F85f270147b",
+      "address": "0xB46bd8df6E54a771b4F575433A359F85f270147b",
+      "createdAt": "2025-05-10",
+      "updatedAt": "2025-05-10",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/oPMX.png",
+      "name": "oPMX",
+      "symbol": "oPMX",
+      "decimals": 18
     },
     {
       "chainId": 999,
