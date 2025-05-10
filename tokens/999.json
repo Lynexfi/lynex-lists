@@ -12,6 +12,28 @@
   },
   {
     "chainURI": "https://k8s.testnet.evm.blockscout.injective.network",
+    "tokenId": "https://k8s.testnet.evm.blockscout.injective.network/address/0x3F1BaC8ce8F62c2A8bA94560A840803326Dc0a42",
+    "address": "0x3F1BaC8ce8F62c2A8bA94560A840803326Dc0a42",
+    "name": "DAI",
+    "symbol": "DAI",
+    "decimals": 18,
+    "createdAt": "2025-05-10",
+    "updatedAt": "2025-05-10",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+  },
+  {
+    "chainURI": "https://k8s.testnet.evm.blockscout.injective.network",
+    "tokenId": "https://k8s.testnet.evm.blockscout.injective.network/address/0xcD28Be839348ad49144D4fe1D38a27fBFA338A83",
+    "address": "0xcD28Be839348ad49144D4fe1D38a27fBFA338A83",
+    "name": "USDT",
+    "symbol": "USDT",
+    "decimals": 18,
+    "createdAt": "2025-05-10",
+    "updatedAt": "2025-05-10",
+    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/USDT.png"
+  },
+  {
+    "chainURI": "https://k8s.testnet.evm.blockscout.injective.network",
     "tokenId": "https://k8s.testnet.evm.blockscout.injective.network/address/0x8b778FDaaf21Ae0dA1ceb809f39eF8E70d671B0c",
     "address": "0x8b778FDaaf21Ae0dA1ceb809f39eF8E70d671B0c",
     "name": "Wrapped BTC",
