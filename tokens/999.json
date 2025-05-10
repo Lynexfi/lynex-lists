@@ -67,8 +67,8 @@
   },
   {
     "chainURI": "https://k8s.testnet.evm.blockscout.injective.network",
-    "tokenId": "https://k8s.testnet.evm.blockscout.injective.network/address/0xB46bd8df6E54a771b4F575433A359F85f270147b",
-    "address": "0xB46bd8df6E54a771b4F575433A359F85f270147b",
+    "tokenId": "https://k8s.testnet.evm.blockscout.injective.network/address/0xedac021B034fcB5b7a71525C602663DD87772CD9",
+    "address": "0xedac021B034fcB5b7a71525C602663DD87772CD9",
     "createdAt": "2025-05-10",
     "updatedAt": "2025-05-10",
     "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/oPMX.png",
