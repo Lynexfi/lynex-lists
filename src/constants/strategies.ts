@@ -1743,6 +1743,27 @@ export const strategies: Strategies = {
         "0x38f1a1044df46f9c8986cad98d66993ac3ad5b10711d5ecac283b3b4dad4700c",
     },
     {
+      symbol: "xSolvBTC/SolvBTC",
+      lpSymbol: "xSolvBTC/SolvBTC",
+      title: "Gamma Correlated",
+      type: "Correlated",
+      variant: "uniV4",
+      strategist: "Gamma",
+      manager: "Gamma",
+      startBlock: 67877897,
+      allowed0: true,
+      allowed1: true,
+      address: "0xad1B29465E5AbE402f1e06Baca414d93B9289F9D",
+      token0: {
+        address: "0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
+      },
+      token1: {
+        address: "0xc99F5c922DAE05B6e2ff83463ce705eF7C91F077",
+      },
+      v4PoolId:
+        "0x2eebc1de860bb425223d9b1085dbdeac550a96a90ce9a9d1aecf86e92d88bf2c",
+    },
+    {
       symbol: "truMATIC/POL",
       lpSymbol: "truMATIC/POL",
       title: "Gamma Correlated",

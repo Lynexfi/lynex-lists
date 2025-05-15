@@ -144,6 +144,28 @@
   },
   {
     "chainURI": "https://polygonscan.com/block/0",
+    "tokenId": "https://polygonscan.com/address/0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
+    "address": "0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
+    "name": "Solv BTC",
+    "symbol": "SolvBTC",
+    "decimals": 18,
+    "createdAt": "2025-05-15",
+    "updatedAt": "2025-05-15",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/36800/large/solvBTC.png?1719810684"
+  },
+  {
+    "chainURI": "https://polygonscan.com/block/0",
+    "tokenId": "https://polygonscan.com/address/0xc99F5c922DAE05B6e2ff83463ce705eF7C91F077",
+    "address": "0xc99F5c922DAE05B6e2ff83463ce705eF7C91F077",
+    "name": "Staked SolvBTC",
+    "symbol": "xSolvBTC",
+    "decimals": 18,
+    "createdAt": "2025-05-15",
+    "updatedAt": "2025-05-15",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39384/large/xSolvBTC.png?1744170824"
+  },
+  {
+    "chainURI": "https://polygonscan.com/block/0",
     "tokenId": "https://polygonscan.com/address/0xd93f7E271cB87c23AaA73edC008A79646d1F9912",
     "address": "0xd93f7E271cB87c23AaA73edC008A79646d1F9912",
     "name": "Wrapped SOL",
