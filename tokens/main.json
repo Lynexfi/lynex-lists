@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 15
+    "patch": 16
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -166,6 +166,30 @@
       "createdAt": "2025-03-19",
       "updatedAt": "2025-03-19",
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/UNI.png"
+    },
+    {
+      "chainId": 137,
+      "chainURI": "https://polygonscan.com/block/0",
+      "tokenId": "https://polygonscan.com/address/0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
+      "address": "0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
+      "name": "Solv BTC",
+      "symbol": "SolvBTC",
+      "decimals": 18,
+      "createdAt": "2025-05-15",
+      "updatedAt": "2025-05-15",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/36800/large/solvBTC.png?1719810684"
+    },
+    {
+      "chainId": 137,
+      "chainURI": "https://polygonscan.com/block/0",
+      "tokenId": "https://polygonscan.com/address/0xc99F5c922DAE05B6e2ff83463ce705eF7C91F077",
+      "address": "0xc99F5c922DAE05B6e2ff83463ce705eF7C91F077",
+      "name": "Staked SolvBTC",
+      "symbol": "xSolvBTC",
+      "decimals": 18,
+      "createdAt": "2025-05-15",
+      "updatedAt": "2025-05-15",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/39384/large/xSolvBTC.png?1744170824"
     },
     {
       "chainId": 137,
