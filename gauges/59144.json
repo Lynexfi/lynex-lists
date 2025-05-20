@@ -126,6 +126,15 @@
     "bribe": "0x3f7f2b383ef92b852ae7e41d6ec726d054012f8a"
   },
   {
+    "address": "0x251aae3587dd86bb66443b507497d2c9a064a4cc",
+    "symbol": "sAMM-ZERO/WETH",
+    "gauge": "0x3dc1d004a431c2f80bef2887b4dfb0d81aaea1d4",
+    "token0": "0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7",
+    "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+    "isStrategy": false,
+    "bribe": "0x5fc1819ff21b1e35c7ac90f15d72b5e5c14db32d"
+  },
+  {
     "address": "0x2549d6b5658a75d7eae869af8cd8ae66507f0905",
     "symbol": "USDC/WETH (Volatile)",
     "gauge": "0x987f14d92285bdc6a38a74fc8474a5454dce6c19",
