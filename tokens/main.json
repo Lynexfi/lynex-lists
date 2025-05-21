@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 16
+    "patch": 17
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -1464,6 +1464,17 @@
       "createdAt": "2025-03-17",
       "updatedAt": "2025-03-17",
       "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/abcLYNX.png"
+    },
+    {
+      "chainId": 59144,
+      "name": "Bank Of Linea",
+      "symbol": "BOL",
+      "tokenId": "https://lineascan.build/address/0xb171EF5cD8d320D52F257924A0E0d41E6f5c40D9",
+      "address": "0xb171EF5cD8d320D52F257924A0E0d41E6f5c40D9",
+      "decimals": 18,
+      "createdAt": "2025-05-20",
+      "updatedAt": "2025-05-20",
+      "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/BOL.png"
     }
   ]
 }

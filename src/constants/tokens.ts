@@ -1066,6 +1066,18 @@ export const tokens = {
       logoURI:
         "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/abcLYNX.png",
     },
+    {
+      name: "Bank Of Linea",
+      symbol: "BOL",
+      tokenId:
+        "https://lineascan.build/address/0xb171EF5cD8d320D52F257924A0E0d41E6f5c40D9",
+      address: "0xb171EF5cD8d320D52F257924A0E0d41E6f5c40D9",
+      decimals: 18,
+      createdAt: "2025-05-20",
+      updatedAt: "2025-05-20",
+      logoURI:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/BOL.png",
+    },
   ],
 
   48900: [
