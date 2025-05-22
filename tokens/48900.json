@@ -8,7 +8,7 @@
     "decimals": 18,
     "createdAt": "2024-03-20",
     "updatedAt": "2024-03-20",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WETH.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WETH.png"
   },
   {
     "chainURI": "https://explorer.testnet.zircuit.com/block/0",
@@ -30,7 +30,7 @@
     "decimals": 18,
     "createdAt": "2024-10-16",
     "updatedAt": "2024-10-16",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/wstETH.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/wstETH.png"
   },
   {
     "chainURI": "https://explorer.testnet.zircuit.com/block/0",
@@ -52,7 +52,7 @@
     "decimals": 18,
     "createdAt": "2024-11-21",
     "updatedAt": "2024-11-21",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ezETH.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ezETH.png"
   },
   {
     "chainURI": "https://explorer.zircuit.com/block/0",
@@ -74,7 +74,7 @@
     "decimals": 18,
     "createdAt": "2024-11-07",
     "updatedAt": "2024-11-07",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/weETH.svg"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/weETH.svg"
   },
   {
     "chainURI": "https://explorer.zircuit.com/block/0",
@@ -85,7 +85,7 @@
     "decimals": 6,
     "createdAt": "2024-11-28",
     "updatedAt": "2025-02-11",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/USDT.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png"
   },
   {
     "chainURI": "https://explorer.zircuit.com/block/0",
@@ -116,7 +116,7 @@
     "name": "Zircuit Token",
     "symbol": "ZRC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ZRC.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ZRC.png"
   },
   {
     "chainURI": "https://explorer.zircuit.com/block/0",
@@ -125,7 +125,7 @@
     "name": "Gud.Tech",
     "symbol": "GUD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/GUD.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/GUD.png"
   },
   {
     "chainURI": "https://explorer.zircuit.com/block/0",
@@ -136,7 +136,7 @@
     "decimals": 18,
     "createdAt": "2024-12-10",
     "updatedAt": "2024-12-17",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/bveOCX.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/bveOCX.png"
   },
   {
     "chainURI": "https://explorer.zircuit.com/block/0",
@@ -147,7 +147,7 @@
     "decimals": 18,
     "createdAt": "2024-03-20",
     "updatedAt": "2024-03-20",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/OCX.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/OCX.png"
   },
   {
     "chainURI": "https://explorer.zircuit.com/block/0",
@@ -158,6 +158,6 @@
     "decimals": 18,
     "createdAt": "2024-03-20",
     "updatedAt": "2024-03-20",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/oOCX.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/oOCX.png"
   }
 ]

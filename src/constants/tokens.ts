@@ -11,7 +11,7 @@ export const tokens = {
       createdAt: "2023-08-08",
       updatedAt: "2023-08-08",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WETH.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WETH.png",
     },
     {
       name: "Lynex",
@@ -20,7 +20,7 @@ export const tokens = {
 
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LYNX.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LYNX.png",
     },
     {
       name: "Options Lynex",
@@ -29,7 +29,7 @@ export const tokens = {
 
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/oLYNX.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/oLYNX.png",
     },
     {
       name: "Bribe veLYNX",
@@ -38,7 +38,7 @@ export const tokens = {
 
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/bveLYNX.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/bveLYNX.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -160,7 +160,7 @@ export const tokens = {
       createdAt: "2023-08-08",
       updatedAt: "2023-08-08",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/PEPE.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/PEPE.png",
       extension: {
         rootChainId: 1,
         rootChainURI: "https://etherscan.io/block/0",
@@ -234,7 +234,7 @@ export const tokens = {
       createdAt: "2023-08-08",
       updatedAt: "2025-02-11",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/USDT.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png",
       extension: {
         rootChainId: 1,
         rootChainURI: "https://etherscan.io/block/0",
@@ -271,7 +271,7 @@ export const tokens = {
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/USDe.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDe.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -285,7 +285,7 @@ export const tokens = {
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/sUSDe.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/sUSDe.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -317,7 +317,7 @@ export const tokens = {
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/solv_btc.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/solv_btc.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -331,7 +331,7 @@ export const tokens = {
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/MBTC.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/MBTC.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -363,7 +363,7 @@ export const tokens = {
       createdAt: "2024-10-04",
       updatedAt: "2024-10-04",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FOXY.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/FOXY.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -377,7 +377,7 @@ export const tokens = {
       createdAt: "2024-10-04",
       updatedAt: "2024-10-04",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ZERO.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ZERO.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -391,7 +391,7 @@ export const tokens = {
       createdAt: "2024-17-04",
       updatedAt: "2024-17-04",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ANKR.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ANKR.png",
       extension: {
         rootChainId: 1,
         rootChainURI: "https://etherscan.io/block/0",
@@ -410,7 +410,7 @@ export const tokens = {
       createdAt: "2024-17-04",
       updatedAt: "2024-17-04",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ankrETH.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ankrETH.png",
       extension: {
         rootChainId: 1,
         rootChainURI: "https://etherscan.io/block/0",
@@ -479,7 +479,7 @@ export const tokens = {
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ezETH.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ezETH.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -504,7 +504,7 @@ export const tokens = {
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/uniETH.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/uniETH.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -517,7 +517,7 @@ export const tokens = {
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/inETH.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/inETH.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -530,7 +530,7 @@ export const tokens = {
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/weETH.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/weETH.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -541,7 +541,7 @@ export const tokens = {
       symbol: "MENDI",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/MENDI.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/MENDI.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -578,7 +578,7 @@ export const tokens = {
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FBOMB.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/FBOMB.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -591,7 +591,7 @@ export const tokens = {
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FLY.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/FLY.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -604,7 +604,7 @@ export const tokens = {
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WDAI.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WDAI.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -641,7 +641,7 @@ export const tokens = {
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/NDX.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/NDX.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -654,7 +654,7 @@ export const tokens = {
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/iNDX.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/iNDX.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -667,7 +667,7 @@ export const tokens = {
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/EURO3.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/EURO3.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -713,7 +713,7 @@ export const tokens = {
       createdAt: "2023-08-15",
       updatedAt: "2023-08-15",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/wstETH.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/wstETH.png",
       extension: {
         rootChainId: 1,
         rootChainURI: "https://etherscan.io/block/0",
@@ -726,7 +726,7 @@ export const tokens = {
       address: "0xa88b54e6b76fb97cdb8ecae868f1458e18a953f4",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/DUSD.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/DUSD.png",
     },
     {
       name: "Metavualt Trade",
@@ -760,7 +760,7 @@ export const tokens = {
 
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LINUS.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LINUS.png",
     },
     {
       name: "fMemeFi Token",
@@ -770,7 +770,7 @@ export const tokens = {
       address: "0xa5511f1fb10cb14f6683db7f63bd34c371a19743",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FMEMEFI.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/FMEMEFI.png",
     },
     {
       name: "LYVE Debt Token",
@@ -780,7 +780,7 @@ export const tokens = {
       address: "0xb20116ee399f15647bb1eef9a74f6ef3b58bc951",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LYU.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LYU.png",
     },
     {
       name: "NotWifGary",
@@ -790,7 +790,7 @@ export const tokens = {
       address: "0xE2a6e74118E708f7652FC4c74D2F9Ee5Fa210563",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/NWG.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/NWG.png",
     },
     {
       name: "CROAK",
@@ -800,7 +800,7 @@ export const tokens = {
       address: "0xaCb54d07cA167934F57F829BeE2cC665e1A5ebEF",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/CROAK.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/CROAK.png",
     },
     {
       name: "Dogecoin",
@@ -819,7 +819,7 @@ export const tokens = {
       address: "0x373d04a7f3594ff9011af5084587182c0056721e",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FAITH.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/FAITH.png",
     },
     {
       name: "ONEPUNCH",
@@ -829,7 +829,7 @@ export const tokens = {
       address: "0x1F63D0EC7193964142ef6B13d901462d0E5CbB50",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ONEPUNCH.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ONEPUNCH.png",
     },
     {
       name: "ARYZE eUSD",
@@ -839,7 +839,7 @@ export const tokens = {
       address: "0xBA2f9e7ae9F5f03FCe7D560f986743659e768bbF",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/eUSD.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/eUSD.png",
     },
     {
       name: "Bullinea",
@@ -849,7 +849,7 @@ export const tokens = {
       address: "0x7e37624613ebc2DeeA15b8e710EDFD373175662A",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/BULL.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/BULL.png",
     },
     {
       name: "Lineape",
@@ -859,7 +859,7 @@ export const tokens = {
       address: "0x93b836057989689eB89204dF10D0519B99b9EB85",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/APE.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/APE.png",
     },
     {
       name: "Lucia",
@@ -869,7 +869,7 @@ export const tokens = {
       address: "0x4Fa0dE5d9217722A37247808c08Cde1C976879b9",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LUCIA.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LUCIA.png",
     },
     {
       name: "frogwifcat",
@@ -879,7 +879,7 @@ export const tokens = {
       address: "0x889400fB9BDE04BFdf353cC718fED3d6dDcF735F",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WEF.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WEF.png",
     },
     {
       name: "Dachshund Coin",
@@ -889,7 +889,7 @@ export const tokens = {
       address: "0xce28211Ed1b2Eeb0C909C83D273DeBE041A12EE9",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/HOTDOG.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/HOTDOG.png",
     },
     {
       name: "WeFi",
@@ -899,7 +899,7 @@ export const tokens = {
       address: "0x60892e742d91d16Be2cB0ffE847e85445989e30B",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WEFI.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WEFI.png",
     },
     {
       name: "Clip Finance",
@@ -909,7 +909,7 @@ export const tokens = {
       address: "0x4Ea77a86d6E70FfE8Bb947FC86D68a7F086f198a",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/CLIP.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/CLIP.png",
     },
     {
       name: "Unfettered Ecosystem",
@@ -919,7 +919,7 @@ export const tokens = {
       address: "0xeC859566fC5d7ED84Ac823509F3f7db06C461b20",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/SOULS.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/SOULS.png",
     },
     {
       name: "Alchemix",
@@ -929,7 +929,7 @@ export const tokens = {
       address: "0x303c4F39EA359155C698807168e9Dc3aA1dF2b95",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ALCX.svg",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ALCX.svg",
     },
     {
       name: "Alchemix USD",
@@ -939,7 +939,7 @@ export const tokens = {
       address: "0x0E17934B9735D479B2388347fAeF0F4e58b9cc06",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/alUSD.svg",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/alUSD.svg",
     },
     {
       name: "Alchemix ETH",
@@ -949,7 +949,7 @@ export const tokens = {
       address: "0x303241e2B3b4aeD0bb0F8623e7442368FED8Faf3",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/alETH.svg",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/alETH.svg",
     },
     {
       name: "Aryze",
@@ -959,7 +959,7 @@ export const tokens = {
       address: "0x34B5c2936DAe6698e54781EDb8B1E69A2C2873F8",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/RYZE.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/RYZE.png",
     },
     {
       name: "Impermax",
@@ -969,7 +969,7 @@ export const tokens = {
       address: "0xcf0f95E34F25d1BB3D9cad3Cbb2EB40dAb7c3841",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/IBEX.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/IBEX.png",
     },
     {
       name: "LamboLlama",
@@ -979,7 +979,7 @@ export const tokens = {
       address: "0x63cF844710BF16E42571839EdF0Bd807114060Bd",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LLL.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LLL.png",
     },
     {
       name: "Donald Toad Coin",
@@ -990,7 +990,7 @@ export const tokens = {
 
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/DTC.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/DTC.png",
     },
     {
       name: "ALEX",
@@ -1000,7 +1000,7 @@ export const tokens = {
       address: "0xdfd0660032c2D0D38a9092a43d1669D6568cAF71",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ALEX.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ALEX.png",
     },
     {
       name: "aBTC",
@@ -1010,7 +1010,7 @@ export const tokens = {
       address: "0x7A087e75807F2E5143C161a817E64dF6dC5EAFe0",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/aBTC.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/aBTC.png",
     },
     {
       name: "ARYZE eGold",
@@ -1020,7 +1020,7 @@ export const tokens = {
       address: "0x0047C3c6D6A9537B2b5D2D969D44A8bEf5bC7067",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/eGOLD.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/eGOLD.png",
     },
     {
       name: "Linpuss",
@@ -1030,7 +1030,7 @@ export const tokens = {
       address: "0x81BE2aCB2e9291dB6400f9f6a4D0f35f24de2E77",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LPUSS.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LPUSS.png",
     },
     {
       name: "Lost In Never Ending Airdrop",
@@ -1040,7 +1040,7 @@ export const tokens = {
       address: "0xb3B3CA7cb0BCCb6A9316764826324A312665DC53",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LINEA.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LINEA.png",
     },
     {
       name: "DGAF",
@@ -1052,7 +1052,7 @@ export const tokens = {
       createdAt: "2025-02-21",
       updatedAt: "2025-02-21",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/DGAF.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/DGAF.png",
     },
     {
       name: "abcLYNX",
@@ -1064,7 +1064,7 @@ export const tokens = {
       createdAt: "2025-03-17",
       updatedAt: "2025-03-17",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/abcLYNX.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/abcLYNX.png",
     },
     {
       name: "Bank Of Linea",
@@ -1076,7 +1076,7 @@ export const tokens = {
       createdAt: "2025-05-20",
       updatedAt: "2025-05-20",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/BOL.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/BOL.png",
     },
   ],
 
@@ -1092,7 +1092,7 @@ export const tokens = {
       createdAt: "2024-03-20",
       updatedAt: "2024-03-20",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WETH.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WETH.png",
     },
     {
       chainURI: "https://explorer.testnet.zircuit.com/block/0",
@@ -1117,7 +1117,7 @@ export const tokens = {
       createdAt: "2024-10-16",
       updatedAt: "2024-10-16",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/wstETH.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/wstETH.png",
     },
     {
       chainURI: "https://explorer.testnet.zircuit.com/block/0",
@@ -1143,7 +1143,7 @@ export const tokens = {
       createdAt: "2024-11-21",
       updatedAt: "2024-11-21",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ezETH.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ezETH.png",
     },
     {
       chainURI: "https://explorer.zircuit.com/block/0",
@@ -1169,7 +1169,7 @@ export const tokens = {
       createdAt: "2024-11-07",
       updatedAt: "2024-11-07",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/weETH.svg",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/weETH.svg",
     },
     {
       chainURI: "https://explorer.zircuit.com/block/0",
@@ -1182,7 +1182,7 @@ export const tokens = {
       createdAt: "2024-11-28",
       updatedAt: "2025-02-11",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/USDT.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png",
     },
     {
       chainURI: "https://explorer.zircuit.com/block/0",
@@ -1218,7 +1218,7 @@ export const tokens = {
       symbol: "ZRC",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ZRC.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ZRC.png",
     },
     {
       chainURI: "https://explorer.zircuit.com/block/0",
@@ -1229,7 +1229,7 @@ export const tokens = {
       symbol: "GUD",
       decimals: 18,
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/GUD.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/GUD.png",
     },
     {
       chainURI: "https://explorer.zircuit.com/block/0",
@@ -1242,7 +1242,7 @@ export const tokens = {
       createdAt: "2024-12-10",
       updatedAt: "2024-12-17",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/bveOCX.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/bveOCX.png",
     },
     {
       chainURI: "https://explorer.zircuit.com/block/0",
@@ -1255,7 +1255,7 @@ export const tokens = {
       createdAt: "2024-03-20",
       updatedAt: "2024-03-20",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/OCX.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/OCX.png",
     },
     {
       chainURI: "https://explorer.zircuit.com/block/0",
@@ -1268,7 +1268,7 @@ export const tokens = {
       createdAt: "2024-03-20",
       updatedAt: "2024-03-20",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/oOCX.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/oOCX.png",
     },
   ],
 
@@ -1284,7 +1284,7 @@ export const tokens = {
       createdAt: "2025-02-11",
       updatedAt: "2025-02-11",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WETH.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WETH.png",
     },
     {
       chainURI: "https://polygonscan.com/block/0",
@@ -1297,7 +1297,7 @@ export const tokens = {
       createdAt: "2025-02-11",
       updatedAt: "2025-02-11",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/USDT.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png",
     },
     {
       chainURI: "https://polygonscan.com/block/0",
@@ -1371,7 +1371,7 @@ export const tokens = {
       createdAt: "2025-03-19",
       updatedAt: "2025-03-19",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/AAVE.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/AAVE.png",
     },
     {
       chainURI: "https://polygonscan.com/block/0",
@@ -1397,7 +1397,7 @@ export const tokens = {
       createdAt: "2025-04-14",
       updatedAt: "2025-04-14",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/TRUMATIC.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/TRUMATIC.png",
     },
     {
       chainURI: "https://polygonscan.com/block/0",
@@ -1410,7 +1410,7 @@ export const tokens = {
       createdAt: "2025-04-22",
       updatedAt: "2025-04-22",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/BRZ.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/BRZ.png",
     },
     {
       chainURI: "https://polygonscan.com/block/0",
@@ -1423,7 +1423,7 @@ export const tokens = {
       createdAt: "2025-03-19",
       updatedAt: "2025-03-19",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LINK.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LINK.png",
     },
     {
       chainURI: "https://polygonscan.com/block/0",
@@ -1436,7 +1436,7 @@ export const tokens = {
       createdAt: "2025-03-19",
       updatedAt: "2025-03-19",
       logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/UNI.png",
+        "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/UNI.png",
     },
     {
       chainURI: "https://polygonscan.com/block/0",
