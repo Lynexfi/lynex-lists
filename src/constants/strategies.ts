@@ -1994,6 +1994,8 @@ export const strategies: Strategies = {
       token1: {
         address: "0x9151434b16b9763660705744891fA906F660EcC5",
       },
+      v4PoolId:
+        "0x77ea9d2be50eb3e82b62db928a1bcc573064dd2a14f5026847e755518c8659c9",
     },
     {
       symbol: "ETH/USDC",
@@ -2013,6 +2015,8 @@ export const strategies: Strategies = {
       token1: {
         address: "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
       },
+      v4PoolId:
+        "0x3258f413c7a88cda2fa8709a589d221a80f6574f63df5a5b6774485d8acc39d9",
     },
     {
       symbol: "ETH/wstETH",
@@ -2032,6 +2036,8 @@ export const strategies: Strategies = {
       token1: {
         address: "0xc02fE7317D4eb8753a02c35fe019786854A92001",
       },
+      v4PoolId:
+        "0xd10d359f50ba8d1e0b6c30974a65bf06895fba4bf2b692b2c75d987d3b6b863d",
     },
     {
       symbol: "ETH/USD₮0",
@@ -2051,6 +2057,8 @@ export const strategies: Strategies = {
       token1: {
         address: "0x9151434b16b9763660705744891fA906F660EcC5",
       },
+      v4PoolId:
+        "0x04b7dd024db64cfbe325191c818266e4776918cd9eaf021c26949a859e654b16",
     },
     {
       symbol: "USDC/WBTC",
@@ -2070,6 +2078,8 @@ export const strategies: Strategies = {
       token1: {
         address: "0x927B51f251480a681271180DA4de28D44EC4AfB8",
       },
+      v4PoolId:
+        "0x53b06f1bb8b622cc4b7dbd9bc9f4a34788034bc48702cd2af4135b48444d5b24",
     },
     {
       symbol: "ETH/WBTC",
@@ -2089,6 +2099,8 @@ export const strategies: Strategies = {
       token1: {
         address: "0x927B51f251480a681271180DA4de28D44EC4AfB8",
       },
+      v4PoolId:
+        "0x764afe9ab22a5c80882918bb4e59b954912b17a22c3524c68a8cf08f7386e08f",
     },
     {
       symbol: "USD₮0/WBTC",
@@ -2108,6 +2120,8 @@ export const strategies: Strategies = {
       token1: {
         address: "0x927B51f251480a681271180DA4de28D44EC4AfB8",
       },
+      v4PoolId:
+        "0xc349e9692b4afe1bcfdd6fadaf9ff0df2a2bea8c1a3e56323b57be08e4b8df6a",
     },
     {
       symbol: "ETH/UNI",
@@ -2127,6 +2141,8 @@ export const strategies: Strategies = {
       token1: {
         address: "0x8f187aA05619a017077f5308904739877ce9eA21",
       },
+      v4PoolId:
+        "0xb2f3bbaf23e0197ec2e6f9ab730d00aaf26a9119ecd583bbb9ef3146b4afa248",
     },
   ],
 };
