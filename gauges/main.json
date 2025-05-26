@@ -813,6 +813,15 @@
       "bribe": "0x10cc4819d0545f6d984a514c76cfdc5b47bb00e6"
     },
     {
+      "address": "0x6de1c7ea1524b7dd0a9804fec3a60c06545223ac",
+      "symbol": "vAMM-BOL/WETH",
+      "gauge": "0xa103531ae4f6d178939a406baf25e16ecfdba470",
+      "token0": "0xb171ef5cd8d320d52f257924a0e0d41e6f5c40d9",
+      "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+      "isStrategy": false,
+      "bribe": "0x9feced29291b4b104764644e4338623606a8bdcd"
+    },
+    {
       "address": "0x6f501662a76577fbb3bb230be5e8e69d41d8c711",
       "symbol": "vAMM-FLY/USD+",
       "gauge": "0xda5895dcdb431308230f5808bf39865b76815129",
