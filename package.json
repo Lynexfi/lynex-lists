@@ -10,8 +10,9 @@
   "scripts": {
     "build-strategies": "ts-node src/buildStrategies.ts",
     "build-gauges": "ts-node src/buildGauges.ts",
-    "build-tokens": "ts-node src/buildTokens.ts",
+    "build-tokens": "yarn build-images && ts-node src/buildTokens.ts",
     "build-points": "ts-node src/buildPoints.ts",
+    "build-images": "ts-node src/buildImages.ts",
     "build": "yarn build-strategies && yarn build-gauges && yarn build-tokens && yarn build-points"
   },
   "devDependencies": {
