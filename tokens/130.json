@@ -30,7 +30,7 @@
     "decimals": 18,
     "createdAt": "2025-05-19",
     "updatedAt": "2025-05-19",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/UNI.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/UNI.png"
   },
   {
     "chainURI": "https://uniscan.xyz/block/0",
@@ -96,7 +96,7 @@
     "decimals": 18,
     "createdAt": "2025-05-19",
     "updatedAt": "2025-05-19",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WETH.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WETH.png"
   },
   {
     "chainURI": "https://uniscan.xyz/block/0",
@@ -107,7 +107,7 @@
     "decimals": 18,
     "createdAt": "2025-05-19",
     "updatedAt": "2025-05-19",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/wstETH.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/wstETH.png"
   },
   {
     "chainURI": "https://uniscan.xyz/block/0",
@@ -129,7 +129,7 @@
     "decimals": 18,
     "createdAt": "2025-05-19",
     "updatedAt": "2025-05-19",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ezETH.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ezETH.png"
   },
   {
     "chainURI": "https://uniscan.xyz/block/0",
@@ -150,7 +150,7 @@
     "decimals": 18,
     "createdAt": "2025-05-19",
     "updatedAt": "2025-05-19",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/weETH.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/weETH.png"
   },
   {
     "chainURI": "https://uniscan.xyz/block/0",
