@@ -1161,6 +1161,15 @@
     "bribe": "0x193b4f8fc2dfb5a476b7568d9e92d2afccc5e22e"
   },
   {
+    "address": "0xf1fe8ba112329706909396f6039359d2935cd05e",
+    "symbol": "vAMM-FOXY/oLYNX",
+    "gauge": "0x8d589413d0d4f6d53eb749d9ab115e73eb035594",
+    "token0": "0x5fbdf89403270a1846f5ae7d113a989f850d1566",
+    "token1": "0x63349ba5e1f71252ecd56e8f950d1a518b400b60",
+    "isStrategy": false,
+    "bribe": "0x6f0578321f7ac7f6822b13d8ceea1a110341799c"
+  },
+  {
     "address": "0xf3b1125c8505f038503e002e61a78253610d4f60",
     "symbol": "USDT/WETH (Narrow)",
     "gauge": "0x7db1b80ecf40a6a5f84554fd047aafdeeebc4230",
