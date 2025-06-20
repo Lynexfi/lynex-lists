@@ -2,7 +2,7 @@ import { linea, zircuit } from "viem/chains";
 import { defineChain } from "viem";
 
 export const injectiveEvmTestnet = defineChain({
-  id: 999,
+  id: 888,
   name: "Injective EVM Testnet",
   nativeCurrency: {
     decimals: 18,
@@ -11,19 +11,19 @@ export const injectiveEvmTestnet = defineChain({
   },
   rpcUrls: {
     default: {
-      http: ["https://k8s.testnet.evmix.json-rpc.injective.network"],
+      http: ["https://k8s.testnet.json-rpc.injective.network"],
     },
   },
   blockExplorers: {
     default: {
       name: "Blockscout",
-      url: "https://k8s.testnet.evm.blockscout.injective.network",
+      url: "https://testnet.blockscout.injective.network",
     },
   },
   contracts: {
     multicall3: {
-      address: "0x3E0EdA688D4b48aFd5fD9c6af78BE0CF2ef40f7E",
-      blockCreated: 39021756,
+      address: "0xcA11bde05977b3631167028862bE2a173976CA11",
+      blockCreated: 80292147,
     },
   },
 });
@@ -33,6 +33,7 @@ export const gaugeConfigs = {
     viemChain: zircuit,
     pairAPIAddress: "0x0b4158e310AE236042203322f618Cde047289b3F",
     blacklist: ["0x0000000000000000000000000000000000000000"],
+    limitAmounts: 1000,
   },
   59144: {
     viemChain: linea,
@@ -42,10 +43,12 @@ export const gaugeConfigs = {
       "0x41d245492b3a9c5a5364e8f6bb75035abfe4079e", //vAMM-MECH/WETH
       "0xc8e3e29e006cd48a4f0ad0a06558e41853a1babd", // EURO3/USD+ (Stable)
     ],
+    limitAmounts: 1000,
   },
-  999: {
+  888: {
     viemChain: injectiveEvmTestnet,
-    pairAPIAddress: "0x614Ce1dcf302419906d75755720dB833E23e507c",
+    pairAPIAddress: "0x7b8a1A199E1Ada9165CcF81F11Ed888f31cFC53c",
     blacklist: ["0x0000000000000000000000000000000000000000"],
+    limitAmounts: 450,
   },
 };

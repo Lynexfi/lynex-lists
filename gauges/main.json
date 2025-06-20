@@ -1,60 +1,5 @@
 {
-  "999": [
-    {
-      "address": "0x1211859bc1d72a871c727db9c2b27ebc8dfa0ed5",
-      "symbol": "vAMM-PMX/WINJ",
-      "gauge": "0xb584e8eeea08f66a25aa65ca011085ef59ba75c4",
-      "token0": "0xcff4768ac9a66405dce0d9d63773d93f9a40f6bd",
-      "token1": "0xedac7b9ae8a4b5e23cac5df88e9f4f8e7a454af5",
-      "isStrategy": false,
-      "bribe": "0x076474460511af57264afaa795c11e502eec2e02"
-    },
-    {
-      "address": "0x142e8ab16e7d20b49ca1721eb9faa670af8b5e33",
-      "symbol": "vAMM-mUSDC/WINJ",
-      "gauge": "0x418d9afb20ad5eec6d078fdc1d689a97f8e0ad34",
-      "token0": "0xb46bd8df6e54a771b4f575433a359f85f270147b",
-      "token1": "0xedac7b9ae8a4b5e23cac5df88e9f4f8e7a454af5",
-      "isStrategy": false,
-      "bribe": "0x0a1c54f0fd95e08e7fcb4de9d89f1942d2126249"
-    },
-    {
-      "address": "0x17a8545661a85f50a765cba87cc1c8407f13ec0d",
-      "symbol": "vAMM-mWBTC/WINJ",
-      "gauge": "0x51b2275303007ca2cc80b64c355d65968fdd2b14",
-      "token0": "0x8b778fdaaf21ae0da1ceb809f39ef8e70d671b0c",
-      "token1": "0xedac7b9ae8a4b5e23cac5df88e9f4f8e7a454af5",
-      "isStrategy": false,
-      "bribe": "0x869d1c7cfef11d164e3dc89ec649db1eb6dd27d8"
-    },
-    {
-      "address": "0x6f670022c80998c47faf19d3ad48cebed8085039",
-      "symbol": "vAMM-mUSDC/PMX",
-      "gauge": "0xf562cf7704e08539bba665f7736049d9a7ad2279",
-      "token0": "0xb46bd8df6e54a771b4f575433a359f85f270147b",
-      "token1": "0xcff4768ac9a66405dce0d9d63773d93f9a40f6bd",
-      "isStrategy": false,
-      "bribe": "0x3fa9bc2f9d4fdc04c1d7661c627665e618250612"
-    },
-    {
-      "address": "0x949499607c62266a1010fa4775baf80119f0a11d",
-      "symbol": "sAMM-mUSDC/mUSDT",
-      "gauge": "0xbcdfaec6e25215898804c5a18cae468985011c65",
-      "token0": "0xb46bd8df6e54a771b4f575433a359f85f270147b",
-      "token1": "0xcd28be839348ad49144d4fe1d38a27fbfa338a83",
-      "isStrategy": false,
-      "bribe": "0xa1013225c69ac6f2f97e4fa932ea2ad1349a65eb"
-    },
-    {
-      "address": "0xeae1a529ac5a2ed0d68888aa1a6559b8768d4983",
-      "symbol": "vAMM-mWBTC/mUSDC",
-      "gauge": "0x79d889c5763669f74e41ae3fafee120596972be6",
-      "token0": "0x8b778fdaaf21ae0da1ceb809f39ef8e70d671b0c",
-      "token1": "0xb46bd8df6e54a771b4f575433a359f85f270147b",
-      "isStrategy": false,
-      "bribe": "0xe5372f0784e3f563f1af9fd20857746a2cb5d386"
-    }
-  ],
+  "888": [],
   "48900": [
     {
       "address": "0x052f713fc84df7ff2bd450d226d4b2781f55fba8",
@@ -536,6 +481,15 @@
       "bribe": "0x3f7f2b383ef92b852ae7e41d6ec726d054012f8a"
     },
     {
+      "address": "0x251aae3587dd86bb66443b507497d2c9a064a4cc",
+      "symbol": "sAMM-ZERO/WETH",
+      "gauge": "0x3dc1d004a431c2f80bef2887b4dfb0d81aaea1d4",
+      "token0": "0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7",
+      "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+      "isStrategy": false,
+      "bribe": "0x5fc1819ff21b1e35c7ac90f15d72b5e5c14db32d"
+    },
+    {
       "address": "0x2549d6b5658a75d7eae869af8cd8ae66507f0905",
       "symbol": "USDC/WETH (Volatile)",
       "gauge": "0x987f14d92285bdc6a38a74fc8474a5454dce6c19",
@@ -858,6 +812,15 @@
       "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
       "isStrategy": true,
       "bribe": "0x10cc4819d0545f6d984a514c76cfdc5b47bb00e6"
+    },
+    {
+      "address": "0x6de1c7ea1524b7dd0a9804fec3a60c06545223ac",
+      "symbol": "vAMM-BOL/WETH",
+      "gauge": "0xa103531ae4f6d178939a406baf25e16ecfdba470",
+      "token0": "0xb171ef5cd8d320d52f257924a0e0d41e6f5c40d9",
+      "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+      "isStrategy": false,
+      "bribe": "0x9feced29291b4b104764644e4338623606a8bdcd"
     },
     {
       "address": "0x6f501662a76577fbb3bb230be5e8e69d41d8c711",
@@ -1551,6 +1514,15 @@
       "token1": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
       "isStrategy": false,
       "bribe": "0x193b4f8fc2dfb5a476b7568d9e92d2afccc5e22e"
+    },
+    {
+      "address": "0xf1fe8ba112329706909396f6039359d2935cd05e",
+      "symbol": "vAMM-FOXY/oLYNX",
+      "gauge": "0x8d589413d0d4f6d53eb749d9ab115e73eb035594",
+      "token0": "0x5fbdf89403270a1846f5ae7d113a989f850d1566",
+      "token1": "0x63349ba5e1f71252ecd56e8f950d1a518b400b60",
+      "isStrategy": false,
+      "bribe": "0x6f0578321f7ac7f6822b13d8ceea1a110341799c"
     },
     {
       "address": "0xf3b1125c8505f038503e002e61a78253610d4f60",

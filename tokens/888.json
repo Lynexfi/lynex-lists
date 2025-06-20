@@ -1,0 +1,101 @@
+[
+  {
+    "chainURI": "https://testnet.blockscout.injective.network",
+    "tokenId": "https://testnet.blockscout.injective.network/address/0x1d4403F5Ac128dAF548C5ba707D1047b475fDAd2",
+    "address": "0x1d4403F5Ac128dAF548C5ba707D1047b475fDAd2",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "createdAt": "2025-06-19",
+    "updatedAt": "2025-06-19",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+  },
+  {
+    "chainURI": "https://testnet.blockscout.injective.network",
+    "tokenId": "https://testnet.blockscout.injective.network/address/0x510B9d0E74480aF149737482884b4aAa82C1A714",
+    "address": "0x510B9d0E74480aF149737482884b4aAa82C1A714",
+    "name": "DAI",
+    "symbol": "DAI",
+    "decimals": 18,
+    "createdAt": "2025-06-19",
+    "updatedAt": "2025-06-19",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+  },
+  {
+    "chainURI": "https://testnet.blockscout.injective.network",
+    "tokenId": "https://testnet.blockscout.injective.network/address/0xE83c1acd1c9cc3780D0a560E36DCCAA236B86412",
+    "address": "0xE83c1acd1c9cc3780D0a560E36DCCAA236B86412",
+    "name": "USDT",
+    "symbol": "USDT",
+    "decimals": 6,
+    "createdAt": "2025-06-19",
+    "updatedAt": "2025-06-19",
+    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/USDT.png"
+  },
+  {
+    "chainURI": "https://testnet.blockscout.injective.network",
+    "tokenId": "https://testnet.blockscout.injective.network/address/0x2933E59C3BC8defC709BC3995C4887D0f1083483",
+    "address": "0x2933E59C3BC8defC709BC3995C4887D0f1083483",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "createdAt": "2025-06-19",
+    "updatedAt": "2025-06-19",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
+  },
+  {
+    "chainURI": "https://testnet.blockscout.injective.network",
+    "tokenId": "https://testnet.blockscout.injective.network/address/0xeD0094eE59492cB08A5602Eb8275acb00FFb627d",
+    "address": "0xeD0094eE59492cB08A5602Eb8275acb00FFb627d",
+    "name": "Pumex",
+    "symbol": "PMX",
+    "decimals": 18,
+    "createdAt": "2025-06-19",
+    "updatedAt": "2025-06-19",
+    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/PMX.png"
+  },
+  {
+    "chainURI": "https://testnet.blockscout.injective.network",
+    "tokenId": "https://testnet.blockscout.injective.network/address/0x239a769681Aa0D14eF8349F999800E819dDBdA63",
+    "address": "0x239a769681Aa0D14eF8349F999800E819dDBdA63",
+    "createdAt": "2025-06-19",
+    "updatedAt": "2025-06-19",
+    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/bvePMX.png",
+    "name": "bvePMX",
+    "symbol": "bvePMX",
+    "decimals": 18
+  },
+  {
+    "chainURI": "https://testnet.blockscout.injective.network",
+    "tokenId": "https://testnet.blockscout.injective.network/address/0xCe5e886C7456FcBc55E9F0C67C9aE741e56D70e3",
+    "address": "0xCe5e886C7456FcBc55E9F0C67C9aE741e56D70e3",
+    "createdAt": "2025-06-19",
+    "updatedAt": "2025-06-19",
+    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/oPMX.png",
+    "name": "oPMX",
+    "symbol": "oPMX",
+    "decimals": 18
+  },
+  {
+    "chainURI": "https://testnet.blockscout.injective.network",
+    "tokenId": "https://testnet.blockscout.injective.network/address/0xe1c64DDE0A990ac2435B05DCdac869a17fE06Bd2",
+    "address": "0xe1c64DDE0A990ac2435B05DCdac869a17fE06Bd2",
+    "name": "Wrapped Injective",
+    "symbol": "WINJ",
+    "decimals": 18,
+    "createdAt": "2025-05-07",
+    "updatedAt": "2025-05-07",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212"
+  },
+  {
+    "chainURI": "https://testnet.blockscout.injective.network",
+    "tokenId": "https://testnet.blockscout.injective.network/address/0x5Ae9B425f58B78e0d5e7e5a7A75c5f5B45d143B7",
+    "address": "0x5Ae9B425f58B78e0d5e7e5a7A75c5f5B45d143B7",
+    "name": "Wrapped ETH",
+    "symbol": "WETH",
+    "decimals": 18,
+    "createdAt": "2025-06-19",
+    "updatedAt": "2025-06-19",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+  }
+]
