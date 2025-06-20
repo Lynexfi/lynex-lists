@@ -127,7 +127,7 @@ async function main() {
   const lineaGauges = await gaugeGod(59144);
   const zircuitGauges = await gaugeGod(48900);
   const injectiveGauges = await gaugeGod(1439);
-  console.log('injectiveGauges', injectiveGauges);
+
   const result = {
     59144: lineaGauges,
     48900: zircuitGauges,
