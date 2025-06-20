@@ -18,6 +18,15 @@
     "bribe": "0x4b377089468600f4758a91c2bc8ad6cc9318d376"
   },
   {
+    "address": "0x0f483ebbf9f86819506ed9df67702e3a9b08e10c",
+    "symbol": "ETH/USDC (Single Deposit)",
+    "gauge": "0x2513c241e833ae68e3a823e6ed41eb1c704fcfb2",
+    "token0": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+    "token1": "0x4200000000000000000000000000000000000006",
+    "isStrategy": true,
+    "bribe": "0x4a345a9315622b436c1ae1d9c0f54d96bf4f48a0"
+  },
+  {
     "address": "0x0f867f14b39a5892a39841a03ba573426de4b1d0",
     "symbol": "USD₮0/WBTC (Narrow)",
     "gauge": "0x98ce99d4cf412e50eb7c7eda4ef853c31b47a0c0",
@@ -70,6 +79,15 @@
     "token1": "0x078d782b760474a361dda0af3839290b0ef57ad6",
     "isStrategy": true,
     "bribe": "0xce1465773d60f37241aba6bc8cea837e20be7faf"
+  },
+  {
+    "address": "0xbc9f05bd2cb80f47f66444acd737ab1c66efba3b",
+    "symbol": "USDC/ETH (Single Deposit)",
+    "gauge": "0x222265d1f1531881cf68cd38328a9c09da4ebc79",
+    "token0": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+    "token1": "0x4200000000000000000000000000000000000006",
+    "isStrategy": true,
+    "bribe": "0x962e46d317598d895f60edb46b188abe7478b5ea"
   },
   {
     "address": "0xf802d5c44dc4e3bb0eccf680a6ba82cbd24b9f33",
