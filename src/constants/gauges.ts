@@ -2,7 +2,7 @@ import { linea, zircuit } from "viem/chains";
 import { defineChain } from "viem";
 
 export const injectiveEvmTestnet = defineChain({
-  id: 888,
+  id: 1439,
   name: "Injective EVM Testnet",
   nativeCurrency: {
     decimals: 18,
@@ -45,7 +45,7 @@ export const gaugeConfigs = {
     ],
     limitAmounts: 1000,
   },
-  888: {
+  1439: {
     viemChain: injectiveEvmTestnet,
     pairAPIAddress: "0x7b8a1A199E1Ada9165CcF81F11Ed888f31cFC53c",
     blacklist: ["0x0000000000000000000000000000000000000000"],

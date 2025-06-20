@@ -1955,5 +1955,5 @@ export const strategies: Strategies = {
   ],
 
   //INJECTIVE TESTNET
-  888: [],
+  1439: [],
 };

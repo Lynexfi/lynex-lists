@@ -14,7 +14,7 @@ type PairInfo = {
   bribe: string;
 };
 
-async function gaugeGod(chainId: 48900 | 59144 | 888) {
+async function gaugeGod(chainId: 48900 | 59144 | 1439) {
   const config = gaugeConfigs[chainId];
   const client = createPublicClient({
     chain: config.viemChain,
@@ -126,12 +126,12 @@ async function gaugeGod(chainId: 48900 | 59144 | 888) {
 async function main() {
   const lineaGauges = await gaugeGod(59144);
   const zircuitGauges = await gaugeGod(48900);
-  const injectiveGauges = await gaugeGod(888);
-
+  const injectiveGauges = await gaugeGod(1439);
+  console.log('injectiveGauges', injectiveGauges);
   const result = {
     59144: lineaGauges,
     48900: zircuitGauges,
-    888: injectiveGauges,
+    1439: injectiveGauges,
   };
 
   // Create gauges directory if it doesn't exist
