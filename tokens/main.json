@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 29
+    "patch": 30
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -304,8 +304,8 @@
       "chainURI": "https://testnet.blockscout.injective.network",
       "tokenId": "https://testnet.blockscout.injective.network/address/0xe1c64DDE0A990ac2435B05DCdac869a17fE06Bd2",
       "address": "0xe1c64DDE0A990ac2435B05DCdac869a17fE06Bd2",
-      "name": "Wrapped Injective",
-      "symbol": "WINJ",
+      "name": "tWrapped Injective",
+      "symbol": "tWINJ",
       "decimals": 18,
       "createdAt": "2025-05-07",
       "updatedAt": "2025-05-07",
@@ -316,12 +316,12 @@
       "chainURI": "https://testnet.blockscout.injective.network",
       "tokenId": "https://testnet.blockscout.injective.network/address/0x5Ae9B425f58B78e0d5e7e5a7A75c5f5B45d143B7",
       "address": "0x5Ae9B425f58B78e0d5e7e5a7A75c5f5B45d143B7",
-      "name": "Wrapped ETH",
-      "symbol": "WETH",
+      "name": "Wrapped WINJ",
+      "symbol": "WINJ",
       "decimals": 18,
       "createdAt": "2025-06-19",
       "updatedAt": "2025-06-19",
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+      "logoURI": "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212"
     },
     {
       "chainId": 48900,
