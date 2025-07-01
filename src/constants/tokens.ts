@@ -1476,7 +1476,7 @@ export const tokens = {
     },
     {
       tokenId:
-        "https://uniscan.xyz/address/0xe9c43e09c5fa733bcc2aeaa96063a4a60147aa09",
+        "https://uniscan.xyz/address/0xE9185Ee218cae427aF7B9764A011bb89FeA761B4",
       address: "0xE9185Ee218cae427aF7B9764A011bb89FeA761B4",
       name: "Brazilian Digital",
       symbol: "BRZ",
