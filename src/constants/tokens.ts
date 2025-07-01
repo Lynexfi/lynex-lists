@@ -1438,7 +1438,7 @@ export const tokens = {
       symbol: "oCATX",
       address: "0x51284CdECCD28a49426bE275450cC2b9256dF42a",
       decimals: 18,
-      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/oCATX.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists/refs/heads@main/tokens/assets/oCATX.png",
     },
     {
       name: "Mock bveCATX2",

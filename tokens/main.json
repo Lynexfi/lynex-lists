@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 28
+    "patch": 29
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -25,7 +25,7 @@
       "symbol": "oCATX",
       "address": "0x51284CdECCD28a49426bE275450cC2b9256dF42a",
       "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/oCATX.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists/refs/heads@main/tokens/assets/oCATX.png"
     },
     {
       "chainId": 130,
