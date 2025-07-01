@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 25
+    "patch": 26
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -11,6 +11,30 @@
     "default"
   ],
   "tokens": [
+    {
+      "chainId": 130,
+      "name": "Mock Catex",
+      "symbol": "CATX",
+      "address": "0xf7fE4EeBf081b02A87329dc67f4Afb6AAd2503A5",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/CATX.png"
+    },
+    {
+      "chainId": 130,
+      "name": "Mock Options Catex",
+      "symbol": "oCATX",
+      "address": "0x26265e76F1dB1202D9086972d737425e720c581F",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/oCATX.png"
+    },
+    {
+      "chainId": 130,
+      "name": "Mock bveCATX",
+      "symbol": "bveCATX",
+      "address": "0x96163d6dCE9d20F701a297C6D95BFb99cdCbD2bF",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/oCATX.png"
+    },
     {
       "chainId": 130,
       "chainURI": "https://uniscan.xyz/block/0",
