@@ -1427,25 +1427,25 @@ export const tokens = {
   ],
   130: [
     {
-      name: "Mock Catex",
+      name: "Mock Catex2",
       symbol: "CATX",
-      address: "0xf7fE4EeBf081b02A87329dc67f4Afb6AAd2503A5",
+      address: "0xa95F89ed5Aff374f02033F0Fbeae92Bd49a30409",
       decimals: 18,
       logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/CATX.png",
     },
     {
-      name: "Mock Options Catex",
+      name: "Mock Options Catex2",
       symbol: "oCATX",
-      address: "0x26265e76F1dB1202D9086972d737425e720c581F",
+      address: "0x51284CdECCD28a49426bE275450cC2b9256dF42a",
       decimals: 18,
       logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/oCATX.png",
     },
     {
-      name: "Mock bveCATX",
+      name: "Mock bveCATX2",
       symbol: "bveCATX",
-      address: "0x96163d6dCE9d20F701a297C6D95BFb99cdCbD2bF",
+      address: "0x35C93D67702d0e0a1d445dfdc2A21deAb448A3F7",
       decimals: 18,
-      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/oCATX.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/bveCATX.png",
     },
 
     {

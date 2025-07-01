@@ -17,7 +17,7 @@ export const gaugeConfigs = {
   },
   130: {
     viemChain: unichain,
-    pairAPIAddress: "0x944DC66c486639d95802c10F7764b6DE6651BD11",
+    pairAPIAddress: "0x6Db721AF409660521743a3099866bf7E2734d913",
     blacklist: ["0x0000000000000000000000000000000000000000"],
   },
 };
