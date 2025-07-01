@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 20
+    "patch": 21
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -58,6 +58,17 @@
       "createdAt": "2025-05-19",
       "updatedAt": "2025-05-19",
       "logoURI": "https://assets.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183"
+    },
+    {
+      "chainId": 130,
+      "tokenId": "https://uniscan.xyz/address/0xe9c43e09c5fa733bcc2aeaa96063a4a60147aa09",
+      "address": "0xE9185Ee218cae427aF7B9764A011bb89FeA761B4",
+      "name": "Brazilian Digital",
+      "symbol": "BRZ",
+      "decimals": 18,
+      "createdAt": "2025-07-01",
+      "updatedAt": "2025-07-01",
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/BRZ.png"
     },
     {
       "chainId": 130,

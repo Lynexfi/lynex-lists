@@ -1475,6 +1475,17 @@ export const tokens = {
       logoURI: "https://assets.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183",
     },
     {
+      tokenId:
+        "https://uniscan.xyz/address/0xe9c43e09c5fa733bcc2aeaa96063a4a60147aa09",
+      address: "0xE9185Ee218cae427aF7B9764A011bb89FeA761B4",
+      name: "Brazilian Digital",
+      symbol: "BRZ",
+      decimals: 18,
+      createdAt: "2025-07-01",
+      updatedAt: "2025-07-01",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/BRZ.png",
+    },
+    {
       chainURI: "https://uniscan.xyz/block/0",
       tokenId:
         "https://uniscan.xyz/address/0xe9c43e09c5fa733bcc2aeaa96063a4a60147aa09",
