@@ -1443,7 +1443,7 @@ export const tokens = {
     {
       name: "Bribe veCATX",
       symbol: "bveCATX",
-      address: "0x35C93D67702d0e0a1d445dfdc2A21deAb448A3F7",
+      address: "0x7169a1874d4716094bdcE1b86a5cd00212CA1319",
       decimals: 18,
       logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/bveCATX.png",
     },
