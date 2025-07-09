@@ -1996,6 +1996,7 @@ export const strategies: Strategies = {
       },
       v4PoolId:
         "0x77ea9d2be50eb3e82b62db928a1bcc573064dd2a14f5026847e755518c8659c9",
+      promoted: true,
     },
     {
       symbol: "ETH/USDC",
@@ -2017,6 +2018,7 @@ export const strategies: Strategies = {
       },
       v4PoolId:
         "0x3258f413c7a88cda2fa8709a589d221a80f6574f63df5a5b6774485d8acc39d9",
+      promoted: true,
     },
     {
       symbol: "ETH/wstETH",
@@ -2080,6 +2082,7 @@ export const strategies: Strategies = {
       },
       v4PoolId:
         "0x53b06f1bb8b622cc4b7dbd9bc9f4a34788034bc48702cd2af4135b48444d5b24",
+      promoted: true,
     },
     {
       symbol: "ETH/WBTC",
@@ -2143,6 +2146,7 @@ export const strategies: Strategies = {
       },
       v4PoolId:
         "0xb2f3bbaf23e0197ec2e6f9ab730d00aaf26a9119ecd583bbb9ef3146b4afa248",
+      promoted: true,
     },
     {
       symbol: "ETH/weETH",
@@ -2185,7 +2189,6 @@ export const strategies: Strategies = {
         address: "0x4200000000000000000000000000000000000006",
       },
       percentage: 70,
-      promoted: true,
     },
     {
       symbol: "ETH/USDC",
