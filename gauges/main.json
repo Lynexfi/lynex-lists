@@ -1,5 +1,78 @@
 {
-  "130": [],
+  "130": [
+    {
+      "address": "0x016fcf5daf5ee7df5d0265c5fbb65d7ff7a9a593",
+      "symbol": "ETH/wstETH (Narrow)",
+      "gauge": "0xab55a1a8112c080556b7f80d1d714df8124055ba",
+      "token0": "0x0000000000000000000000000000000000000000",
+      "token1": "0xc02fe7317d4eb8753a02c35fe019786854a92001",
+      "isStrategy": true,
+      "bribe": "0x355158527b4d558a123d0d4c5a12623b8ec191a9"
+    },
+    {
+      "address": "0x0f867f14b39a5892a39841a03ba573426de4b1d0",
+      "symbol": "USD₮0/WBTC (Narrow)",
+      "gauge": "0x985117747c8008c5761f58586ab99fb1cdfee42b",
+      "token0": "0x9151434b16b9763660705744891fa906f660ecc5",
+      "token1": "0x927b51f251480a681271180da4de28d44ec4afb8",
+      "isStrategy": true,
+      "bribe": "0x1a6ec0c88ace1799f2acbc5db4e06b6f568e9cfc"
+    },
+    {
+      "address": "0x2510ef72cafbc67aec58a9f8d7df0ddd1a67f8d2",
+      "symbol": "ETH/WBTC (Narrow)",
+      "gauge": "0xe8a44b9a757191ad3a2c06d71ad5cf570a6590ac",
+      "token0": "0x0000000000000000000000000000000000000000",
+      "token1": "0x927b51f251480a681271180da4de28d44ec4afb8",
+      "isStrategy": true,
+      "bribe": "0xca88212a2c6a18d675ecfe0e9c95df2f4c617a00"
+    },
+    {
+      "address": "0x2c5f8b726074ac410cb058847d7874fcba7f817b",
+      "symbol": "ETH/USD₮0 (Narrow)",
+      "gauge": "0x71828edf393b7ce1c7665b4053be4685d9be488a",
+      "token0": "0x0000000000000000000000000000000000000000",
+      "token1": "0x9151434b16b9763660705744891fa906f660ecc5",
+      "isStrategy": true,
+      "bribe": "0x4881730a241055c2f1e118185ebf7854535028ef"
+    },
+    {
+      "address": "0x3f039519c5a74a3af1487d8112ffa953a88aee4f",
+      "symbol": "USDC/USD₮0 (Narrow)",
+      "gauge": "0x161b1d9cbf54a9af9c000b1aaa904a217380d1ad",
+      "token0": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+      "token1": "0x9151434b16b9763660705744891fa906f660ecc5",
+      "isStrategy": true,
+      "bribe": "0x62b54a73782fd0a866c7289427c576faf4298ec8"
+    },
+    {
+      "address": "0x3ffe77392a243b5f849a1d46f7018da83dab2bac",
+      "symbol": "ETH/UNI (Narrow)",
+      "gauge": "0xd19242b78a65b12bdb744dacbe15e608fe463b61",
+      "token0": "0x0000000000000000000000000000000000000000",
+      "token1": "0x8f187aa05619a017077f5308904739877ce9ea21",
+      "isStrategy": true,
+      "bribe": "0x1b0584d7953392255d1e88d20bfac4fe3107d189"
+    },
+    {
+      "address": "0x509afb487658f48fe9c1b76e2abb4d01c7c15307",
+      "symbol": "ETH/USDC (Narrow)",
+      "gauge": "0xec3e64a70150d1a47c7c9e76cdc17a750196bb45",
+      "token0": "0x0000000000000000000000000000000000000000",
+      "token1": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+      "isStrategy": true,
+      "bribe": "0x457051e15f08266bb5110b1038c2cb3feec4f04f"
+    },
+    {
+      "address": "0xf802d5c44dc4e3bb0eccf680a6ba82cbd24b9f33",
+      "symbol": "ETH/weETH (Narrow)",
+      "gauge": "0x14323bbbe792e06ca3111a1314ae881858b9e2ec",
+      "token0": "0x0000000000000000000000000000000000000000",
+      "token1": "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
+      "isStrategy": true,
+      "bribe": "0x348e96d7b4fb242c1c9cb82e6d29009d04425600"
+    }
+  ],
   "48900": [
     {
       "address": "0x052f713fc84df7ff2bd450d226d4b2781f55fba8",
