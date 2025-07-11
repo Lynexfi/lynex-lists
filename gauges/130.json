@@ -9,6 +9,15 @@
     "bribe": "0x355158527b4d558a123d0d4c5a12623b8ec191a9"
   },
   {
+    "address": "0x05d8e36dddf959cd2f990d139171c22f19395c9a",
+    "symbol": "USDC/WBTC (Narrow)",
+    "gauge": "0x532e25e8fe5966fff53111e7051dcf6266bd2fcb",
+    "token0": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+    "token1": "0x927b51f251480a681271180da4de28d44ec4afb8",
+    "isStrategy": true,
+    "bribe": "0xcf3297fb7198c0679e9a376a83bb7e4a4d6516be"
+  },
+  {
     "address": "0x0f867f14b39a5892a39841a03ba573426de4b1d0",
     "symbol": "USD₮0/WBTC (Narrow)",
     "gauge": "0x985117747c8008c5761f58586ab99fb1cdfee42b",
