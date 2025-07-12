@@ -2170,6 +2170,27 @@ export const strategies: Strategies = {
         "0xbb1e92b6f31285d432d9f9462ebc4a003dfe26d9bc47d44543a12d457f1d22f1",
     },
     {
+      symbol: "BRZ/USD₮0",
+      lpSymbol: "BRZ/USD₮0",
+      title: "Gamma Narrow",
+      type: "Narrow",
+      variant: "uniV4",
+      strategist: "Gamma",
+      manager: "Gamma",
+      startBlock: 17202148,
+      allowed0: true,
+      allowed1: true,
+      address: "0x55284E77689753B718220Ada10d0C01e700f249B",
+      token0: {
+        address: "0x9151434b16b9763660705744891fA906F660EcC5",
+      },
+      token1: {
+        address: "0xE9185Ee218cae427aF7B9764A011bb89FeA761B4",
+      },
+      v4PoolId:
+        "0x3468e2f861c4c5fafa0cb1a00cb5c1006639f3532d901ee8368d4cc61cf75f38",
+    },
+    {
       symbol: "USDC/ETH",
       lpSymbol: "USDC/ETH",
       title: "Single Deposit (USDC)",
