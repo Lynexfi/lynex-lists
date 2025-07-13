@@ -1,4 +1,4 @@
-import { linea, zircuit } from "viem/chains";
+import { linea, zircuit, unichain } from "viem/chains";
 
 export const gaugeConfigs = {
   48900: {
@@ -14,5 +14,10 @@ export const gaugeConfigs = {
       "0x41d245492b3a9c5a5364e8f6bb75035abfe4079e", //vAMM-MECH/WETH
       "0xc8e3e29e006cd48a4f0ad0a06558e41853a1babd", // EURO3/USD+ (Stable)
     ],
+  },
+  130: {
+    viemChain: unichain,
+    pairAPIAddress: "0x9D61c9FA1264300B166d0122a0006377465Bc5cF",
+    blacklist: ["0x0000000000000000000000000000000000000000"],
   },
 };
