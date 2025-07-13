@@ -17,7 +17,8 @@
     "token1": {
       "address": "0x9151434b16b9763660705744891fA906F660EcC5"
     },
-    "v4PoolId": "0x77ea9d2be50eb3e82b62db928a1bcc573064dd2a14f5026847e755518c8659c9"
+    "v4PoolId": "0x77ea9d2be50eb3e82b62db928a1bcc573064dd2a14f5026847e755518c8659c9",
+    "promoted": true
   },
   {
     "symbol": "ETH/USDC",
@@ -37,7 +38,8 @@
     "token1": {
       "address": "0x078D782b760474a361dDA0AF3839290b0EF57AD6"
     },
-    "v4PoolId": "0x3258f413c7a88cda2fa8709a589d221a80f6574f63df5a5b6774485d8acc39d9"
+    "v4PoolId": "0x3258f413c7a88cda2fa8709a589d221a80f6574f63df5a5b6774485d8acc39d9",
+    "promoted": true
   },
   {
     "symbol": "ETH/wstETH",
@@ -97,7 +99,8 @@
     "token1": {
       "address": "0x927B51f251480a681271180DA4de28D44EC4AfB8"
     },
-    "v4PoolId": "0x53b06f1bb8b622cc4b7dbd9bc9f4a34788034bc48702cd2af4135b48444d5b24"
+    "v4PoolId": "0x53b06f1bb8b622cc4b7dbd9bc9f4a34788034bc48702cd2af4135b48444d5b24",
+    "promoted": true
   },
   {
     "symbol": "ETH/WBTC",
@@ -157,7 +160,8 @@
     "token1": {
       "address": "0x8f187aA05619a017077f5308904739877ce9eA21"
     },
-    "v4PoolId": "0xb2f3bbaf23e0197ec2e6f9ab730d00aaf26a9119ecd583bbb9ef3146b4afa248"
+    "v4PoolId": "0xb2f3bbaf23e0197ec2e6f9ab730d00aaf26a9119ecd583bbb9ef3146b4afa248",
+    "promoted": true
   },
   {
     "symbol": "ETH/weETH",

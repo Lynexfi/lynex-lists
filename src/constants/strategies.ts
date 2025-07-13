@@ -1996,6 +1996,7 @@ export const strategies: Strategies = {
       },
       v4PoolId:
         "0x77ea9d2be50eb3e82b62db928a1bcc573064dd2a14f5026847e755518c8659c9",
+      promoted: true,
     },
     {
       symbol: "ETH/USDC",
@@ -2017,6 +2018,7 @@ export const strategies: Strategies = {
       },
       v4PoolId:
         "0x3258f413c7a88cda2fa8709a589d221a80f6574f63df5a5b6774485d8acc39d9",
+      promoted: true,
     },
     {
       symbol: "ETH/wstETH",
@@ -2080,6 +2082,7 @@ export const strategies: Strategies = {
       },
       v4PoolId:
         "0x53b06f1bb8b622cc4b7dbd9bc9f4a34788034bc48702cd2af4135b48444d5b24",
+      promoted: true,
     },
     {
       symbol: "ETH/WBTC",
@@ -2143,6 +2146,7 @@ export const strategies: Strategies = {
       },
       v4PoolId:
         "0xb2f3bbaf23e0197ec2e6f9ab730d00aaf26a9119ecd583bbb9ef3146b4afa248",
+      promoted: true,
     },
     {
       symbol: "ETH/weETH",
@@ -2165,5 +2169,69 @@ export const strategies: Strategies = {
       v4PoolId:
         "0xbb1e92b6f31285d432d9f9462ebc4a003dfe26d9bc47d44543a12d457f1d22f1",
     },
+    // {
+    //   symbol: "BRZ/USD₮0",
+    //   lpSymbol: "BRZ/USD₮0",
+    //   title: "Gamma Narrow",
+    //   type: "Narrow",
+    //   variant: "uniV4",
+    //   strategist: "Gamma",
+    //   manager: "Gamma",
+    //   startBlock: 17202148,
+    //   allowed0: true,
+    //   allowed1: true,
+    //   address: "0x55284E77689753B718220Ada10d0C01e700f249B",
+    //   token0: {
+    //     address: "0x9151434b16b9763660705744891fA906F660EcC5",
+    //   },
+    //   token1: {
+    //     address: "0xE9185Ee218cae427aF7B9764A011bb89FeA761B4",
+    //   },
+    //   v4PoolId:
+    //     "0x3468e2f861c4c5fafa0cb1a00cb5c1006639f3532d901ee8368d4cc61cf75f38",
+    // },
+    // {
+    //   symbol: "USDC/ETH",
+    //   lpSymbol: "USDC/ETH",
+    //   title: "Single Deposit (USDC)",
+    //   type: "Single Deposit",
+    //   variant: "uniV3",
+    //   strategist: "Ichi",
+    //   manager: "Ichi",
+    //   startBlock: 13039239,
+    //   address: "0xBc9f05bd2cB80F47f66444AcD737aB1C66efBA3b",
+    //   depositToken: "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+    //   allowed0: true,
+    //   allowed1: false,
+    //   token0: {
+    //     address: "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+    //   },
+    //   token1: {
+    //     address: "0x4200000000000000000000000000000000000006",
+    //   },
+    //   percentage: 70,
+    // },
+    // {
+    //   symbol: "ETH/USDC",
+    //   lpSymbol: "ETH/USDC",
+    //   title: "Single Deposit (ETH)",
+    //   type: "Single Deposit",
+    //   variant: "uniV3",
+    //   strategist: "Ichi",
+    //   manager: "Ichi",
+    //   startBlock: 13039283,
+    //   address: "0x0F483eBBF9F86819506eD9dF67702e3a9B08E10C",
+    //   depositToken: "0x4200000000000000000000000000000000000006",
+    //   allowed0: false,
+    //   allowed1: true,
+    //   token0: {
+    //     address: "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+    //   },
+    //   token1: {
+    //     address: "0x4200000000000000000000000000000000000006",
+    //   },
+    //   percentage: 70,
+    //   promoted: true,
+    // },
   ],
 };
