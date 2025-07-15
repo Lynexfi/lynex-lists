@@ -72,6 +72,15 @@
     "bribe": "0x457051e15f08266bb5110b1038c2cb3feec4f04f"
   },
   {
+    "address": "0x55284e77689753b718220ada10d0c01e700f249b",
+    "symbol": "BRZ/USD₮0 (Narrow)",
+    "gauge": "0x447fa4bc098d5629fd183596d6941a033697b6ae",
+    "token0": "0x9151434b16b9763660705744891fa906f660ecc5",
+    "token1": "0xe9185ee218cae427af7b9764a011bb89fea761b4",
+    "isStrategy": true,
+    "bribe": "0x3ad77eb431d220d4c3cabfc1ac9b26bffe44e2ed"
+  },
+  {
     "address": "0xf802d5c44dc4e3bb0eccf680a6ba82cbd24b9f33",
     "symbol": "ETH/weETH (Narrow)",
     "gauge": "0x14323bbbe792e06ca3111a1314ae881858b9e2ec",
