@@ -2233,5 +2233,27 @@ export const strategies: Strategies = {
     //   percentage: 70,
     //   promoted: true,
     // },
+    {
+      symbol: "UNI/CATX",
+      lpSymbol: "UNI/CATX",
+      title: "Single Deposit (UNI)",
+      type: "Single Deposit",
+      variant: "uniV3",
+      strategist: "Ichi",
+      manager: "Ichi",
+      startBlock: 21841511,
+      address: "0xA1D4b1DA86Bef122C1D09401dD3f21657A0f85df",
+      depositToken: "0x8f187aA05619a017077f5308904739877ce9eA21",
+      allowed0: false,
+      allowed1: true,
+      token0: {
+        address: "0x756ee6857F915A2b5366F2Ef56d8D13857aef8ad",
+      },
+      token1: {
+        address: "0x8f187aA05619a017077f5308904739877ce9eA21",
+      },
+      percentage: 70,
+      promoted: true,
+    },
   ],
 };
