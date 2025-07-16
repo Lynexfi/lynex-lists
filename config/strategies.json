@@ -1,6 +1,49 @@
 {
   "130": [
     {
+      "symbol": "USDC/ETH",
+      "lpSymbol": "USDC/ETH",
+      "title": "Single Deposit (USDC)",
+      "type": "Single Deposit",
+      "variant": "uniV3",
+      "strategist": "Ichi",
+      "manager": "Ichi",
+      "startBlock": 13039239,
+      "address": "0xBc9f05bd2cB80F47f66444AcD737aB1C66efBA3b",
+      "depositToken": "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+      "allowed0": true,
+      "allowed1": false,
+      "token0": {
+        "address": "0x078D782b760474a361dDA0AF3839290b0EF57AD6"
+      },
+      "token1": {
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "percentage": 70
+    },
+    {
+      "symbol": "UNI/CATX",
+      "lpSymbol": "UNI/CATX",
+      "title": "Single Deposit (UNI)",
+      "type": "Single Deposit",
+      "variant": "uniV3",
+      "strategist": "Ichi",
+      "manager": "Ichi",
+      "startBlock": 21841511,
+      "address": "0xA1D4b1DA86Bef122C1D09401dD3f21657A0f85df",
+      "depositToken": "0x8f187aA05619a017077f5308904739877ce9eA21",
+      "allowed0": false,
+      "allowed1": true,
+      "token0": {
+        "address": "0x756ee6857F915A2b5366F2Ef56d8D13857aef8ad"
+      },
+      "token1": {
+        "address": "0x8f187aA05619a017077f5308904739877ce9eA21"
+      },
+      "percentage": 70,
+      "promoted": true
+    },
+    {
       "symbol": "USDC/USD₮0",
       "lpSymbol": "USDC/USD₮0",
       "title": "Gamma Narrow",
@@ -203,28 +246,6 @@
         "address": "0xE9185Ee218cae427aF7B9764A011bb89FeA761B4"
       },
       "v4PoolId": "0x3468e2f861c4c5fafa0cb1a00cb5c1006639f3532d901ee8368d4cc61cf75f38"
-    },
-    {
-      "symbol": "UNI/CATX",
-      "lpSymbol": "UNI/CATX",
-      "title": "Single Deposit (UNI)",
-      "type": "Single Deposit",
-      "variant": "uniV3",
-      "strategist": "Ichi",
-      "manager": "Ichi",
-      "startBlock": 21841511,
-      "address": "0xA1D4b1DA86Bef122C1D09401dD3f21657A0f85df",
-      "depositToken": "0x8f187aA05619a017077f5308904739877ce9eA21",
-      "allowed0": false,
-      "allowed1": true,
-      "token0": {
-        "address": "0x756ee6857F915A2b5366F2Ef56d8D13857aef8ad"
-      },
-      "token1": {
-        "address": "0x8f187aA05619a017077f5308904739877ce9eA21"
-      },
-      "percentage": 70,
-      "promoted": true
     }
   ],
   "137": [
