@@ -36,6 +36,15 @@
     "bribe": "0x97c2592d52a181dc23f401f8ba63e552b9c3c56e"
   },
   {
+    "address": "0x106fe82eddaf926f71df5c423f4daa94ec73a6c8",
+    "symbol": "sAMM-DAI/USDT",
+    "gauge": "0x259667a9850d54b3702e96a950c061803afec202",
+    "token0": "0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5",
+    "token1": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
+    "isStrategy": false,
+    "bribe": "0x38167006ab5d16b13390f87132a52706900253d1"
+  },
+  {
     "address": "0x11e29b541abe15984c863c10f3ef9ecbcc078031",
     "symbol": "sAMM-USDT/WETH",
     "gauge": "0x587d117cfecf3ace7989f8c80acfc857717f0389",
