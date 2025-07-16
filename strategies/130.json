@@ -1,26 +1,5 @@
 [
   {
-    "symbol": "USDC/ETH",
-    "lpSymbol": "USDC/ETH",
-    "title": "Single Deposit (USDC)",
-    "type": "Single Deposit",
-    "variant": "uniV3",
-    "strategist": "Ichi",
-    "manager": "Ichi",
-    "startBlock": 13039239,
-    "address": "0xBc9f05bd2cB80F47f66444AcD737aB1C66efBA3b",
-    "depositToken": "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
-    "allowed0": true,
-    "allowed1": false,
-    "token0": {
-      "address": "0x078D782b760474a361dDA0AF3839290b0EF57AD6"
-    },
-    "token1": {
-      "address": "0x4200000000000000000000000000000000000006"
-    },
-    "percentage": 70
-  },
-  {
     "symbol": "UNI/CATX",
     "lpSymbol": "UNI/CATX",
     "title": "Single Deposit (UNI)",
