@@ -1637,5 +1637,43 @@ export const tokens = {
       updatedAt: "2025-05-19",
       logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
     },
+  ],
+  2391: [
+    {
+      chainURI: "https://spb.explorer.tac.build/block/0",
+      tokenId:
+        "https://spb.explorer.tac.build/address/0xCf61405b7525F09f4E7501fc831fE7cbCc823d4c",
+      address: "0xCf61405b7525F09f4E7501fc831fE7cbCc823d4c", 
+      name: "Wrapped TAC",
+      symbol: "WTAC",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WTAC.png",
+    },
+    {
+      chainURI: "https://spb.explorer.tac.build/block/0",
+      tokenId:
+        "https://spb.explorer.tac.build/address/0xCf61405b7525F09f4E7501fc831fE7cbCc823d4c",
+      address: "0xCf61405b7525F09f4E7501fc831fE7cbCc823d4c", 
+      name: "TON Token",
+      symbol: "TON",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WTAC.png",
+    },
+    {
+      chainURI: "https://spb.explorer.tac.build/block/0",
+      tokenId:
+        "https://spb.explorer.tac.build/address/0xfD4b32fBe611850Fd42d76B35ab82462c6989120",
+      address: "0xfD4b32fBe611850Fd42d76B35ab82462c6989120", 
+      name: "THUSDT",
+      symbol: "THUSDT",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WTAC.png",
+    },
   ]
 };
