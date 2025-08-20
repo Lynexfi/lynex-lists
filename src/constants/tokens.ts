@@ -1638,12 +1638,12 @@ export const tokens = {
       logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
     },
   ],
-  2391: [
+  239: [
     {
-      chainURI: "https://spb.explorer.tac.build/block/0",
+      chainURI: "https://explorer.tac.build/block/0",
       tokenId:
-        "https://spb.explorer.tac.build/address/0xCf61405b7525F09f4E7501fc831fE7cbCc823d4c",
-      address: "0xCf61405b7525F09f4E7501fc831fE7cbCc823d4c", 
+        "https://explorer.tac.build/address/0xB63B9f0eb4A6E6f191529D71d4D88cc8900Df2C9",
+      address: "0xB63B9f0eb4A6E6f191529D71d4D88cc8900Df2C9", 
       name: "Wrapped TAC",
       symbol: "WTAC",
       decimals: 18,
@@ -1652,28 +1652,40 @@ export const tokens = {
       logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WTAC.png",
     },
     {
-      chainURI: "https://spb.explorer.tac.build/block/0",
+      chainURI: "https://explorer.tac.build/block/0",
       tokenId:
-        "https://spb.explorer.tac.build/address/0xCf61405b7525F09f4E7501fc831fE7cbCc823d4c",
-      address: "0xCf61405b7525F09f4E7501fc831fE7cbCc823d4c", 
-      name: "TON Token",
-      symbol: "TON",
+        "https://explorer.tac.build/address/0x61D66bC21fED820938021B06e9b2291f3FB91945",
+      address: "0x61D66bC21fED820938021B06e9b2291f3FB91945", 
+      name: "Wrapped ETH",
+      symbol: "WETH",
       decimals: 18,
       createdAt: "2025-05-19",
       updatedAt: "2025-05-19",
-      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WTAC.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WETH.png",
     },
     {
-      chainURI: "https://spb.explorer.tac.build/block/0",
+      chainURI: "https://explorer.tac.build/block/0",
       tokenId:
-        "https://spb.explorer.tac.build/address/0xfD4b32fBe611850Fd42d76B35ab82462c6989120",
-      address: "0xfD4b32fBe611850Fd42d76B35ab82462c6989120", 
-      name: "THUSDT",
-      symbol: "THUSDT",
-      decimals: 18,
+        "https://explorer.tac.build/address/0xb76d91340F5CE3577f0a056D29f6e3Eb4E88B140",
+      address: "0xb76d91340F5CE3577f0a056D29f6e3Eb4E88B140", 
+      name: "TON Token",
+      symbol: "TON",
+      decimals: 9,
       createdAt: "2025-05-19",
       updatedAt: "2025-05-19",
-      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WTAC.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/TON.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0xAF988C3f7CB2AceAbB15f96b19388a259b6C438f",
+      address: "0xAF988C3f7CB2AceAbB15f96b19388a259b6C438f", 
+      name: "Tether USDT",
+      symbol: "USDT",
+      decimals: 6,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png",
     },
   ]
 };
