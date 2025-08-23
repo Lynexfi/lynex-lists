@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 25
+    "patch": 26
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -82,6 +82,28 @@
       "createdAt": "2025-05-19",
       "updatedAt": "2025-05-19",
       "logoURI": "https://assets.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183"
+    },
+    {
+      "chainId": 130,
+      "tokenId": "https://uniscan.xyz/address/0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "name": "Frax USD",
+      "symbol": "frxUSD",
+      "decimals": 18,
+      "createdAt": "2025-08-23",
+      "updatedAt": "2025-08-23",
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/FRXUSD.png"
+    },
+    {
+      "chainId": 130,
+      "tokenId": "https://uniscan.xyz/address/0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "name": "Wrapped FRAX",
+      "symbol": "WFRAX",
+      "decimals": 18,
+      "createdAt": "2025-08-23",
+      "updatedAt": "2025-08-23",
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WFRAX.png"
     },
     {
       "chainId": 130,
