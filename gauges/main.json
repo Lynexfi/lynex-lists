@@ -46,15 +46,6 @@
       "bribe": "0x4881730a241055c2f1e118185ebf7854535028ef"
     },
     {
-      "address": "0x38379b1b12064d6dcc096f481875ecfc689d66fa",
-      "symbol": "frxUSD/WFRAX (Narrow)",
-      "gauge": "0xca5a4fdd42cffe00f60a44771836bbd78c1c94cf",
-      "token0": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
-      "token1": "0x80eede496655fb9047dd39d9f418d5483ed600df",
-      "isStrategy": true,
-      "bribe": "0xeae12dcb4f98346ea8421b35f3f49bcdb12889e4"
-    },
-    {
       "address": "0x3f039519c5a74a3af1487d8112ffa953a88aee4f",
       "symbol": "USDC/USD₮0 (Narrow)",
       "gauge": "0x161b1d9cbf54a9af9c000b1aaa904a217380d1ad",
@@ -98,15 +89,6 @@
       "token1": "0x8f187aa05619a017077f5308904739877ce9ea21",
       "isStrategy": true,
       "bribe": "0xbfc8adc767ba552fd12ed2b5449905feacab9215"
-    },
-    {
-      "address": "0xf04d6788b3e37638702202b3ef0851a38e927551",
-      "symbol": "frxUSD/USDC (Narrow)",
-      "gauge": "0xd26142dde7859151577171183254a12f233dd737",
-      "token0": "0x078d782b760474a361dda0af3839290b0ef57ad6",
-      "token1": "0x80eede496655fb9047dd39d9f418d5483ed600df",
-      "isStrategy": true,
-      "bribe": "0x60dc77e3c642e59b099eaa72e7d87148e50fbf20"
     },
     {
       "address": "0xf802d5c44dc4e3bb0eccf680a6ba82cbd24b9f33",
