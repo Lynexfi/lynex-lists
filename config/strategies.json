@@ -225,6 +225,46 @@
         "address": "0xE9185Ee218cae427aF7B9764A011bb89FeA761B4"
       },
       "v4PoolId": "0x3468e2f861c4c5fafa0cb1a00cb5c1006639f3532d901ee8368d4cc61cf75f38"
+    },
+    {
+      "symbol": "frxUSD/WFRAX",
+      "lpSymbol": "frxUSD/WFRAX",
+      "title": "Gamma Narrow",
+      "type": "Narrow",
+      "variant": "uniV4",
+      "strategist": "Gamma",
+      "manager": "Gamma",
+      "startBlock": 25319124,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x38379b1b12064D6dcc096F481875ecFC689D66fa",
+      "token0": {
+        "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+      },
+      "token1": {
+        "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df"
+      },
+      "v4PoolId": "0xe7ff1460af459d42d2b8b8fcf631038ffc3d6d72344efca607c5cfe7dafeb75d"
+    },
+    {
+      "symbol": "frxUSD/USDC",
+      "lpSymbol": "frxUSD/USDC",
+      "title": "Gamma Narrow",
+      "type": "Narrow",
+      "variant": "uniV4",
+      "strategist": "Gamma",
+      "manager": "Gamma",
+      "startBlock": 25319166,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0xF04d6788B3e37638702202b3EF0851A38E927551",
+      "token0": {
+        "address": "0x078D782b760474a361dDA0AF3839290b0EF57AD6"
+      },
+      "token1": {
+        "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df"
+      },
+      "v4PoolId": "0x56805e9aa6db6842d13defda4c1c4cadaaf040a0aa153df12f826dda89b7ff53"
     }
   ],
   "137": [
