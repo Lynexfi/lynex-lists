@@ -1,0 +1,233 @@
+[
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0xB63B9f0eb4A6E6f191529D71d4D88cc8900Df2C9",
+    "address": "0xB63B9f0eb4A6E6f191529D71d4D88cc8900Df2C9",
+    "name": "Wrapped TAC",
+    "symbol": "WTAC",
+    "decimals": 18,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WTAC.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0x61D66bC21fED820938021B06e9b2291f3FB91945",
+    "address": "0x61D66bC21fED820938021B06e9b2291f3FB91945",
+    "name": "Wrapped ETH",
+    "symbol": "WETH",
+    "decimals": 18,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WETH.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0xb76d91340F5CE3577f0a056D29f6e3Eb4E88B140",
+    "address": "0xb76d91340F5CE3577f0a056D29f6e3Eb4E88B140",
+    "name": "TON Token",
+    "symbol": "TON",
+    "decimals": 9,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/TON.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0xAF988C3f7CB2AceAbB15f96b19388a259b6C438f",
+    "address": "0xAF988C3f7CB2AceAbB15f96b19388a259b6C438f",
+    "name": "Tether USDT",
+    "symbol": "USDT",
+    "decimals": 6,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
+    "address": "0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
+    "name": "Solv BTC",
+    "symbol": "SolvBTC",
+    "decimals": 18,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/solvBTC.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0xc99F5c922DAE05B6e2ff83463ce705eF7C91F077",
+    "address": "0xc99F5c922DAE05B6e2ff83463ce705eF7C91F077",
+    "name": "xSolvBTC",
+    "symbol": "xSolvBTC",
+    "decimals": 18,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/xSolvBTC.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0xF9775085d726E782E83585033B58606f7731AB18",
+    "address": "0xF9775085d726E782E83585033B58606f7731AB18",
+    "name": "uniBTC",
+    "symbol": "uniBTC",
+    "decimals": 8,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/uniBTC.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0x4CBE838E2BD3B46247f80519B6aC79363298aa09",
+    "address": "0x4CBE838E2BD3B46247f80519B6aC79363298aa09",
+    "name": "SatLayer uniBTC",
+    "symbol": "satUniBTC",
+    "decimals": 8,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/default.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0xe82dbD543FD729418613d68Cd1E8FC67b0f46E31",
+    "address": "0xe82dbD543FD729418613d68Cd1E8FC67b0f46E31",
+    "name": "Merlin's Seal BTC",
+    "symbol": "M-BTC",
+    "decimals": 18,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/MBTC.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0xAf368c91793CB22739386DFCbBb2F1A9e4bCBeBf",
+    "address": "0xAf368c91793CB22739386DFCbBb2F1A9e4bCBeBf",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/wstETH.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+    "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+    "name": "Lombard Staked Bitcoin",
+    "symbol": "LBTC",
+    "decimals": 8,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LBTC.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0x7048c9e4aBD0cf0219E95a17A8C6908dfC4f0Ee4",
+    "address": "0x7048c9e4aBD0cf0219E95a17A8C6908dfC4f0Ee4",
+    "name": "Coinbase Wrapped BTC",
+    "symbol": "cbBTC",
+    "decimals": 8,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/cbBTC.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0x37D6382B6889cCeF8d6871A8b60E667115eDDBcF",
+    "address": "0x37D6382B6889cCeF8d6871A8b60E667115eDDBcF",
+    "name": "pufETH",
+    "symbol": "pufETH",
+    "decimals": 18,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/pufETH.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0xb1b385542B6E80F77B94393Ba8342c3Af699f15c",
+    "address": "0xb1b385542B6E80F77B94393Ba8342c3Af699f15c",
+    "name": "Resolv USD",
+    "symbol": "USR",
+    "decimals": 18,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USR.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0x51A30E647D33A044967FA3DBb04d6ED6F45455F6",
+    "address": "0x51A30E647D33A044967FA3DBb04d6ED6F45455F6",
+    "name": "USN",
+    "symbol": "USN",
+    "decimals": 18,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USN.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0x5Ced7F73B76A555CCB372cc0F0137bEc5665F81E",
+    "address": "0x5Ced7F73B76A555CCB372cc0F0137bEc5665F81E",
+    "name": "Staked USN",
+    "symbol": "sUSN",
+    "decimals": 18,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/sUSN.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0x9bB6983Ca454320BD8691409690B4FCCD489EE96",
+    "address": "0x9bB6983Ca454320BD8691409690B4FCCD489EE96",
+    "name": "Usual USD",
+    "symbol": "USD0",
+    "decimals": 18,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USD0.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0xD44F691aeD69fe43180B95b6F82f89c18Fb93094",
+    "address": "0xD44F691aeD69fe43180B95b6F82f89c18Fb93094",
+    "name": "Tonstakers TON",
+    "symbol": "tsTON",
+    "decimals": 9,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/tsTON.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0x1791BAff6a5e2F2A1340e8B7C1EA2B0c1E2DD1ea",
+    "address": "0x1791BAff6a5e2F2A1340e8B7C1EA2B0c1E2DD1ea",
+    "name": "USD0 Liquid Bond",
+    "symbol": "USD0++",
+    "decimals": 18,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USD0++.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0x6bedE1c6009a78c222D9BDb7974bb67847fdB68c",
+    "address": "0x6bedE1c6009a78c222D9BDb7974bb67847fdB68c",
+    "name": "US Bitcoin Dollar",
+    "symbol": "USBD",
+    "decimals": 18,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/default.png"
+  },
+  {
+    "chainURI": "https://explorer.tac.build/block/0",
+    "tokenId": "https://explorer.tac.build/address/0x27e4Ade13d78Aad45bea31D448f5504031e4871E",
+    "address": "0x27e4Ade13d78Aad45bea31D448f5504031e4871E",
+    "name": "dogwifhat",
+    "symbol": "WIF",
+    "decimals": 18,
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-05-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WIF.png"
+  }
+]
