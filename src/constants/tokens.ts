@@ -1014,6 +1014,17 @@ export const tokens = {
       updatedAt: "2025-05-20",
       logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/BOL.png",
     },
+    {
+      name: "Linea",
+      symbol: "LINEA",
+      tokenId:
+        "https://lineascan.build/address/0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+      address: "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+      decimals: 18,
+      createdAt: "2025-09-09",
+      updatedAt: "2025-09-09",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LINEA-real.png",
+    },
   ],
 
   48900: [
