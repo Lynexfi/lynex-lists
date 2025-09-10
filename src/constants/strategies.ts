@@ -365,6 +365,25 @@ export const strategies: Strategies = {
         address: "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
       },
     },
+    // {
+    //   symbol: "USDC/LINEA",
+    //   lpSymbol: "USDC/LINEA",
+    //   title: "Gamma (Narrow)",
+    //   type: "Narrow",
+    //   variant: "algebraV3",
+    //   strategist: "Gamma",
+    //   manager: "Gamma",
+    //   startBlock: 23157197,
+    //   allowed0: true,
+    //   allowed1: true,
+    //   address: "0xd42096CCc15cAF9ee10003648871C29F196197c3",
+    //   token0: {
+    //     address: "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    //   },
+    //   token1: {
+    //     address: "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+    //   },
+    // },
     // ICHI Strategies
     {
       symbol: "USDC/WETH",
