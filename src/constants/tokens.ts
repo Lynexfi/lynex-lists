@@ -974,7 +974,7 @@ export const tokens = {
     },
     {
       name: "Lost In Never Ending Airdrop",
-      symbol: "LINEA",
+      symbol: "L.I.N.E.A",
       tokenId:
         "https://lineascan.build/address/0xb3B3CA7cb0BCCb6A9316764826324A312665DC53",
       address: "0xb3B3CA7cb0BCCb6A9316764826324A312665DC53",
