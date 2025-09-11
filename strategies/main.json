@@ -2163,6 +2163,63 @@
       }
     },
     {
+      "symbol": "USDC/LINEA",
+      "lpSymbol": "USDC/LINEA",
+      "title": "Steer (Classic Rebalance)",
+      "type": "Classic Rebalance",
+      "variant": "algebraV3",
+      "strategist": "Steer",
+      "manager": "Steer",
+      "startBlock": 23165305,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x2f014178CEe56b2338e2DBd188Bf49ac34411FF9",
+      "token0": {
+        "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff"
+      },
+      "token1": {
+        "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04"
+      }
+    },
+    {
+      "symbol": "LINEA/USDT",
+      "lpSymbol": "LINEA/USDT",
+      "title": "Steer (Classic Rebalance)",
+      "type": "Classic Rebalance",
+      "variant": "algebraV3",
+      "strategist": "Steer",
+      "manager": "Steer",
+      "startBlock": 23169476,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0xcF3BB5741fa421CbD961F4BD4E921b1D7BCF1Cb1",
+      "token0": {
+        "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04"
+      },
+      "token1": {
+        "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93"
+      }
+    },
+    {
+      "symbol": "LINEA/WETH",
+      "lpSymbol": "LINEA/WETH",
+      "title": "Steer (Classic Rebalance)",
+      "type": "Classic Rebalance",
+      "variant": "algebraV3",
+      "strategist": "Steer",
+      "manager": "Steer",
+      "startBlock": 23168667,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0xd61056a32A3f9A37235C13A679D0c833575BE899",
+      "token0": {
+        "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04"
+      },
+      "token1": {
+        "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+      }
+    },
+    {
       "symbol": "USDC/DAI",
       "lpSymbol": "USDC/DAI",
       "title": "DefiEdge (Stable)",
