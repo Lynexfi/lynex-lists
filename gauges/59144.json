@@ -1,14 +1,5 @@
 [
   {
-    "address": "0x06f54e9508a4892b161d375dff2dd3049b1c5d9b",
-    "symbol": "LINEA/WETH (Single Deposit)",
-    "gauge": "0x935210f4f5eba8e552f9f87f97f9b4d3b27105b7",
-    "token0": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04",
-    "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
-    "isStrategy": true,
-    "bribe": "0xc20b53ecb86598d8184fcd6d45bb60a145495886"
-  },
-  {
     "address": "0x075ce660a13c7f83e5452652a3f3d936d2601c79",
     "symbol": "sAMM-WETH/DTC",
     "gauge": "0x825580e609892c1457292ca16f76f23f2c99efb6",
@@ -126,15 +117,6 @@
     "bribe": "0xab941e30d124356c1a1ff1cd4ea08038df8e2a55"
   },
   {
-    "address": "0x1e7f5bc66a38f2ad04b007cf2bb1e47d7dc06ed9",
-    "symbol": "WETH/LINEA (Single Deposit)",
-    "gauge": "0x46407efd28f49622f8424f868e819d37fe767e83",
-    "token0": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04",
-    "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
-    "isStrategy": true,
-    "bribe": "0x73fffaa7f18120e20df3939e9539338dc84fe454"
-  },
-  {
     "address": "0x20f9106f711d41081dbbf79fee8de92cb7547e77",
     "symbol": "vAMM-ankrETH/wstETH",
     "gauge": "0xd9692901c26b452cd4cdbacfd2e8830a9b969130",
@@ -216,15 +198,6 @@
     "bribe": "0x19ecbe9d63e0e75e7a24e7c847ee54fb39aff804"
   },
   {
-    "address": "0x2f014178cee56b2338e2dbd188bf49ac34411ff9",
-    "symbol": "USDC/LINEA (Classic Rebalance)",
-    "gauge": "0x6d60f406e5de83b209aa3c836851b24c40a93700",
-    "token0": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
-    "token1": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04",
-    "isStrategy": true,
-    "bribe": "0xadabd26760e32649206e871bebeeca1b7e17f60c"
-  },
-  {
     "address": "0x2f65d4c1d277c32c37f4eec39ed440dcbbfdf134",
     "symbol": "sAMM-USDC/weETH",
     "gauge": "0xe4972606366edd243251f61e7bc5cafa1dd5f37e",
@@ -277,15 +250,6 @@
     "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
     "isStrategy": true,
     "bribe": "0x24a835d8ef124340246d97601b7632d211660ad5"
-  },
-  {
-    "address": "0x3b37106773c988c123929de46623dec2754f8e03",
-    "symbol": "USDT/LINEA (Single Deposit)",
-    "gauge": "0xfae7e62a951de43e98e2698085088ed81ad3b33f",
-    "token0": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04",
-    "token1": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
-    "isStrategy": true,
-    "bribe": "0xeadd6b1dc7af09f437cef8bb1dae8ff011cb38c3"
   },
   {
     "address": "0x3e78c1f766d7fe2c3dcef6afe6609966540b6391",
@@ -576,15 +540,6 @@
     "bribe": "0xb65338b05a8ab4c43e13a9bb02889861ba29e586"
   },
   {
-    "address": "0x7f0a4d4b68dd85cb89c80c567ebe64fd221f7b8d",
-    "symbol": "USDC/LINEA (Single Deposit)",
-    "gauge": "0xb81bae905eb01d28f90d93173fd1c73d9c1bf04d",
-    "token0": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
-    "token1": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04",
-    "isStrategy": true,
-    "bribe": "0xbf1487ff32296232a092fc82b9fd31a6334d7ea0"
-  },
-  {
     "address": "0x7fee4f637bc38e73ebf4caed22a1941236b79bf4",
     "symbol": "vAMM-FAITH/WETH",
     "gauge": "0x33017a470f6cd3bce89c0888061e7b4d96c19f60",
@@ -783,15 +738,6 @@
     "bribe": "0x5be821bb63b6130ed40a77d86bf59f94a860d92d"
   },
   {
-    "address": "0xa3577db3a6e386f881da54369b67c98592efd58c",
-    "symbol": "LINEA/USDT (Single Deposit)",
-    "gauge": "0x22246b4e4de02c9b56ddcdba13b814a7d5d9dd3b",
-    "token0": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04",
-    "token1": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
-    "isStrategy": true,
-    "bribe": "0x355d3616a896a63f103f9bf47450c8290cfc8709"
-  },
-  {
     "address": "0xa3d9745dcd138bd2ba4b039fa61c042756bfe1e8",
     "symbol": "wBTC/USDC (Narrow)",
     "gauge": "0x51d1079f100ecfd2f421758eacc99be3f9b06710",
@@ -853,15 +799,6 @@
     "token1": "0x303c4f39ea359155c698807168e9dc3aa1df2b95",
     "isStrategy": false,
     "bribe": "0xe1688b6e6e72e814e8420581fbc635ddffd16505"
-  },
-  {
-    "address": "0xacd4ba9c978e8cab8aec7a9638456ec69088f181",
-    "symbol": "LINEA/USDC (Single Deposit)",
-    "gauge": "0x478093a38dafdf027a1aa0557f67e9ff9f0cc6ce",
-    "token0": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
-    "token1": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04",
-    "isStrategy": true,
-    "bribe": "0xf8ec0b0ce74b300d5e547edf857811853e92cae3"
   },
   {
     "address": "0xad2406af7fb59f9949af7d355aa19941178809a8",
@@ -1089,15 +1026,6 @@
     "bribe": "0xcd51f9572dba19cf5ea22cba1ed1049ada48e276"
   },
   {
-    "address": "0xcf3bb5741fa421cbd961f4bd4e921b1d7bcf1cb1",
-    "symbol": "LINEA/USDT (Classic Rebalance)",
-    "gauge": "0x1ef3efc37eda059f00939f6732b56d1911f1597b",
-    "token0": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04",
-    "token1": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
-    "isStrategy": true,
-    "bribe": "0x07300fbcf4b9896336a6194646ac71698b1fd9f6"
-  },
-  {
     "address": "0xcffbfd665bedb19b47837461a5abf4388c560d35",
     "symbol": "STONE/ETH (Correlated)",
     "gauge": "0x86d2d7709d390bd2946a335147965e54947c82d7",
@@ -1141,15 +1069,6 @@
     "token1": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04",
     "isStrategy": true,
     "bribe": "0x6c57ea8c29c576b4f6381509a0d1de61d44a4d85"
-  },
-  {
-    "address": "0xd61056a32a3f9a37235c13a679d0c833575be899",
-    "symbol": "LINEA/WETH (Classic Rebalance)",
-    "gauge": "0x42d1dd7af5cadb1bd12040d19b131f113ea8e641",
-    "token0": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04",
-    "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
-    "isStrategy": true,
-    "bribe": "0xda6d2ce9a598cc3a0a62193edec33ffab3a38b99"
   },
   {
     "address": "0xd650e5511f8b131ffa719d6507105bde54edd7e5",
