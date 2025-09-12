@@ -689,6 +689,15 @@
       "bribe": "0x19ecbe9d63e0e75e7a24e7c847ee54fb39aff804"
     },
     {
+      "address": "0x2f014178cee56b2338e2dbd188bf49ac34411ff9",
+      "symbol": "USDC/LINEA (Classic Rebalance)",
+      "gauge": "0x6d60f406e5de83b209aa3c836851b24c40a93700",
+      "token0": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+      "token1": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04",
+      "isStrategy": true,
+      "bribe": "0xadabd26760e32649206e871bebeeca1b7e17f60c"
+    },
+    {
       "address": "0x2f65d4c1d277c32c37f4eec39ed440dcbbfdf134",
       "symbol": "sAMM-USDC/weETH",
       "gauge": "0xe4972606366edd243251f61e7bc5cafa1dd5f37e",
@@ -1553,6 +1562,15 @@
       "bribe": "0xcd51f9572dba19cf5ea22cba1ed1049ada48e276"
     },
     {
+      "address": "0xcf3bb5741fa421cbd961f4bd4e921b1d7bcf1cb1",
+      "symbol": "LINEA/USDT (Classic Rebalance)",
+      "gauge": "0x1ef3efc37eda059f00939f6732b56d1911f1597b",
+      "token0": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04",
+      "token1": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
+      "isStrategy": true,
+      "bribe": "0x07300fbcf4b9896336a6194646ac71698b1fd9f6"
+    },
+    {
       "address": "0xcffbfd665bedb19b47837461a5abf4388c560d35",
       "symbol": "STONE/ETH (Correlated)",
       "gauge": "0x86d2d7709d390bd2946a335147965e54947c82d7",
@@ -1596,6 +1614,15 @@
       "token1": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04",
       "isStrategy": true,
       "bribe": "0x6c57ea8c29c576b4f6381509a0d1de61d44a4d85"
+    },
+    {
+      "address": "0xd61056a32a3f9a37235c13a679d0c833575be899",
+      "symbol": "LINEA/WETH (Classic Rebalance)",
+      "gauge": "0x42d1dd7af5cadb1bd12040d19b131f113ea8e641",
+      "token0": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04",
+      "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+      "isStrategy": true,
+      "bribe": "0xda6d2ce9a598cc3a0a62193edec33ffab3a38b99"
     },
     {
       "address": "0xd650e5511f8b131ffa719d6507105bde54edd7e5",
