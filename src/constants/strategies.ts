@@ -383,6 +383,7 @@ export const strategies: Strategies = {
       token1: {
         address: "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
       },
+      promoted: true,
     },
     {
       symbol: "LINEA/WETH",
@@ -550,7 +551,6 @@ export const strategies: Strategies = {
         address: "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
       },
       percentage: 70,
-      promoted: true,
     },
     {
       symbol: "USDT/LYNX",
@@ -594,7 +594,6 @@ export const strategies: Strategies = {
         address: "0x93f4d0ab6a8b4271f4a28db399b5e30612d21116",
       },
       percentage: 70,
-      promoted: true,
     },
     {
       symbol: "FOXY/WETH",
@@ -826,6 +825,7 @@ export const strategies: Strategies = {
         address: "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
       },
       percentage: 70,
+      promoted: true,
     },
     {
       symbol: "LINEA/WETH",
@@ -847,6 +847,7 @@ export const strategies: Strategies = {
         address: "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
       },
       percentage: 70,
+      promoted: true,
     },
     {
       symbol: "USDT/LINEA",
