@@ -264,6 +264,15 @@
       "bribe": "0xe97b3a393ca91a365c7a8784cac4e6dc6ce82f21"
     },
     {
+      "address": "0x7799cfa0dddbf0457c5272716c88be871f086b42",
+      "symbol": "sAMM-WETH/USDT",
+      "gauge": "0x9dde96924c9f5530042723ce1c3b78a7abf8cb3c",
+      "token0": "0x4200000000000000000000000000000000000006",
+      "token1": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
+      "isStrategy": false,
+      "bribe": "0xf7eaef3ed58ce16d4a9b1b1ee2224fc066836c39"
+    },
+    {
       "address": "0x8118c33513fec13f8cf488ccb4509190650f0e92",
       "symbol": "USDC/USDT (Stable)",
       "gauge": "0xabb1f2fafe3829b31552bf81c74aa61ca521f3b5",
@@ -1659,6 +1668,15 @@
       "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
       "isStrategy": true,
       "bribe": "0x1a1099b7877b6715f03b973f3f165e7fb3ddb96b"
+    },
+    {
+      "address": "0xf734ee010c5f45e65ee7eb8d629a7fb9b24732d6",
+      "symbol": "vAMM-LINEA/WETH",
+      "gauge": "0x43fd2328b2743e07fda4039012c100519e428b3d",
+      "token0": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04",
+      "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+      "isStrategy": false,
+      "bribe": "0xdfc58379401860ea2a3c3256308f628f0ac5e3d4"
     },
     {
       "address": "0xf93f79c2557ebc38c6eb9d020b8ef50b8eb97b48",

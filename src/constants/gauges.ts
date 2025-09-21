@@ -1,4 +1,4 @@
-import { linea, zircuit, unichain } from "viem/chains";
+import { linea, zircuit, unichain, tac } from "viem/chains";
 
 export const gaugeConfigs = {
   48900: {
@@ -18,6 +18,11 @@ export const gaugeConfigs = {
   130: {
     viemChain: unichain,
     pairAPIAddress: "0x9D61c9FA1264300B166d0122a0006377465Bc5cF",
+    blacklist: ["0x0000000000000000000000000000000000000000"],
+  },
+  239: {
+    viemChain: tac,
+    pairAPIAddress: "0x0000000000000000000000000000000000000000",
     blacklist: ["0x0000000000000000000000000000000000000000"],
   },
 };
