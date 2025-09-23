@@ -144,6 +144,15 @@
     "bribe": "0xe97b3a393ca91a365c7a8784cac4e6dc6ce82f21"
   },
   {
+    "address": "0x7799cfa0dddbf0457c5272716c88be871f086b42",
+    "symbol": "sAMM-WETH/USDT",
+    "gauge": "0x9dde96924c9f5530042723ce1c3b78a7abf8cb3c",
+    "token0": "0x4200000000000000000000000000000000000006",
+    "token1": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
+    "isStrategy": false,
+    "bribe": "0xf7eaef3ed58ce16d4a9b1b1ee2224fc066836c39"
+  },
+  {
     "address": "0x8118c33513fec13f8cf488ccb4509190650f0e92",
     "symbol": "USDC/USDT (Stable)",
     "gauge": "0xabb1f2fafe3829b31552bf81c74aa61ca521f3b5",
