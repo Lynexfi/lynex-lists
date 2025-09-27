@@ -1671,6 +1671,173 @@ export const tokens = {
       logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
     },
   ],
+  9745: [
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId: "https://plasmascan.to/address/0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+      address: "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+      name: "USDT0",
+      symbol: "USDT0",
+      decimals: 6,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT0.svg"
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId: "https://plasmascan.to/address/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      address: "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      name: "USDe",
+      symbol: "USDe",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDe.png"
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId: "https://plasmascan.to/address/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      address: "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      name: "Staked USDe",
+      symbol: "sUSDe",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/sUSDe.png"
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId: "https://plasmascan.to/address/0x9895D81bB462A195b4922ED7De0e3ACD007c32CB",
+      address: "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB",
+      name: "WETH",
+      symbol: "WETH",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WETH.png"
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId: "https://plasmascan.to/address/0xA3D68b74bF0528fdD07263c60d6488749044914b",
+      address: "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+      name: "Wrapped eETH",
+      symbol: "weETH",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/weETH.png"
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId: "https://plasmascan.to/address/0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF",
+      address: "0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF",
+      name: "USDai",
+      symbol: "USDai",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDai.png"
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId: "https://plasmascan.to/address/0x6100E367285b01F48D07953803A2d8dCA5D19873",
+      address: "0x6100E367285b01F48D07953803A2d8dCA5D19873",
+      name: "Wrapped XPL",
+      symbol: "WXPL",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WXPL.svg"
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId: "https://plasmascan.to/address/0x1B64B9025EEbb9A6239575dF9Ea4b9Ac46D4d193",
+      address: "0x1B64B9025EEbb9A6239575dF9Ea4b9Ac46D4d193",
+      name: "XAUt0",
+      symbol: "XAUt0",
+      decimals: 6,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/XAUt0.png"
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId: "https://plasmascan.to/address/0x0B2b2B2076d95dda7817e785989fE353fe955ef9",
+      address: "0x0B2b2B2076d95dda7817e785989fE353fe955ef9",
+      name: "Staked USDai",
+      symbol: "sUSDai",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/sUSDai.png"
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId: "https://plasmascan.to/address/0xd1074E0AE85610dDBA0147e29eBe0D8E5873a000",
+      address: "0xd1074E0AE85610dDBA0147e29eBe0D8E5873a000",
+      name: "Plasma USD Vault",
+      symbol: "PlasmaUSD",
+      decimals: 6,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/PlasmaUSD.png"
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId: "https://plasmascan.to/address/0x5E494e8912319cefb1d4Fa516807bB65A8CB9E40",
+      address: "0x5E494e8912319cefb1d4Fa516807bB65A8CB9E40",
+      name: "Fluid WETH",
+      symbol: "fWETH",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/fWETH.png"
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId: "https://plasmascan.to/address/0xC4374775489CB9C56003BF2C9b12495fC64F0771",
+      address: "0xC4374775489CB9C56003BF2C9b12495fC64F0771",
+      name: "Syrup USDT",
+      symbol: "syrupUSDT",
+      decimals: 6,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/syrupUSDT.png"
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId: "https://plasmascan.to/address/0x4Ec8f8b0F144ce1fa280B84F01Df9e353e83EC80",
+      address: "0x4Ec8f8b0F144ce1fa280B84F01Df9e353e83EC80",
+      name: "AUTOfinance plasmaUSD",
+      symbol: "plasmaUSD",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/plasmaUSD.png"
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId: "https://plasmascan.to/address/0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+      address: "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+      name: "ENA",
+      symbol: "ENA",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ENA.png"
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId: "https://plasmascan.to/address/0x17Bac5F906c9A0282aC06a59958D85796c831f24",
+      address: "0x17Bac5F906c9A0282aC06a59958D85796c831f24",
+      name: "Pendle",
+      symbol: "PENDLE",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/PENDLE.png"
+    }
+  ],
   239: [
     {
       chainURI: "https://explorer.tac.build/block/0",
