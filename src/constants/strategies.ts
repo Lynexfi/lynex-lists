@@ -2257,6 +2257,26 @@ export const strategies: Strategies = {
     },
   ],
   239: [
-    
+    {
+      symbol: "USDT/WTAC",
+      lpSymbol: "USDT/WTAC",
+      title: "Single Deposit (WTAC)",
+      type: "Single Deposit",
+      variant: "algebraV3",
+      strategist: "Ichi",
+      manager: "Ichi",
+      startBlock: 4601210,
+      address: "0x00b34e51ac2a78761982485a618b235a211f5d86",
+      depositToken: "0xB63B9f0eb4A6E6f191529D71d4D88cc8900Df2C9",
+      allowed0: false,
+      allowed1: true,
+      token0: {
+        address: "0xAF988C3f7CB2AceAbB15f96b19388a259b6C438f",
+      },
+      token1: {
+        address: "0xB63B9f0eb4A6E6f191529D71d4D88cc8900Df2C9",
+      },
+      percentage: 70,
+    },
   ],
 };
