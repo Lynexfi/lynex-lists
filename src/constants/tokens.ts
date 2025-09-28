@@ -1780,7 +1780,7 @@ export const tokens = {
       decimals: 6,
       createdAt: "2025-01-27",
       updatedAt: "2025-01-27",
-      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/PlasmaUSD.png"
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png"
     },
     {
       chainURI: "https://plasmascan.to/block/0",
@@ -1813,7 +1813,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2025-01-27",
       updatedAt: "2025-01-27",
-      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/plasmaUSD.png"
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png"
     },
     {
       chainURI: "https://plasmascan.to/block/0",
