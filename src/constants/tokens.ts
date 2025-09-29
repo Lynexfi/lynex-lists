@@ -1852,7 +1852,6 @@ export const tokens = {
       updatedAt: "2025-01-27",
       logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/PENDLE.png",
     },
-    ,
     {
       chainURI: "https://plasmascan.to/block/0",
       tokenId:
