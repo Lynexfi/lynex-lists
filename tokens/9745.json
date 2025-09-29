@@ -8,7 +8,7 @@
     "decimals": 6,
     "createdAt": "2025-01-27",
     "updatedAt": "2025-01-27",
-    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT0.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT0.svg"
   },
   {
     "chainURI": "https://plasmascan.to/block/0",
@@ -163,5 +163,39 @@
     "createdAt": "2025-01-27",
     "updatedAt": "2025-01-27",
     "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/PENDLE.png"
+  },
+  null,
+  {
+    "chainURI": "https://plasmascan.to/block/0",
+    "tokenId": "https://plasmascan.to/address/0x133a09Dd6169f6F0509658a911F2a82Fc8ab6A0D",
+    "address": "0x133a09Dd6169f6F0509658a911F2a82Fc8ab6A0D",
+    "name": "Ionex TOKEN",
+    "symbol": "INX",
+    "decimals": 18,
+    "createdAt": "2025-01-27",
+    "updatedAt": "2025-01-27",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/INX.png"
+  },
+  {
+    "chainURI": "https://plasmascan.to/block/0",
+    "tokenId": "https://plasmascan.to/address/0xF94451F19294dA68a40E4DD52cfaC7c8bD66B93c",
+    "address": "0xF94451F19294dA68a40E4DD52cfaC7c8bD66B93c",
+    "name": "Ionex Option TOKEN",
+    "symbol": "oINX",
+    "decimals": 18,
+    "createdAt": "2025-01-27",
+    "updatedAt": "2025-01-27",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/oINX.png"
+  },
+  {
+    "chainURI": "https://plasmascan.to/block/0",
+    "tokenId": "https://plasmascan.to/address/0xA5Df3bA1e6ceacD92700AF088c565D4f85591342",
+    "address": "0xA5Df3bA1e6ceacD92700AF088c565D4f85591342",
+    "name": "Ionex Bribe Vote Escrow",
+    "symbol": "bveINX",
+    "decimals": 18,
+    "createdAt": "2025-01-27",
+    "updatedAt": "2025-01-27",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/bveINX.png"
   }
 ]
