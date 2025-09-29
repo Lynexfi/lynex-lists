@@ -9,6 +9,15 @@
     "bribe": "0xc6cc04c67ae6c8d8d2ce06898453b68c4a1886ae"
   },
   {
+    "address": "0x2b1a10e81351c5360a0cdfe6f11a55a636bcce76",
+    "symbol": "vAMM-INX/WXPL",
+    "gauge": "0xd16ea43347063a780fe8ada4e9bdb4166b670d80",
+    "token0": "0x133a09dd6169f6f0509658a911f2a82fc8ab6a0d",
+    "token1": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+    "isStrategy": false,
+    "bribe": "0x25a528bdd919b17111014b9b6f5f16790da3f593"
+  },
+  {
     "address": "0x697f96f54c862ca8f5a1cb95b9c1cf5d1b04091b",
     "symbol": "vAMM-USDe/WXPL",
     "gauge": "0x00ffe770a7112f0a2acddaf929aab7f31fae4373",
