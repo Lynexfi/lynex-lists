@@ -13,6 +13,7 @@
     "build-tokens": "yarn build-images && ts-node src/buildTokens.ts",
     "build-points": "ts-node src/buildPoints.ts",
     "build-images": "ts-node src/buildImages.ts",
+    "build-vestrategies": "ts-node src/buildVeStrategies.ts",
     "build": "yarn build-strategies && yarn build-gauges && yarn build-tokens && yarn build-points"
   },
   "devDependencies": {
