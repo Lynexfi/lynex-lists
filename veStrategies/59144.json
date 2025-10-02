@@ -5,5 +5,12 @@
     "rewardToken": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
     "enabled": true,
     "maxPools": 5
+  },
+  "only_the_og_satoshi_pumpfather_btc_strategy": {
+    "managerAddress": "0xe45f392f3fedcaeb38b7750db02063372d851765",
+    "vaultAddress": "0xD963E7138BD4728F3B6d440A4ABa4ab7F79EC164",
+    "rewardToken": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "enabled": true,
+    "maxPools": 5
   }
 }
