@@ -1819,18 +1819,6 @@ export const tokens = {
     {
       chainURI: "https://plasmascan.to/block/0",
       tokenId:
-        "https://plasmascan.to/address/0x4Ec8f8b0F144ce1fa280B84F01Df9e353e83EC80",
-      address: "0x4Ec8f8b0F144ce1fa280B84F01Df9e353e83EC80",
-      name: "AUTOfinance plasmaUSD",
-      symbol: "plasmaUSD",
-      decimals: 18,
-      createdAt: "2025-01-27",
-      updatedAt: "2025-01-27",
-      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png",
-    },
-    {
-      chainURI: "https://plasmascan.to/block/0",
-      tokenId:
         "https://plasmascan.to/address/0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
       address: "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
       name: "ENA",
