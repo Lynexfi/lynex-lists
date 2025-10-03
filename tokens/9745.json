@@ -185,5 +185,27 @@
     "createdAt": "2025-01-27",
     "updatedAt": "2025-01-27",
     "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/bveINX.png"
+  },
+  {
+    "chainURI": "https://plasmascan.to/block/0",
+    "tokenId": "https://plasmascan.to/address/0xe561fe05c39075312aa9bc6af79ddae981461359",
+    "address": "0xe561fe05c39075312aa9bc6af79ddae981461359",
+    "name": "rsETHWrapper",
+    "symbol": "wrsETH",
+    "decimals": 18,
+    "createdAt": "2025-10-03",
+    "updatedAt": "2025-10-03",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/wrsETH.png"
+  },
+  {
+    "chainURI": "https://plasmascan.to/block/0",
+    "tokenId": "https://plasmascan.to/address/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c",
+    "address": "0x6eaf19b2fc24552925db245f9ff613157a7dbb4c",
+    "name": "Stream: Susd Vault",
+    "symbol": "xUSD",
+    "decimals": 18,
+    "createdAt": "2025-10-03",
+    "updatedAt": "2025-10-03",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/xUSD.png"
   }
 ]
