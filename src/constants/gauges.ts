@@ -1,4 +1,32 @@
+import { defineChain } from "viem";
 import { linea, zircuit, unichain } from "viem/chains";
+
+export const plasma = defineChain({
+  id: 9745,
+  name: 'Plasma',
+  nativeCurrency: {
+    name: 'Plasma',
+    symbol: 'XPL',
+    decimals: 18,
+  },
+  rpcUrls: {
+    default: {
+      http: ['https://rpc.plasma.to'],
+    },
+  },
+  blockExplorers: {
+    default: {
+      name: 'PlasmaScan',
+      url: 'https://plasmascan.to',
+    },
+  },
+  contracts: {
+    multicall3: {
+      address: '0xcA11bde05977b3631167028862bE2a173976CA11',
+      blockCreated: 42,
+    },
+  },
+})
 
 export const gaugeConfigs = {
   48900: {
@@ -18,6 +46,11 @@ export const gaugeConfigs = {
   130: {
     viemChain: unichain,
     pairAPIAddress: "0x9D61c9FA1264300B166d0122a0006377465Bc5cF",
+    blacklist: ["0x0000000000000000000000000000000000000000"],
+  },
+  9745: {
+    viemChain: plasma,
+    pairAPIAddress: "0x6FE13f896FdE0fC8979404646f46b5e5fafecbCC",
     blacklist: ["0x0000000000000000000000000000000000000000"],
   },
 };

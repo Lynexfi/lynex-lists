@@ -118,6 +118,53 @@
       "bribe": "0x348e96d7b4fb242c1c9cb82e6d29009d04425600"
     }
   ],
+  "9745": [
+    {
+      "address": "0x118ea19180637f851bb80601347e50ef2ae46954",
+      "symbol": "sAMM-USDe/USDT0",
+      "gauge": "0xba65927b6c3b8cb0edd52167eced921c2bfaed0e",
+      "token0": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "token1": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+      "isStrategy": false,
+      "bribe": "0xc6cc04c67ae6c8d8d2ce06898453b68c4a1886ae"
+    },
+    {
+      "address": "0x2b1a10e81351c5360a0cdfe6f11a55a636bcce76",
+      "symbol": "vAMM-INX/WXPL",
+      "gauge": "0xd16ea43347063a780fe8ada4e9bdb4166b670d80",
+      "token0": "0x133a09dd6169f6f0509658a911f2a82fc8ab6a0d",
+      "token1": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+      "isStrategy": false,
+      "bribe": "0x25a528bdd919b17111014b9b6f5f16790da3f593"
+    },
+    {
+      "address": "0x697f96f54c862ca8f5a1cb95b9c1cf5d1b04091b",
+      "symbol": "vAMM-USDe/WXPL",
+      "gauge": "0x00ffe770a7112f0a2acddaf929aab7f31fae4373",
+      "token0": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "token1": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+      "isStrategy": false,
+      "bribe": "0x22a561b36e3f0063b856a6c0725d9ca93c1dbf06"
+    },
+    {
+      "address": "0xc07aa78e87eef280b0b19abfe8965ac46ce8ec14",
+      "symbol": "vAMM-WXPL/USDT0",
+      "gauge": "0xbc8cf493931cdecaa3b9af8e8734cc62c8c995ed",
+      "token0": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+      "token1": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+      "isStrategy": false,
+      "bribe": "0x61df16f29b9165c2b8088c46f863bfa9228546fe"
+    },
+    {
+      "address": "0xc2622f55d51f878369b998ea641783a6920d1fa2",
+      "symbol": "vAMM-INX/USDT0",
+      "gauge": "0xdb0d3a44586ecc9fe961d016dc7f1bab9697535d",
+      "token0": "0x133a09dd6169f6f0509658a911f2a82fc8ab6a0d",
+      "token1": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+      "isStrategy": false,
+      "bribe": "0x60a32cacaa71d05e4bae6fa051b786f5c78649b0"
+    }
+  ],
   "48900": [
     {
       "address": "0x052f713fc84df7ff2bd450d226d4b2781f55fba8",
