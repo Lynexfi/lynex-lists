@@ -239,15 +239,15 @@ export const points: Record<number, Points[]> = {
       tooltipDescription:
         "Liquidity Providers in this pool also earn Limited Ionex points.",
       poolAddresses: [
-        "0xba65927b6c3b8cb0edd52167eced921c2bfaed0e", //sAMM-USDe/USDT0
-        "0xd16ea43347063a780fe8ada4e9bdb4166b670d80", //vAMM-INX/WXPL
-        "0x00ffe770a7112f0a2acddaf929aab7f31fae4373", //vAMM-USDe/WXPL
-        "0xbc8cf493931cdecaa3b9af8e8734cc62c8c995ed", //vAMM-WXPL/USDT0
-        "0xdb0d3a44586ecc9fe961d016dc7f1bab9697535d", //vAMM-INX/USDT0
-        "0xa125648f677d4a1dd9b3ff5fa4bb9be373ee5daa", //vAMM-WETH/weETH
-        "0x7de089fca401aaeddbcb9f1cb2ae7c64029d24a6", //vAMM-WXPL/WETH
-        "0x731b4794bda7e74d1bd1bfe67b9ddfebb7a0a516", //sAMM-USDai/USDT0
-        "0x4eef271b6a721149aa83f2e5d6face54cff10f02", //vAMM-WETH/USDT0
+        "0x118ea19180637f851bb80601347e50ef2ae46954", //sAMM-USDe/USDT0
+        "0x2b1a10e81351c5360a0cdfe6f11a55a636bcce76", //vAMM-INX/WXPL
+        "0x697f96f54c862ca8f5a1cb95b9c1cf5d1b04091b", //vAMM-USDe/WXPL
+        "0xc07aa78e87eef280b0b19abfe8965ac46ce8ec14", //vAMM-WXPL/USDT0
+        "0xc2622f55d51f878369b998ea641783a6920d1fa2", //vAMM-INX/USDT0
+        "0x355705857c9548e71e866087b01bb5b0a1fd671b", //vAMM-WETH/weETH
+        "0x8c0d0f3b753be6eefbb9a6b4545955fe465e6e1a", //vAMM-WXPL/WETH
+        "0xf36a95cc9ce7343ce3decd8836a179e1f0106c0d", //sAMM-USDai/USDT0
+        "0xaa3e8943aa325c689ad2918f6ab4fcddd2bdfdc9", //vAMM-WETH/USDT0
       ],
     },
   ],
