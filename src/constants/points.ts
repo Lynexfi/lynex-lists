@@ -235,7 +235,7 @@ export const points: Record<number, Points[]> = {
       name: "Limited Ionex Point",
       logoUrl:
         "http://ionex.trade/projects/ionex/tokenLogo.png",
-      infoUrl: "https://ionex.trade",
+      infoUrl: "https://ionex.trade/",
       tooltipDescription:
         "Liquidity Providers in this pool also earn Limited Ionex points.",
       poolAddresses: [
@@ -244,6 +244,10 @@ export const points: Record<number, Points[]> = {
         "0x00ffe770a7112f0a2acddaf929aab7f31fae4373", //vAMM-USDe/WXPL
         "0xbc8cf493931cdecaa3b9af8e8734cc62c8c995ed", //vAMM-WXPL/USDT0
         "0xdb0d3a44586ecc9fe961d016dc7f1bab9697535d", //vAMM-INX/USDT0
+        "0xa125648f677d4a1dd9b3ff5fa4bb9be373ee5daa", //vAMM-WETH/weETH
+        "0x7de089fca401aaeddbcb9f1cb2ae7c64029d24a6", //vAMM-WXPL/WETH
+        "0x731b4794bda7e74d1bd1bfe67b9ddfebb7a0a516", //sAMM-USDai/USDT0
+        "0x4eef271b6a721149aa83f2e5d6face54cff10f02", //vAMM-WETH/USDT0
       ],
     },
   ],

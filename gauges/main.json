@@ -138,6 +138,15 @@
       "bribe": "0x25a528bdd919b17111014b9b6f5f16790da3f593"
     },
     {
+      "address": "0x355705857c9548e71e866087b01bb5b0a1fd671b",
+      "symbol": "vAMM-WETH/weETH",
+      "gauge": "0xa125648f677d4a1dd9b3ff5fa4bb9be373ee5daa",
+      "token0": "0x9895d81bb462a195b4922ed7de0e3acd007c32cb",
+      "token1": "0xa3d68b74bf0528fdd07263c60d6488749044914b",
+      "isStrategy": false,
+      "bribe": "0x8ec4ad07dcdfffd82d8d86f270e82bcd77663100"
+    },
+    {
       "address": "0x697f96f54c862ca8f5a1cb95b9c1cf5d1b04091b",
       "symbol": "vAMM-USDe/WXPL",
       "gauge": "0x00ffe770a7112f0a2acddaf929aab7f31fae4373",
@@ -145,6 +154,24 @@
       "token1": "0x6100e367285b01f48d07953803a2d8dca5d19873",
       "isStrategy": false,
       "bribe": "0x22a561b36e3f0063b856a6c0725d9ca93c1dbf06"
+    },
+    {
+      "address": "0x8c0d0f3b753be6eefbb9a6b4545955fe465e6e1a",
+      "symbol": "vAMM-WXPL/WETH",
+      "gauge": "0x7de089fca401aaeddbcb9f1cb2ae7c64029d24a6",
+      "token0": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+      "token1": "0x9895d81bb462a195b4922ed7de0e3acd007c32cb",
+      "isStrategy": false,
+      "bribe": "0x4c9d2cdab0f78fd74f40aa702b5c254ad35c9465"
+    },
+    {
+      "address": "0xaa3e8943aa325c689ad2918f6ab4fcddd2bdfdc9",
+      "symbol": "vAMM-WETH/USDT0",
+      "gauge": "0x4eef271b6a721149aa83f2e5d6face54cff10f02",
+      "token0": "0x9895d81bb462a195b4922ed7de0e3acd007c32cb",
+      "token1": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+      "isStrategy": false,
+      "bribe": "0x0ef45bd31182630bf129651411ef2fccc79d78d0"
     },
     {
       "address": "0xc07aa78e87eef280b0b19abfe8965ac46ce8ec14",
@@ -163,6 +190,15 @@
       "token1": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
       "isStrategy": false,
       "bribe": "0x60a32cacaa71d05e4bae6fa051b786f5c78649b0"
+    },
+    {
+      "address": "0xf36a95cc9ce7343ce3decd8836a179e1f0106c0d",
+      "symbol": "sAMM-USDai/USDT0",
+      "gauge": "0x731b4794bda7e74d1bd1bfe67b9ddfebb7a0a516",
+      "token0": "0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef",
+      "token1": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+      "isStrategy": false,
+      "bribe": "0x37564888ddafd0a1261261fde64598dc9d0c595d"
     }
   ],
   "48900": [
