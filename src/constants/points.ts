@@ -1,5 +1,6 @@
 import { Points } from "../types";
 
+
 export const points: Record<number, Points[]> = {
   59144: [
     {
@@ -174,7 +175,7 @@ export const points: Record<number, Points[]> = {
       tooltipDescription:
         "Liquidity Providers in this pool also earn x2 StakeStone points.",
       poolAddresses: [
-        "0x8f3e0a2378b0b5838e0e0d99fcecc167d47bc9a7", // sAMM-STONE/WETH
+        "0x8f3e0a2378b0b5838e0e0d99fcecc167d47bc9a7",// sAMM-STONE/WETH
         "0xcffbfd665bedb19b47837461a5abf4388c560d35", // STONE/WETH (Narrow)
       ],
     },
@@ -232,22 +233,47 @@ export const points: Record<number, Points[]> = {
   ],
   9745: [
     {
-      name: "Limited Ionex Point",
+      name: "Limited Ionex Point (4x)",
+      logoUrl:
+        "http://ionex.trade/projects/ionex/tokenLogo.png",
+      infoUrl: "https://ionex.trade/",
+      tooltipDescription:
+        "Liquidity Providers in this pool also earn 4x Limited Ionex points.",
+      multiplier: 4,
+      poolAddresses: [
+        "0x2b1a10e81351c5360a0cdfe6f11a55a636bcce76", //vAMM-INX/WXPL
+        "0xc2622f55d51f878369b998ea641783a6920d1fa2", //vAMM-INX/USDT0
+        "0xec1d2843cf1616ba4e53c1286d2e450951c874d1", //sAMM INX/USDT0
+      ],
+    },
+    {
+      name: "Limited Ionex Point (2x)",
+      logoUrl:
+        "http://ionex.trade/projects/ionex/tokenLogo.png",
+      infoUrl: "https://ionex.trade/",
+      tooltipDescription:
+        "Liquidity Providers in this pool also earn 2x Limited Ionex points.",
+      multiplier: 2,
+      poolAddresses: [
+        "0x697f96f54c862ca8f5a1cb95b9c1cf5d1b04091b", //vAMM-USDe/WXPL
+        "0xc07aa78e87eef280b0b19abfe8965ac46ce8ec14", //vAMM-WXPL/USDT0
+        "0x355705857c9548e71e866087b01bb5b0a1fd671b", //vAMM-WETH/weETH
+        "0x8c0d0f3b753be6eefbb9a6b4545955fe465e6e1a", //vAMM-WXPL/WETH
+        "0xaa3e8943aa325c689ad2918f6ab4fcddd2bdfdc9", //vAMM-WETH/USDT0
+        "0x697f96f54c862ca8f5a1cb95b9c1cf5d1b04091b", //vAMM- USDe/WXPL
+      ],
+    },
+    {
+      name: "Limited Ionex Point (1x)",
       logoUrl:
         "http://ionex.trade/projects/ionex/tokenLogo.png",
       infoUrl: "https://ionex.trade/",
       tooltipDescription:
         "Liquidity Providers in this pool also earn Limited Ionex points.",
+      multiplier: 1,
       poolAddresses: [
-        "0x118ea19180637f851bb80601347e50ef2ae46954", //sAMM-USDe/USDT0
-        "0x2b1a10e81351c5360a0cdfe6f11a55a636bcce76", //vAMM-INX/WXPL
-        "0x697f96f54c862ca8f5a1cb95b9c1cf5d1b04091b", //vAMM-USDe/WXPL
-        "0xc07aa78e87eef280b0b19abfe8965ac46ce8ec14", //vAMM-WXPL/USDT0
-        "0xc2622f55d51f878369b998ea641783a6920d1fa2", //vAMM-INX/USDT0
-        "0x355705857c9548e71e866087b01bb5b0a1fd671b", //vAMM-WETH/weETH
-        "0x8c0d0f3b753be6eefbb9a6b4545955fe465e6e1a", //vAMM-WXPL/WETH
         "0xf36a95cc9ce7343ce3decd8836a179e1f0106c0d", //sAMM-USDai/USDT0
-        "0xaa3e8943aa325c689ad2918f6ab4fcddd2bdfdc9", //vAMM-WETH/USDT0
+        "0x118ea19180637f851bb80601347e50ef2ae46954", //sAMM-USDe/USDT0
       ],
     },
   ],
