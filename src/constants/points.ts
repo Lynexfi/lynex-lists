@@ -256,7 +256,6 @@ export const points: Record<number, Points[]> = {
       poolAddresses: [
         "0x697f96f54c862ca8f5a1cb95b9c1cf5d1b04091b", //vAMM-USDe/WXPL
         "0xc07aa78e87eef280b0b19abfe8965ac46ce8ec14", //vAMM-WXPL/USDT0
-        "0x355705857c9548e71e866087b01bb5b0a1fd671b", //vAMM-WETH/weETH
         "0x8c0d0f3b753be6eefbb9a6b4545955fe465e6e1a", //vAMM-WXPL/WETH
         "0xaa3e8943aa325c689ad2918f6ab4fcddd2bdfdc9", //vAMM-WETH/USDT0
         "0x697f96f54c862ca8f5a1cb95b9c1cf5d1b04091b", //vAMM- USDe/WXPL
@@ -273,6 +272,7 @@ export const points: Record<number, Points[]> = {
       poolAddresses: [
         "0xf36a95cc9ce7343ce3decd8836a179e1f0106c0d", //sAMM-USDai/USDT0
         "0x118ea19180637f851bb80601347e50ef2ae46954", //sAMM-USDe/USDT0
+        "0x355705857c9548e71e866087b01bb5b0a1fd671b", //vAMM-WETH/weETH
       ],
     },
   ],
