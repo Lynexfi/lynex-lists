@@ -243,7 +243,6 @@ export const points: Record<number, Points[]> = {
       poolAddresses: [
         "0x2b1a10e81351c5360a0cdfe6f11a55a636bcce76", //vAMM-INX/WXPL
         "0xc2622f55d51f878369b998ea641783a6920d1fa2", //vAMM-INX/USDT0
-        "0xec1d2843cf1616ba4e53c1286d2e450951c874d1", //sAMM INX/USDT0
       ],
     },
     {
