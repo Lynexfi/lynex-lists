@@ -265,6 +265,46 @@
         "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df"
       },
       "v4PoolId": "0x56805e9aa6db6842d13defda4c1c4cadaaf040a0aa153df12f826dda89b7ff53"
+    },
+    {
+      "symbol": "USDC/SOL",
+      "lpSymbol": "USDC/SOL",
+      "title": "Gamma Narrow",
+      "type": "Narrow",
+      "variant": "uniV4",
+      "strategist": "Gamma",
+      "manager": "Gamma",
+      "startBlock": 29149542,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0xd0818c40e79e8a99b540040bA2Ffe81F839f81d3",
+      "token0": {
+        "address": "0x078D782b760474a361dDA0AF3839290b0EF57AD6"
+      },
+      "token1": {
+        "address": "0xbdE8A5331E8Ac4831cf8ea9e42e229219EafaB97"
+      },
+      "v4PoolId": "0x75b19237e8069600566be945953c5fd815cdfb26bd3972821d0ae8d6b7d5e51d"
+    },
+    {
+      "symbol": "USDC/HYPE",
+      "lpSymbol": "USDC/HYPE",
+      "title": "Gamma Narrow",
+      "type": "Narrow",
+      "variant": "uniV4",
+      "strategist": "Gamma",
+      "manager": "Gamma",
+      "startBlock": 29159834,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0xd2e46d1083eFdA61E22Fe73bCC4661Cc04026531",
+      "token0": {
+        "address": "0x078D782b760474a361dDA0AF3839290b0EF57AD6"
+      },
+      "token1": {
+        "address": "0x15D0e0c55a3E7eE67152aD7E89acf164253Ff68d"
+      },
+      "v4PoolId": "0xc4f393785b36430779a93eedd52dd20857a46142bbe48c88d4c655303a53279c"
     }
   ],
   "137": [

@@ -99,6 +99,24 @@
     "bribe": "0xbfc8adc767ba552fd12ed2b5449905feacab9215"
   },
   {
+    "address": "0xd0818c40e79e8a99b540040ba2ffe81f839f81d3",
+    "symbol": "USDC/SOL (Narrow)",
+    "gauge": "0xf80dd9bc163a455be0d01d0d77f13e22a4d28a94",
+    "token0": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+    "token1": "0xbde8a5331e8ac4831cf8ea9e42e229219eafab97",
+    "isStrategy": true,
+    "bribe": "0x235d61a7bed504a33e5bd527a8aab3db46f8f8af"
+  },
+  {
+    "address": "0xd2e46d1083efda61e22fe73bcc4661cc04026531",
+    "symbol": "USDC/HYPE (Narrow)",
+    "gauge": "0x302f4f53b3a930a848b11a53093257a8ea090546",
+    "token0": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+    "token1": "0x15d0e0c55a3e7ee67152ad7e89acf164253ff68d",
+    "isStrategy": true,
+    "bribe": "0x1f779cb89f87810ad9b641efd0b6b0bfbb603902"
+  },
+  {
     "address": "0xf04d6788b3e37638702202b3ef0851a38e927551",
     "symbol": "frxUSD/USDC (Narrow)",
     "gauge": "0xd26142dde7859151577171183254a12f233dd737",
