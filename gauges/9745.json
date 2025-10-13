@@ -72,6 +72,24 @@
     "bribe": "0x60a32cacaa71d05e4bae6fa051b786f5c78649b0"
   },
   {
+    "address": "0xddafcc11b1efaff4eecb2ae97a57e46626e3a20b",
+    "symbol": "sAMM-INX/USDe",
+    "gauge": "0x8ea9c106ee9e15123eaa7a09d61b57621c2e6ca0",
+    "token0": "0x133a09dd6169f6f0509658a911f2a82fc8ab6a0d",
+    "token1": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "isStrategy": false,
+    "bribe": "0xe647c0aa48e399225f55315d8e2f24b85df60045"
+  },
+  {
+    "address": "0xec1d2843cf1616ba4e53c1286d2e450951c874d1",
+    "symbol": "sAMM-INX/USDT0",
+    "gauge": "0x58466a2d1b209d0084603a1ab5c0fc560eddc39a",
+    "token0": "0x133a09dd6169f6f0509658a911f2a82fc8ab6a0d",
+    "token1": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "isStrategy": false,
+    "bribe": "0x23cc9f0b006bbc3a07bae5be766736944183cae0"
+  },
+  {
     "address": "0xf36a95cc9ce7343ce3decd8836a179e1f0106c0d",
     "symbol": "sAMM-USDai/USDT0",
     "gauge": "0x731b4794bda7e74d1bd1bfe67b9ddfebb7a0a516",
