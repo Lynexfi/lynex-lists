@@ -2542,4 +2542,5 @@ export const strategies: Strategies = {
   ],
   9745: [
   ],
+  1776: [],
 };
