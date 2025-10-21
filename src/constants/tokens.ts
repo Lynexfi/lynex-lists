@@ -2190,7 +2190,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2025-10-16",
       updatedAt: "2025-10-16",
-      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists/feat/pumex-mainnet/tokens/assets/PMX.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@feat/pumex-mainnet/tokens/assets/PMX.png",
     },
     {
       chainURI: "https://blockscout.injective.network/block/0",
