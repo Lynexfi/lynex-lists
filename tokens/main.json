@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 45
+    "patch": 46
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -774,6 +774,18 @@
       "createdAt": "2025-10-16",
       "updatedAt": "2025-10-16",
       "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png"
+    },
+    {
+      "chainId": 1776,
+      "chainURI": "https://blockscout.injective.network/block/0",
+      "tokenId": "https://blockscout.injective.network/address/0x0000000088827d2d103ee2d9A6b781773AE03FfB",
+      "address": "0x0000000088827d2d103ee2d9A6b781773AE03FfB",
+      "name": "Wrapped INJ",
+      "symbol": "WINJ",
+      "decimals": 18,
+      "createdAt": "2025-10-16",
+      "updatedAt": "2025-10-16",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212"
     },
     {
       "chainId": 9745,
