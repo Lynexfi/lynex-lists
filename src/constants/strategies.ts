@@ -41,6 +41,7 @@ export const strategies: Strategies = {
       token1: {
         address: "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
       },
+      riskLevel: 6,
     },
     {
       symbol: "USDC/BUSD",
@@ -911,6 +912,7 @@ export const strategies: Strategies = {
       token1: {
         address: "0xa219439258ca9da29e9cc4ce5596924745e12b93",
       },
+      riskLevel: 3,
     },
     {
       symbol: "USDC/EUR3",
@@ -1006,6 +1008,7 @@ export const strategies: Strategies = {
       token1: {
         address: "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
       },
+      riskLevel: 9,
     },
     {
       symbol: "SolvBTC.m/WETH",
