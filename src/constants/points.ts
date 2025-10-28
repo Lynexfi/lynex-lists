@@ -276,4 +276,31 @@ export const points: Record<number, Points[]> = {
       ],
     },
   ],
+  1776: [
+    {
+      name: "Limited Pumex Point (4x)",
+      logoUrl:
+        "http://alpha.pumex.fi/projects/pumex/tokenLogo.png",
+      infoUrl: "https://alpha.pumex.fi/",
+      tooltipDescription:
+        "Liquidity Providers in this pool also earn 4x Limited Pumex points.",
+      multiplier: 4,
+      poolAddresses: [
+        "0x5163009263c7a4e55f1e1e7c5b4f0db02e0468b7", //vAMM-PMX/USDT
+      ],
+    },
+    {
+      name: "Limited Pumex Point (2x)",
+      logoUrl:
+        "http://alpha.pumex.fi/projects/pumex/tokenLogo.png",
+      infoUrl: "https://alpha.pumex.fi/",
+      tooltipDescription:
+        "Liquidity Providers in this pool also earn 2x Limited Pumex points.",
+      multiplier: 2,
+      poolAddresses: [
+        "0x7626f823ef60bb454516da57b8c25ce0ff74463f", //vAMM-WINJ/USDT
+        "0x183356a50ef9cd01d995a28322c570e04b89979c", //sAMM-WINJ/USDT
+      ],
+    },
+  ],
 };
