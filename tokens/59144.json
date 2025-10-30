@@ -939,7 +939,7 @@
   },
   {
     "name": "Lost In Never Ending Airdrop",
-    "symbol": "LINEA",
+    "symbol": "L.I.N.E.A",
     "tokenId": "https://lineascan.build/address/0xb3B3CA7cb0BCCb6A9316764826324A312665DC53",
     "address": "0xb3B3CA7cb0BCCb6A9316764826324A312665DC53",
     "decimals": 18,
@@ -974,5 +974,15 @@
     "createdAt": "2025-05-20",
     "updatedAt": "2025-05-20",
     "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/BOL.png"
+  },
+  {
+    "name": "Linea",
+    "symbol": "LINEA",
+    "tokenId": "https://lineascan.build/address/0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+    "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+    "decimals": 18,
+    "createdAt": "2025-09-09",
+    "updatedAt": "2025-09-09",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LINEA-real.png"
   }
 ]

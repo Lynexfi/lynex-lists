@@ -35,6 +35,7 @@ export interface Points {
   infoUrl: string
   tooltipDescription: string,
   poolAddresses: string[]
+  multiplier?: number // Optional multiplier for custom point configurations
 }
 export type Strategies = Record<number, Strategy[]>;
 

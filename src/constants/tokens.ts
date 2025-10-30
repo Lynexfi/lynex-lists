@@ -974,7 +974,7 @@ export const tokens = {
     },
     {
       name: "Lost In Never Ending Airdrop",
-      symbol: "LINEA",
+      symbol: "L.I.N.E.A",
       tokenId:
         "https://lineascan.build/address/0xb3B3CA7cb0BCCb6A9316764826324A312665DC53",
       address: "0xb3B3CA7cb0BCCb6A9316764826324A312665DC53",
@@ -1013,6 +1013,17 @@ export const tokens = {
       createdAt: "2025-05-20",
       updatedAt: "2025-05-20",
       logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/BOL.png",
+    },
+    {
+      name: "Linea",
+      symbol: "LINEA",
+      tokenId:
+        "https://lineascan.build/address/0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+      address: "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+      decimals: 18,
+      createdAt: "2025-09-09",
+      updatedAt: "2025-09-09",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LINEA-real.png",
     },
   ],
 
@@ -1651,7 +1662,7 @@ export const tokens = {
       chainURI: "https://uniscan.xyz/block/0",
       tokenId:
         "https://uniscan.xyz/token/0x927b51f251480a681271180da4de28d44ec4afb8", //weird ticker for BTC
-      address: "0x927b51f251480a681271180da4de28d44ec4afb8", 
+      address: "0x927b51f251480a681271180da4de28d44ec4afb8",
       name: "Wrapped BTC",
       symbol: "WBTC",
       decimals: 8,
@@ -1659,13 +1670,267 @@ export const tokens = {
       updatedAt: "2025-05-19",
       logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
     },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0x15D0e0c55a3E7eE67152aD7E89acf164253Ff68d",
+      address: "0x15D0e0c55a3E7eE67152aD7E89acf164253Ff68d",
+      name: "HYPE",
+      symbol: "HYPE",
+      decimals: 18,
+      createdAt: "2025-10-10",
+      updatedAt: "2025-10-10",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/HYPE.png",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0xbdE8A5331E8Ac4831cf8ea9e42e229219EafaB97",
+      address: "0xbdE8A5331E8Ac4831cf8ea9e42e229219EafaB97",
+      name: "Wrapped SOL",
+      symbol: "SOL",
+      decimals: 9,
+      createdAt: "2025-10-10",
+      updatedAt: "2025-10-10",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/SOL.png",
+    },
+  ],
+  9745: [
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+      address: "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+      name: "USDT0",
+      symbol: "USDT0",
+      decimals: 6,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT0.svg",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      address: "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      name: "USDe",
+      symbol: "USDe",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDe.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      address: "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      name: "Staked USDe",
+      symbol: "sUSDe",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/sUSDe.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x9895D81bB462A195b4922ED7De0e3ACD007c32CB",
+      address: "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB",
+      name: "WETH",
+      symbol: "WETH",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WETH.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0xA3D68b74bF0528fdD07263c60d6488749044914b",
+      address: "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+      name: "Wrapped eETH",
+      symbol: "weETH",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/weETH.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF",
+      address: "0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF",
+      name: "USDai",
+      symbol: "USDai",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDai.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x6100E367285b01F48D07953803A2d8dCA5D19873",
+      address: "0x6100E367285b01F48D07953803A2d8dCA5D19873",
+      name: "Wrapped XPL",
+      symbol: "WXPL",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WXPL.svg",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x1B64B9025EEbb9A6239575dF9Ea4b9Ac46D4d193",
+      address: "0x1B64B9025EEbb9A6239575dF9Ea4b9Ac46D4d193",
+      name: "XAUt0",
+      symbol: "XAUt0",
+      decimals: 6,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/XAUt0.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x0B2b2B2076d95dda7817e785989fE353fe955ef9",
+      address: "0x0B2b2B2076d95dda7817e785989fE353fe955ef9",
+      name: "Staked USDai",
+      symbol: "sUSDai",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/sUSDai.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0xd1074E0AE85610dDBA0147e29eBe0D8E5873a000",
+      address: "0xd1074E0AE85610dDBA0147e29eBe0D8E5873a000",
+      name: "Plasma USD Vault",
+      symbol: "PlasmaUSD",
+      decimals: 6,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x5E494e8912319cefb1d4Fa516807bB65A8CB9E40",
+      address: "0x5E494e8912319cefb1d4Fa516807bB65A8CB9E40",
+      name: "Fluid WETH",
+      symbol: "fWETH",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/fWETH.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0xC4374775489CB9C56003BF2C9b12495fC64F0771",
+      address: "0xC4374775489CB9C56003BF2C9b12495fC64F0771",
+      name: "Syrup USDT",
+      symbol: "syrupUSDT",
+      decimals: 6,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/syrupUSDT.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+      address: "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+      name: "ENA",
+      symbol: "ENA",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ENA.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x17Bac5F906c9A0282aC06a59958D85796c831f24",
+      address: "0x17Bac5F906c9A0282aC06a59958D85796c831f24",
+      name: "Pendle",
+      symbol: "PENDLE",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/PENDLE.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x133a09Dd6169f6F0509658a911F2a82Fc8ab6A0D",
+      address: "0x133a09Dd6169f6F0509658a911F2a82Fc8ab6A0D",
+      name: "Ionex TOKEN",
+      symbol: "INX",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/INX.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0xF94451F19294dA68a40E4DD52cfaC7c8bD66B93c",
+      address: "0xF94451F19294dA68a40E4DD52cfaC7c8bD66B93c",
+      name: "Ionex Option TOKEN",
+      symbol: "oINX",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/oINX.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0xA5Df3bA1e6ceacD92700AF088c565D4f85591342",
+      address: "0xA5Df3bA1e6ceacD92700AF088c565D4f85591342",
+      name: "Ionex Bribe Vote Escrow",
+      symbol: "bveINX",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/bveINX.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0xe561fe05c39075312aa9bc6af79ddae981461359",
+      address: "0xe561fe05c39075312aa9bc6af79ddae981461359",
+      name: "rsETHWrapper",
+      symbol: "wrsETH",
+      decimals: 18,
+      createdAt: "2025-10-03",
+      updatedAt: "2025-10-03",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/wrsETH.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c",
+      address: "0x6eaf19b2fc24552925db245f9ff613157a7dbb4c",
+      name: "Stream: Susd Vault",
+      symbol: "xUSD",
+      decimals: 18,
+      createdAt: "2025-10-03",
+      updatedAt: "2025-10-03",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/xUSD.png",
+    },
   ],
   239: [
     {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0xB63B9f0eb4A6E6f191529D71d4D88cc8900Df2C9",
-      address: "0xB63B9f0eb4A6E6f191529D71d4D88cc8900Df2C9", 
+      address: "0xB63B9f0eb4A6E6f191529D71d4D88cc8900Df2C9",
       name: "Wrapped TAC",
       symbol: "WTAC",
       decimals: 18,
@@ -1677,7 +1942,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0x61D66bC21fED820938021B06e9b2291f3FB91945",
-      address: "0x61D66bC21fED820938021B06e9b2291f3FB91945", 
+      address: "0x61D66bC21fED820938021B06e9b2291f3FB91945",
       name: "Wrapped ETH",
       symbol: "WETH",
       decimals: 18,
@@ -1689,7 +1954,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0xb76d91340F5CE3577f0a056D29f6e3Eb4E88B140",
-      address: "0xb76d91340F5CE3577f0a056D29f6e3Eb4E88B140", 
+      address: "0xb76d91340F5CE3577f0a056D29f6e3Eb4E88B140",
       name: "TON Token",
       symbol: "TON",
       decimals: 9,
@@ -1701,7 +1966,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0xAF988C3f7CB2AceAbB15f96b19388a259b6C438f",
-      address: "0xAF988C3f7CB2AceAbB15f96b19388a259b6C438f", 
+      address: "0xAF988C3f7CB2AceAbB15f96b19388a259b6C438f",
       name: "Tether USDT",
       symbol: "USDT",
       decimals: 6,
@@ -1713,7 +1978,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
-      address: "0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3", 
+      address: "0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
       name: "Solv BTC",
       symbol: "SolvBTC",
       decimals: 18,
@@ -1725,7 +1990,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0xc99F5c922DAE05B6e2ff83463ce705eF7C91F077",
-      address: "0xc99F5c922DAE05B6e2ff83463ce705eF7C91F077", 
+      address: "0xc99F5c922DAE05B6e2ff83463ce705eF7C91F077",
       name: "xSolvBTC",
       symbol: "xSolvBTC",
       decimals: 18,
@@ -1737,7 +2002,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0xF9775085d726E782E83585033B58606f7731AB18",
-      address: "0xF9775085d726E782E83585033B58606f7731AB18", 
+      address: "0xF9775085d726E782E83585033B58606f7731AB18",
       name: "uniBTC",
       symbol: "uniBTC",
       decimals: 8,
@@ -1749,7 +2014,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0x4CBE838E2BD3B46247f80519B6aC79363298aa09",
-      address: "0x4CBE838E2BD3B46247f80519B6aC79363298aa09", 
+      address: "0x4CBE838E2BD3B46247f80519B6aC79363298aa09",
       name: "SatLayer uniBTC",
       symbol: "satUniBTC",
       decimals: 8,
@@ -1761,7 +2026,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0xe82dbD543FD729418613d68Cd1E8FC67b0f46E31",
-      address: "0xe82dbD543FD729418613d68Cd1E8FC67b0f46E31", 
+      address: "0xe82dbD543FD729418613d68Cd1E8FC67b0f46E31",
       name: "Merlin's Seal BTC",
       symbol: "M-BTC",
       decimals: 18,
@@ -1773,7 +2038,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0xAf368c91793CB22739386DFCbBb2F1A9e4bCBeBf",
-      address: "0xAf368c91793CB22739386DFCbBb2F1A9e4bCBeBf", 
+      address: "0xAf368c91793CB22739386DFCbBb2F1A9e4bCBeBf",
       name: "Wrapped liquid staked Ether 2.0",
       symbol: "wstETH",
       decimals: 18,
@@ -1785,7 +2050,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0xecAc9C5F704e954931349Da37F60E39f515c11c1",
-      address: "0xecAc9C5F704e954931349Da37F60E39f515c11c1", 
+      address: "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
       name: "Lombard Staked Bitcoin",
       symbol: "LBTC",
       decimals: 8,
@@ -1797,7 +2062,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0x7048c9e4aBD0cf0219E95a17A8C6908dfC4f0Ee4",
-      address: "0x7048c9e4aBD0cf0219E95a17A8C6908dfC4f0Ee4", 
+      address: "0x7048c9e4aBD0cf0219E95a17A8C6908dfC4f0Ee4",
       name: "Coinbase Wrapped BTC",
       symbol: "cbBTC",
       decimals: 8,
@@ -1809,7 +2074,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0x37D6382B6889cCeF8d6871A8b60E667115eDDBcF",
-      address: "0x37D6382B6889cCeF8d6871A8b60E667115eDDBcF", 
+      address: "0x37D6382B6889cCeF8d6871A8b60E667115eDDBcF",
       name: "pufETH",
       symbol: "pufETH",
       decimals: 18,
@@ -1821,7 +2086,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0xb1b385542B6E80F77B94393Ba8342c3Af699f15c",
-      address: "0xb1b385542B6E80F77B94393Ba8342c3Af699f15c", 
+      address: "0xb1b385542B6E80F77B94393Ba8342c3Af699f15c",
       name: "Resolv USD",
       symbol: "USR",
       decimals: 18,
@@ -1833,7 +2098,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0x51A30E647D33A044967FA3DBb04d6ED6F45455F6",
-      address: "0x51A30E647D33A044967FA3DBb04d6ED6F45455F6", 
+      address: "0x51A30E647D33A044967FA3DBb04d6ED6F45455F6",
       name: "USN",
       symbol: "USN",
       decimals: 18,
@@ -1845,7 +2110,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0x5Ced7F73B76A555CCB372cc0F0137bEc5665F81E",
-      address: "0x5Ced7F73B76A555CCB372cc0F0137bEc5665F81E", 
+      address: "0x5Ced7F73B76A555CCB372cc0F0137bEc5665F81E",
       name: "Staked USN",
       symbol: "sUSN",
       decimals: 18,
@@ -1857,7 +2122,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0x9bB6983Ca454320BD8691409690B4FCCD489EE96",
-      address: "0x9bB6983Ca454320BD8691409690B4FCCD489EE96", 
+      address: "0x9bB6983Ca454320BD8691409690B4FCCD489EE96",
       name: "Usual USD",
       symbol: "USD0",
       decimals: 18,
@@ -1869,7 +2134,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0xD44F691aeD69fe43180B95b6F82f89c18Fb93094",
-      address: "0xD44F691aeD69fe43180B95b6F82f89c18Fb93094", 
+      address: "0xD44F691aeD69fe43180B95b6F82f89c18Fb93094",
       name: "Tonstakers TON",
       symbol: "tsTON",
       decimals: 9,
@@ -1881,7 +2146,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0x1791BAff6a5e2F2A1340e8B7C1EA2B0c1E2DD1ea",
-      address: "0x1791BAff6a5e2F2A1340e8B7C1EA2B0c1E2DD1ea", 
+      address: "0x1791BAff6a5e2F2A1340e8B7C1EA2B0c1E2DD1ea",
       name: "USD0 Liquid Bond",
       symbol: "USD0++",
       decimals: 18,
@@ -1893,7 +2158,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0x6bedE1c6009a78c222D9BDb7974bb67847fdB68c",
-      address: "0x6bedE1c6009a78c222D9BDb7974bb67847fdB68c", 
+      address: "0x6bedE1c6009a78c222D9BDb7974bb67847fdB68c",
       name: "US Bitcoin Dollar",
       symbol: "USBD",
       decimals: 18,
@@ -1905,7 +2170,7 @@ export const tokens = {
       chainURI: "https://explorer.tac.build/block/0",
       tokenId:
         "https://explorer.tac.build/address/0x27e4Ade13d78Aad45bea31D448f5504031e4871E",
-      address: "0x27e4Ade13d78Aad45bea31D448f5504031e4871E", 
+      address: "0x27e4Ade13d78Aad45bea31D448f5504031e4871E",
       name: "dogwifhat",
       symbol: "WIF",
       decimals: 18,
@@ -1913,5 +2178,5 @@ export const tokens = {
       updatedAt: "2025-05-19",
       logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WIF.png",
     },
-  ]
+  ],
 };
