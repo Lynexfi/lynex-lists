@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 44
+    "patch": 45
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -221,7 +221,8 @@
       "symbol": "rsETH",
       "decimals": 18,
       "createdAt": "2025-05-19",
-      "updatedAt": "2025-05-19"
+      "updatedAt": "2025-05-19",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29242.png"
     },
     {
       "chainId": 130,
