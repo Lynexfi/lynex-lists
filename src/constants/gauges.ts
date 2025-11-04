@@ -1,5 +1,5 @@
 import { defineChain } from "viem";
-import { linea, zircuit, unichain } from "viem/chains";
+import { linea, zircuit, unichain, tac } from "viem/chains";
 
 export const plasma = defineChain({
   id: 9745,
@@ -51,6 +51,11 @@ export const gaugeConfigs = {
   9745: {
     viemChain: plasma,
     pairAPIAddress: "0x6FE13f896FdE0fC8979404646f46b5e5fafecbCC",
+    blacklist: ["0x0000000000000000000000000000000000000000"],
+  },
+  239: {
+    viemChain: tac,
+    pairAPIAddress: "0x0000000000000000000000000000000000000000",
     blacklist: ["0x0000000000000000000000000000000000000000"],
   },
 };

@@ -1645,6 +1645,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2025-05-19",
       updatedAt: "2025-05-19",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/29242.png",
     },
     {
       chainURI: "https://uniscan.xyz/block/0",
