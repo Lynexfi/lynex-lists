@@ -36,6 +36,15 @@
     "bribe": "0x8ec4ad07dcdfffd82d8d86f270e82bcd77663100"
   },
   {
+    "address": "0x5eeb4638f0c76178430ef0fdd815f72076fde722",
+    "symbol": "sAMM-INX/WXPL",
+    "gauge": "0xd41a22dcdda59c82f8fa7da80679b2870c076ed0",
+    "token0": "0x133a09dd6169f6f0509658a911f2a82fc8ab6a0d",
+    "token1": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+    "isStrategy": false,
+    "bribe": "0xa3e315ff2de31973d68b1301a3242eca97811328"
+  },
+  {
     "address": "0x697f96f54c862ca8f5a1cb95b9c1cf5d1b04091b",
     "symbol": "vAMM-USDe/WXPL",
     "gauge": "0x00ffe770a7112f0a2acddaf929aab7f31fae4373",
