@@ -1025,6 +1025,17 @@ export const tokens = {
       updatedAt: "2025-09-09",
       logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LINEA-real.png",
     },
+    {
+      name: "MetaMask USD",
+      symbol: "mUSD",
+      tokenId:
+        "https://lineascan.build/address/0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
+      address: "0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
+      decimals: 6,
+      createdAt: "2025-11-05",
+      updatedAt: "2025-11-05",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/mUSD.png",
+    },
   ],
 
   48900: [
