@@ -28,6 +28,60 @@ export const plasma = defineChain({
   },
 })
 
+export const tac = defineChain({
+  id: 239,
+  name: 'TAC',
+  nativeCurrency: {
+    name: 'TAC',
+    symbol: 'TAC',
+    decimals: 18,
+  },
+  rpcUrls: {
+    default: {
+      http: ['https://rpc.tac.build'],
+    },
+  },
+  blockExplorers: {
+    default: {
+      name: 'TAC Explorer',
+      url: 'https://explorer.tac.build',
+    },
+  },
+  contracts: {
+    multicall3: {
+      address: '0xcA11bde05977b3631167028862bE2a173976CA11',
+      blockCreated: 0,
+    },
+  },
+})
+
+export const injective = defineChain({
+  id: 1776,
+  name: 'Injective',
+  nativeCurrency: {
+    name: 'Injective',
+    symbol: 'INJ',
+    decimals: 18,
+  },
+  rpcUrls: {
+    default: {
+      http: ['https://sentry.evm-rpc.injective.network'],
+    },
+  },
+  blockExplorers: {
+    default: {
+      name: 'Injective Blockscout',
+      url: 'https://blockscout.injective.network',
+    },
+  },
+  contracts: {
+    multicall3: {
+      address: '0xcA11bde05977b3631167028862bE2a173976CA11',
+      blockCreated: 0,
+    },
+  },
+})
+
 export const gaugeConfigs = {
   48900: {
     viemChain: zircuit,
