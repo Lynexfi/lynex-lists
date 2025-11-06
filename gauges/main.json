@@ -156,6 +156,15 @@
       "bribe": "0x25a528bdd919b17111014b9b6f5f16790da3f593"
     },
     {
+      "address": "0x3372fa74d534406b96d06afc06704c09b948ff3f",
+      "symbol": "sAMM-WXPL/WETH",
+      "gauge": "0x0c75e1cfe6bf3ab59d954fa43fc9df95481f2954",
+      "token0": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+      "token1": "0x9895d81bb462a195b4922ed7de0e3acd007c32cb",
+      "isStrategy": false,
+      "bribe": "0x2b77c95f2495a94440e678b9c574d667d3c1362c"
+    },
+    {
       "address": "0x355705857c9548e71e866087b01bb5b0a1fd671b",
       "symbol": "vAMM-WETH/weETH",
       "gauge": "0xa125648f677d4a1dd9b3ff5fa4bb9be373ee5daa",
@@ -163,6 +172,15 @@
       "token1": "0xa3d68b74bf0528fdd07263c60d6488749044914b",
       "isStrategy": false,
       "bribe": "0x8ec4ad07dcdfffd82d8d86f270e82bcd77663100"
+    },
+    {
+      "address": "0x5eeb4638f0c76178430ef0fdd815f72076fde722",
+      "symbol": "sAMM-INX/WXPL",
+      "gauge": "0xd41a22dcdda59c82f8fa7da80679b2870c076ed0",
+      "token0": "0x133a09dd6169f6f0509658a911f2a82fc8ab6a0d",
+      "token1": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+      "isStrategy": false,
+      "bribe": "0xa3e315ff2de31973d68b1301a3242eca97811328"
     },
     {
       "address": "0x697f96f54c862ca8f5a1cb95b9c1cf5d1b04091b",
@@ -181,6 +199,15 @@
       "token1": "0x9895d81bb462a195b4922ed7de0e3acd007c32cb",
       "isStrategy": false,
       "bribe": "0x4c9d2cdab0f78fd74f40aa702b5c254ad35c9465"
+    },
+    {
+      "address": "0xa2182d12b438cc7f65e8e5e4ae31d5825b2b3cae",
+      "symbol": "sAMM-USDai/USDe",
+      "gauge": "0x94d663cfdc30016a5f746cef42a9f3b22fbb112b",
+      "token0": "0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef",
+      "token1": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "isStrategy": false,
+      "bribe": "0x256f850daa2dc1cf155be80e7fa5286f6764bcf2"
     },
     {
       "address": "0xaa3e8943aa325c689ad2918f6ab4fcddd2bdfdc9",
@@ -208,6 +235,15 @@
       "token1": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
       "isStrategy": false,
       "bribe": "0x60a32cacaa71d05e4bae6fa051b786f5c78649b0"
+    },
+    {
+      "address": "0xca397b663d5a66fc568a685d1dad30390bb9073b",
+      "symbol": "vAMM-USDai/USDT0",
+      "gauge": "0x5c900c9b2fe5b3bb79c11689a6daa2ee4ae70dae",
+      "token0": "0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef",
+      "token1": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+      "isStrategy": false,
+      "bribe": "0x7988c238ee757510c6f2d4f6e9ae30ff45af5ef6"
     },
     {
       "address": "0xddafcc11b1efaff4eecb2ae97a57e46626e3a20b",

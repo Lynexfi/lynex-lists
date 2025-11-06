@@ -1025,6 +1025,17 @@ export const tokens = {
       updatedAt: "2025-09-09",
       logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LINEA-real.png",
     },
+    {
+      name: "MetaMask USD",
+      symbol: "mUSD",
+      tokenId:
+        "https://lineascan.build/address/0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
+      address: "0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
+      decimals: 6,
+      createdAt: "2025-11-05",
+      updatedAt: "2025-11-05",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/mUSD.png",
+    },
   ],
 
   48900: [
@@ -1645,6 +1656,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2025-05-19",
       updatedAt: "2025-05-19",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/29242.png",
     },
     {
       chainURI: "https://uniscan.xyz/block/0",
@@ -1693,6 +1705,42 @@ export const tokens = {
       createdAt: "2025-10-10",
       updatedAt: "2025-10-10",
       logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/SOL.png",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0x2615a94df961278DcbC41Fb0a54fEc5f10a693aE",
+      address: "0x2615a94df961278DcbC41Fb0a54fEc5f10a693aE",
+      name: "XRP",
+      symbol: "XRP",
+      decimals: 18,
+      createdAt: "2025-11-05",
+      updatedAt: "2025-11-05",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/XRP.png",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0x12E96C2BFEA6E835CF8Dd38a5834fa61Cf723736",
+      address: "0x12E96C2BFEA6E835CF8Dd38a5834fa61Cf723736",
+      name: "Dogecoin",
+      symbol: "DOGE",
+      decimals: 18,
+      createdAt: "2025-11-05",
+      updatedAt: "2025-11-05",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/DOGE.png",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0x83f31af747189c2FA9E5DeB253200c505eff6ed2",
+      address: "0x83f31af747189c2FA9E5DeB253200c505eff6ed2",
+      name: "ZCash",
+      symbol: "uZEC",
+      decimals: 18,
+      createdAt: "2025-11-05",
+      updatedAt: "2025-11-05",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ZEC.png",
     },
   ],
   9745: [
