@@ -286,7 +286,7 @@ export const points: Record<number, Points[]> = {
         "Liquidity Providers in this pool also earn 4x Limited Pumex points.",
       multiplier: 4,
       poolAddresses: [
-        "0x5163009263c7a4e55f1e1e7c5b4f0db02e0468b7", //vAMM-PMX/USDT
+       "0x5163009263c7a4e55f1e1e7c5b4f0db02e0468b7", //vAMM-PMX/USDT
       ],
     },
     {
@@ -299,7 +299,18 @@ export const points: Record<number, Points[]> = {
       multiplier: 2,
       poolAddresses: [
         "0x7626f823ef60bb454516da57b8c25ce0ff74463f", //vAMM-WINJ/USDT
-        "0x183356a50ef9cd01d995a28322c570e04b89979c", //sAMM-WINJ/USDT
+      ],
+    },
+    {
+      name: "Limited Pumex Point (1x)",
+      logoUrl:
+        "http://alpha.pumex.fi/projects/pumex/tokenLogo.png",
+      infoUrl: "https://alpha.pumex.fi/",
+      tooltipDescription:
+        "Liquidity Providers in this pool also earn 1x Limited Pumex points.",
+      multiplier: 1,
+      poolAddresses: [
+        "0x66758604fD4A9e2b8d91A71E199308eEC4536Aa2", //sAMM-USDC/USDT
       ],
     },
   ],
