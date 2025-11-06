@@ -36,6 +36,15 @@
     "bribe": "0xca88212a2c6a18d675ecfe0e9c95df2f4c617a00"
   },
   {
+    "address": "0x27f048435281a20092978738aab26d4a40f628b4",
+    "symbol": "USDC/DOGE (Narrow)",
+    "gauge": "0xe0e3c1e0052944be3e181ad427693ff1af1036d3",
+    "token0": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+    "token1": "0x12e96c2bfea6e835cf8dd38a5834fa61cf723736",
+    "isStrategy": true,
+    "bribe": "0xaa4b4a1829a4a2fb92af795155223ddab87df367"
+  },
+  {
     "address": "0x2c5f8b726074ac410cb058847d7874fcba7f817b",
     "symbol": "ETH/USD₮0 (Narrow)",
     "gauge": "0x71828edf393b7ce1c7665b4053be4685d9be488a",
@@ -90,6 +99,15 @@
     "bribe": "0x3ad77eb431d220d4c3cabfc1ac9b26bffe44e2ed"
   },
   {
+    "address": "0x9628cba1027554a512127cbef1633b2fd46c4c34",
+    "symbol": "USDC/XRP (Narrow)",
+    "gauge": "0x119bb1e7f8e1defca940152e7d9a40de786703ed",
+    "token0": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+    "token1": "0x2615a94df961278dcbc41fb0a54fec5f10a693ae",
+    "isStrategy": true,
+    "bribe": "0xdce5a95de095e10a437c38ccc67377a6ee02d6f0"
+  },
+  {
     "address": "0xa1d4b1da86bef122c1d09401dd3f21657a0f85df",
     "symbol": "UNI/CATX (Single Deposit)",
     "gauge": "0x4c4adf5eb0eb108f0bb819d1e9dfabebc6ad3e63",
@@ -115,6 +133,15 @@
     "token1": "0x15d0e0c55a3e7ee67152ad7e89acf164253ff68d",
     "isStrategy": true,
     "bribe": "0x1f779cb89f87810ad9b641efd0b6b0bfbb603902"
+  },
+  {
+    "address": "0xe230774e6b5963b972d6398b398b0efdcf46c2c8",
+    "symbol": "USDC/ZEC (Narrow)",
+    "gauge": "0x3e904f829e557a3f639b7d95778d1d94aaab5b6e",
+    "token0": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+    "token1": "0x83f31af747189c2fa9e5deb253200c505eff6ed2",
+    "isStrategy": true,
+    "bribe": "0x3917434a0567ad4f8a56046a8e2ff027c9670f79"
   },
   {
     "address": "0xf04d6788b3e37638702202b3ef0851a38e927551",
