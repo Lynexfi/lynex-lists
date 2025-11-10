@@ -21,6 +21,7 @@ async function gaugeGod(chainId: 48900 | 59144 | 130 | 9745 | 1776) {
     transport: http(),
   });
 
+  // Convert blacklist to lowercase for case-insensitive comparison
   const blacklist = config.blacklist.map((item) => item.toLowerCase());
 
   let batchSize = chainId === 1776 ? 50 : 1000;
@@ -197,12 +198,15 @@ async function main() {
   fs.writeFileSync(allDestination, JSON.stringify(result, null, 2));
 
   console.log(
-    "Gauge JSON files have been generated in the gauges directory"
+    "🍑🍑Gauge JSON files have been generated in the gauges directory!🍑🍑"
   );
 }
 
 main()
   .then(() => {
+    console.log(
+      "🍆🍆All JSON files for gauges have been generated successfully🍆🍆"
+    );
     process.exit(0);
   })
   .catch((error) => {
