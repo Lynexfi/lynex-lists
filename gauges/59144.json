@@ -1242,6 +1242,15 @@
     "bribe": "0x50bdaa06ba523725ff5fd11d94dfb294f44d20b0"
   },
   {
+    "address": "0xeba559ec969bd2a6147ad76fccac5375121b4838",
+    "symbol": "mUSD/WETH (Narrow)",
+    "gauge": "0x57123e647292cfe32f659d3c9b90f5b6b6337940",
+    "token0": "0xaca92e438df0b2401ff60da7e4337b687a2435da",
+    "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+    "isStrategy": true,
+    "bribe": "0x07bd280820f622223f83b885ed1e0f2765d82fba"
+  },
+  {
     "address": "0xee18362b766905cc47df273fe0ed967c0c2827e0",
     "symbol": "sAMM-LYNX/weETH",
     "gauge": "0x9bebf928170fea4068f9e3dc52c8634cd8a3b673",

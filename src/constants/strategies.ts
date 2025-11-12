@@ -423,6 +423,25 @@ export const strategies: Strategies = {
         address: "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
       },
     },
+    {
+      symbol: "mUSD/WETH",
+      lpSymbol: "mUSD/WETH",
+      title: "Gamma (Narrow)",
+      type: "Narrow",
+      variant: "algebraV3",
+      strategist: "Gamma",
+      manager: "Gamma",
+      startBlock: 25532368,
+      allowed0: true,
+      allowed1: true,
+      address: "0xeBa559ec969BD2a6147Ad76Fccac5375121B4838",
+      token0: {
+        address: "0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
+      },
+      token1: {
+        address: "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+      },
+    },
     // ICHI Strategies
     {
       symbol: "USDC/WETH",
