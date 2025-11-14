@@ -10,8 +10,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-08",
       updatedAt: "2023-08-08",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WETH.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WETH.png",
     },
     {
       name: "Lynex",
@@ -19,8 +18,7 @@ export const tokens = {
       address: "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
 
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LYNX.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LYNX.png",
     },
     {
       name: "Options Lynex",
@@ -28,8 +26,7 @@ export const tokens = {
       address: "0x63349BA5E1F71252eCD56E8F950D1A518B400b60",
 
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/oLYNX.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/oLYNX.png",
     },
     {
       name: "Bribe veLYNX",
@@ -37,8 +34,7 @@ export const tokens = {
       address: "0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B",
 
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/bveLYNX.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/bveLYNX.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -159,8 +155,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-08",
       updatedAt: "2023-08-08",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/PEPE.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/PEPE.png",
       extension: {
         rootChainId: 1,
         rootChainURI: "https://etherscan.io/block/0",
@@ -214,8 +209,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-08",
       updatedAt: "2023-08-08",
-      logoURI:
-        "https://s3.coinmarketcap.com/static/img/portraits/62da512ff192d82df80012bb.png",
+      logoURI: "https://s3.coinmarketcap.com/static/img/portraits/62da512ff192d82df80012bb.png",
       extension: {
         rootChainId: 1,
         rootChainURI: "https://etherscan.io/block/0",
@@ -233,8 +227,7 @@ export const tokens = {
       decimals: 6,
       createdAt: "2023-08-08",
       updatedAt: "2025-02-11",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/USDT.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png",
       extension: {
         rootChainId: 1,
         rootChainURI: "https://etherscan.io/block/0",
@@ -270,8 +263,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/USDe.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDe.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -284,8 +276,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/sUSDe.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/sUSDe.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -316,8 +307,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/solv_btc.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/solv_btc.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -330,8 +320,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/MBTC.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/MBTC.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -362,8 +351,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2024-10-04",
       updatedAt: "2024-10-04",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FOXY.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/FOXY.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -376,8 +364,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2024-10-04",
       updatedAt: "2024-10-04",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ZERO.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ZERO.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -390,8 +377,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2024-17-04",
       updatedAt: "2024-17-04",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ANKR.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ANKR.png",
       extension: {
         rootChainId: 1,
         rootChainURI: "https://etherscan.io/block/0",
@@ -409,8 +395,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2024-17-04",
       updatedAt: "2024-17-04",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ankrETH.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ankrETH.png",
       extension: {
         rootChainId: 1,
         rootChainURI: "https://etherscan.io/block/0",
@@ -427,8 +412,7 @@ export const tokens = {
       decimals: 6,
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
-      logoURI:
-        "https://assets.coingecko.com/coins/images/30168/large/USDT_.png",
+      logoURI: "https://assets.coingecko.com/coins/images/30168/large/USDT_.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -452,8 +436,7 @@ export const tokens = {
       decimals: 6,
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
-      logoURI:
-        "https://assets.coingecko.com/coins/images/25757/large/USD__logo.png",
+      logoURI: "https://assets.coingecko.com/coins/images/25757/large/USD__logo.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -465,8 +448,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
-      logoURI:
-        "https://storage.googleapis.com/ks-setting-1d682dca/dee351e5-ff61-4a8f-994d-82f3078119661696785945490.png",
+      logoURI: "https://storage.googleapis.com/ks-setting-1d682dca/dee351e5-ff61-4a8f-994d-82f3078119661696785945490.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -478,8 +460,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ezETH.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ezETH.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -503,8 +484,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/uniETH.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/uniETH.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -516,8 +496,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/inETH.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/inETH.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -529,8 +508,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/weETH.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/weETH.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -540,8 +518,7 @@ export const tokens = {
       name: "Mendi Finance",
       symbol: "MENDI",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/MENDI.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/MENDI.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -577,8 +554,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FBOMB.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/FBOMB.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -590,8 +566,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FLY.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/FLY.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -603,8 +578,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WDAI.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WDAI.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -640,8 +614,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/NDX.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/NDX.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -653,8 +626,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/iNDX.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/iNDX.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -666,8 +638,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-04",
       updatedAt: "2023-08-04",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/EURO3.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/EURO3.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -698,8 +669,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-11-20",
       updatedAt: "2023-11-20",
-      logoURI:
-        "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png",
+      logoURI: "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png",
     },
     {
       chainURI: "https://lineascan.build/block/0",
@@ -712,8 +682,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-15",
       updatedAt: "2023-08-15",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/wstETH.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/wstETH.png",
       extension: {
         rootChainId: 1,
         rootChainURI: "https://etherscan.io/block/0",
@@ -725,16 +694,14 @@ export const tokens = {
       symbol: "DUSD",
       address: "0xa88b54e6b76fb97cdb8ecae868f1458e18a953f4",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/DUSD.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/DUSD.png",
     },
     {
       name: "Metavualt Trade",
       symbol: "MVX",
       address: "0x0018D96C579121a94307249d47F053E2D687b5e7",
       decimals: 18,
-      logoURI:
-        "https://s3.coinmarketcap.com/static-gravity/image/d638d1a668254baa9aff4c2c44d095cd.png",
+      logoURI: "https://s3.coinmarketcap.com/static-gravity/image/d638d1a668254baa9aff4c2c44d095cd.png",
     },
     {
       name: "Axelar Wrapped LQDR",
@@ -759,8 +726,7 @@ export const tokens = {
       address: "0xe07C2bdbb8C787962C2C6e93C11a152110E7E4d2",
 
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LINUS.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LINUS.png",
     },
     {
       name: "fMemeFi Token",
@@ -769,8 +735,7 @@ export const tokens = {
         "https://lineascan.build/address/0xa5511f1fb10cb14f6683db7f63bd34c371a19743",
       address: "0xa5511f1fb10cb14f6683db7f63bd34c371a19743",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FMEMEFI.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/FMEMEFI.png",
     },
     {
       name: "LYVE Debt Token",
@@ -779,8 +744,7 @@ export const tokens = {
         "https://lineascan.build/address/0xb20116ee399f15647bb1eef9a74f6ef3b58bc951",
       address: "0xb20116ee399f15647bb1eef9a74f6ef3b58bc951",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LYU.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LYU.png",
     },
     {
       name: "NotWifGary",
@@ -789,8 +753,7 @@ export const tokens = {
         "https://lineascan.build/address/0xE2a6e74118E708f7652FC4c74D2F9Ee5Fa210563",
       address: "0xE2a6e74118E708f7652FC4c74D2F9Ee5Fa210563",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/NWG.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/NWG.png",
     },
     {
       name: "CROAK",
@@ -799,8 +762,7 @@ export const tokens = {
         "https://lineascan.build/token/0xacb54d07ca167934f57f829bee2cc665e1a5ebef",
       address: "0xaCb54d07cA167934F57F829BeE2cC665e1A5ebEF",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/CROAK.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/CROAK.png",
     },
     {
       name: "Dogecoin",
@@ -818,8 +780,7 @@ export const tokens = {
         "https://lineascan.build/address/0x373d04a7f3594ff9011af5084587182c0056721e",
       address: "0x373d04a7f3594ff9011af5084587182c0056721e",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/FAITH.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/FAITH.png",
     },
     {
       name: "ONEPUNCH",
@@ -828,8 +789,7 @@ export const tokens = {
         "https://lineascan.build/address/0x1F63D0EC7193964142ef6B13d901462d0E5CbB50",
       address: "0x1F63D0EC7193964142ef6B13d901462d0E5CbB50",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ONEPUNCH.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ONEPUNCH.png",
     },
     {
       name: "ARYZE eUSD",
@@ -838,8 +798,7 @@ export const tokens = {
         "https://lineascan.build/address/0xBA2f9e7ae9F5f03FCe7D560f986743659e768bbF",
       address: "0xBA2f9e7ae9F5f03FCe7D560f986743659e768bbF",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/eUSD.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/eUSD.png",
     },
     {
       name: "Bullinea",
@@ -848,8 +807,7 @@ export const tokens = {
         "https://lineascan.build/address/0x7e37624613ebc2DeeA15b8e710EDFD373175662A",
       address: "0x7e37624613ebc2DeeA15b8e710EDFD373175662A",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/BULL.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/BULL.png",
     },
     {
       name: "Lineape",
@@ -858,8 +816,7 @@ export const tokens = {
         "https://lineascan.build/address/0x93b836057989689eB89204dF10D0519B99b9EB85",
       address: "0x93b836057989689eB89204dF10D0519B99b9EB85",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/APE.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/APE.png",
     },
     {
       name: "Lucia",
@@ -868,8 +825,7 @@ export const tokens = {
         "https://lineascan.build/address/0x4Fa0dE5d9217722A37247808c08Cde1C976879b9",
       address: "0x4Fa0dE5d9217722A37247808c08Cde1C976879b9",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LUCIA.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LUCIA.png",
     },
     {
       name: "frogwifcat",
@@ -878,8 +834,7 @@ export const tokens = {
         "https://lineascan.build/address/0x889400fB9BDE04BFdf353cC718fED3d6dDcF735F",
       address: "0x889400fB9BDE04BFdf353cC718fED3d6dDcF735F",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WEF.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WEF.png",
     },
     {
       name: "Dachshund Coin",
@@ -888,8 +843,7 @@ export const tokens = {
         "https://lineascan.build/address/0xce28211Ed1b2Eeb0C909C83D273DeBE041A12EE9",
       address: "0xce28211Ed1b2Eeb0C909C83D273DeBE041A12EE9",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/HOTDOG.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/HOTDOG.png",
     },
     {
       name: "WeFi",
@@ -898,8 +852,7 @@ export const tokens = {
         "https://lineascan.build/address/0x60892e742d91d16Be2cB0ffE847e85445989e30B",
       address: "0x60892e742d91d16Be2cB0ffE847e85445989e30B",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WEFI.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WEFI.png",
     },
     {
       name: "Clip Finance",
@@ -908,8 +861,7 @@ export const tokens = {
         "https://lineascan.build/address/0x4Ea77a86d6E70FfE8Bb947FC86D68a7F086f198a",
       address: "0x4Ea77a86d6E70FfE8Bb947FC86D68a7F086f198a",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/CLIP.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/CLIP.png",
     },
     {
       name: "Unfettered Ecosystem",
@@ -918,8 +870,7 @@ export const tokens = {
         "https://lineascan.build/address/0xeC859566fC5d7ED84Ac823509F3f7db06C461b20",
       address: "0xeC859566fC5d7ED84Ac823509F3f7db06C461b20",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/SOULS.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/SOULS.png",
     },
     {
       name: "Alchemix",
@@ -928,8 +879,7 @@ export const tokens = {
         "https://lineascan.build/address/0x303c4F39EA359155C698807168e9Dc3aA1dF2b95",
       address: "0x303c4F39EA359155C698807168e9Dc3aA1dF2b95",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ALCX.svg",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ALCX.svg",
     },
     {
       name: "Alchemix USD",
@@ -938,8 +888,7 @@ export const tokens = {
         "https://lineascan.build/address/0x0E17934B9735D479B2388347fAeF0F4e58b9cc06",
       address: "0x0E17934B9735D479B2388347fAeF0F4e58b9cc06",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/alUSD.svg",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/alUSD.svg",
     },
     {
       name: "Alchemix ETH",
@@ -948,8 +897,7 @@ export const tokens = {
         "https://lineascan.build/address/0x303241e2B3b4aeD0bb0F8623e7442368FED8Faf3",
       address: "0x303241e2B3b4aeD0bb0F8623e7442368FED8Faf3",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/alETH.svg",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/alETH.svg",
     },
     {
       name: "Aryze",
@@ -958,8 +906,7 @@ export const tokens = {
         "https://lineascan.build/address/0x34B5c2936DAe6698e54781EDb8B1E69A2C2873F8",
       address: "0x34B5c2936DAe6698e54781EDb8B1E69A2C2873F8",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/RYZE.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/RYZE.png",
     },
     {
       name: "Impermax",
@@ -968,8 +915,7 @@ export const tokens = {
         "https://lineascan.build/address/0xcf0f95E34F25d1BB3D9cad3Cbb2EB40dAb7c3841",
       address: "0xcf0f95E34F25d1BB3D9cad3Cbb2EB40dAb7c3841",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/IBEX.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/IBEX.png",
     },
     {
       name: "LamboLlama",
@@ -978,8 +924,7 @@ export const tokens = {
         "https://lineascan.build/address/0x63cF844710BF16E42571839EdF0Bd807114060Bd",
       address: "0x63cF844710BF16E42571839EdF0Bd807114060Bd",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LLL.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LLL.png",
     },
     {
       name: "Donald Toad Coin",
@@ -989,8 +934,7 @@ export const tokens = {
       address: "0xEb1fD1dBB8aDDA4fa2b5A5C4bcE34F6F20d125D2",
 
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/DTC.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/DTC.png",
     },
     {
       name: "ALEX",
@@ -999,8 +943,7 @@ export const tokens = {
         "https://lineascan.build/address/0xdfd0660032c2D0D38a9092a43d1669D6568cAF71",
       address: "0xdfd0660032c2D0D38a9092a43d1669D6568cAF71",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ALEX.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ALEX.png",
     },
     {
       name: "aBTC",
@@ -1009,8 +952,7 @@ export const tokens = {
         "https://lineascan.build/address/0x7A087e75807F2E5143C161a817E64dF6dC5EAFe0",
       address: "0x7A087e75807F2E5143C161a817E64dF6dC5EAFe0",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/aBTC.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/aBTC.png",
     },
     {
       name: "ARYZE eGold",
@@ -1019,8 +961,7 @@ export const tokens = {
         "https://lineascan.build/address/0x0047C3c6D6A9537B2b5D2D969D44A8bEf5bC7067",
       address: "0x0047C3c6D6A9537B2b5D2D969D44A8bEf5bC7067",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/eGOLD.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/eGOLD.png",
     },
     {
       name: "Linpuss",
@@ -1029,18 +970,16 @@ export const tokens = {
         "https://lineascan.build/address/0x81BE2aCB2e9291dB6400f9f6a4D0f35f24de2E77",
       address: "0x81BE2aCB2e9291dB6400f9f6a4D0f35f24de2E77",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LPUSS.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LPUSS.png",
     },
     {
       name: "Lost In Never Ending Airdrop",
-      symbol: "LINEA",
+      symbol: "L.I.N.E.A",
       tokenId:
         "https://lineascan.build/address/0xb3B3CA7cb0BCCb6A9316764826324A312665DC53",
       address: "0xb3B3CA7cb0BCCb6A9316764826324A312665DC53",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LINEA.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LINEA.png",
     },
     {
       name: "DGAF",
@@ -1051,8 +990,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2025-02-21",
       updatedAt: "2025-02-21",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/DGAF.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/DGAF.png",
     },
     {
       name: "abcLYNX",
@@ -1063,8 +1001,40 @@ export const tokens = {
       decimals: 18,
       createdAt: "2025-03-17",
       updatedAt: "2025-03-17",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/abcLYNX.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/abcLYNX.png",
+    },
+    {
+      name: "Bank Of Linea",
+      symbol: "BOL",
+      tokenId:
+        "https://lineascan.build/address/0xb171EF5cD8d320D52F257924A0E0d41E6f5c40D9",
+      address: "0xb171EF5cD8d320D52F257924A0E0d41E6f5c40D9",
+      decimals: 18,
+      createdAt: "2025-05-20",
+      updatedAt: "2025-05-20",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/BOL.png",
+    },
+    {
+      name: "Linea",
+      symbol: "LINEA",
+      tokenId:
+        "https://lineascan.build/address/0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+      address: "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+      decimals: 18,
+      createdAt: "2025-09-09",
+      updatedAt: "2025-09-09",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LINEA-real.png",
+    },
+    {
+      name: "MetaMask USD",
+      symbol: "mUSD",
+      tokenId:
+        "https://lineascan.build/address/0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
+      address: "0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
+      decimals: 6,
+      createdAt: "2025-11-05",
+      updatedAt: "2025-11-05",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/mUSD.png",
     },
   ],
 
@@ -1079,8 +1049,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2024-03-20",
       updatedAt: "2024-03-20",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WETH.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WETH.png",
     },
     {
       chainURI: "https://explorer.testnet.zircuit.com/block/0",
@@ -1104,8 +1073,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2024-10-16",
       updatedAt: "2024-10-16",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/wstETH.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/wstETH.png",
     },
     {
       chainURI: "https://explorer.testnet.zircuit.com/block/0",
@@ -1117,8 +1085,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2024-11-21",
       updatedAt: "2024-11-21",
-      logoURI:
-        "https://storage.googleapis.com/ks-setting-1d682dca/dee351e5-ff61-4a8f-994d-82f3078119661696785945490.png",
+      logoURI: "https://storage.googleapis.com/ks-setting-1d682dca/dee351e5-ff61-4a8f-994d-82f3078119661696785945490.png",
     },
     {
       chainURI: "https://explorer.testnet.zircuit.com/block/0",
@@ -1130,8 +1097,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2024-11-21",
       updatedAt: "2024-11-21",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ezETH.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ezETH.png",
     },
     {
       chainURI: "https://explorer.zircuit.com/block/0",
@@ -1143,8 +1109,7 @@ export const tokens = {
       decimals: 8,
       createdAt: "2024-11-28",
       updatedAt: "2024-11-28",
-      logoURI:
-        "https://assets.coingecko.com/coins/images/7598/standard/wrapped_bitcoin_wbtc.png?1696507857",
+      logoURI: "https://assets.coingecko.com/coins/images/7598/standard/wrapped_bitcoin_wbtc.png?1696507857",
     },
     {
       chainURI: "https://explorer.zircuit.com/block/0",
@@ -1156,8 +1121,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2024-11-07",
       updatedAt: "2024-11-07",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/weETH.svg",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/weETH.svg",
     },
     {
       chainURI: "https://explorer.zircuit.com/block/0",
@@ -1169,8 +1133,7 @@ export const tokens = {
       decimals: 6,
       createdAt: "2024-11-28",
       updatedAt: "2025-02-11",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/USDT.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png",
     },
     {
       chainURI: "https://explorer.zircuit.com/block/0",
@@ -1182,8 +1145,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2024-11-21",
       updatedAt: "2024-11-21",
-      logoURI:
-        "https://assets.coingecko.com/coins/images/37919/standard/rseth.png",
+      logoURI: "https://assets.coingecko.com/coins/images/37919/standard/rseth.png",
     },
     {
       chainURI: "https://explorer.zircuit.com/block/0",
@@ -1205,8 +1167,7 @@ export const tokens = {
       name: "Zircuit Token",
       symbol: "ZRC",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/ZRC.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ZRC.png",
     },
     {
       chainURI: "https://explorer.zircuit.com/block/0",
@@ -1216,8 +1177,7 @@ export const tokens = {
       name: "Gud.Tech",
       symbol: "GUD",
       decimals: 18,
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/GUD.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/GUD.png",
     },
     {
       chainURI: "https://explorer.zircuit.com/block/0",
@@ -1229,8 +1189,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2024-12-10",
       updatedAt: "2024-12-17",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/bveOCX.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/bveOCX.png",
     },
     {
       chainURI: "https://explorer.zircuit.com/block/0",
@@ -1242,8 +1201,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2024-03-20",
       updatedAt: "2024-03-20",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/OCX.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/OCX.png",
     },
     {
       chainURI: "https://explorer.zircuit.com/block/0",
@@ -1255,8 +1213,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2024-03-20",
       updatedAt: "2024-03-20",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/oOCX.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/oOCX.png",
     },
   ],
 
@@ -1271,8 +1228,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2025-02-11",
       updatedAt: "2025-02-11",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WETH.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WETH.png",
     },
     {
       chainURI: "https://polygonscan.com/block/0",
@@ -1284,8 +1240,7 @@ export const tokens = {
       decimals: 6,
       createdAt: "2025-02-11",
       updatedAt: "2025-02-11",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/USDT.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png",
     },
     {
       chainURI: "https://polygonscan.com/block/0",
@@ -1345,8 +1300,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2025-02-11",
       updatedAt: "2025-03-19",
-      logoURI:
-        "https://assets.coingecko.com/coins/images/14073/large/matic.png?1696513797",
+      logoURI: "https://assets.coingecko.com/coins/images/14073/large/matic.png?1696513797",
     },
     {
       chainURI: "https://polygonscan.com/block/0",
@@ -1358,8 +1312,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2025-03-19",
       updatedAt: "2025-03-19",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/AAVE.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/AAVE.png",
     },
     {
       chainURI: "https://polygonscan.com/block/0",
@@ -1371,8 +1324,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2025-04-14",
       updatedAt: "2025-04-14",
-      logoURI:
-        "https://assets.coingecko.com/coins/images/11224/standard/0x18084fba666a33d37592fa2633fd49a74dd93a88.png",
+      logoURI: "https://assets.coingecko.com/coins/images/11224/standard/0x18084fba666a33d37592fa2633fd49a74dd93a88.png",
     },
     {
       chainURI: "https://polygonscan.com/block/0",
@@ -1384,8 +1336,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2025-04-14",
       updatedAt: "2025-04-14",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/TRUMATIC.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/TRUMATIC.png",
     },
     {
       chainURI: "https://polygonscan.com/block/0",
@@ -1397,8 +1348,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2025-04-22",
       updatedAt: "2025-04-22",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/BRZ.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/BRZ.png",
     },
     {
       chainURI: "https://polygonscan.com/block/0",
@@ -1410,8 +1360,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2025-03-19",
       updatedAt: "2025-03-19",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LINK.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LINK.png",
     },
     {
       chainURI: "https://polygonscan.com/block/0",
@@ -1423,8 +1372,31 @@ export const tokens = {
       decimals: 18,
       createdAt: "2025-03-19",
       updatedAt: "2025-03-19",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/UNI.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/UNI.png",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
+      address: "0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
+      name: "Solv BTC",
+      symbol: "SolvBTC",
+      decimals: 18,
+      createdAt: "2025-05-15",
+      updatedAt: "2025-05-15",
+      logoURI: "https://coin-images.coingecko.com/coins/images/36800/large/solvBTC.png?1719810684",
+    },
+    {
+      chainURI: "https://polygonscan.com/block/0",
+      tokenId:
+        "https://polygonscan.com/address/0xc99F5c922DAE05B6e2ff83463ce705eF7C91F077",
+      address: "0xc99F5c922DAE05B6e2ff83463ce705eF7C91F077",
+      name: "Staked SolvBTC",
+      symbol: "xSolvBTC",
+      decimals: 18,
+      createdAt: "2025-05-15",
+      updatedAt: "2025-05-15",
+      logoURI: "https://coin-images.coingecko.com/coins/images/39384/large/xSolvBTC.png?1744170824",
     },
     {
       chainURI: "https://polygonscan.com/block/0",
@@ -1475,6 +1447,836 @@ export const tokens = {
       logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/7046.png",
     },
   ],
+  130: [
+    {
+      name: "Catex",
+      symbol: "CATX",
+      address: "0x756ee6857F915A2b5366F2Ef56d8D13857aef8ad",
+      decimals: 18,
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/CATX.png",
+    },
+    {
+      name: "Options Catex",
+      symbol: "oCATX",
+      address: "0xeD67a6CbF4b9f3D0D818E158F5E7f4dFB3166783",
+      decimals: 18,
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists/tokens/assets/oCATX.png",
+    },
+    {
+      name: "Bribe veCATX",
+      symbol: "bveCATX",
+      address: "0x7169a1874d4716094bdcE1b86a5cd00212CA1319",
+      decimals: 18,
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/bveCATX.png",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0x078d782b760474a361dda0af3839290b0ef57ad6",
+      address: "0x078d782b760474a361dda0af3839290b0ef57ad6",
+      name: "USDC",
+      symbol: "USDC",
+      decimals: 6,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0x20cab320a855b39f724131c69424240519573f81",
+      address: "0x20cab320a855b39f724131c69424240519573f81",
+      name: "Dai Stablecoin",
+      symbol: "DAI",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0x8f187aa05619a017077f5308904739877ce9ea21",
+      address: "0x8f187aa05619a017077f5308904739877ce9ea21",
+      name: "Uniswap",
+      symbol: "UNI",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/UNI.png",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0x9151434b16b9763660705744891fa906f660ecc5",
+      address: "0x9151434b16b9763660705744891fa906f660ecc5",
+      name: "USD₮0",
+      symbol: "USD₮0",
+      decimals: 6,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://assets.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183",
+    },
+    {
+      tokenId:
+        "https://uniscan.xyz/address/0x80eede496655fb9047dd39d9f418d5483ed600df",
+      address: "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      name: "Frax USD",
+      symbol: "frxUSD",
+      decimals: 18,
+      createdAt: "2025-08-23",
+      updatedAt: "2025-08-23",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/FRXUSD.png",
+    },
+    {
+      tokenId:
+        "https://uniscan.xyz/address/0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      address: "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      name: "Wrapped FRAX",
+      symbol: "WFRAX",
+      decimals: 18,
+      createdAt: "2025-08-23",
+      updatedAt: "2025-08-23",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WFRAX.png",
+    },
+    {
+      tokenId:
+        "https://uniscan.xyz/address/0xE9185Ee218cae427aF7B9764A011bb89FeA761B4",
+      address: "0xE9185Ee218cae427aF7B9764A011bb89FeA761B4",
+      name: "Brazilian Digital",
+      symbol: "BRZ",
+      decimals: 18,
+      createdAt: "2025-07-01",
+      updatedAt: "2025-07-01",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/BRZ.png",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0xe9c43e09c5fa733bcc2aeaa96063a4a60147aa09",
+      address: "0xe9c43e09c5fa733bcc2aeaa96063a4a60147aa09",
+      name: "Euler",
+      symbol: "EUL",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://assets.coingecko.com/coins/images/26149/large/Coingecko_logo_%281%29.png?1706026067",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0x03c2868c6d7fd27575426f395ee081498b1120dd",
+      address: "0x03c2868c6d7fd27575426f395ee081498b1120dd",
+      name: "Rigo Token",
+      symbol: "GRG",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://assets.coingecko.com/coins/images/1532/large/Symbol-RigoblockRGB.png?1696502572",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
+      address: "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
+      name: "BetSwirl v2",
+      symbol: "BETS",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://assets.coingecko.com/coins/images/26618/large/icon_200.png?1696525691",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0x39538c45f6fd0b0dd3e595ed1c2671875fee9f17",
+      address: "0x39538c45f6fd0b0dd3e595ed1c2671875fee9f17",
+      name: "Hooffather",
+      symbol: "HOOF",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://assets.coingecko.com/coins/images/55345/large/Logo_%282%29.png?1745565191",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0x4200000000000000000000000000000000000006",
+      address: "0x4200000000000000000000000000000000000006",
+      name: "Wrapped Ether",
+      symbol: "WETH",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WETH.png",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0xc02fe7317d4eb8753a02c35fe019786854a92001",
+      address: "0xc02fe7317d4eb8753a02c35fe019786854a92001",
+      name: "Wrapped Liquid Staked Ether 2.0",
+      symbol: "wstETH",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/wstETH.png",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0x81908bbaad3f6fc74093540ab2e9b749bb62aa0d",
+      address: "0x81908bbaad3f6fc74093540ab2e9b749bb62aa0d",
+      name: "Venus XVS",
+      symbol: "XVS",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://assets.coingecko.com/coins/images/12677/large/XVS_Token.jpg?1727454303",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0x2416092f143378750bb29b79ed961ab195cceea5",
+      address: "0x2416092f143378750bb29b79ed961ab195cceea5",
+      name: "Renzo Restaked ETH",
+      symbol: "ezETH",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ezETH.png",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0xc3eACf0612346366Db554C991D7858716db09f58",
+      address: "0xc3eACf0612346366Db554C991D7858716db09f58",
+      name: "KelpDao Restaked ETH",
+      symbol: "rsETH",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/29242.png",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0x7DCC39B4d1C53CB31e1aBc0e358b43987FEF80f7",
+      address: "0x7DCC39B4d1C53CB31e1aBc0e358b43987FEF80f7",
+      name: "Wrapped eETH",
+      symbol: "weETH",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/weETH.png",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/token/0x927b51f251480a681271180da4de28d44ec4afb8", //weird ticker for BTC
+      address: "0x927b51f251480a681271180da4de28d44ec4afb8",
+      name: "Wrapped BTC",
+      symbol: "WBTC",
+      decimals: 8,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0x15D0e0c55a3E7eE67152aD7E89acf164253Ff68d",
+      address: "0x15D0e0c55a3E7eE67152aD7E89acf164253Ff68d",
+      name: "HYPE",
+      symbol: "HYPE",
+      decimals: 18,
+      createdAt: "2025-10-10",
+      updatedAt: "2025-10-10",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/HYPE.png",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0xbdE8A5331E8Ac4831cf8ea9e42e229219EafaB97",
+      address: "0xbdE8A5331E8Ac4831cf8ea9e42e229219EafaB97",
+      name: "Wrapped SOL",
+      symbol: "SOL",
+      decimals: 9,
+      createdAt: "2025-10-10",
+      updatedAt: "2025-10-10",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/SOL.png",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0x2615a94df961278DcbC41Fb0a54fEc5f10a693aE",
+      address: "0x2615a94df961278DcbC41Fb0a54fEc5f10a693aE",
+      name: "XRP",
+      symbol: "XRP",
+      decimals: 18,
+      createdAt: "2025-11-05",
+      updatedAt: "2025-11-05",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/XRP.png",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0x12E96C2BFEA6E835CF8Dd38a5834fa61Cf723736",
+      address: "0x12E96C2BFEA6E835CF8Dd38a5834fa61Cf723736",
+      name: "Dogecoin",
+      symbol: "DOGE",
+      decimals: 18,
+      createdAt: "2025-11-05",
+      updatedAt: "2025-11-05",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/DOGE.png",
+    },
+    {
+      chainURI: "https://uniscan.xyz/block/0",
+      tokenId:
+        "https://uniscan.xyz/address/0x83f31af747189c2FA9E5DeB253200c505eff6ed2",
+      address: "0x83f31af747189c2FA9E5DeB253200c505eff6ed2",
+      name: "ZCash",
+      symbol: "uZEC",
+      decimals: 18,
+      createdAt: "2025-11-05",
+      updatedAt: "2025-11-05",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ZEC.png",
+    },
+  ],
+  9745: [
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+      address: "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+      name: "USDT0",
+      symbol: "USDT0",
+      decimals: 6,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT0.svg",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      address: "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      name: "USDe",
+      symbol: "USDe",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDe.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      address: "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      name: "Staked USDe",
+      symbol: "sUSDe",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/sUSDe.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x9895D81bB462A195b4922ED7De0e3ACD007c32CB",
+      address: "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB",
+      name: "WETH",
+      symbol: "WETH",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WETH.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0xA3D68b74bF0528fdD07263c60d6488749044914b",
+      address: "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+      name: "Wrapped eETH",
+      symbol: "weETH",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/weETH.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF",
+      address: "0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF",
+      name: "USDai",
+      symbol: "USDai",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDai.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x6100E367285b01F48D07953803A2d8dCA5D19873",
+      address: "0x6100E367285b01F48D07953803A2d8dCA5D19873",
+      name: "Wrapped XPL",
+      symbol: "WXPL",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WXPL.svg",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x1B64B9025EEbb9A6239575dF9Ea4b9Ac46D4d193",
+      address: "0x1B64B9025EEbb9A6239575dF9Ea4b9Ac46D4d193",
+      name: "XAUt0",
+      symbol: "XAUt0",
+      decimals: 6,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/XAUt0.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x0B2b2B2076d95dda7817e785989fE353fe955ef9",
+      address: "0x0B2b2B2076d95dda7817e785989fE353fe955ef9",
+      name: "Staked USDai",
+      symbol: "sUSDai",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/sUSDai.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0xd1074E0AE85610dDBA0147e29eBe0D8E5873a000",
+      address: "0xd1074E0AE85610dDBA0147e29eBe0D8E5873a000",
+      name: "Plasma USD Vault",
+      symbol: "PlasmaUSD",
+      decimals: 6,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x5E494e8912319cefb1d4Fa516807bB65A8CB9E40",
+      address: "0x5E494e8912319cefb1d4Fa516807bB65A8CB9E40",
+      name: "Fluid WETH",
+      symbol: "fWETH",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/fWETH.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0xC4374775489CB9C56003BF2C9b12495fC64F0771",
+      address: "0xC4374775489CB9C56003BF2C9b12495fC64F0771",
+      name: "Syrup USDT",
+      symbol: "syrupUSDT",
+      decimals: 6,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/syrupUSDT.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+      address: "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+      name: "ENA",
+      symbol: "ENA",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ENA.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x17Bac5F906c9A0282aC06a59958D85796c831f24",
+      address: "0x17Bac5F906c9A0282aC06a59958D85796c831f24",
+      name: "Pendle",
+      symbol: "PENDLE",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/PENDLE.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x133a09Dd6169f6F0509658a911F2a82Fc8ab6A0D",
+      address: "0x133a09Dd6169f6F0509658a911F2a82Fc8ab6A0D",
+      name: "Ionex TOKEN",
+      symbol: "INX",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/INX.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0xF94451F19294dA68a40E4DD52cfaC7c8bD66B93c",
+      address: "0xF94451F19294dA68a40E4DD52cfaC7c8bD66B93c",
+      name: "Ionex Option TOKEN",
+      symbol: "oINX",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/oINX.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0xA5Df3bA1e6ceacD92700AF088c565D4f85591342",
+      address: "0xA5Df3bA1e6ceacD92700AF088c565D4f85591342",
+      name: "Ionex Bribe Vote Escrow",
+      symbol: "bveINX",
+      decimals: 18,
+      createdAt: "2025-01-27",
+      updatedAt: "2025-01-27",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/bveINX.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0xe561fe05c39075312aa9bc6af79ddae981461359",
+      address: "0xe561fe05c39075312aa9bc6af79ddae981461359",
+      name: "rsETHWrapper",
+      symbol: "wrsETH",
+      decimals: 18,
+      createdAt: "2025-10-03",
+      updatedAt: "2025-10-03",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/wrsETH.png",
+    },
+    {
+      chainURI: "https://plasmascan.to/block/0",
+      tokenId:
+        "https://plasmascan.to/address/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c",
+      address: "0x6eaf19b2fc24552925db245f9ff613157a7dbb4c",
+      name: "Stream: Susd Vault",
+      symbol: "xUSD",
+      decimals: 18,
+      createdAt: "2025-10-03",
+      updatedAt: "2025-10-03",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/xUSD.png",
+    },
+  ],
+  239: [
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0xB63B9f0eb4A6E6f191529D71d4D88cc8900Df2C9",
+      address: "0xB63B9f0eb4A6E6f191529D71d4D88cc8900Df2C9",
+      name: "Wrapped TAC",
+      symbol: "WTAC",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WTAC.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0x61D66bC21fED820938021B06e9b2291f3FB91945",
+      address: "0x61D66bC21fED820938021B06e9b2291f3FB91945",
+      name: "Wrapped ETH",
+      symbol: "WETH",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WETH.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0xb76d91340F5CE3577f0a056D29f6e3Eb4E88B140",
+      address: "0xb76d91340F5CE3577f0a056D29f6e3Eb4E88B140",
+      name: "TON Token",
+      symbol: "TON",
+      decimals: 9,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/TON.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0xAF988C3f7CB2AceAbB15f96b19388a259b6C438f",
+      address: "0xAF988C3f7CB2AceAbB15f96b19388a259b6C438f",
+      name: "Tether USDT",
+      symbol: "USDT",
+      decimals: 6,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
+      address: "0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
+      name: "Solv BTC",
+      symbol: "SolvBTC",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/solvBTC.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0xc99F5c922DAE05B6e2ff83463ce705eF7C91F077",
+      address: "0xc99F5c922DAE05B6e2ff83463ce705eF7C91F077",
+      name: "xSolvBTC",
+      symbol: "xSolvBTC",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/xSolvBTC.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0xF9775085d726E782E83585033B58606f7731AB18",
+      address: "0xF9775085d726E782E83585033B58606f7731AB18",
+      name: "uniBTC",
+      symbol: "uniBTC",
+      decimals: 8,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/uniBTC.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0x4CBE838E2BD3B46247f80519B6aC79363298aa09",
+      address: "0x4CBE838E2BD3B46247f80519B6aC79363298aa09",
+      name: "SatLayer uniBTC",
+      symbol: "satUniBTC",
+      decimals: 8,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/default.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0xe82dbD543FD729418613d68Cd1E8FC67b0f46E31",
+      address: "0xe82dbD543FD729418613d68Cd1E8FC67b0f46E31",
+      name: "Merlin's Seal BTC",
+      symbol: "M-BTC",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/MBTC.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0xAf368c91793CB22739386DFCbBb2F1A9e4bCBeBf",
+      address: "0xAf368c91793CB22739386DFCbBb2F1A9e4bCBeBf",
+      name: "Wrapped liquid staked Ether 2.0",
+      symbol: "wstETH",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/wstETH.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+      address: "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+      name: "Lombard Staked Bitcoin",
+      symbol: "LBTC",
+      decimals: 8,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LBTC.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0x7048c9e4aBD0cf0219E95a17A8C6908dfC4f0Ee4",
+      address: "0x7048c9e4aBD0cf0219E95a17A8C6908dfC4f0Ee4",
+      name: "Coinbase Wrapped BTC",
+      symbol: "cbBTC",
+      decimals: 8,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/cbBTC.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0x37D6382B6889cCeF8d6871A8b60E667115eDDBcF",
+      address: "0x37D6382B6889cCeF8d6871A8b60E667115eDDBcF",
+      name: "pufETH",
+      symbol: "pufETH",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/pufETH.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0xb1b385542B6E80F77B94393Ba8342c3Af699f15c",
+      address: "0xb1b385542B6E80F77B94393Ba8342c3Af699f15c",
+      name: "Resolv USD",
+      symbol: "USR",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USR.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0x51A30E647D33A044967FA3DBb04d6ED6F45455F6",
+      address: "0x51A30E647D33A044967FA3DBb04d6ED6F45455F6",
+      name: "USN",
+      symbol: "USN",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USN.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0x5Ced7F73B76A555CCB372cc0F0137bEc5665F81E",
+      address: "0x5Ced7F73B76A555CCB372cc0F0137bEc5665F81E",
+      name: "Staked USN",
+      symbol: "sUSN",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/sUSN.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0x9bB6983Ca454320BD8691409690B4FCCD489EE96",
+      address: "0x9bB6983Ca454320BD8691409690B4FCCD489EE96",
+      name: "Usual USD",
+      symbol: "USD0",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USD0.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0xD44F691aeD69fe43180B95b6F82f89c18Fb93094",
+      address: "0xD44F691aeD69fe43180B95b6F82f89c18Fb93094",
+      name: "Tonstakers TON",
+      symbol: "tsTON",
+      decimals: 9,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/tsTON.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0x1791BAff6a5e2F2A1340e8B7C1EA2B0c1E2DD1ea",
+      address: "0x1791BAff6a5e2F2A1340e8B7C1EA2B0c1E2DD1ea",
+      name: "USD0 Liquid Bond",
+      symbol: "USD0++",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USD0++.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0x6bedE1c6009a78c222D9BDb7974bb67847fdB68c",
+      address: "0x6bedE1c6009a78c222D9BDb7974bb67847fdB68c",
+      name: "US Bitcoin Dollar",
+      symbol: "USBD",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/default.png",
+    },
+    {
+      chainURI: "https://explorer.tac.build/block/0",
+      tokenId:
+        "https://explorer.tac.build/address/0x27e4Ade13d78Aad45bea31D448f5504031e4871E",
+      address: "0x27e4Ade13d78Aad45bea31D448f5504031e4871E",
+      name: "dogwifhat",
+      symbol: "WIF",
+      decimals: 18,
+      createdAt: "2025-05-19",
+      updatedAt: "2025-05-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WIF.png",
+    },
+  ],
+  1776: [
+    // {
+    //   chainURI: "https://blockscout.injective.network/block/0",
+    //   tokenId:
+    //     "https://blockscout.injective.network/address/0x5d5D7Cb09d84024733A9433F54ceDe312ae52832",
+    //   address: "0x5d5D7Cb09d84024733A9433F54ceDe312ae52832",
+    //   name: "Pumex",
+    //   symbol: "PMX",
+    //   decimals: 18,
+    //   createdAt: "2025-10-16",
+    //   updatedAt: "2025-10-16",
+    //   logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@feat/pumex-mainnet/tokens/assets/PMX.png",
+    // },
+    {
+      chainURI: "https://blockscout.injective.network/block/0",
+      tokenId:
+        "https://blockscout.injective.network/address/0x88f7F2b685F9692caf8c478f5BADF09eE9B1Cc13",
+      address: "0x88f7F2b685F9692caf8c478f5BADF09eE9B1Cc13",
+      name: "USDT",
+      symbol: "USDT",
+      decimals: 6,
+      createdAt: "2025-10-16",
+      updatedAt: "2025-10-16",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png",
+    },
+    {
+      chainURI: "https://blockscout.injective.network/block/0",
+      tokenId:
+        "https://blockscout.injective.network/address/0x0000000088827d2d103ee2d9A6b781773AE03FfB",
+      address: "0x0000000088827d2d103ee2d9A6b781773AE03FfB",
+      name: "Wrapped INJ",
+      symbol: "WINJ",
+      decimals: 18,
+      createdAt: "2025-10-16",
+      updatedAt: "2025-10-16",
+      logoURI: "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212",
+    },
+    {
+      chainURI: "https://blockscout.injective.network/block/0",
+      tokenId:
+        "https://blockscout.injective.network/address/0x2a25fbD67b3aE485e461fe55d9DbeF302B7D3989",
+      address: "0x2a25fbD67b3aE485e461fe55d9DbeF302B7D3989",
+      name: "USDC",
+      symbol: "USDC",
+      decimals: 6,
+      createdAt: "2025-11-04",
+      updatedAt: "2025-11-04",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    },
+  ],
   1439: [
     {
       chainURI: "https://testnet.blockscout.injective.network",
@@ -1510,8 +2312,7 @@ export const tokens = {
       decimals: 6,
       createdAt: "2025-06-19",
       updatedAt: "2025-06-19",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/USDT.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png",
     },
     {
       chainURI: "https://testnet.blockscout.injective.network",
@@ -1535,8 +2336,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2025-06-19",
       updatedAt: "2025-06-19",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/PMX.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/PMX.png",
     },
     {
       chainURI: "https://testnet.blockscout.injective.network",
@@ -1545,8 +2345,7 @@ export const tokens = {
       address: "0x239a769681Aa0D14eF8349F999800E819dDBdA63",
       createdAt: "2025-06-19",
       updatedAt: "2025-06-19",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/bvePMX.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/bvePMX.png",
       name: "bvePMX",
       symbol: "bvePMX",
       decimals: 18,
@@ -1558,8 +2357,7 @@ export const tokens = {
       address: "0xCe5e886C7456FcBc55E9F0C67C9aE741e56D70e3",
       createdAt: "2025-06-19",
       updatedAt: "2025-06-19",
-      logoURI:
-        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/oPMX.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/oPMX.png",
       name: "oPMX",
       symbol: "oPMX",
       decimals: 18,
@@ -1574,8 +2372,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2025-05-07",
       updatedAt: "2025-05-07",
-      logoURI:
-        "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212",
+      logoURI: "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212",
     },
     {
       chainURI: "https://testnet.blockscout.injective.network",
@@ -1587,8 +2384,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2025-06-19",
       updatedAt: "2025-06-19",
-      logoURI:
-        "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212",
+      logoURI: "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212",
     },
   ],
 };

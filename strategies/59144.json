@@ -361,6 +361,83 @@
     }
   },
   {
+    "symbol": "USDC/LINEA",
+    "lpSymbol": "USDC/LINEA",
+    "title": "Gamma (Narrow)",
+    "type": "Narrow",
+    "variant": "algebraV3",
+    "strategist": "Gamma",
+    "manager": "Gamma",
+    "startBlock": 23157197,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0xd42096CCc15cAF9ee10003648871C29F196197c3",
+    "token0": {
+      "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff"
+    },
+    "token1": {
+      "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04"
+    },
+    "promoted": true
+  },
+  {
+    "symbol": "LINEA/WETH",
+    "lpSymbol": "LINEA/WETH",
+    "title": "Gamma (Narrow)",
+    "type": "Narrow",
+    "variant": "algebraV3",
+    "strategist": "Gamma",
+    "manager": "Gamma",
+    "startBlock": 23121478,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x7aE5112D208F0B9578346e6Ac6cff9f26ECc417F",
+    "token0": {
+      "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04"
+    },
+    "token1": {
+      "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+    }
+  },
+  {
+    "symbol": "LINEA/USDT",
+    "lpSymbol": "LINEA/USDT",
+    "title": "Gamma (Narrow)",
+    "type": "Narrow",
+    "variant": "algebraV3",
+    "strategist": "Gamma",
+    "manager": "Gamma",
+    "startBlock": 23158822,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0xf260CDB0A93D19117223fdEC02e4Fc6A8Ba281Cb",
+    "token0": {
+      "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04"
+    },
+    "token1": {
+      "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93"
+    }
+  },
+  {
+    "symbol": "mUSD/WETH",
+    "lpSymbol": "mUSD/WETH",
+    "title": "Gamma (Narrow)",
+    "type": "Narrow",
+    "variant": "algebraV3",
+    "strategist": "Gamma",
+    "manager": "Gamma",
+    "startBlock": 25532368,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0xeBa559ec969BD2a6147Ad76Fccac5375121B4838",
+    "token0": {
+      "address": "0xacA92E438df0B2401fF60dA7E4337B687a2435DA"
+    },
+    "token1": {
+      "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+    }
+  },
+  {
     "symbol": "USDC/WETH",
     "lpSymbol": "USDC/WETH",
     "title": "Single Deposit (USDC)",
@@ -486,8 +563,7 @@
     "token1": {
       "address": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4"
     },
-    "percentage": 70,
-    "promoted": true
+    "percentage": 70
   },
   {
     "symbol": "USDT/LYNX",
@@ -530,8 +606,7 @@
     "token1": {
       "address": "0x93f4d0ab6a8b4271f4a28db399b5e30612d21116"
     },
-    "percentage": 70,
-    "promoted": true
+    "percentage": 70
   },
   {
     "symbol": "FOXY/WETH",
@@ -698,6 +773,134 @@
     },
     "token1": {
       "address": "0xdfd0660032c2D0D38a9092a43d1669D6568cAF71"
+    },
+    "percentage": 70
+  },
+  {
+    "symbol": "USDC/LINEA",
+    "lpSymbol": "USDC/LINEA",
+    "title": "Single Deposit (USDC)",
+    "type": "Single Deposit",
+    "variant": "algebraV3",
+    "strategist": "Ichi",
+    "manager": "Ichi",
+    "startBlock": 23158525,
+    "address": "0x7F0A4d4B68dD85cB89c80C567EBe64fd221F7B8D",
+    "depositToken": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "allowed0": true,
+    "allowed1": false,
+    "token0": {
+      "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff"
+    },
+    "token1": {
+      "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04"
+    },
+    "percentage": 70
+  },
+  {
+    "symbol": "LINEA/USDC",
+    "lpSymbol": "LINEA/USDC",
+    "title": "Single Deposit (LINEA)",
+    "type": "Single Deposit",
+    "variant": "algebraV3",
+    "strategist": "Ichi",
+    "manager": "Ichi",
+    "startBlock": 23158390,
+    "address": "0xACD4BA9C978E8caB8Aec7A9638456EC69088F181",
+    "depositToken": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+    "allowed0": false,
+    "allowed1": true,
+    "token0": {
+      "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff"
+    },
+    "token1": {
+      "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04"
+    },
+    "percentage": 70
+  },
+  {
+    "symbol": "WETH/LINEA",
+    "lpSymbol": "WETH/LINEA",
+    "title": "Single Deposit (WETH)",
+    "type": "Single Deposit",
+    "variant": "algebraV3",
+    "strategist": "Ichi",
+    "manager": "Ichi",
+    "startBlock": 23158525,
+    "address": "0x1E7f5bC66a38F2ad04b007cf2bB1e47d7Dc06ed9",
+    "depositToken": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "allowed0": false,
+    "allowed1": true,
+    "token0": {
+      "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04"
+    },
+    "token1": {
+      "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+    },
+    "percentage": 70,
+    "promoted": true
+  },
+  {
+    "symbol": "LINEA/WETH",
+    "lpSymbol": "LINEA/WETH",
+    "title": "Single Deposit (LINEA)",
+    "type": "Single Deposit",
+    "variant": "algebraV3",
+    "strategist": "Ichi",
+    "manager": "Ichi",
+    "startBlock": 23158525,
+    "address": "0x06f54e9508a4892b161d375dfF2DD3049b1c5D9b",
+    "depositToken": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+    "allowed0": true,
+    "allowed1": false,
+    "token0": {
+      "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04"
+    },
+    "token1": {
+      "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+    },
+    "percentage": 70,
+    "promoted": true
+  },
+  {
+    "symbol": "USDT/LINEA",
+    "lpSymbol": "USDT/LINEA",
+    "title": "Single Deposit (USDT)",
+    "type": "Single Deposit",
+    "variant": "algebraV3",
+    "strategist": "Ichi",
+    "manager": "Ichi",
+    "startBlock": 23159340,
+    "address": "0x3B37106773c988C123929dE46623DeC2754F8e03",
+    "depositToken": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "allowed0": false,
+    "allowed1": true,
+    "token0": {
+      "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04"
+    },
+    "token1": {
+      "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93"
+    },
+    "percentage": 70
+  },
+  {
+    "symbol": "LINEA/USDT",
+    "lpSymbol": "LINEA/USDT",
+    "title": "Single Deposit (LINEA)",
+    "type": "Single Deposit",
+    "variant": "algebraV3",
+    "strategist": "Ichi",
+    "manager": "Ichi",
+    "startBlock": 23159340,
+    "address": "0xA3577db3A6e386F881dA54369b67c98592EFd58C",
+    "depositToken": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+    "allowed0": true,
+    "allowed1": false,
+    "token0": {
+      "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04"
+    },
+    "token1": {
+      "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93"
     },
     "percentage": 70
   },
@@ -870,6 +1073,63 @@
     },
     "token1": {
       "address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F"
+    }
+  },
+  {
+    "symbol": "USDC/LINEA",
+    "lpSymbol": "USDC/LINEA",
+    "title": "Steer (Classic Rebalance)",
+    "type": "Classic Rebalance",
+    "variant": "algebraV3",
+    "strategist": "Steer",
+    "manager": "Steer",
+    "startBlock": 23165305,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x2f014178CEe56b2338e2DBd188Bf49ac34411FF9",
+    "token0": {
+      "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff"
+    },
+    "token1": {
+      "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04"
+    }
+  },
+  {
+    "symbol": "LINEA/USDT",
+    "lpSymbol": "LINEA/USDT",
+    "title": "Steer (Classic Rebalance)",
+    "type": "Classic Rebalance",
+    "variant": "algebraV3",
+    "strategist": "Steer",
+    "manager": "Steer",
+    "startBlock": 23169476,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0xcF3BB5741fa421CbD961F4BD4E921b1D7BCF1Cb1",
+    "token0": {
+      "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04"
+    },
+    "token1": {
+      "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93"
+    }
+  },
+  {
+    "symbol": "LINEA/WETH",
+    "lpSymbol": "LINEA/WETH",
+    "title": "Steer (Classic Rebalance)",
+    "type": "Classic Rebalance",
+    "variant": "algebraV3",
+    "strategist": "Steer",
+    "manager": "Steer",
+    "startBlock": 23168667,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0xd61056a32A3f9A37235C13A679D0c833575BE899",
+    "token0": {
+      "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04"
+    },
+    "token1": {
+      "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
     }
   },
   {

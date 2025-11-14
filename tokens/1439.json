@@ -30,7 +30,7 @@
     "decimals": 6,
     "createdAt": "2025-06-19",
     "updatedAt": "2025-06-19",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/USDT.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png"
   },
   {
     "chainURI": "https://testnet.blockscout.injective.network",
@@ -52,7 +52,7 @@
     "decimals": 18,
     "createdAt": "2025-06-19",
     "updatedAt": "2025-06-19",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/PMX.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/PMX.png"
   },
   {
     "chainURI": "https://testnet.blockscout.injective.network",
@@ -60,7 +60,7 @@
     "address": "0x239a769681Aa0D14eF8349F999800E819dDBdA63",
     "createdAt": "2025-06-19",
     "updatedAt": "2025-06-19",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/bvePMX.png",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/bvePMX.png",
     "name": "bvePMX",
     "symbol": "bvePMX",
     "decimals": 18
@@ -71,7 +71,7 @@
     "address": "0xCe5e886C7456FcBc55E9F0C67C9aE741e56D70e3",
     "createdAt": "2025-06-19",
     "updatedAt": "2025-06-19",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/oPMX.png",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists/feat/pumex-testnet/tokens/assets/oPMX.png",
     "name": "oPMX",
     "symbol": "oPMX",
     "decimals": 18

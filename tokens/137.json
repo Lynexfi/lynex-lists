@@ -8,7 +8,7 @@
     "decimals": 18,
     "createdAt": "2025-02-11",
     "updatedAt": "2025-02-11",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/WETH.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WETH.png"
   },
   {
     "chainURI": "https://polygonscan.com/block/0",
@@ -19,7 +19,7 @@
     "decimals": 6,
     "createdAt": "2025-02-11",
     "updatedAt": "2025-02-11",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/USDT.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png"
   },
   {
     "chainURI": "https://polygonscan.com/block/0",
@@ -85,7 +85,7 @@
     "decimals": 18,
     "createdAt": "2025-03-19",
     "updatedAt": "2025-03-19",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/AAVE.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/AAVE.png"
   },
   {
     "chainURI": "https://polygonscan.com/block/0",
@@ -107,7 +107,7 @@
     "decimals": 18,
     "createdAt": "2025-04-14",
     "updatedAt": "2025-04-14",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/TRUMATIC.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/TRUMATIC.png"
   },
   {
     "chainURI": "https://polygonscan.com/block/0",
@@ -118,7 +118,7 @@
     "decimals": 18,
     "createdAt": "2025-04-22",
     "updatedAt": "2025-04-22",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/BRZ.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/BRZ.png"
   },
   {
     "chainURI": "https://polygonscan.com/block/0",
@@ -129,7 +129,7 @@
     "decimals": 18,
     "createdAt": "2025-03-19",
     "updatedAt": "2025-03-19",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/LINK.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/LINK.png"
   },
   {
     "chainURI": "https://polygonscan.com/block/0",
@@ -140,7 +140,29 @@
     "decimals": 18,
     "createdAt": "2025-03-19",
     "updatedAt": "2025-03-19",
-    "logoURI": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/assets/UNI.png"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/UNI.png"
+  },
+  {
+    "chainURI": "https://polygonscan.com/block/0",
+    "tokenId": "https://polygonscan.com/address/0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
+    "address": "0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
+    "name": "Solv BTC",
+    "symbol": "SolvBTC",
+    "decimals": 18,
+    "createdAt": "2025-05-15",
+    "updatedAt": "2025-05-15",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/36800/large/solvBTC.png?1719810684"
+  },
+  {
+    "chainURI": "https://polygonscan.com/block/0",
+    "tokenId": "https://polygonscan.com/address/0xc99F5c922DAE05B6e2ff83463ce705eF7C91F077",
+    "address": "0xc99F5c922DAE05B6e2ff83463ce705eF7C91F077",
+    "name": "Staked SolvBTC",
+    "symbol": "xSolvBTC",
+    "decimals": 18,
+    "createdAt": "2025-05-15",
+    "updatedAt": "2025-05-15",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39384/large/xSolvBTC.png?1744170824"
   },
   {
     "chainURI": "https://polygonscan.com/block/0",

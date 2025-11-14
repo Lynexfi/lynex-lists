@@ -1,5 +1,6 @@
 import { Points } from "../types";
 
+
 export const points: Record<number, Points[]> = {
   59144: [
     {
@@ -174,7 +175,7 @@ export const points: Record<number, Points[]> = {
       tooltipDescription:
         "Liquidity Providers in this pool also earn x2 StakeStone points.",
       poolAddresses: [
-        "0x8f3e0a2378b0b5838e0e0d99fcecc167d47bc9a7", // sAMM-STONE/WETH
+        "0x8f3e0a2378b0b5838e0e0d99fcecc167d47bc9a7",// sAMM-STONE/WETH
         "0xcffbfd665bedb19b47837461a5abf4388c560d35", // STONE/WETH (Narrow)
       ],
     },
@@ -227,6 +228,70 @@ export const points: Record<number, Points[]> = {
         "0xe284e8ad2ba6a10baeaac270e846aa3993db485d", // WBTC.e/WETH (Single Deposit) (WETH)
         "0x1206fb230f60062fbe38c571ee689ec9127ef097", // WETH/USDT (Single Deposit) (WETH)
         "0xc14ee8d65f5e9d42e00518776711753c258655ef", // WETH/USDT (Single Deposit)(USDT)
+      ],
+    },
+  ],
+  9745: [
+    {
+      name: "Limited Ionex Point (4x)",
+      logoUrl:
+        "http://ionex.trade/projects/ionex/tokenLogo.png",
+      infoUrl: "https://ionex.trade/",
+      tooltipDescription:
+        "Liquidity Providers in this pool also earn 4x Limited Ionex points.",
+      multiplier: 4,
+      poolAddresses: [
+        "0x2b1a10e81351c5360a0cdfe6f11a55a636bcce76", //vAMM-INX/WXPL
+        "0xc2622f55d51f878369b998ea641783a6920d1fa2", //vAMM-INX/USDT0
+      ],
+    },
+    {
+      name: "Limited Ionex Point (2x)",
+      logoUrl:
+        "http://ionex.trade/projects/ionex/tokenLogo.png",
+      infoUrl: "https://ionex.trade/",
+      tooltipDescription:
+        "Liquidity Providers in this pool also earn 2x Limited Ionex points.",
+      multiplier: 2,
+      poolAddresses: [
+        "0x697f96f54c862ca8f5a1cb95b9c1cf5d1b04091b", //vAMM-USDe/WXPL
+        "0xc07aa78e87eef280b0b19abfe8965ac46ce8ec14", //vAMM-WXPL/USDT0
+        "0x8c0d0f3b753be6eefbb9a6b4545955fe465e6e1a", //vAMM-WXPL/WETH
+        "0xaa3e8943aa325c689ad2918f6ab4fcddd2bdfdc9", //vAMM-WETH/USDT0
+        "0x697f96f54c862ca8f5a1cb95b9c1cf5d1b04091b", //vAMM- USDe/WXPL
+      ],
+    },
+    {
+      name: "Limited Ionex Point (1x)",
+      logoUrl:
+        "http://ionex.trade/projects/ionex/tokenLogo.png",
+      infoUrl: "https://ionex.trade/",
+      tooltipDescription:
+        "Liquidity Providers in this pool also earn Limited Ionex points.",
+      multiplier: 1,
+      poolAddresses: [
+        "0xf36a95cc9ce7343ce3decd8836a179e1f0106c0d", //sAMM-USDai/USDT0
+        "0x118ea19180637f851bb80601347e50ef2ae46954", //sAMM-USDe/USDT0
+        "0x355705857c9548e71e866087b01bb5b0a1fd671b", //vAMM-WETH/weETH
+      ],
+    },
+  ],
+  1776: [
+    {
+      name: "Initiation Points",
+      logoUrl:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/badge-logos/initiation-points.png",
+      infoUrl:
+        "", // will be added once docs page is live!
+      tooltipDescription:
+        "Providing liquidity in this pool earns Initiation points.",
+      poolAddresses: [
+        "0x7626f823ef60bb454516da57b8c25ce0ff74463f", // WINJ/USDT
+        "0x5163009263c7a4e55f1e1e7c5b4f0db02e0468b7", // PMX/USDT
+        "0x66758604fd4a9e2b8d91a71e199308eec4536aa2", // USDC/USDT
+        "0xe7853f88c498c2eb1e041ac9d23441866c562bdd", // WINJ/USDC
+
+
       ],
     },
   ],
