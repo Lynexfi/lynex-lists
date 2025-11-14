@@ -1,0 +1,104 @@
+{
+  "1776": [
+    {
+      "name": "Native Token Holder",
+      "nftId": "1",
+      "image": "https://raw.githubusercontent.com/hydrexfi/hydrex-lists/main/assets/badges/placeholder.png",
+      "description": "Hold at least 0.001 native tokens",
+      "type": "Activity",
+      "category": "Balance",
+      "minPoints": 0,
+      "totalMinted": 0,
+      "pointsValue": "30"
+    },
+    {
+      "name": "Seed Miner",
+      "nftId": "2",
+      "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@staging/tokens/badge-logos/ionex-tasks/seedMiner.svg",
+      "description": "Earn 1k points",
+      "type": "Activity",
+      "category": "Mining",
+      "minPoints": 1000,
+      "totalMinted": 0,
+      "pointsValue": "50"
+    },
+    {
+      "name": "Apprentice Miner",
+      "nftId": "3",
+      "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@staging/tokens/badge-logos/ionex-tasks/apprenticeMiner.svg",
+      "description": "Earn 50k points",
+      "type": "Activity",
+      "category": "Mining",
+      "minPoints": 50000,
+      "totalMinted": 0,
+      "pointsValue": "2600"
+    },
+    {
+      "name": "Block Crafter",
+      "nftId": "4",
+      "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@staging/tokens/badge-logos/ionex-tasks/blockCrafter.svg",
+      "description": "Earn 250k points",
+      "type": "Activity",
+      "category": "Mining",
+      "minPoints": 250000,
+      "totalMinted": 0,
+      "pointsValue": "16000"
+    },
+    {
+      "name": "Vault Forgemaster",
+      "nftId": "5",
+      "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@staging/tokens/badge-logos/ionex-tasks/vaultForgemaster.svg",
+      "description": "Earn 1M points",
+      "type": "Activity",
+      "category": "Mining",
+      "minPoints": 1000000,
+      "totalMinted": 0,
+      "pointsValue": "65000"
+    },
+    {
+      "name": "Protocol Titan",
+      "nftId": "6",
+      "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@staging/tokens/badge-logos/ionex-tasks/protocolTitan.svg",
+      "description": "Earn 10M points",
+      "type": "Activity",
+      "category": "Mining",
+      "minPoints": 10000000,
+      "totalMinted": 0,
+      "pointsValue": "651000"
+    },
+    {
+      "name": "Chain Overlord",
+      "nftId": "7",
+      "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@staging/tokens/badge-logos/ionex-tasks/chainOverlord.svg",
+      "description": "Earn 100M points",
+      "type": "Activity",
+      "category": "Mining",
+      "minPoints": 100000000,
+      "totalMinted": 0,
+      "pointsValue": "6515000"
+    },
+    {
+      "name": "ApeBond",
+      "nftId": "8",
+      "image": "https://raw.githubusercontent.com/LynexFi/lynex-lists/main/tokens/badge-logos/abond.svg",
+      "description": "Buy a $30 bond or buy a Ionex Bond",
+      "type": "Partner",
+      "category": "Trading",
+      "minPoints": 0,
+      "totalMinted": 0,
+      "pointsValue": "10000"
+    },
+    {
+      "name": "Aave",
+      "nftId": "9",
+      "image": "https://raw.githubusercontent.com/LynexFi/lynex-lists/main/tokens/badge-logos/aave.svg",
+      "description": "Supply $100 and borrow $20",
+      "type": "Partner",
+      "category": "Lending",
+      "minPoints": 0,
+      "totalMinted": 0,
+      "pointsValue": ""
+    }
+  ],
+  "9745": []
+}
