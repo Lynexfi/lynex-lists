@@ -37,6 +37,15 @@
       "bribe": "0xca88212a2c6a18d675ecfe0e9c95df2f4c617a00"
     },
     {
+      "address": "0x27f048435281a20092978738aab26d4a40f628b4",
+      "symbol": "USDC/DOGE (Narrow)",
+      "gauge": "0xe0e3c1e0052944be3e181ad427693ff1af1036d3",
+      "token0": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+      "token1": "0x12e96c2bfea6e835cf8dd38a5834fa61cf723736",
+      "isStrategy": true,
+      "bribe": "0xaa4b4a1829a4a2fb92af795155223ddab87df367"
+    },
+    {
       "address": "0x2c5f8b726074ac410cb058847d7874fcba7f817b",
       "symbol": "ETH/USD₮0 (Narrow)",
       "gauge": "0x71828edf393b7ce1c7665b4053be4685d9be488a",
@@ -91,6 +100,15 @@
       "bribe": "0x3ad77eb431d220d4c3cabfc1ac9b26bffe44e2ed"
     },
     {
+      "address": "0x9628cba1027554a512127cbef1633b2fd46c4c34",
+      "symbol": "USDC/XRP (Narrow)",
+      "gauge": "0x119bb1e7f8e1defca940152e7d9a40de786703ed",
+      "token0": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+      "token1": "0x2615a94df961278dcbc41fb0a54fec5f10a693ae",
+      "isStrategy": true,
+      "bribe": "0xdce5a95de095e10a437c38ccc67377a6ee02d6f0"
+    },
+    {
       "address": "0xa1d4b1da86bef122c1d09401dd3f21657a0f85df",
       "symbol": "UNI/CATX (Single Deposit)",
       "gauge": "0x4c4adf5eb0eb108f0bb819d1e9dfabebc6ad3e63",
@@ -116,6 +134,15 @@
       "token1": "0x15d0e0c55a3e7ee67152ad7e89acf164253ff68d",
       "isStrategy": true,
       "bribe": "0x1f779cb89f87810ad9b641efd0b6b0bfbb603902"
+    },
+    {
+      "address": "0xe230774e6b5963b972d6398b398b0efdcf46c2c8",
+      "symbol": "USDC/ZEC (Narrow)",
+      "gauge": "0x3e904f829e557a3f639b7d95778d1d94aaab5b6e",
+      "token0": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+      "token1": "0x83f31af747189c2fa9e5deb253200c505eff6ed2",
+      "isStrategy": true,
+      "bribe": "0x3917434a0567ad4f8a56046a8e2ff027c9670f79"
     },
     {
       "address": "0xf04d6788b3e37638702202b3ef0851a38e927551",
@@ -174,6 +201,15 @@
       "token1": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
       "isStrategy": false,
       "bribe": "0xc6cc04c67ae6c8d8d2ce06898453b68c4a1886ae"
+    },
+    {
+      "address": "0x1e16156decde11bab83dda78279e0e23d23ed964",
+      "symbol": "vAMM-USDe/USDT0",
+      "gauge": "0x96bc72151a8543ddcfc731d7c31fcbf265050189",
+      "token0": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "token1": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+      "isStrategy": false,
+      "bribe": "0x0e075e99884ea825fef30449ee84d2be306eb5c2"
     },
     {
       "address": "0x2b1a10e81351c5360a0cdfe6f11a55a636bcce76",
@@ -1906,6 +1942,15 @@
       "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
       "isStrategy": true,
       "bribe": "0x50bdaa06ba523725ff5fd11d94dfb294f44d20b0"
+    },
+    {
+      "address": "0xeba559ec969bd2a6147ad76fccac5375121b4838",
+      "symbol": "mUSD/WETH (Narrow)",
+      "gauge": "0x57123e647292cfe32f659d3c9b90f5b6b6337940",
+      "token0": "0xaca92e438df0b2401ff60da7e4337b687a2435da",
+      "token1": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+      "isStrategy": true,
+      "bribe": "0x07bd280820f622223f83b885ed1e0f2765d82fba"
     },
     {
       "address": "0xee18362b766905cc47df273fe0ed967c0c2827e0",

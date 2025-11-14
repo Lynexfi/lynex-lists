@@ -423,6 +423,25 @@ export const strategies: Strategies = {
         address: "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
       },
     },
+    {
+      symbol: "mUSD/WETH",
+      lpSymbol: "mUSD/WETH",
+      title: "Gamma (Narrow)",
+      type: "Narrow",
+      variant: "algebraV3",
+      strategist: "Gamma",
+      manager: "Gamma",
+      startBlock: 25532368,
+      allowed0: true,
+      allowed1: true,
+      address: "0xeBa559ec969BD2a6147Ad76Fccac5375121B4838",
+      token0: {
+        address: "0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
+      },
+      token1: {
+        address: "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+      },
+    },
     // ICHI Strategies
     {
       symbol: "USDC/WETH",
@@ -2538,6 +2557,69 @@ export const strategies: Strategies = {
       },
       v4PoolId:
         "0xc4f393785b36430779a93eedd52dd20857a46142bbe48c88d4c655303a53279c",
+    },
+    {
+      symbol: "USDC/DOGE",
+      lpSymbol: "USDC/DOGE",
+      title: "Gamma Narrow",
+      type: "Narrow",
+      variant: "uniV4",
+      strategist: "Gamma",
+      manager: "Gamma",
+      startBlock: 31517481,
+      allowed0: true,
+      allowed1: true,
+      address: "0x27f048435281a20092978738AAB26D4A40f628b4",
+      token0: {
+        address: "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+      },
+      token1: {
+        address: "0x12E96C2BFEA6E835CF8Dd38a5834fa61Cf723736",
+      },
+      v4PoolId:
+        "0xa35fd8c7554f6ee88af3809067f90d383b1d45ab29b5927294859bfb49e9196d",
+    },
+    {
+      symbol: "USDC/XRP",
+      lpSymbol: "USDC/XRP",
+      title: "Gamma Narrow",
+      type: "Narrow",
+      variant: "uniV4",
+      strategist: "Gamma",
+      manager: "Gamma",
+      startBlock: 31517523,
+      allowed0: true,
+      allowed1: true,
+      address: "0x9628CBa1027554A512127cBEF1633B2Fd46c4C34",
+      token0: {
+        address: "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+      },
+      token1: {
+        address: "0x2615a94df961278DcbC41Fb0a54fEc5f10a693aE",
+      },
+      v4PoolId:
+        "0xe56f1855a315fe2984a401b8939e7c1c314070ea637e642acdc7ffed0d36387c",
+    },
+    {
+      symbol: "USDC/ZEC",
+      lpSymbol: "USDC/ZEC",
+      title: "Gamma Narrow",
+      type: "Narrow",
+      variant: "uniV4",
+      strategist: "Gamma",
+      manager: "Gamma",
+      startBlock: 31517562,
+      allowed0: true,
+      allowed1: true,
+      address: "0xe230774E6b5963b972D6398b398B0EfDcF46C2C8",
+      token0: {
+        address: "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+      },
+      token1: {
+        address: "0x83f31af747189c2FA9E5DeB253200c505eff6ed2",
+      },
+      v4PoolId:
+        "0x9073b65a558bdf9d0d7d0c82b468128acb847de72f5ad776bd8a4aab98781584",
     },
   ],
   9745: [
