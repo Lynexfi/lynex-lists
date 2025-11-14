@@ -2227,4 +2227,54 @@ export const tokens = {
       logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WIF.png",
     },
   ],
+  1776: [
+    // {
+    //   chainURI: "https://blockscout.injective.network/block/0",
+    //   tokenId:
+    //     "https://blockscout.injective.network/address/0x5d5D7Cb09d84024733A9433F54ceDe312ae52832",
+    //   address: "0x5d5D7Cb09d84024733A9433F54ceDe312ae52832",
+    //   name: "Pumex",
+    //   symbol: "PMX",
+    //   decimals: 18,
+    //   createdAt: "2025-10-16",
+    //   updatedAt: "2025-10-16",
+    //   logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@feat/pumex-mainnet/tokens/assets/PMX.png",
+    // },
+    {
+      chainURI: "https://blockscout.injective.network/block/0",
+      tokenId:
+        "https://blockscout.injective.network/address/0x88f7F2b685F9692caf8c478f5BADF09eE9B1Cc13",
+      address: "0x88f7F2b685F9692caf8c478f5BADF09eE9B1Cc13",
+      name: "USDT",
+      symbol: "USDT",
+      decimals: 6,
+      createdAt: "2025-10-16",
+      updatedAt: "2025-10-16",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT.png",
+    },
+    {
+      chainURI: "https://blockscout.injective.network/block/0",
+      tokenId:
+        "https://blockscout.injective.network/address/0x0000000088827d2d103ee2d9A6b781773AE03FfB",
+      address: "0x0000000088827d2d103ee2d9A6b781773AE03FfB",
+      name: "Wrapped INJ",
+      symbol: "WINJ",
+      decimals: 18,
+      createdAt: "2025-10-16",
+      updatedAt: "2025-10-16",
+      logoURI: "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212",
+    },
+    {
+      chainURI: "https://blockscout.injective.network/block/0",
+      tokenId:
+        "https://blockscout.injective.network/address/0x2a25fbD67b3aE485e461fe55d9DbeF302B7D3989",
+      address: "0x2a25fbD67b3aE485e461fe55d9DbeF302B7D3989",
+      name: "USDC",
+      symbol: "USDC",
+      decimals: 6,
+      createdAt: "2025-11-04",
+      updatedAt: "2025-11-04",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    },
+  ]
 };

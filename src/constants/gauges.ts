@@ -1,5 +1,5 @@
 import { defineChain } from "viem";
-import { linea, zircuit, unichain, tac } from "viem/chains";
+import { linea, zircuit, unichain } from "viem/chains";
 
 export const plasma = defineChain({
   id: 9745,
@@ -24,6 +24,60 @@ export const plasma = defineChain({
     multicall3: {
       address: '0xcA11bde05977b3631167028862bE2a173976CA11',
       blockCreated: 42,
+    },
+  },
+})
+
+export const tac = defineChain({
+  id: 239,
+  name: 'TAC',
+  nativeCurrency: {
+    name: 'TAC',
+    symbol: 'TAC',
+    decimals: 18,
+  },
+  rpcUrls: {
+    default: {
+      http: ['https://rpc.tac.build'],
+    },
+  },
+  blockExplorers: {
+    default: {
+      name: 'TAC Explorer',
+      url: 'https://explorer.tac.build',
+    },
+  },
+  contracts: {
+    multicall3: {
+      address: '0xcA11bde05977b3631167028862bE2a173976CA11',
+      blockCreated: 0,
+    },
+  },
+})
+
+export const injective = defineChain({
+  id: 1776,
+  name: 'Injective',
+  nativeCurrency: {
+    name: 'Injective',
+    symbol: 'INJ',
+    decimals: 18,
+  },
+  rpcUrls: {
+    default: {
+      http: ['https://sentry.evm-rpc.injective.network'],
+    },
+  },
+  blockExplorers: {
+    default: {
+      name: 'Injective Blockscout',
+      url: 'https://blockscout.injective.network',
+    },
+  },
+  contracts: {
+    multicall3: {
+      address: '0xcA11bde05977b3631167028862bE2a173976CA11',
+      blockCreated: 0,
     },
   },
 })
@@ -56,6 +110,11 @@ export const gaugeConfigs = {
   239: {
     viemChain: tac,
     pairAPIAddress: "0x0000000000000000000000000000000000000000",
+    blacklist: ["0x0000000000000000000000000000000000000000"],
+  },
+  1776: {
+    viemChain: injective,
+    pairAPIAddress: "0xbdf0e8F9F50b80c4914Ac023866b4180a045ce14",
     blacklist: ["0x0000000000000000000000000000000000000000"],
   },
 };

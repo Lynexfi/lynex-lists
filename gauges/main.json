@@ -163,6 +163,35 @@
       "bribe": "0x348e96d7b4fb242c1c9cb82e6d29009d04425600"
     }
   ],
+  "1776": [
+    {
+      "address": "0x66758604fd4a9e2b8d91a71e199308eec4536aa2",
+      "symbol": "sAMM-UUSDC/USDT",
+      "gauge": "0xe939c27de1eefadc82d8d2f8ecf7097ab1e0cb11",
+      "token0": "0x2a25fbd67b3ae485e461fe55d9dbef302b7d3989",
+      "token1": "0x88f7f2b685f9692caf8c478f5badf09ee9b1cc13",
+      "isStrategy": false,
+      "bribe": "0xb2aac8d3dd53c245e985fc0bef07d8dad1057256"
+    },
+    {
+      "address": "0x7626f823ef60bb454516da57b8c25ce0ff74463f",
+      "symbol": "vAMM-WINJ/USDT",
+      "gauge": "0x3f8c966495c827ac1c3496ff29416eef9a305e6d",
+      "token0": "0x0000000088827d2d103ee2d9a6b781773ae03ffb",
+      "token1": "0x88f7f2b685f9692caf8c478f5badf09ee9b1cc13",
+      "isStrategy": false,
+      "bribe": "0x0bcb576974846b5e69ec9b02a088e90e56058602"
+    },
+    {
+      "address": "0xe7853f88c498c2eb1e041ac9d23441866c562bdd",
+      "symbol": "vAMM-WINJ/UUSDC",
+      "gauge": "0x1e0db397f6bebb40724dd9c744f2f6dbc5e710b9",
+      "token0": "0x0000000088827d2d103ee2d9a6b781773ae03ffb",
+      "token1": "0x2a25fbd67b3ae485e461fe55d9dbef302b7d3989",
+      "isStrategy": false,
+      "bribe": "0xebca0cb5d3b04c94cd987d8e9a855059fbefbac8"
+    }
+  ],
   "9745": [
     {
       "address": "0x118ea19180637f851bb80601347e50ef2ae46954",
