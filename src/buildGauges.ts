@@ -14,7 +14,7 @@ type PairInfo = {
   bribe: string;
 };
 
-async function gaugeGod(chainId: 48900 | 59144 | 130 | 9745 | 1776) {
+async function gaugeGod(chainId: 48900 | 59144 | 130 | 9745 | 1776 | 1439) {
   const config = gaugeConfigs[chainId];
   const client = createPublicClient({
     chain: config.viemChain,
@@ -175,6 +175,7 @@ async function main() {
   const unichainGauges = await gaugeGod(130);
   const plasmaGauges = await gaugeGod(9745);
   const injectiveGauges = await gaugeGod(1776);
+  //const injectiveGauges = await gaugeGod(1439);
 
   const result = {
     59144: lineaGauges,
@@ -182,6 +183,7 @@ async function main() {
     130: unichainGauges,
     9745: plasmaGauges,
     1776: injectiveGauges,
+    1439: injectiveGauges,
   };
 
   const gaugesDir = path.resolve("gauges");
