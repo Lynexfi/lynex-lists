@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Initiation Points",
+    "logoUrl": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/badge-logos/initiation-points.png",
+    "infoUrl": "",
+    "tooltipDescription": "Providing liquidity in this pool earns Initiation points.",
+    "poolAddresses": [
+      "0x7626f823ef60bb454516da57b8c25ce0ff74463f",
+      "0x5163009263c7a4e55f1e1e7c5b4f0db02e0468b7",
+      "0x66758604fd4a9e2b8d91a71e199308eec4536aa2",
+      "0xe7853f88c498c2eb1e041ac9d23441866c562bdd"
+    ]
+  }
+]
