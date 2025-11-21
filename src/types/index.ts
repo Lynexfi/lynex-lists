@@ -47,8 +47,8 @@ export interface Badge {
   type: string;
   category: string;
   minPoints: number;
-  totalMinted: number;
   pointsValue: string;
+  totalWalletCap?: number;
 }
 
 

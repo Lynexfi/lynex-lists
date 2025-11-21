@@ -1,6 +1,239 @@
 {
   "1776": [
     {
+      "name": "Outpost",
+      "nftId": "1",
+      "image": "",
+      "description": "Earn at least 1,000 IP",
+      "type": "Activity",
+      "category": "Balance",
+      "minPoints": 1000,
+      "pointsValue": "250",
+      "totalWalletCap": 600
+    },
+    {
+      "name": "Watchtower",
+      "nftId": "2",
+      "image": "",
+      "description": "Earn at least 25,000 IP",
+      "type": "Activity",
+      "category": "Balance",
+      "minPoints": 25000,
+      "pointsValue": "1000",
+      "totalWalletCap": 400
+    },
+    {
+      "name": "Garrison",
+      "nftId": "3",
+      "image": "",
+      "description": "Earn at least 100,000 IP",
+      "type": "Activity",
+      "category": "Balance",
+      "minPoints": 100000,
+      "pointsValue": "3000",
+      "totalWalletCap": 240
+    },
+    {
+      "name": "Fortress",
+      "nftId": "4",
+      "image": "",
+      "description": "Earn at least 300,000 IP",
+      "type": "Activity",
+      "category": "Balance",
+      "minPoints": 300000,
+      "pointsValue": "7500",
+      "totalWalletCap": 120
+    },
+    {
+      "name": "Province",
+      "nftId": "5",
+      "image": "",
+      "description": "Earn at least 1,000,000 IP",
+      "type": "Activity",
+      "category": "Balance",
+      "minPoints": 1000000,
+      "pointsValue": "20000",
+      "totalWalletCap": 50
+    },
+    {
+      "name": "Shogunate",
+      "nftId": "6",
+      "image": "",
+      "description": "Earn at least 2,500,000 IP",
+      "type": "Activity",
+      "category": "Balance",
+      "minPoints": 2500000,
+      "pointsValue": "50000",
+      "totalWalletCap": 20
+    },
+    {
+      "name": "Initiate",
+      "nftId": "7",
+      "image": "",
+      "description": "Trade more than $100 on Pumex.",
+      "type": "Activity",
+      "category": "Balance",
+      "minPoints": 200,
+      "pointsValue": "100",
+      "totalWalletCap": 300
+    },
+    {
+      "name": "Apprentice",
+      "nftId": "8",
+      "image": "",
+      "description": "Trade more than $500 on Pumex.",
+      "type": "Activity",
+      "category": "Balance",
+      "minPoints": 200,
+      "pointsValue": "300",
+      "totalWalletCap": 200
+    },
+    {
+      "name": "Adept",
+      "nftId": "9",
+      "image": "",
+      "description": "Trade more than $2,500 on Pumex.",
+      "type": "Activity",
+      "category": "Balance",
+      "minPoints": 200,
+      "pointsValue": "800",
+      "totalWalletCap": 120
+    },
+    {
+      "name": "Duelist",
+      "nftId": "10",
+      "image": "",
+      "description": "Trade more than $10,000 on Pumex",
+      "type": "Activity",
+      "category": "Balance",
+      "minPoints": 200,
+      "pointsValue": "2000",
+      "totalWalletCap": 60
+    },
+    {
+      "name": "Sensei",
+      "nftId": "11",
+      "image": "",
+      "description": "Trade more than $100,000 on Pumex",
+      "type": "Activity",
+      "category": "Balance",
+      "minPoints": 200,
+      "pointsValue": "5000",
+      "totalWalletCap": 25
+    },
+    {
+      "name": "Grandmaster",
+      "nftId": "12",
+      "image": "",
+      "description": "Trade more than $1,000,000 on Pumex",
+      "type": "Activity",
+      "category": "Balance",
+      "minPoints": 200,
+      "pointsValue": "12500",
+      "totalWalletCap": 10
+    },
+    {
+      "name": "Dojo Pathfinder (Testnet)",
+      "nftId": "13",
+      "image": "",
+      "description": "Interacted with Pumex Testnet (swap or LP) before mainnet launch.",
+      "type": "Activity",
+      "category": "Balance",
+      "minPoints": 200,
+      "pointsValue": "250",
+      "totalWalletCap": 1e+56
+    },
+    {
+      "name": "Ninja Scout (Testnet)",
+      "nftId": "14",
+      "image": "",
+      "description": "Minted the “Pumex Ninja” NFT on Rarible with the same wallet used on Injective.",
+      "type": "Activity",
+      "category": "Balance",
+      "minPoints": 200,
+      "pointsValue": "250",
+      "totalWalletCap": 1e+56
+    },
+    {
+      "name": "Roar Champion",
+      "nftId": "15",
+      "image": "",
+      "description": "Be placed in a Roar2Earn leaderboard week during the campaign (per official winners list).",
+      "type": "Activity",
+      "category": "Balance",
+      "minPoints": 200,
+      "pointsValue": "500",
+      "totalWalletCap": 1e+56
+    },
+    {
+      "name": "Founding OG",
+      "nftId": "16",
+      "image": "",
+      "description": "Hold the @OG role in the ZooFelines Discord at the Initiation snapshot (role must be present at snapshot time).",
+      "type": "Activity",
+      "category": "Balance",
+      "minPoints": 200,
+      "pointsValue": "250",
+      "totalWalletCap": 1e+56
+    },
+    {
+      "name": "Injective Envoy",
+      "nftId": "17",
+      "image": "",
+      "description": "You can claim this badge if you are a recognized KOL/creator participating in the Bantr × Injective activation campaign.",
+      "type": "Activity",
+      "category": "Balance",
+      "minPoints": 200,
+      "pointsValue": "2500",
+      "totalWalletCap": 1e+56
+    },
+    {
+      "name": "Clan Ally: INCELS",
+      "nftId": "18",
+      "image": "",
+      "description": "Hold an INCELS NFT in the same wallet on Injective at the time of claim (verified via partner list).",
+      "type": "Partner",
+      "category": "Balance",
+      "minPoints": 200,
+      "pointsValue": "1000",
+      "totalWalletCap": 1e+56
+    },
+    {
+      "name": "Clan Ally: Premier Ninjas",
+      "nftId": "19",
+      "image": "",
+      "description": "Hold a Premier Ninjas NFT in the same wallet on Injective at the time of claim (verified via partner list).",
+      "type": "Partner",
+      "category": "Balance",
+      "minPoints": 200,
+      "pointsValue": "1000",
+      "totalWalletCap": 1e+56
+    },
+    {
+      "name": "Clan Ally: QAUNTS",
+      "nftId": "20",
+      "image": "",
+      "description": "Hold a QUANTS NFT",
+      "type": "Partner",
+      "category": "Balance",
+      "minPoints": 200,
+      "pointsValue": "1000",
+      "totalWalletCap": 1e+56
+    },
+    {
+      "name": "Clan Ally: Nonjas",
+      "nftId": "21",
+      "image": "",
+      "description": "Hold a Premier QAUNTS NFT in the same wallet on Injective at the time of claim (verified via partner list).",
+      "type": "Partner",
+      "category": "Balance",
+      "minPoints": 200,
+      "pointsValue": "1000",
+      "totalWalletCap": 1e+56
+    }
+  ],
+  "9745": [
+    {
       "name": "Native Token Holder",
       "nftId": "1",
       "image": "https://raw.githubusercontent.com/hydrexfi/hydrex-lists/main/assets/badges/placeholder.png",
@@ -8,7 +241,6 @@
       "type": "Activity",
       "category": "Balance",
       "minPoints": 0,
-      "totalMinted": 0,
       "pointsValue": "30"
     },
     {
@@ -19,7 +251,6 @@
       "type": "Activity",
       "category": "Mining",
       "minPoints": 1000,
-      "totalMinted": 0,
       "pointsValue": "50"
     },
     {
@@ -30,7 +261,6 @@
       "type": "Activity",
       "category": "Mining",
       "minPoints": 50000,
-      "totalMinted": 0,
       "pointsValue": "2600"
     },
     {
@@ -41,7 +271,6 @@
       "type": "Activity",
       "category": "Mining",
       "minPoints": 250000,
-      "totalMinted": 0,
       "pointsValue": "16000"
     },
     {
@@ -52,7 +281,6 @@
       "type": "Activity",
       "category": "Mining",
       "minPoints": 1000000,
-      "totalMinted": 0,
       "pointsValue": "65000"
     },
     {
@@ -63,7 +291,6 @@
       "type": "Activity",
       "category": "Mining",
       "minPoints": 10000000,
-      "totalMinted": 0,
       "pointsValue": "651000"
     },
     {
@@ -74,7 +301,6 @@
       "type": "Activity",
       "category": "Mining",
       "minPoints": 100000000,
-      "totalMinted": 0,
       "pointsValue": "6515000"
     },
     {
@@ -85,7 +311,6 @@
       "type": "Partner",
       "category": "Trading",
       "minPoints": 0,
-      "totalMinted": 0,
       "pointsValue": "10000"
     },
     {
@@ -96,9 +321,7 @@
       "type": "Partner",
       "category": "Lending",
       "minPoints": 0,
-      "totalMinted": 0,
       "pointsValue": ""
     }
-  ],
-  "9745": []
+  ]
 }
