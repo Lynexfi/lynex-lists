@@ -7,7 +7,9 @@
     "type": "Activity",
     "category": "Balance",
     "minPoints": 0,
-    "pointsValue": "30"
+    "pointsValue": "30",
+    "totalWalletCap": 100,
+    "active": true
   },
   {
     "name": "Seed Miner",
@@ -17,7 +19,9 @@
     "type": "Activity",
     "category": "Mining",
     "minPoints": 1000,
-    "pointsValue": "50"
+    "pointsValue": "50",
+    "totalWalletCap": 100,
+    "active": true
   },
   {
     "name": "Apprentice Miner",
@@ -27,7 +31,9 @@
     "type": "Activity",
     "category": "Mining",
     "minPoints": 50000,
-    "pointsValue": "2600"
+    "pointsValue": "2600",
+    "totalWalletCap": 100,
+    "active": true
   },
   {
     "name": "Block Crafter",
@@ -37,7 +43,9 @@
     "type": "Activity",
     "category": "Mining",
     "minPoints": 250000,
-    "pointsValue": "16000"
+    "pointsValue": "16000",
+    "totalWalletCap": 100,
+    "active": true
   },
   {
     "name": "Vault Forgemaster",
@@ -47,7 +55,9 @@
     "type": "Activity",
     "category": "Mining",
     "minPoints": 1000000,
-    "pointsValue": "65000"
+    "pointsValue": "65000",
+    "totalWalletCap": 100,
+    "active": true
   },
   {
     "name": "Protocol Titan",
@@ -57,7 +67,9 @@
     "type": "Activity",
     "category": "Mining",
     "minPoints": 10000000,
-    "pointsValue": "651000"
+    "pointsValue": "651000",
+    "totalWalletCap": 100,
+    "active": true
   },
   {
     "name": "Chain Overlord",
@@ -67,7 +79,9 @@
     "type": "Activity",
     "category": "Mining",
     "minPoints": 100000000,
-    "pointsValue": "6515000"
+    "pointsValue": "6515000",
+    "totalWalletCap": 100,
+    "active": true
   },
   {
     "name": "ApeBond",
@@ -77,7 +91,9 @@
     "type": "Partner",
     "category": "Trading",
     "minPoints": 0,
-    "pointsValue": "10000"
+    "pointsValue": "10000",
+    "totalWalletCap": 100,
+    "active": true
   },
   {
     "name": "Aave",
@@ -87,6 +103,8 @@
     "type": "Partner",
     "category": "Lending",
     "minPoints": 0,
-    "pointsValue": ""
+    "pointsValue": "10000",
+    "totalWalletCap": 100,
+    "active": true
   }
 ]

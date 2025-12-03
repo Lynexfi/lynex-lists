@@ -9,7 +9,8 @@
       "category": "Balance",
       "minPoints": 1000,
       "pointsValue": "250",
-      "totalWalletCap": 600
+      "totalWalletCap": 600,
+      "active": true
     },
     {
       "name": "Watchtower",
@@ -20,7 +21,8 @@
       "category": "Balance",
       "minPoints": 25000,
       "pointsValue": "1000",
-      "totalWalletCap": 400
+      "totalWalletCap": 400,
+      "active": true
     },
     {
       "name": "Garrison",
@@ -31,7 +33,8 @@
       "category": "Balance",
       "minPoints": 100000,
       "pointsValue": "3000",
-      "totalWalletCap": 240
+      "totalWalletCap": 240,
+      "active": true
     },
     {
       "name": "Fortress",
@@ -42,7 +45,8 @@
       "category": "Balance",
       "minPoints": 300000,
       "pointsValue": "7500",
-      "totalWalletCap": 120
+      "totalWalletCap": 120,
+      "active": true
     },
     {
       "name": "Province",
@@ -53,7 +57,8 @@
       "category": "Balance",
       "minPoints": 1000000,
       "pointsValue": "20000",
-      "totalWalletCap": 50
+      "totalWalletCap": 50,
+      "active": true
     },
     {
       "name": "Shogunate",
@@ -64,7 +69,8 @@
       "category": "Balance",
       "minPoints": 2500000,
       "pointsValue": "50000",
-      "totalWalletCap": 20
+      "totalWalletCap": 20,
+      "active": true
     },
     {
       "name": "Initiate",
@@ -75,7 +81,8 @@
       "category": "Balance",
       "minPoints": 200,
       "pointsValue": "100",
-      "totalWalletCap": 300
+      "totalWalletCap": 300,
+      "active": true
     },
     {
       "name": "Apprentice",
@@ -86,7 +93,8 @@
       "category": "Balance",
       "minPoints": 200,
       "pointsValue": "300",
-      "totalWalletCap": 200
+      "totalWalletCap": 200,
+      "active": true
     },
     {
       "name": "Adept",
@@ -97,7 +105,8 @@
       "category": "Balance",
       "minPoints": 200,
       "pointsValue": "800",
-      "totalWalletCap": 120
+      "totalWalletCap": 120,
+      "active": true
     },
     {
       "name": "Duelist",
@@ -108,7 +117,8 @@
       "category": "Balance",
       "minPoints": 200,
       "pointsValue": "2000",
-      "totalWalletCap": 60
+      "totalWalletCap": 60,
+      "active": true
     },
     {
       "name": "Sensei",
@@ -119,7 +129,8 @@
       "category": "Balance",
       "minPoints": 200,
       "pointsValue": "5000",
-      "totalWalletCap": 25
+      "totalWalletCap": 25,
+      "active": true
     },
     {
       "name": "Grandmaster",
@@ -130,7 +141,8 @@
       "category": "Balance",
       "minPoints": 200,
       "pointsValue": "12500",
-      "totalWalletCap": 10
+      "totalWalletCap": 10,
+      "active": true
     },
     {
       "name": "Dojo Pathfinder (Testnet)",
@@ -141,7 +153,8 @@
       "category": "Balance",
       "minPoints": 200,
       "pointsValue": "250",
-      "totalWalletCap": 1e+56
+      "totalWalletCap": 1e+56,
+      "active": true
     },
     {
       "name": "Ninja Scout (Testnet)",
@@ -152,7 +165,8 @@
       "category": "Balance",
       "minPoints": 200,
       "pointsValue": "250",
-      "totalWalletCap": 1e+56
+      "totalWalletCap": 1e+56,
+      "active": true
     },
     {
       "name": "Roar Champion",
@@ -163,7 +177,8 @@
       "category": "Balance",
       "minPoints": 200,
       "pointsValue": "500",
-      "totalWalletCap": 1e+56
+      "totalWalletCap": 1e+56,
+      "active": true
     },
     {
       "name": "Founding OG",
@@ -174,7 +189,8 @@
       "category": "Balance",
       "minPoints": 200,
       "pointsValue": "250",
-      "totalWalletCap": 1e+56
+      "totalWalletCap": 1e+56,
+      "active": true
     },
     {
       "name": "Injective Envoy",
@@ -185,7 +201,8 @@
       "category": "Balance",
       "minPoints": 200,
       "pointsValue": "2500",
-      "totalWalletCap": 1e+56
+      "totalWalletCap": 1e+56,
+      "active": true
     },
     {
       "name": "Clan Ally: INCELS",
@@ -196,7 +213,8 @@
       "category": "Balance",
       "minPoints": 200,
       "pointsValue": "1000",
-      "totalWalletCap": 1e+56
+      "totalWalletCap": 1e+56,
+      "active": true
     },
     {
       "name": "Clan Ally: Premier Ninjas",
@@ -207,7 +225,8 @@
       "category": "Balance",
       "minPoints": 200,
       "pointsValue": "1000",
-      "totalWalletCap": 1e+56
+      "totalWalletCap": 1e+56,
+      "active": true
     },
     {
       "name": "Clan Ally: QAUNTS",
@@ -218,7 +237,8 @@
       "category": "Balance",
       "minPoints": 200,
       "pointsValue": "1000",
-      "totalWalletCap": 1e+56
+      "totalWalletCap": 1e+56,
+      "active": true
     },
     {
       "name": "Clan Ally: Nonjas",
@@ -229,7 +249,8 @@
       "category": "Balance",
       "minPoints": 200,
       "pointsValue": "1000",
-      "totalWalletCap": 1e+56
+      "totalWalletCap": 1e+56,
+      "active": true
     }
   ],
   "9745": [
@@ -241,7 +262,9 @@
       "type": "Activity",
       "category": "Balance",
       "minPoints": 0,
-      "pointsValue": "30"
+      "pointsValue": "30",
+      "totalWalletCap": 100,
+      "active": true
     },
     {
       "name": "Seed Miner",
@@ -251,7 +274,9 @@
       "type": "Activity",
       "category": "Mining",
       "minPoints": 1000,
-      "pointsValue": "50"
+      "pointsValue": "50",
+      "totalWalletCap": 100,
+      "active": true
     },
     {
       "name": "Apprentice Miner",
@@ -261,7 +286,9 @@
       "type": "Activity",
       "category": "Mining",
       "minPoints": 50000,
-      "pointsValue": "2600"
+      "pointsValue": "2600",
+      "totalWalletCap": 100,
+      "active": true
     },
     {
       "name": "Block Crafter",
@@ -271,7 +298,9 @@
       "type": "Activity",
       "category": "Mining",
       "minPoints": 250000,
-      "pointsValue": "16000"
+      "pointsValue": "16000",
+      "totalWalletCap": 100,
+      "active": true
     },
     {
       "name": "Vault Forgemaster",
@@ -281,7 +310,9 @@
       "type": "Activity",
       "category": "Mining",
       "minPoints": 1000000,
-      "pointsValue": "65000"
+      "pointsValue": "65000",
+      "totalWalletCap": 100,
+      "active": true
     },
     {
       "name": "Protocol Titan",
@@ -291,7 +322,9 @@
       "type": "Activity",
       "category": "Mining",
       "minPoints": 10000000,
-      "pointsValue": "651000"
+      "pointsValue": "651000",
+      "totalWalletCap": 100,
+      "active": true
     },
     {
       "name": "Chain Overlord",
@@ -301,7 +334,9 @@
       "type": "Activity",
       "category": "Mining",
       "minPoints": 100000000,
-      "pointsValue": "6515000"
+      "pointsValue": "6515000",
+      "totalWalletCap": 100,
+      "active": true
     },
     {
       "name": "ApeBond",
@@ -311,7 +346,9 @@
       "type": "Partner",
       "category": "Trading",
       "minPoints": 0,
-      "pointsValue": "10000"
+      "pointsValue": "10000",
+      "totalWalletCap": 100,
+      "active": true
     },
     {
       "name": "Aave",
@@ -321,7 +358,9 @@
       "type": "Partner",
       "category": "Lending",
       "minPoints": 0,
-      "pointsValue": ""
+      "pointsValue": "10000",
+      "totalWalletCap": 100,
+      "active": true
     }
   ]
 }
