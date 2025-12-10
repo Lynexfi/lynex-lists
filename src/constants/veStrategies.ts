@@ -1,4 +1,6 @@
 export interface VeStrategyDefinition {
+  strategyName: string;
+  strategyDescription: string;
   managerAddress: string;
   vaultAddress: string;
   rewardToken: string;
@@ -13,6 +15,8 @@ export const veStrategies: Record<number, VeStrategiesByName> = {
   // Unichain
   130: {
     stables_strategy: {
+      strategyName: "Stables Strategy",
+      strategyDescription: "This is a stable strategy",
       managerAddress: "0x2e49a59dd7614599e98708a14e011d3c8ca3adea",
       vaultAddress: "0x0e306f77508fd928AdB7ecDa792EFc173c6C64bE",
       rewardToken: "0x078D782b760474a361dDA0AF3839290b0EF57AD6", // USDC
@@ -24,6 +28,8 @@ export const veStrategies: Record<number, VeStrategiesByName> = {
   // Linea (placeholder for future strategies)
   59144: {
     giga_chad_usdt_stable_maxxer_deluxe_3000_strategy: {
+      strategyName: "Giga Chad USDT Stable Maxxer Deluxe 3000",
+      strategyDescription: "This is a super stable strategy for giga chads",
       managerAddress: "0x199429c5ed7a67a62921f41dcd08e69fda8d50f8",
       vaultAddress: "0xe84ce63db465668d89d04f659f1fc5b4cdf05db1",
       rewardToken: "0xA219439258ca9da29E9Cc4cE5596924745e12B93", // USDT
@@ -32,6 +38,8 @@ export const veStrategies: Record<number, VeStrategiesByName> = {
       maxPools: 5,
     },
     only_the_og_satoshi_pumpfather_btc_strategy: { 
+      strategyName: "Only the OG Satoshi Pumpfather BTC",
+      strategyDescription: "This is a btc strategy",
       managerAddress: "0x7b5a98edf30fb88330da99a14659a4362064063f",
       vaultAddress: "0x52ddb8dadf819c7d4f0db3d1423f153d80fcbb28",
       rewardToken: "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4", // BTC
