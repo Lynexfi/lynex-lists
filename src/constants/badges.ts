@@ -5,7 +5,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Rookie',
       nftId: '1',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/rookie.svg',
       description: 'Everyone starts somewhere. Welcome to the charts.',
       criteria: 'Complete your first trade',
       type: 'Activity',
@@ -18,7 +18,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Volume Chaser',
       nftId: '2',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/volumeChaser.svg',
       description: 'You’ve got the itch. Every trade fuels the rush.',
       criteria: 'Reach $1,000 cumulative trading volume',
       type: 'Activity',
@@ -31,7 +31,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Chart Surfer',
       nftId: '3',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/chartSurfer.svg',
       description: 'You ride the waves while others drown in them.',
       criteria: 'Reach $10,000 cumulative trading volume',
       type: 'Activity',
@@ -44,7 +44,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Position Hunter',
       nftId: '4',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/positionHunter.svg',
       description: 'No luck, just precision. You see setups before they form.',
       criteria: 'Reach $100,000 cumulative trading volume',
       type: 'Activity',
@@ -57,7 +57,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Perpetual Veteran',
       nftId: '5',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/perpetualVeteran.svg',
       description: 'Battle-tested. Seasoned. You trade with instinct.',
       criteria: 'Reach $1,000,000 cumulative trading volume',
       type: 'Activity',
@@ -70,7 +70,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Perpetual Legend',
       nftId: '6',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/perpetualVeteran.svg',
       description: 'You don’t chase the market, the market chases you.',
       criteria: 'Reach $10,000,000 cumulative trading volume',
       type: 'Activity',
@@ -83,7 +83,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'DeFi Sniper',
       nftId: '7',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/defiSniper.svg',
       description: 'Accuracy under pressure. Plasma bows to your aim.',
       criteria: '10 profitable trades (each ≥ $5,000 notional)',
       type: 'Activity',
@@ -96,7 +96,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Liquidation Dodger',
       nftId: '8',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/liquidationDodger.svg',
       description: 'Master of risk, survivor of storms.',
       criteria: 'Maintain ≥ $1,000 open margin for 30 days with zero liquidations',
       type: 'Activity',
@@ -109,7 +109,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Leverage Lord',
       nftId: '9',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/leverageLord.png',
       description: 'You bend volatility to your will.',
       criteria: 'Hold a ≥ 20x position for 10 consecutive days without liquidation',
       type: 'Activity',
@@ -122,7 +122,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Ionex Initiate',
       nftId: '10',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/ionexInitiate.svg',
       description: 'First sparks earned. The ecosystem’s starting to notice you.',
       criteria: 'Earn ≥ 1,000 Ionex Points',
       type: 'Activity',
@@ -135,7 +135,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Ionex Operator',
       nftId: '11',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/ionexOperator.svg',
       description: 'You’ve leveled up your grind, nice work.',
       criteria: 'Earn ≥ 50,000 Ionex Points',
       type: 'Activity',
@@ -148,7 +148,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Ionex Specialist',
       nftId: '12',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/ionexSpecialist.svg',
       description: 'Stacking with skill. You know where the points live.',
       criteria: 'Earn ≥ 250,000 Ionex Points',
       type: 'Activity',
@@ -161,7 +161,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Ionex Master',
       nftId: '13',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/ionexMaster.png',
       description: 'You don’t chase points, they come to you now.',
       criteria: 'Earn ≥ 1,000,000 Ionex Points',
       type: 'Activity',
@@ -174,7 +174,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Ionex Elite',
       nftId: '14',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/ionexElite.svg',
       description: 'You’ve gamed the system flawlessly.',
       criteria: 'Earn ≥ 10,000,000 Ionex Points',
       type: 'Activity',
@@ -187,7 +187,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Ionex OG',
       nftId: '15',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/ionexOg.png',
       description: 'You were here before the noise. The real ones remember.',
       criteria: 'Be among the first 100 traders on Ionex',
       type: 'Activity',
@@ -200,7 +200,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Signal Bearer',
       nftId: '16',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/signalBearer.png',
       description: 'You spread the first ripple through the network.',
       criteria: 'Refer 1 verified trader',
       type: 'Activity',
@@ -213,7 +213,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Wave Starter',
       nftId: '17',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/waveStarter.svg',
       description: 'You’ve kicked off real momentum. Your circle’s catching on fast.',
       criteria: 'Refer 5 verified trader',
       type: 'Activity',
@@ -226,7 +226,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Flow Conductor',
       nftId: '18',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/flowConductor.svg',
       description: 'You’ve turned connections into current.',
       criteria: 'Refer 15 verified traders',
       type: 'Activity',
@@ -239,7 +239,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Network Architect',
       nftId: '19',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/networkArchitect.svg',
       description: 'You built the structure others trade on.',
       criteria: 'Refer 50 verified traders',
       type: 'Activity',
@@ -252,7 +252,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Lynex',
       nftId: '20',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/lynex.png',
       description: 'You don’t just vote, you govern. And your lock calls the shots.',
       criteria: 'veLYNX holders with a veNFT with a minimum one-year lock',
       type: 'Activity',
@@ -265,7 +265,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Ocelex',
       nftId: '21',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/ocelex.png',
       description: 'You don’t just vote, you govern. And your lock calls the shots.',
       criteria: 'veOCX holders with a veNFT with a minimum one-year lock',
       type: 'Activity',
@@ -278,7 +278,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Catex',
       nftId: '22',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/catex.png',
       description: 'You don’t just vote, you govern. And your lock calls the shots.',
       criteria: 'veCATX holders with a veNFT with a minimum one-year lock',
       type: 'Activity',
@@ -291,7 +291,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Pumex',
       nftId: '23',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/pumex.png',
       description: '',
       criteria: 'LPs – minimum XXX points',
       type: 'Activity',
@@ -304,7 +304,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Hydrex',
       nftId: '24',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/hydrex.png',
       description: 'You don’t just vote, you govern. And your lock calls the shots.',
       criteria: 'TBD – Top holders',
       type: 'Activity',
@@ -317,7 +317,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Thena',
       nftId: '25',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/thena.png',
       description: 'You don’t just vote, you govern. And your lock calls the shots.',
       criteria: 'TBD – Top holders',
       type: 'Activity',
@@ -330,7 +330,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Euler',
       nftId: '26',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/euler.svg',
       criteria: 'Users who are using their Multiplies looping product',
       type: 'Activity',
       category: 'Partners',
@@ -342,7 +342,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Aave',
       nftId: '27',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/aave.svg',
       criteria: 'supplying WXPL on aave v3',
       type: 'Activity',
       category: 'Partners',
@@ -354,7 +354,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Gearbox',
       nftId: '28',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/gearbox.svg',
       criteria: 'Supply USDT0 on Plasma to Invariant Group',
       type: 'Activity',
       category: 'Partners',
@@ -366,7 +366,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Beefy',
       nftId: '29',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/beefy.svg',
       criteria: 'Deposit USDT0-WXPL on Beefy',
       type: 'Activity',
       category: 'Partners',
@@ -378,7 +378,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'ApeBond',
       nftId: '30',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/apeBond.svg',
       criteria: 'Bond Kima',
       type: 'Activity',
       category: 'Partners',
@@ -390,7 +390,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Trevee',
       nftId: '31',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/trevee.svg',
       criteria: 'Stake plUSD',
       type: 'Activity',
       category: 'Partners',
@@ -402,7 +402,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Chateau Capital',
       nftId: '32',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/chateauCapital.svg',
       criteria: 'Hold schUSD',
       type: 'Activity',
       category: 'Partners',
@@ -414,7 +414,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Ebisu',
       nftId: '33',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/ebisu.svg',
       criteria: 'Supply sUSDai on Ebisu at Plasma chain.',
       type: 'Activity',
       category: 'Partners',
@@ -426,7 +426,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Metronome',
       nftId: '34',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/metronome.svg',
       criteria: 'Quests around app.odyssey.finance',
       type: 'Activity',
       category: 'Partners',
@@ -438,7 +438,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Petrillions',
       nftId: '35',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/petrillions.svg',
       criteria: 'Hold a Pretrillions NFT',
       type: 'Activity',
       category: 'Partners',
@@ -452,7 +452,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Outpost',
       nftId: '1',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Earn at least 1,000 IP',
       type: 'Activity',
       category: 'Balance',
@@ -464,7 +464,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Watchtower',
       nftId: '2',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Earn at least 25,000 IP',
       type: 'Activity',
       category: 'Balance',
@@ -476,7 +476,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Garrison',
       nftId: '3',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Earn at least 100,000 IP',
       type: 'Activity',
       category: 'Balance',
@@ -488,7 +488,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Fortress',
       nftId: '4',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Earn at least 300,000 IP',
       type: 'Activity',
       category: 'Balance',
@@ -500,7 +500,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Province',
       nftId: '5',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Earn at least 1,000,000 IP',
       type: 'Activity',
       category: 'Balance',
@@ -512,7 +512,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Shogunate',
       nftId: '6',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Earn at least 2,500,000 IP',
       type: 'Activity',
       category: 'Balance',
@@ -524,7 +524,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Initiate',
       nftId: '7',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Trade more than $100 on Pumex.',
       type: 'Activity',
       category: 'Balance',
@@ -536,7 +536,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Apprentice',
       nftId: '8',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Trade more than $500 on Pumex.',
       type: 'Activity',
       category: 'Balance',
@@ -548,7 +548,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Adept',
       nftId: '9',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Trade more than $2,500 on Pumex.',
       type: 'Activity',
       category: 'Balance',
@@ -560,7 +560,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Duelist',
       nftId: '10',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Trade more than $10,000 on Pumex',
       type: 'Activity',
       category: 'Balance',
@@ -572,7 +572,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Sensei',
       nftId: '11',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Trade more than $100,000 on Pumex',
       type: 'Activity',
       category: 'Balance',
@@ -584,7 +584,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Grandmaster',
       nftId: '12',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Trade more than $1,000,000 on Pumex',
       type: 'Activity',
       category: 'Balance',
@@ -596,7 +596,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Dojo Pathfinder (Testnet)',
       nftId: '13',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Interacted with Pumex Testnet (swap or LP) before mainnet launch.',
       type: 'Activity',
       category: 'Balance',
@@ -608,7 +608,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Ninja Scout (Testnet)',
       nftId: '14',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Minted the “Pumex Ninja” NFT on Rarible with the same wallet used on Injective.',
       type: 'Activity',
       category: 'Balance',
@@ -620,7 +620,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Roar Champion',
       nftId: '15',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Be placed in a Roar2Earn leaderboard week during the campaign (per official winners list).',
       type: 'Activity',
       category: 'Balance',
@@ -632,7 +632,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Founding OG',
       nftId: '16',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Hold the @OG role in the ZooFelines Discord at the Initiation snapshot (role must be present at snapshot time).',
       type: 'Activity',
       category: 'Balance',
@@ -644,7 +644,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Injective Envoy',
       nftId: '17',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'You can claim this badge if you are a recognized KOL/creator participating in the Bantr × Injective activation campaign.',
       type: 'Activity',
       category: 'Balance',
@@ -656,7 +656,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Clan Ally: INCELS',
       nftId: '18',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Hold an INCELS NFT in the same wallet on Injective at the time of claim (verified via partner list).',
       type: 'Partner',
       category: 'Balance',
@@ -668,7 +668,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Clan Ally: Premier Ninjas',
       nftId: '19',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Hold a Premier Ninjas NFT in the same wallet on Injective at the time of claim (verified via partner list).',
       type: 'Partner',
       category: 'Balance',
@@ -680,7 +680,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Clan Ally: QAUNTS',
       nftId: '20',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Hold a QUANTS NFT',
       type: 'Partner',
       category: 'Balance',
@@ -692,7 +692,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Clan Ally: Nonjas',
       nftId: '21',
-      image: '',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/',
       description: 'Hold a Premier QAUNTS NFT in the same wallet on Injective at the time of claim (verified via partner list).',
       type: 'Partner',
       category: 'Balance',

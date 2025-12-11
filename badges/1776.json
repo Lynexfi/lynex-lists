@@ -2,7 +2,7 @@
   {
     "name": "Outpost",
     "nftId": "1",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Earn at least 1,000 IP",
     "type": "Activity",
     "category": "Balance",
@@ -14,7 +14,7 @@
   {
     "name": "Watchtower",
     "nftId": "2",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Earn at least 25,000 IP",
     "type": "Activity",
     "category": "Balance",
@@ -26,7 +26,7 @@
   {
     "name": "Garrison",
     "nftId": "3",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Earn at least 100,000 IP",
     "type": "Activity",
     "category": "Balance",
@@ -38,7 +38,7 @@
   {
     "name": "Fortress",
     "nftId": "4",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Earn at least 300,000 IP",
     "type": "Activity",
     "category": "Balance",
@@ -50,7 +50,7 @@
   {
     "name": "Province",
     "nftId": "5",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Earn at least 1,000,000 IP",
     "type": "Activity",
     "category": "Balance",
@@ -62,7 +62,7 @@
   {
     "name": "Shogunate",
     "nftId": "6",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Earn at least 2,500,000 IP",
     "type": "Activity",
     "category": "Balance",
@@ -74,7 +74,7 @@
   {
     "name": "Initiate",
     "nftId": "7",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Trade more than $100 on Pumex.",
     "type": "Activity",
     "category": "Balance",
@@ -86,7 +86,7 @@
   {
     "name": "Apprentice",
     "nftId": "8",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Trade more than $500 on Pumex.",
     "type": "Activity",
     "category": "Balance",
@@ -98,7 +98,7 @@
   {
     "name": "Adept",
     "nftId": "9",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Trade more than $2,500 on Pumex.",
     "type": "Activity",
     "category": "Balance",
@@ -110,7 +110,7 @@
   {
     "name": "Duelist",
     "nftId": "10",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Trade more than $10,000 on Pumex",
     "type": "Activity",
     "category": "Balance",
@@ -122,7 +122,7 @@
   {
     "name": "Sensei",
     "nftId": "11",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Trade more than $100,000 on Pumex",
     "type": "Activity",
     "category": "Balance",
@@ -134,7 +134,7 @@
   {
     "name": "Grandmaster",
     "nftId": "12",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Trade more than $1,000,000 on Pumex",
     "type": "Activity",
     "category": "Balance",
@@ -146,7 +146,7 @@
   {
     "name": "Dojo Pathfinder (Testnet)",
     "nftId": "13",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Interacted with Pumex Testnet (swap or LP) before mainnet launch.",
     "type": "Activity",
     "category": "Balance",
@@ -158,7 +158,7 @@
   {
     "name": "Ninja Scout (Testnet)",
     "nftId": "14",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Minted the “Pumex Ninja” NFT on Rarible with the same wallet used on Injective.",
     "type": "Activity",
     "category": "Balance",
@@ -170,7 +170,7 @@
   {
     "name": "Roar Champion",
     "nftId": "15",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Be placed in a Roar2Earn leaderboard week during the campaign (per official winners list).",
     "type": "Activity",
     "category": "Balance",
@@ -182,7 +182,7 @@
   {
     "name": "Founding OG",
     "nftId": "16",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Hold the @OG role in the ZooFelines Discord at the Initiation snapshot (role must be present at snapshot time).",
     "type": "Activity",
     "category": "Balance",
@@ -194,7 +194,7 @@
   {
     "name": "Injective Envoy",
     "nftId": "17",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "You can claim this badge if you are a recognized KOL/creator participating in the Bantr × Injective activation campaign.",
     "type": "Activity",
     "category": "Balance",
@@ -206,7 +206,7 @@
   {
     "name": "Clan Ally: INCELS",
     "nftId": "18",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Hold an INCELS NFT in the same wallet on Injective at the time of claim (verified via partner list).",
     "type": "Partner",
     "category": "Balance",
@@ -218,7 +218,7 @@
   {
     "name": "Clan Ally: Premier Ninjas",
     "nftId": "19",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Hold a Premier Ninjas NFT in the same wallet on Injective at the time of claim (verified via partner list).",
     "type": "Partner",
     "category": "Balance",
@@ -230,7 +230,7 @@
   {
     "name": "Clan Ally: QAUNTS",
     "nftId": "20",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Hold a QUANTS NFT",
     "type": "Partner",
     "category": "Balance",
@@ -242,7 +242,7 @@
   {
     "name": "Clan Ally: Nonjas",
     "nftId": "21",
-    "image": "",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/",
     "description": "Hold a Premier QAUNTS NFT in the same wallet on Injective at the time of claim (verified via partner list).",
     "type": "Partner",
     "category": "Balance",
