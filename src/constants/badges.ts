@@ -13,7 +13,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '3',
       totalWalletCap: 10000,
-      active: true,
+      active: false,
     },
     {
       name: 'Volume Chaser',
@@ -26,7 +26,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '10',
       totalWalletCap: 10000,
-      active: true,
+      active: false,
     },
     {
       name: 'Chart Surfer',
@@ -39,7 +39,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '70',
       totalWalletCap: 7500,
-      active: true,
+      active: false,
     },
     {
       name: 'Position Hunter',
@@ -52,7 +52,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '800',
       totalWalletCap: 5000,
-      active: true,
+      active: false,
     },
     {
       name: 'Perpetual Veteran',
@@ -65,7 +65,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '9000',
       totalWalletCap: 1500,
-      active: true,
+      active: false,
     },
     {
       name: 'Perpetual Legend',
@@ -78,7 +78,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '100000',
       totalWalletCap: 50,
-      active: true,
+      active: false,
     },
     {
       name: 'DeFi Sniper',
@@ -91,7 +91,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '750',
       totalWalletCap: 100,
-      active: true,
+      active: false,
     },
     {
       name: 'Liquidation Dodger',
@@ -104,7 +104,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '750',
       totalWalletCap: 100,
-      active: true,
+      active: false,
     },
     {
       name: 'Leverage Lord',
@@ -117,7 +117,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '750',
       totalWalletCap: 100,
-      active: true,
+      active: false,
     },
     {
       name: 'Ionex Initiate',
@@ -208,7 +208,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '100',
       totalWalletCap: 5000,
-      active: true,
+      active: false,
     },
     {
       name: 'Wave Starter',
@@ -221,7 +221,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '600',
       totalWalletCap: 2500,
-      active: true,
+      active: false,
     },
     {
       name: 'Flow Conductor',
@@ -234,7 +234,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '1800',
       totalWalletCap: 800,
-      active: true,
+      active: false,
     },
     {
       name: 'Network Architect',
@@ -247,7 +247,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '5500',
       totalWalletCap: 50,
-      active: true,
+      active: false,
     },
     {
       name: 'Lynex',
@@ -260,7 +260,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: 'Amounts are proportional to voting power.',
       totalWalletCap: 100,
-      active: true,
+      active: false,
     },
     {
       name: 'Ocelex',
@@ -273,7 +273,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: 'Amounts are proportional to voting power.',
       totalWalletCap: 99999999999999999999999999999999999999999999999999999999,
-      active: true,
+      active: false,
     },
     {
       name: 'Catex',
@@ -286,7 +286,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: 'Amounts are proportional to voting power.',
       totalWalletCap: 99999999999999999999999999999999999999999999999999999999,
-      active: true,
+      active: false,
     },
     {
       name: 'Pumex',
@@ -299,7 +299,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: 'NaN',
       totalWalletCap: 99999999999999999999999999999999999999999999999999999999,
-      active: true,
+      active: false,
     },
     {
       name: 'Hydrex',
@@ -312,7 +312,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: 'Amounts are proportional to voting power.',
       totalWalletCap: 99999999999999999999999999999999999999999999999999999999,
-      active: true,
+      active: false,
     },
     {
       name: 'Thena',
@@ -325,7 +325,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: 'Amounts are proportional to voting power.',
       totalWalletCap: 99999999999999999999999999999999999999999999999999999999,
-      active: true,
+      active: false,
     },
     {
       name: 'Euler',
@@ -337,7 +337,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '500',
       totalWalletCap: 100,
-      active: true,
+      active: false,
     },
     {
       name: 'Aave',
@@ -349,7 +349,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '500',
       totalWalletCap: 100,
-      active: true,
+      active: false,
     },
     {
       name: 'Gearbox',
@@ -361,7 +361,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '500',
       totalWalletCap: 100,
-      active: true,
+      active: false,
     },
     {
       name: 'Beefy',
@@ -373,7 +373,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '500',
       totalWalletCap: 100,
-      active: true,
+      active: false,
     },
     {
       name: 'ApeBond',
@@ -385,7 +385,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '500',
       totalWalletCap: 100,
-      active: true,
+      active: false,
     },
     {
       name: 'Trevee',
@@ -397,7 +397,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '350',
       totalWalletCap: 100,
-      active: true,
+      active: false,
     },
     {
       name: 'Chateau Capital',
@@ -409,7 +409,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '350',
       totalWalletCap: 100,
-      active: true,
+      active: false,
     },
     {
       name: 'Ebisu',
@@ -421,7 +421,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '350',
       totalWalletCap: 100,
-      active: true,
+      active: false,
     },
     {
       name: 'Metronome',
@@ -433,7 +433,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '200',
       totalWalletCap: 100,
-      active: true,
+      active: false,
     },
     {
       name: 'Petrillions',
@@ -445,7 +445,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '200',
       totalWalletCap: 100,
-      active: true,
+      active: false,
     },
   ],
   "1776": [
@@ -459,7 +459,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '250',
       totalWalletCap: 600,
-      active: true,
+      active: false,
     },
     {
       name: 'Watchtower',
@@ -471,7 +471,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 25000,
       pointsValue: '1000',
       totalWalletCap: 400,
-      active: true,
+      active: false,
     },
     {
       name: 'Garrison',
@@ -483,7 +483,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 100000,
       pointsValue: '3000',
       totalWalletCap: 240,
-      active: true,
+      active: false,
     },
     {
       name: 'Fortress',
@@ -495,7 +495,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 300000,
       pointsValue: '7500',
       totalWalletCap: 120,
-      active: true,
+      active: false,
     },
     {
       name: 'Province',
@@ -507,7 +507,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000000,
       pointsValue: '20000',
       totalWalletCap: 50,
-      active: true,
+      active: false,
     },
     {
       name: 'Shogunate',
@@ -519,7 +519,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 2500000,
       pointsValue: '50000',
       totalWalletCap: 20,
-      active: true,
+      active: false,
     },
     {
       name: 'Initiate',
@@ -531,7 +531,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 200,
       pointsValue: '100',
       totalWalletCap: 300,
-      active: true,
+      active: false,
     },
     {
       name: 'Apprentice',
@@ -543,7 +543,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 200,
       pointsValue: '300',
       totalWalletCap: 200,
-      active: true,
+      active: false,
     },
     {
       name: 'Adept',
@@ -555,7 +555,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 200,
       pointsValue: '800',
       totalWalletCap: 120,
-      active: true,
+      active: false,
     },
     {
       name: 'Duelist',
@@ -567,7 +567,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 200,
       pointsValue: '2000',
       totalWalletCap: 60,
-      active: true,
+      active: false,
     },
     {
       name: 'Sensei',
@@ -579,7 +579,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 200,
       pointsValue: '5000',
       totalWalletCap: 25,
-      active: true,
+      active: false,
     },
     {
       name: 'Grandmaster',
@@ -591,7 +591,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 200,
       pointsValue: '12500',
       totalWalletCap: 10,
-      active: true,
+      active: false,
     },
     {
       name: 'Dojo Pathfinder (Testnet)',
@@ -603,7 +603,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 200,
       pointsValue: '250',
       totalWalletCap: 99999999999999999999999999999999999999999999999999999999,
-      active: true,
+      active: false,
     },
     {
       name: 'Ninja Scout (Testnet)',
@@ -615,7 +615,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 200,
       pointsValue: '250',
       totalWalletCap: 99999999999999999999999999999999999999999999999999999999,
-      active: true,
+      active: false,
     },
     {
       name: 'Roar Champion',
@@ -627,7 +627,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 200,
       pointsValue: '500',
       totalWalletCap: 99999999999999999999999999999999999999999999999999999999,
-      active: true,
+      active: false,
     },
     {
       name: 'Founding OG',
@@ -639,7 +639,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 200,
       pointsValue: '250',
       totalWalletCap: 99999999999999999999999999999999999999999999999999999999,
-      active: true,
+      active: false,
     },
     {
       name: 'Injective Envoy',
@@ -651,7 +651,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 200,
       pointsValue: '2500',
       totalWalletCap: 99999999999999999999999999999999999999999999999999999999,
-      active: true,
+      active: false,
     },
     {
       name: 'Clan Ally: INCELS',
@@ -663,7 +663,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 200,
       pointsValue: '1000',
       totalWalletCap: 99999999999999999999999999999999999999999999999999999999,
-      active: true,
+      active: false,
     },
     {
       name: 'Clan Ally: Premier Ninjas',
@@ -675,7 +675,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 200,
       pointsValue: '1000',
       totalWalletCap: 99999999999999999999999999999999999999999999999999999999,
-      active: true,
+      active: false,
     },
     {
       name: 'Clan Ally: QAUNTS',
@@ -687,7 +687,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 200,
       pointsValue: '1000',
       totalWalletCap: 99999999999999999999999999999999999999999999999999999999,
-      active: true,
+      active: false,
     },
     {
       name: 'Clan Ally: Nonjas',
@@ -699,7 +699,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 200,
       pointsValue: '1000',
       totalWalletCap: 99999999999999999999999999999999999999999999999999999999,
-      active: true,
+      active: false,
     },
   ],
 };

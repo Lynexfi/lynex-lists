@@ -9,7 +9,7 @@
     "minPoints": 1000,
     "pointsValue": "250",
     "totalWalletCap": 600,
-    "active": true
+    "active": false
   },
   {
     "name": "Watchtower",
@@ -21,7 +21,7 @@
     "minPoints": 25000,
     "pointsValue": "1000",
     "totalWalletCap": 400,
-    "active": true
+    "active": false
   },
   {
     "name": "Garrison",
@@ -33,7 +33,7 @@
     "minPoints": 100000,
     "pointsValue": "3000",
     "totalWalletCap": 240,
-    "active": true
+    "active": false
   },
   {
     "name": "Fortress",
@@ -45,7 +45,7 @@
     "minPoints": 300000,
     "pointsValue": "7500",
     "totalWalletCap": 120,
-    "active": true
+    "active": false
   },
   {
     "name": "Province",
@@ -57,7 +57,7 @@
     "minPoints": 1000000,
     "pointsValue": "20000",
     "totalWalletCap": 50,
-    "active": true
+    "active": false
   },
   {
     "name": "Shogunate",
@@ -69,7 +69,7 @@
     "minPoints": 2500000,
     "pointsValue": "50000",
     "totalWalletCap": 20,
-    "active": true
+    "active": false
   },
   {
     "name": "Initiate",
@@ -81,7 +81,7 @@
     "minPoints": 200,
     "pointsValue": "100",
     "totalWalletCap": 300,
-    "active": true
+    "active": false
   },
   {
     "name": "Apprentice",
@@ -93,7 +93,7 @@
     "minPoints": 200,
     "pointsValue": "300",
     "totalWalletCap": 200,
-    "active": true
+    "active": false
   },
   {
     "name": "Adept",
@@ -105,7 +105,7 @@
     "minPoints": 200,
     "pointsValue": "800",
     "totalWalletCap": 120,
-    "active": true
+    "active": false
   },
   {
     "name": "Duelist",
@@ -117,7 +117,7 @@
     "minPoints": 200,
     "pointsValue": "2000",
     "totalWalletCap": 60,
-    "active": true
+    "active": false
   },
   {
     "name": "Sensei",
@@ -129,7 +129,7 @@
     "minPoints": 200,
     "pointsValue": "5000",
     "totalWalletCap": 25,
-    "active": true
+    "active": false
   },
   {
     "name": "Grandmaster",
@@ -141,7 +141,7 @@
     "minPoints": 200,
     "pointsValue": "12500",
     "totalWalletCap": 10,
-    "active": true
+    "active": false
   },
   {
     "name": "Dojo Pathfinder (Testnet)",
@@ -153,7 +153,7 @@
     "minPoints": 200,
     "pointsValue": "250",
     "totalWalletCap": 1e+56,
-    "active": true
+    "active": false
   },
   {
     "name": "Ninja Scout (Testnet)",
@@ -165,7 +165,7 @@
     "minPoints": 200,
     "pointsValue": "250",
     "totalWalletCap": 1e+56,
-    "active": true
+    "active": false
   },
   {
     "name": "Roar Champion",
@@ -177,7 +177,7 @@
     "minPoints": 200,
     "pointsValue": "500",
     "totalWalletCap": 1e+56,
-    "active": true
+    "active": false
   },
   {
     "name": "Founding OG",
@@ -189,7 +189,7 @@
     "minPoints": 200,
     "pointsValue": "250",
     "totalWalletCap": 1e+56,
-    "active": true
+    "active": false
   },
   {
     "name": "Injective Envoy",
@@ -201,7 +201,7 @@
     "minPoints": 200,
     "pointsValue": "2500",
     "totalWalletCap": 1e+56,
-    "active": true
+    "active": false
   },
   {
     "name": "Clan Ally: INCELS",
@@ -213,7 +213,7 @@
     "minPoints": 200,
     "pointsValue": "1000",
     "totalWalletCap": 1e+56,
-    "active": true
+    "active": false
   },
   {
     "name": "Clan Ally: Premier Ninjas",
@@ -225,7 +225,7 @@
     "minPoints": 200,
     "pointsValue": "1000",
     "totalWalletCap": 1e+56,
-    "active": true
+    "active": false
   },
   {
     "name": "Clan Ally: QAUNTS",
@@ -237,7 +237,7 @@
     "minPoints": 200,
     "pointsValue": "1000",
     "totalWalletCap": 1e+56,
-    "active": true
+    "active": false
   },
   {
     "name": "Clan Ally: Nonjas",
@@ -249,6 +249,6 @@
     "minPoints": 200,
     "pointsValue": "1000",
     "totalWalletCap": 1e+56,
-    "active": true
+    "active": false
   }
 ]

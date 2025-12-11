@@ -10,7 +10,7 @@
       "minPoints": 1000,
       "pointsValue": "250",
       "totalWalletCap": 600,
-      "active": true
+      "active": false
     },
     {
       "name": "Watchtower",
@@ -22,7 +22,7 @@
       "minPoints": 25000,
       "pointsValue": "1000",
       "totalWalletCap": 400,
-      "active": true
+      "active": false
     },
     {
       "name": "Garrison",
@@ -34,7 +34,7 @@
       "minPoints": 100000,
       "pointsValue": "3000",
       "totalWalletCap": 240,
-      "active": true
+      "active": false
     },
     {
       "name": "Fortress",
@@ -46,7 +46,7 @@
       "minPoints": 300000,
       "pointsValue": "7500",
       "totalWalletCap": 120,
-      "active": true
+      "active": false
     },
     {
       "name": "Province",
@@ -58,7 +58,7 @@
       "minPoints": 1000000,
       "pointsValue": "20000",
       "totalWalletCap": 50,
-      "active": true
+      "active": false
     },
     {
       "name": "Shogunate",
@@ -70,7 +70,7 @@
       "minPoints": 2500000,
       "pointsValue": "50000",
       "totalWalletCap": 20,
-      "active": true
+      "active": false
     },
     {
       "name": "Initiate",
@@ -82,7 +82,7 @@
       "minPoints": 200,
       "pointsValue": "100",
       "totalWalletCap": 300,
-      "active": true
+      "active": false
     },
     {
       "name": "Apprentice",
@@ -94,7 +94,7 @@
       "minPoints": 200,
       "pointsValue": "300",
       "totalWalletCap": 200,
-      "active": true
+      "active": false
     },
     {
       "name": "Adept",
@@ -106,7 +106,7 @@
       "minPoints": 200,
       "pointsValue": "800",
       "totalWalletCap": 120,
-      "active": true
+      "active": false
     },
     {
       "name": "Duelist",
@@ -118,7 +118,7 @@
       "minPoints": 200,
       "pointsValue": "2000",
       "totalWalletCap": 60,
-      "active": true
+      "active": false
     },
     {
       "name": "Sensei",
@@ -130,7 +130,7 @@
       "minPoints": 200,
       "pointsValue": "5000",
       "totalWalletCap": 25,
-      "active": true
+      "active": false
     },
     {
       "name": "Grandmaster",
@@ -142,7 +142,7 @@
       "minPoints": 200,
       "pointsValue": "12500",
       "totalWalletCap": 10,
-      "active": true
+      "active": false
     },
     {
       "name": "Dojo Pathfinder (Testnet)",
@@ -154,7 +154,7 @@
       "minPoints": 200,
       "pointsValue": "250",
       "totalWalletCap": 1e+56,
-      "active": true
+      "active": false
     },
     {
       "name": "Ninja Scout (Testnet)",
@@ -166,7 +166,7 @@
       "minPoints": 200,
       "pointsValue": "250",
       "totalWalletCap": 1e+56,
-      "active": true
+      "active": false
     },
     {
       "name": "Roar Champion",
@@ -178,7 +178,7 @@
       "minPoints": 200,
       "pointsValue": "500",
       "totalWalletCap": 1e+56,
-      "active": true
+      "active": false
     },
     {
       "name": "Founding OG",
@@ -190,7 +190,7 @@
       "minPoints": 200,
       "pointsValue": "250",
       "totalWalletCap": 1e+56,
-      "active": true
+      "active": false
     },
     {
       "name": "Injective Envoy",
@@ -202,7 +202,7 @@
       "minPoints": 200,
       "pointsValue": "2500",
       "totalWalletCap": 1e+56,
-      "active": true
+      "active": false
     },
     {
       "name": "Clan Ally: INCELS",
@@ -214,7 +214,7 @@
       "minPoints": 200,
       "pointsValue": "1000",
       "totalWalletCap": 1e+56,
-      "active": true
+      "active": false
     },
     {
       "name": "Clan Ally: Premier Ninjas",
@@ -226,7 +226,7 @@
       "minPoints": 200,
       "pointsValue": "1000",
       "totalWalletCap": 1e+56,
-      "active": true
+      "active": false
     },
     {
       "name": "Clan Ally: QAUNTS",
@@ -238,7 +238,7 @@
       "minPoints": 200,
       "pointsValue": "1000",
       "totalWalletCap": 1e+56,
-      "active": true
+      "active": false
     },
     {
       "name": "Clan Ally: Nonjas",
@@ -250,7 +250,7 @@
       "minPoints": 200,
       "pointsValue": "1000",
       "totalWalletCap": 1e+56,
-      "active": true
+      "active": false
     }
   ],
   "9745": [
@@ -265,7 +265,7 @@
       "minPoints": 1000,
       "pointsValue": "3",
       "totalWalletCap": 10000,
-      "active": true
+      "active": false
     },
     {
       "name": "Volume Chaser",
@@ -278,7 +278,7 @@
       "minPoints": 1000,
       "pointsValue": "10",
       "totalWalletCap": 10000,
-      "active": true
+      "active": false
     },
     {
       "name": "Chart Surfer",
@@ -291,7 +291,7 @@
       "minPoints": 1000,
       "pointsValue": "70",
       "totalWalletCap": 7500,
-      "active": true
+      "active": false
     },
     {
       "name": "Position Hunter",
@@ -304,7 +304,7 @@
       "minPoints": 1000,
       "pointsValue": "800",
       "totalWalletCap": 5000,
-      "active": true
+      "active": false
     },
     {
       "name": "Perpetual Veteran",
@@ -317,7 +317,7 @@
       "minPoints": 1000,
       "pointsValue": "9000",
       "totalWalletCap": 1500,
-      "active": true
+      "active": false
     },
     {
       "name": "Perpetual Legend",
@@ -330,7 +330,7 @@
       "minPoints": 1000,
       "pointsValue": "100000",
       "totalWalletCap": 50,
-      "active": true
+      "active": false
     },
     {
       "name": "DeFi Sniper",
@@ -343,7 +343,7 @@
       "minPoints": 1000,
       "pointsValue": "750",
       "totalWalletCap": 100,
-      "active": true
+      "active": false
     },
     {
       "name": "Liquidation Dodger",
@@ -356,7 +356,7 @@
       "minPoints": 1000,
       "pointsValue": "750",
       "totalWalletCap": 100,
-      "active": true
+      "active": false
     },
     {
       "name": "Leverage Lord",
@@ -369,7 +369,7 @@
       "minPoints": 1000,
       "pointsValue": "750",
       "totalWalletCap": 100,
-      "active": true
+      "active": false
     },
     {
       "name": "Ionex Initiate",
@@ -460,7 +460,7 @@
       "minPoints": 1000,
       "pointsValue": "100",
       "totalWalletCap": 5000,
-      "active": true
+      "active": false
     },
     {
       "name": "Wave Starter",
@@ -473,7 +473,7 @@
       "minPoints": 1000,
       "pointsValue": "600",
       "totalWalletCap": 2500,
-      "active": true
+      "active": false
     },
     {
       "name": "Flow Conductor",
@@ -486,7 +486,7 @@
       "minPoints": 1000,
       "pointsValue": "1800",
       "totalWalletCap": 800,
-      "active": true
+      "active": false
     },
     {
       "name": "Network Architect",
@@ -499,7 +499,7 @@
       "minPoints": 1000,
       "pointsValue": "5500",
       "totalWalletCap": 50,
-      "active": true
+      "active": false
     },
     {
       "name": "Lynex",
@@ -512,7 +512,7 @@
       "minPoints": 1000,
       "pointsValue": "Amounts are proportional to voting power.",
       "totalWalletCap": 100,
-      "active": true
+      "active": false
     },
     {
       "name": "Ocelex",
@@ -525,7 +525,7 @@
       "minPoints": 1000,
       "pointsValue": "Amounts are proportional to voting power.",
       "totalWalletCap": 1e+56,
-      "active": true
+      "active": false
     },
     {
       "name": "Catex",
@@ -538,7 +538,7 @@
       "minPoints": 1000,
       "pointsValue": "Amounts are proportional to voting power.",
       "totalWalletCap": 1e+56,
-      "active": true
+      "active": false
     },
     {
       "name": "Pumex",
@@ -551,7 +551,7 @@
       "minPoints": 1000,
       "pointsValue": "NaN",
       "totalWalletCap": 1e+56,
-      "active": true
+      "active": false
     },
     {
       "name": "Hydrex",
@@ -564,7 +564,7 @@
       "minPoints": 1000,
       "pointsValue": "Amounts are proportional to voting power.",
       "totalWalletCap": 1e+56,
-      "active": true
+      "active": false
     },
     {
       "name": "Thena",
@@ -577,7 +577,7 @@
       "minPoints": 1000,
       "pointsValue": "Amounts are proportional to voting power.",
       "totalWalletCap": 1e+56,
-      "active": true
+      "active": false
     },
     {
       "name": "Euler",
@@ -589,7 +589,7 @@
       "minPoints": 1000,
       "pointsValue": "500",
       "totalWalletCap": 100,
-      "active": true
+      "active": false
     },
     {
       "name": "Aave",
@@ -601,7 +601,7 @@
       "minPoints": 1000,
       "pointsValue": "500",
       "totalWalletCap": 100,
-      "active": true
+      "active": false
     },
     {
       "name": "Gearbox",
@@ -613,7 +613,7 @@
       "minPoints": 1000,
       "pointsValue": "500",
       "totalWalletCap": 100,
-      "active": true
+      "active": false
     },
     {
       "name": "Beefy",
@@ -625,7 +625,7 @@
       "minPoints": 1000,
       "pointsValue": "500",
       "totalWalletCap": 100,
-      "active": true
+      "active": false
     },
     {
       "name": "ApeBond",
@@ -637,7 +637,7 @@
       "minPoints": 1000,
       "pointsValue": "500",
       "totalWalletCap": 100,
-      "active": true
+      "active": false
     },
     {
       "name": "Trevee",
@@ -649,7 +649,7 @@
       "minPoints": 1000,
       "pointsValue": "350",
       "totalWalletCap": 100,
-      "active": true
+      "active": false
     },
     {
       "name": "Chateau Capital",
@@ -661,7 +661,7 @@
       "minPoints": 1000,
       "pointsValue": "350",
       "totalWalletCap": 100,
-      "active": true
+      "active": false
     },
     {
       "name": "Ebisu",
@@ -673,7 +673,7 @@
       "minPoints": 1000,
       "pointsValue": "350",
       "totalWalletCap": 100,
-      "active": true
+      "active": false
     },
     {
       "name": "Metronome",
@@ -685,7 +685,7 @@
       "minPoints": 1000,
       "pointsValue": "200",
       "totalWalletCap": 100,
-      "active": true
+      "active": false
     },
     {
       "name": "Petrillions",
@@ -697,7 +697,7 @@
       "minPoints": 1000,
       "pointsValue": "200",
       "totalWalletCap": 100,
-      "active": true
+      "active": false
     }
   ]
 }
