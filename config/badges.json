@@ -392,7 +392,7 @@
       "criteria": "Earn ≥ 50,000 Ionex Points",
       "type": "Activity",
       "category": "Mining",
-      "minPoints": 1000,
+      "minPoints": 50000,
       "pointsValue": "500",
       "totalWalletCap": 5000,
       "active": true
@@ -405,7 +405,7 @@
       "criteria": "Earn ≥ 250,000 Ionex Points",
       "type": "Activity",
       "category": "Mining",
-      "minPoints": 1000,
+      "minPoints": 250000,
       "pointsValue": "2500",
       "totalWalletCap": 5000,
       "active": true
@@ -418,7 +418,7 @@
       "criteria": "Earn ≥ 1,000,000 Ionex Points",
       "type": "Activity",
       "category": "Mining",
-      "minPoints": 1000,
+      "minPoints": 1000000,
       "pointsValue": "10000",
       "totalWalletCap": 1000,
       "active": true
@@ -431,7 +431,7 @@
       "criteria": "Earn ≥ 10,000,000 Ionex Points",
       "type": "Activity",
       "category": "Mining",
-      "minPoints": 1000,
+      "minPoints": 10000000,
       "pointsValue": "100000",
       "totalWalletCap": 50,
       "active": true
@@ -447,7 +447,7 @@
       "minPoints": 1000,
       "pointsValue": "100",
       "totalWalletCap": 100,
-      "active": true
+      "active": false
     },
     {
       "name": "Signal Bearer",
