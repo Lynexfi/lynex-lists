@@ -43,7 +43,8 @@ export interface Badge {
   name: string;
   nftId: string;
   image: string;
-  description: string;
+  description?: string;
+  criteria?: string;
   type: string;
   category: string;
   minPoints: number;
