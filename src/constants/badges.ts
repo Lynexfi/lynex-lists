@@ -415,7 +415,7 @@ export const badges: Record<string, Badge[]> = {
       name: 'Ebisu',
       nftId: '33',
       image: '',
-      criteria: 'supply sUSDai on plasma',
+      criteria: 'Supply sUSDai on Ebisu at Plasma chain.',
       type: 'Activity',
       category: 'Partners',
       minPoints: 1000,
