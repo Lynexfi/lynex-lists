@@ -39,4 +39,18 @@ export interface Points {
 }
 export type Strategies = Record<number, Strategy[]>;
 
+export interface Badge {
+  name: string;
+  nftId: string;
+  image: string;
+  description?: string;
+  criteria?: string;
+  type: string;
+  category: string;
+  minPoints: number;
+  pointsValue: string;
+  totalWalletCap?: number;
+  active: boolean;
+}
+
 
