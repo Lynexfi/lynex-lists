@@ -255,8 +255,8 @@
     "type": "Activity",
     "category": "veGovernators",
     "minPoints": 1000,
-    "pointsValue": "Amounts are proportional to voting power.",
-    "totalWalletCap": 100,
+    "pointsValue": "Based on voting power",
+    "totalWalletCap": 100000,
     "active": false
   },
   {
@@ -268,8 +268,8 @@
     "type": "Activity",
     "category": "veGovernators",
     "minPoints": 1000,
-    "pointsValue": "Amounts are proportional to voting power.",
-    "totalWalletCap": 1e+56,
+    "pointsValue": "Based on voting power",
+    "totalWalletCap": 100000,
     "active": false
   },
   {
@@ -281,8 +281,8 @@
     "type": "Activity",
     "category": "veGovernators",
     "minPoints": 1000,
-    "pointsValue": "Amounts are proportional to voting power.",
-    "totalWalletCap": 1e+56,
+    "pointsValue": "Based on voting power",
+    "totalWalletCap": 100000,
     "active": false
   },
   {
@@ -294,8 +294,8 @@
     "type": "Activity",
     "category": "veGovernators",
     "minPoints": 1000,
-    "pointsValue": "NaN",
-    "totalWalletCap": 1e+56,
+    "pointsValue": "Based on voting power",
+    "totalWalletCap": 100000,
     "active": false
   },
   {
@@ -307,8 +307,8 @@
     "type": "Activity",
     "category": "veGovernators",
     "minPoints": 1000,
-    "pointsValue": "Amounts are proportional to voting power.",
-    "totalWalletCap": 1e+56,
+    "pointsValue": "Based on voting power",
+    "totalWalletCap": 100000,
     "active": false
   },
   {
@@ -320,8 +320,8 @@
     "type": "Activity",
     "category": "veGovernators",
     "minPoints": 1000,
-    "pointsValue": "Amounts are proportional to voting power.",
-    "totalWalletCap": 1e+56,
+    "pointsValue": "Based on voting power",
+    "totalWalletCap": 100000,
     "active": false
   },
   {
