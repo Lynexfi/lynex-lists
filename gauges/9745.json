@@ -63,6 +63,15 @@
     "bribe": "0x22a561b36e3f0063b856a6c0725d9ca93c1dbf06"
   },
   {
+    "address": "0x6c0a38f45e30a57ed68cae78d0c037b61bcb2b16",
+    "symbol": "sAMM-weETH/USDT0",
+    "gauge": "0x0209f05ab0b182ae8d6ce75dcb79971a2caaf34b",
+    "token0": "0xa3d68b74bf0528fdd07263c60d6488749044914b",
+    "token1": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "isStrategy": false,
+    "bribe": "0xe9b978cd196a5b2aeb0e6b702388d998108fd2dc"
+  },
+  {
     "address": "0x8c0d0f3b753be6eefbb9a6b4545955fe465e6e1a",
     "symbol": "vAMM-WXPL/WETH",
     "gauge": "0x7de089fca401aaeddbcb9f1cb2ae7c64029d24a6",

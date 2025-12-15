@@ -2,7 +2,7 @@
   {
     "name": "Rookie",
     "nftId": "1",
-    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/rookie.svg",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/rookie.png",
     "description": "Everyone starts somewhere. Welcome to the charts.",
     "criteria": "Complete your first trade",
     "type": "Activity",
@@ -236,7 +236,7 @@
   {
     "name": "Network Architect",
     "nftId": "19",
-    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/networkArchitect.svg",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/networkArchitect.png",
     "description": "You built the structure others trade on.",
     "criteria": "Refer 50 verified traders",
     "type": "Activity",
@@ -375,7 +375,7 @@
   {
     "name": "ApeBond",
     "nftId": "30",
-    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/apeBond.svg",
+    "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/abond.svg",
     "criteria": "Bond Kima",
     "type": "Activity",
     "category": "Partners",
