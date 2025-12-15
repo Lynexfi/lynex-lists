@@ -108,7 +108,14 @@ export const injectiveEvmTestnet = defineChain({
   },
 });
 
-export const gaugeConfigs = {
+type GaugeConfig = {
+  viemChain: any;
+  pairAPIAddress: string;
+  blacklist: string[];
+  limitAmounts?: number;
+};
+
+export const gaugeConfigs: Record<number, GaugeConfig> = {
   48900: {
     viemChain: zircuit,
     pairAPIAddress: "0x0b4158e310AE236042203322f618Cde047289b3F",
@@ -135,20 +142,24 @@ export const gaugeConfigs = {
     viemChain: unichain,
     pairAPIAddress: "0x9D61c9FA1264300B166d0122a0006377465Bc5cF",
     blacklist: ["0x0000000000000000000000000000000000000000"],
+    limitAmounts: 1000,
   },
   9745: {
     viemChain: plasma,
     pairAPIAddress: "0x6FE13f896FdE0fC8979404646f46b5e5fafecbCC",
     blacklist: ["0x0000000000000000000000000000000000000000"],
+    limitAmounts: 1000,
   },
   239: {
     viemChain: tac,
     pairAPIAddress: "0x0000000000000000000000000000000000000000",
     blacklist: ["0x0000000000000000000000000000000000000000"],
+    limitAmounts: 1000,
   },
   1776: {
     viemChain: injective,
     pairAPIAddress: "0xbdf0e8F9F50b80c4914Ac023866b4180a045ce14",
     blacklist: ["0x0000000000000000000000000000000000000000"],
+    limitAmounts: 1000,
   },
 };

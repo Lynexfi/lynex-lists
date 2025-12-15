@@ -24,7 +24,20 @@ async function gaugeGod(chainId: 48900 | 59144 | 130 | 9745 | 1776 | 1439) {
   // Convert blacklist to lowercase for case-insensitive comparison
   const blacklist = config.blacklist.map((item) => item.toLowerCase());
 
-  let batchSize = chainId === 1776 ? 50 : 1000;
+  let batchSize = chainId === 1776 ? 50 : config.limitAmounts ?? 1000;
+  try {
+    const maxPairs = await client.readContract({
+      address: config.pairAPIAddress as `0x${string}`,
+      abi: PairApiABI,
+      functionName: "MAX_PAIRS",
+    });
+    const parsedMaxPairs = Number(maxPairs);
+    if (Number.isFinite(parsedMaxPairs) && parsedMaxPairs > 0) {
+      batchSize = Math.min(batchSize, parsedMaxPairs);
+    }
+  } catch (e) {
+    console.warn("Failed to read MAX_PAIRS, using default batch size", e);
+  }
   const fetchedPairs: PairInfo[] = [];
   let offset = 0;
   let hasMore = true;
@@ -58,11 +71,14 @@ async function gaugeGod(chainId: 48900 | 59144 | 130 | 9745 | 1776 | 1439) {
         e?.cause?.shortMessage?.includes("reverted");
 
       if (isRevertError) {
-        if (fetchedPairs.length > 0) {
-          hasMore = false;
-          break;
+        // If nothing fetched yet, shrink batch and retry instead of bailing immediately.
+        if (fetchedPairs.length === 0 && batchSize > 25) {
+          batchSize = Math.max(1, Math.floor(batchSize / 2));
+          continue;
         }
-        throw e;
+        // If we already fetched some pairs, treat revert as the end of pagination.
+        hasMore = false;
+        break;
       }
 
       const isSizeLimitError =
