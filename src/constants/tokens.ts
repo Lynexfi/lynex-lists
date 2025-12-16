@@ -2387,4 +2387,18 @@ export const tokens = {
       logoURI: "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212",
     },
   ],
+  1660990954: [
+    {
+      chainURI: "https://sepoliascan.status.network/block/0",
+      tokenId:
+        "https://sepoliascan.status.network/address/0x1C3Ac2a186c6149Ae7Cb4D716eBbD0766E4f898a",
+      address: "0x1C3Ac2a186c6149Ae7Cb4D716eBbD0766E4f898a",
+      name: "Status Test Token",
+      symbol: "STT",
+      decimals: 18,
+      createdAt: "2025-02-03",
+      updatedAt: "2025-02-03",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/1759.png",
+    },
+  ],
 };
