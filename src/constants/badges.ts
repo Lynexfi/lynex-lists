@@ -200,7 +200,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Signal Bearer',
       nftId: '16',
-      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/signalBearer.png',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/signalBearer.svg',
       description: 'You spread the first ripple through the network.',
       criteria: 'Refer 1 verified trader',
       type: 'Activity',
