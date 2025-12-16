@@ -334,7 +334,7 @@
     "minPoints": 1000,
     "pointsValue": "500",
     "totalWalletCap": 100,
-    "active": false
+    "active": true
   },
   {
     "name": "Aave",
@@ -346,7 +346,7 @@
     "minPoints": 1000,
     "pointsValue": "500",
     "totalWalletCap": 100,
-    "active": false
+    "active": true
   },
   {
     "name": "Gearbox",
@@ -358,7 +358,7 @@
     "minPoints": 1000,
     "pointsValue": "500",
     "totalWalletCap": 100,
-    "active": false
+    "active": true
   },
   {
     "name": "Beefy",
@@ -370,7 +370,7 @@
     "minPoints": 1000,
     "pointsValue": "500",
     "totalWalletCap": 100,
-    "active": false
+    "active": true
   },
   {
     "name": "ApeBond",
