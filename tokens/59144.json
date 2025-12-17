@@ -81,7 +81,7 @@
     "decimals": 18,
     "createdAt": "2023-08-07",
     "updatedAt": "2023-08-07",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8567.png",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/HAPI.png",
     "extension": {
       "rootChainId": 1,
       "rootChainURI": "https://etherscan.io/block/0",
@@ -645,7 +645,7 @@
     "decimals": 18,
     "createdAt": "2023-08-22",
     "updatedAt": "2023-08-22",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6953.png",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/FXS.png",
     "extension": {
       "rootChainId": 1,
       "rootChainURI": "https://etherscan.io/block/0",

@@ -62,7 +62,7 @@
     "decimals": 6,
     "createdAt": "2025-05-19",
     "updatedAt": "2025-05-19",
-    "logoURI": "https://assets.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183"
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT0.png"
   },
   {
     "tokenId": "https://uniscan.xyz/address/0x80eede496655fb9047dd39d9f418d5483ed600df",
