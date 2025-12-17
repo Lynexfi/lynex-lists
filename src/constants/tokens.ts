@@ -83,7 +83,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-07",
       updatedAt: "2023-08-07",
-      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/8567.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/HAPI.png",
       extension: {
         rootChainId: 1,
         rootChainURI: "https://etherscan.io/block/0",
@@ -651,7 +651,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2023-08-22",
       updatedAt: "2023-08-22",
-      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/6953.png",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/FXS.png",
       extension: {
         rootChainId: 1,
         rootChainURI: "https://etherscan.io/block/0",
@@ -1515,7 +1515,7 @@ export const tokens = {
       decimals: 6,
       createdAt: "2025-05-19",
       updatedAt: "2025-05-19",
-      logoURI: "https://assets.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/USDT0.png",
     },
     {
       tokenId:

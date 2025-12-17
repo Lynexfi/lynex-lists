@@ -70,7 +70,7 @@ export const badges: Record<string, Badge[]> = {
     {
       name: 'Perpetual Legend',
       nftId: '6',
-      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/perpetualVeteran.svg',
+      image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/perpetualLegend.png',
       description: 'You don’t chase the market, the market chases you.',
       criteria: 'Reach $10,000,000 cumulative trading volume',
       type: 'Activity',
