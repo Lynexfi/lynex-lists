@@ -251,7 +251,7 @@
     "nftId": "20",
     "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/lynex.png",
     "description": "You don’t just vote, you govern. And your lock calls the shots.",
-    "criteria": "veLYNX holders with a veNFT with a minimum one-year lock",
+    "criteria": "veLYNX holders with a veNFT with a minimum one-year lock + minimum $500 value",
     "type": "Activity",
     "category": "veGovernators",
     "minPoints": 1000,
@@ -264,7 +264,7 @@
     "nftId": "21",
     "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/ocelex.png",
     "description": "You don’t just vote, you govern. And your lock calls the shots.",
-    "criteria": "veOCX holders with a veNFT with a minimum one-year lock",
+    "criteria": "veOCX holders with a veNFT with a minimum one-year lock + minimum $500 value",
     "type": "Activity",
     "category": "veGovernators",
     "minPoints": 1000,
@@ -277,7 +277,7 @@
     "nftId": "22",
     "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/catex.png",
     "description": "You don’t just vote, you govern. And your lock calls the shots.",
-    "criteria": "veCATX holders with a veNFT with a minimum one-year lock",
+    "criteria": "veCATX holders with a veNFT with a minimum one-year lock + minimum $500 value",
     "type": "Activity",
     "category": "veGovernators",
     "minPoints": 1000,
@@ -303,7 +303,7 @@
     "nftId": "24",
     "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/hydrex.png",
     "description": "You don’t just vote, you govern. And your lock calls the shots.",
-    "criteria": "TBD – Top holders",
+    "criteria": "Hydrex holders with a veNFT with a minimum $1,000 value",
     "type": "Activity",
     "category": "veGovernators",
     "minPoints": 1000,
@@ -316,7 +316,7 @@
     "nftId": "25",
     "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/thena.png",
     "description": "You don’t just vote, you govern. And your lock calls the shots.",
-    "criteria": "TBD – Top holders",
+    "criteria": "Thena holders with a veNFT with a minimum $1,000 value",
     "type": "Activity",
     "category": "veGovernators",
     "minPoints": 1000,
@@ -394,7 +394,7 @@
     "minPoints": 1000,
     "pointsValue": "350",
     "totalWalletCap": 100,
-    "active": false
+    "active": true
   },
   {
     "name": "Chateau Capital",
@@ -406,7 +406,7 @@
     "minPoints": 1000,
     "pointsValue": "350",
     "totalWalletCap": 100,
-    "active": false
+    "active": true
   },
   {
     "name": "Ebisu",
@@ -418,7 +418,7 @@
     "minPoints": 1000,
     "pointsValue": "350",
     "totalWalletCap": 100,
-    "active": false
+    "active": true
   },
   {
     "name": "Metronome",
