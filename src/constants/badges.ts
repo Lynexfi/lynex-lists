@@ -13,7 +13,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '3',
       totalWalletCap: 10000,
-      active: false,
+      active: true,
     },
     {
       name: 'Volume Chaser',
@@ -26,7 +26,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '10',
       totalWalletCap: 10000,
-      active: false,
+      active: true,
     },
     {
       name: 'Chart Surfer',
@@ -39,7 +39,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '70',
       totalWalletCap: 7500,
-      active: false,
+      active: true,
     },
     {
       name: 'Position Hunter',
@@ -52,7 +52,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '800',
       totalWalletCap: 5000,
-      active: false,
+      active: true,
     },
     {
       name: 'Perpetual Veteran',
@@ -65,7 +65,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '9000',
       totalWalletCap: 1500,
-      active: false,
+      active: true,
     },
     {
       name: 'Perpetual Legend',
@@ -78,7 +78,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '100000',
       totalWalletCap: 50,
-      active: false,
+      active: true,
     },
     {
       name: 'DeFi Sniper',
