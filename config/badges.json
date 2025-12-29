@@ -265,7 +265,7 @@
       "minPoints": 1000,
       "pointsValue": "3",
       "totalWalletCap": 10000,
-      "active": false
+      "active": true
     },
     {
       "name": "Volume Chaser",
@@ -278,7 +278,7 @@
       "minPoints": 1000,
       "pointsValue": "10",
       "totalWalletCap": 10000,
-      "active": false
+      "active": true
     },
     {
       "name": "Chart Surfer",
@@ -291,7 +291,7 @@
       "minPoints": 1000,
       "pointsValue": "70",
       "totalWalletCap": 7500,
-      "active": false
+      "active": true
     },
     {
       "name": "Position Hunter",
@@ -304,7 +304,7 @@
       "minPoints": 1000,
       "pointsValue": "800",
       "totalWalletCap": 5000,
-      "active": false
+      "active": true
     },
     {
       "name": "Perpetual Veteran",
@@ -317,7 +317,7 @@
       "minPoints": 1000,
       "pointsValue": "9000",
       "totalWalletCap": 1500,
-      "active": false
+      "active": true
     },
     {
       "name": "Perpetual Legend",
@@ -330,7 +330,7 @@
       "minPoints": 1000,
       "pointsValue": "100000",
       "totalWalletCap": 50,
-      "active": false
+      "active": true
     },
     {
       "name": "DeFi Sniper",
@@ -657,7 +657,7 @@
       "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/chateauCapital.svg",
       "criteria": "Hold $100 worth of schUSD (Plasma)",
       "type": "Activity",
-      "category": "Partners",
+      "category": "Partner",
       "minPoints": 1000,
       "pointsValue": "350",
       "totalWalletCap": 100,
