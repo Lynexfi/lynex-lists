@@ -12,44 +12,43 @@ export interface VeStrategyDefinition {
 export type VeStrategiesByName = Record<string, VeStrategyDefinition>;
 
 export const veStrategies: Record<number, VeStrategiesByName> = {
-  // Unichain
-  130: {
-    stables_strategy: {
-      strategyName: "Stables Strategy",
-      strategyDescription: "This is a stable strategy",
-      managerAddress: "0x2e49a59dd7614599e98708a14e011d3c8ca3adea",
-      vaultAddress: "0x0e306f77508fd928AdB7ecDa792EFc173c6C64bE",
-      rewardToken: "0x078D782b760474a361dDA0AF3839290b0EF57AD6", // USDC
-      bveToken: '',
-      enabled: true,
-      maxPools: 5,
-    },
-  },
-  // Linea (placeholder for future strategies)
+  // LINEA
   59144: {
-    giga_chad_usdt_stable_maxxer_deluxe_3000_strategy: {
-      strategyName: "Giga Chad USDT Stable Maxxer Deluxe 3000",
-      strategyDescription: "This is a super stable strategy for giga chads",
-      managerAddress: "0x199429c5ed7a67a62921f41dcd08e69fda8d50f8",
-      vaultAddress: "0xe84ce63db465668d89d04f659f1fc5b4cdf05db1",
+    usdt_stable_strategy: {
+      strategyName: "USDT Stable Strategy",
+      strategyDescription: "Stablecoin strategy earning USDT rewards",
+      managerAddress: "0x65dfb41c6927db8f47f588a46045f1ecb95157a6",
+      vaultAddress: "0x738fbc1ddade27142b3eb635bb11cae2f4be1fa1",
       rewardToken: "0xA219439258ca9da29E9Cc4cE5596924745e12B93", // USDT
       bveToken: '0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B',
       enabled: true,
       maxPools: 5,
     },
-    only_the_og_satoshi_pumpfather_btc_strategy: { 
-      strategyName: "Only the OG Satoshi Pumpfather BTC",
-      strategyDescription: "This is a btc strategy",
-      managerAddress: "0x7b5a98edf30fb88330da99a14659a4362064063f",
-      vaultAddress: "0x52ddb8dadf819c7d4f0db3d1423f153d80fcbb28",
+    btc_strategy: { 
+      strategyName: "Bitcoin Strategy",
+      strategyDescription: "Bitcoin strategy earning WBTC rewards",
+      managerAddress: "0x6bd8d87cc0c34dae25bcf78d0b2cd9b272ee5cb8",
+      vaultAddress: "0x2abb2972268cb1a0e082b5f36d6ba822273abae9",
       rewardToken: "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4", // BTC
+      bveToken: '0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B',
+      enabled: true,
+      maxPools: 5,
+    },
+    eth_strategy: {
+      strategyName: "ETH Strategy",
+      strategyDescription: "Ethereum strategy earning WETH rewards",
+      managerAddress: "0xbca431c7da6fcf6b2b87b59463f26f620da38bd1",
+      vaultAddress: "0x1548bbbf9788bcd44a8c1a6e396d816c695d3677",
+      rewardToken: "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f", // ETH
       bveToken: '0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B',
       enabled: true,
       maxPools: 5,
     }
   },
-  // Zircuit (placeholder for future strategies)
+  // ZIRCUIT
   48900: {},
+  // UNICHAIN
+  130: {},
 };
 
 
