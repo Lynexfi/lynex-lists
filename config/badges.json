@@ -697,7 +697,7 @@
       "minPoints": 1000,
       "pointsValue": "200",
       "totalWalletCap": 100,
-      "active": false
+      "active": true
     }
   ]
 }
