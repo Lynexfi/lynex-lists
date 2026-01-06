@@ -31,6 +31,16 @@
       "bveToken": "0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B",
       "enabled": true,
       "maxPools": 5
+    },
+    "lynx_autocompound_strategy": {
+      "strategyName": "Lynx Compound Strategy",
+      "strategyDescription": "Lynx compound strategy earning LYNX rewards",
+      "managerAddress": "0x46a2368891ef0654d63c322ebeb1a595e3e9389f",
+      "vaultAddress": "0x80eeb3652d1c2798891989a5b4801482e3818c3f",
+      "rewardToken": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+      "bveToken": "0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B",
+      "enabled": true,
+      "maxPools": 5
     }
   }
 }
