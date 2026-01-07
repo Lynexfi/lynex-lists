@@ -2276,6 +2276,18 @@ export const tokens = {
       updatedAt: "2025-11-04",
       logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
     },
+    // {
+    //   chainURI: "https://blockscout.injective.network/block/0",
+    //   tokenId:
+    //     "https://blockscout.injective.network/address/0x2d6E0e0c209D79b43f5d3D62e93D6A9f1e9317BD",
+    //   address: "0x2d6E0e0c209D79b43f5d3D62e93D6A9f1e9317BD",
+    //   name: "yINH",
+    //   symbol: "yINH",
+    //   decimals: ,
+    //   createdAt: "",
+    //   updatedAt: "",
+    //   logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/yINJ.svg",
+    // },
   ],
   1439: [
     {
