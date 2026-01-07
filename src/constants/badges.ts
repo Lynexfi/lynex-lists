@@ -436,7 +436,7 @@ export const badges: Record<string, Badge[]> = {
       active: false,
     },
     {
-      name: 'Petrillions',
+      name: 'Pretrillions',
       nftId: '35',
       image: 'https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/petrillions.svg',
       criteria: 'Hold a Pretrillions NFT',
