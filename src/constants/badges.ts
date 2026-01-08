@@ -195,7 +195,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '100',
       totalWalletCap: 100,
-      active: false,
+      active: true,
     },
     {
       name: 'Signal Bearer',
