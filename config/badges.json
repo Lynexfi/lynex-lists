@@ -439,7 +439,7 @@
     {
       "name": "Ionex OG",
       "nftId": "15",
-      "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/ionexOg.png",
+      "image": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/badge-logos/ionex-tasks/ionexOg.png",
       "description": "You were here before the noise. The real ones remember.",
       "criteria": "Be among the first 100 traders on Ionex",
       "type": "Activity",
