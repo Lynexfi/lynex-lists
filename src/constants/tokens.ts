@@ -2281,8 +2281,8 @@ export const tokens = {
       tokenId:
         "https://blockscout.injective.network/address/0x2d6E0e0c209D79b43f5d3D62e93D6A9f1e9317BD",
       address: "0x2d6E0e0c209D79b43f5d3D62e93D6A9f1e9317BD",
-      name: "yINH",
-      symbol: "yINH",
+      name: "yINJ",
+      symbol: "yINJ",
       decimals: 18,
       createdAt: "",
       updatedAt: "",
