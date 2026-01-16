@@ -385,7 +385,7 @@ export const badges: Record<string, Badge[]> = {
       minPoints: 1000,
       pointsValue: '500',
       totalWalletCap: 100,
-      active: true,
+      active: false,
     },
     {
       name: 'Trevee',
