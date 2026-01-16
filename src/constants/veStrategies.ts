@@ -7,6 +7,7 @@ export interface VeStrategyDefinition {
   bveToken: string;
   enabled: boolean;
   maxPools: number;
+  isCompound?: boolean;
 }
 
 export type VeStrategiesByName = Record<string, VeStrategyDefinition>;
@@ -53,6 +54,7 @@ export const veStrategies: Record<number, VeStrategiesByName> = {
       bveToken: '0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B',
       enabled: true,
       maxPools: 5,
+      isCompound: true,
     }
   },
   // ZIRCUIT

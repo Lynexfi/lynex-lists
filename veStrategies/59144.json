@@ -37,6 +37,7 @@
     "rewardToken": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
     "bveToken": "0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B",
     "enabled": true,
-    "maxPools": 5
+    "maxPools": 5,
+    "isCompound": true
   }
 }
