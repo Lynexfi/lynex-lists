@@ -376,7 +376,7 @@
     "name": "ApeBond",
     "nftId": "30",
     "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/abond.svg",
-    "criteria": "Have $50 worth of bonds",
+    "criteria": "Have $50 worth of bonds on bsc or base",
     "type": "Activity",
     "category": "Partner",
     "minPoints": 1000,
