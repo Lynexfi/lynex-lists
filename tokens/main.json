@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 56
+    "patch": 57
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -940,8 +940,8 @@
       "name": "yINJ",
       "symbol": "yINJ",
       "decimals": 18,
-      "createdAt": "",
-      "updatedAt": "",
+      "createdAt": "2026-01-08",
+      "updatedAt": "2026-01-08",
       "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/yINJ.svg"
     },
     {
