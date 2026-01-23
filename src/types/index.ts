@@ -1,4 +1,4 @@
-export type PoolVariant = "uniV4" | "uniV3" | "algebraV3" | "classic";
+export type PoolVariant = "v4CL" | "uniV4" | "uniV3" | "algebraV3" | "classic";
 export type Manager = "Ichi" | "Gamma" | "Steer" | "Defiedge" | "Clip Finance" | "Pumex";
 export type StrategyType = "Narrow" | "Stable" | "Wide" | "Single Deposit" | "Correlated" | "Long-Short" | "Classic Rebalance" | "High Low Channel" | "Elastic Expansion" | "Volatile" | "V4";
 export type Strategist =  "Ichi" | "Gamma" | "Steer" | "Defiedge" | "Clip Finance" | "Pumex";
