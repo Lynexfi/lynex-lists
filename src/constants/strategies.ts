@@ -2624,6 +2624,29 @@ export const strategies: Strategies = {
   ],
   9745: [
   ],
+  1776: [
+    {
+      symbol: "WINJ/yINJ",
+      lpSymbol: "WINJ/yINJ",
+      title: "Pumex",
+      type: "V4",
+      variant: "uniV4",
+      strategist: "Pumex",
+      manager: "Pumex",
+      startBlock: 151237673,
+      allowed0: true,
+      allowed1: true,
+      address: "0x7784eef16e468a449072dd3651f80bb51bdbf748",
+      token0: {
+        address: "0x0000000088827d2d103ee2d9a6b781773ae03ffb",
+      },
+      token1: {
+        address: "0x2d6e0e0c209d79b43f5d3d62e93d6a9f1e9317bd",
+      },
+      v4PoolId:
+        "0x7ac76733c0b97d571849b2ed7784eef16e468a449072dd3651f80bb51bdbf748",
+    },
+  ],
   239: [
     {
       symbol: "USDT/WTAC",

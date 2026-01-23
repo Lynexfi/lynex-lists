@@ -9,6 +9,15 @@
     "bribe": "0xae9d869be7a59223d4fe78ee674ff797950940f0"
   },
   {
+    "address": "0x183356a50ef9cd01d995a28322c570e04b89979c",
+    "symbol": "sAMM-WINJ/USDT",
+    "gauge": "0x0dbba99c000ad871cc847754d7a29997d0232259",
+    "token0": "0x0000000088827d2d103ee2d9a6b781773ae03ffb",
+    "token1": "0x88f7f2b685f9692caf8c478f5badf09ee9b1cc13",
+    "isStrategy": true,
+    "bribe": "0xae9d869be7a59223d4fe78ee674ff797950940f0"
+  },
+  {
     "address": "0x5163009263c7a4e55f1e1e7c5b4f0db02e0468b7",
     "symbol": "vAMM-PMX/USDT",
     "gauge": "0xb3893d360d46a9a9bb113ca1df9d0327cabae7f3",
