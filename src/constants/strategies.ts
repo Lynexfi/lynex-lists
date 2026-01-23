@@ -2627,7 +2627,7 @@ export const strategies: Strategies = {
   1776: [
     {
       symbol: "WINJ/yINJ",
-      lpSymbol: "USDC/ZEC",
+      lpSymbol: "WINJ/yINJ",
       title: "Pumex",
       type: "V4",
       variant: "uniV4",
