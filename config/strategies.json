@@ -930,17 +930,17 @@
       "variant": "v4CL",
       "strategist": "Pumex",
       "manager": "Pumex",
-      "startBlock": 151237673,
+      "startBlock": 151307217,
       "allowed0": true,
       "allowed1": true,
-      "address": "0x7784eef16e468a449072dd3651f80bb51bdbf748",
+      "address": "0x4ee720018f04cbc3636c63ce687e54d8d1bcac27",
       "token0": {
         "address": "0x0000000088827d2d103ee2d9a6b781773ae03ffb"
       },
       "token1": {
         "address": "0x2d6e0e0c209d79b43f5d3d62e93d6a9f1e9317bd"
       },
-      "v4PoolId": "0x7ac76733c0b97d571849b2ed7784eef16e468a449072dd3651f80bb51bdbf748"
+      "v4PoolId": "0x6d129cc852c459dbd4db0f3f4ee720018f04cbc3636c63ce687e54d8d1bcac27"
     }
   ],
   "9745": [],
