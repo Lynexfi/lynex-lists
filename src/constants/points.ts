@@ -290,7 +290,7 @@ export const points: Record<number, Points[]> = {
         "0x5163009263c7a4e55f1e1e7c5b4f0db02e0468b7", // PMX/USDT
         "0x66758604fd4a9e2b8d91a71e199308eec4536aa2", // USDC/USDT
         "0xe7853f88c498c2eb1e041ac9d23441866c562bdd", // WINJ/USDC
-
+        "0x7784eef16e468a449072dd3651f80bb51bdbf748", // WINJ/yINJ
 
       ],
     },
