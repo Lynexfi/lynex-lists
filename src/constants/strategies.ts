@@ -2630,7 +2630,7 @@ export const strategies: Strategies = {
       lpSymbol: "WINJ/yINJ",
       title: "Pumex",
       type: "V4",
-      variant: "v4CL",
+      variant: "V4CL",
       strategist: "Pumex",
       manager: "Pumex",
       startBlock: 151307217,
