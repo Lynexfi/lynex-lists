@@ -47,7 +47,7 @@ export const veStrategies: Record<number, VeStrategiesByName> = {
     },
     lynx_autocompound_strategy: {
       strategyName: "Lynx Compound Strategy",
-      strategyDescription: "Lynx compound strategy earning LYNX rewards",
+      strategyDescription: "Lynx compound strategy earning veLYNX rewards",
       managerAddress: "0x8a1f09d3df61e18e60c677e59a910056ebba8547",
       vaultAddress: "0xffa2402aeb33a332d5a53c4156fdf8c9b71bae4f",
       rewardToken: "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af", // LYNX
