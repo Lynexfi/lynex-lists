@@ -941,6 +941,66 @@
         "address": "0x2d6e0e0c209d79b43f5d3d62e93d6a9f1e9317bd"
       },
       "v4PoolId": "0x7ac76733c0b97d571849b2ed7784eef16e468a449072dd3651f80bb51bdbf748"
+    },
+    {
+      "symbol": "WINJ/USDT",
+      "lpSymbol": "WINJ/USDT",
+      "title": "Pumex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Pumex",
+      "manager": "Pumex",
+      "startBlock": 151863735,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x204b4816cd6a7fa0ca0ad4d6cb7c7f4c05e47016",
+      "token0": {
+        "address": "0x0000000088827d2d103ee2d9a6b781773ae03ffb"
+      },
+      "token1": {
+        "address": "0x88f7f2b685f9692caf8c478f5badf09ee9b1cc13"
+      },
+      "v4PoolId": "0x2523285304c524e6dba9e5e7204b4816cd6a7fa0ca0ad4d6cb7c7f4c05e47016"
+    },
+    {
+      "symbol": "USDC/USDT",
+      "lpSymbol": "USDC/USDT",
+      "title": "Pumex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Pumex",
+      "manager": "Pumex",
+      "startBlock": 151863844,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x50adb6253286e203f0f617409aaa7e78d0527e92",
+      "token0": {
+        "address": "0x2a25fbd67b3ae485e461fe55d9dbef302b7d3989"
+      },
+      "token1": {
+        "address": "0x88f7f2b685f9692caf8c478f5badf09ee9b1cc13"
+      },
+      "v4PoolId": "0x844c6da8938cfec93e272eac50adb6253286e203f0f617409aaa7e78d0527e92"
+    },
+    {
+      "symbol": "WINJ/USDC",
+      "lpSymbol": "WINJ/USDC",
+      "title": "Pumex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Pumex",
+      "manager": "Pumex",
+      "startBlock": 151863634,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x41d6ff52eda048b2ff2a5024997eec30eb03a2ce",
+      "token0": {
+        "address": "0x0000000088827d2d103ee2d9a6b781773ae03ffb"
+      },
+      "token1": {
+        "address": "0x2a25fbd67b3ae485e461fe55d9dbef302b7d3989"
+      },
+      "v4PoolId": "0xb03b485fe593703534bce33141d6ff52eda048b2ff2a5024997eec30eb03a2ce"
     }
   ],
   "9745": [],
