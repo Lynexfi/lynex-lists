@@ -280,13 +280,13 @@ export const badges: Record<string, Badge[]> = {
       description:
         "You don’t just vote, you govern. And your lock calls the shots.",
       criteria:
-        "veLYNX holders with a veNFT with a minimum one-year lock + minimum $500 value",
+        "Hold veLYNX with a minimum lock of one year + $100 value. Snapshot 19-01-2025",
       type: "Activity",
       category: "veGovernators",
       minPoints: 1000,
       pointsValue: "Based on voting power",
       totalWalletCap: 100000,
-      active: false,
+      active: true,
     },
     {
       name: "Ocelex",
@@ -296,13 +296,13 @@ export const badges: Record<string, Badge[]> = {
       description:
         "You don’t just vote, you govern. And your lock calls the shots.",
       criteria:
-        "veOCX holders with a veNFT with a minimum one-year lock + minimum $500 value",
+        "Hold veOCX with a minimum lock of one year + $100 value. Snapshot 19-01-2025",
       type: "Activity",
       category: "veGovernators",
       minPoints: 1000,
       pointsValue: "Based on voting power",
       totalWalletCap: 100000,
-      active: false,
+      active: true,
     },
     {
       name: "Catex",
@@ -312,13 +312,13 @@ export const badges: Record<string, Badge[]> = {
       description:
         "You don’t just vote, you govern. And your lock calls the shots.",
       criteria:
-        "veCATX holders with a veNFT with a minimum one-year lock + minimum $500 value",
+        "Hold veCATX with a minimum lock of one year + $100 value. Snapshot 19-01-2025",
       type: "Activity",
       category: "veGovernators",
       minPoints: 1000,
       pointsValue: "Based on voting power",
       totalWalletCap: 100000,
-      active: false,
+      active: true,
     },
     {
       name: "Pumex",
@@ -341,13 +341,14 @@ export const badges: Record<string, Badge[]> = {
         "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/hydrex.png",
       description:
         "You don’t just vote, you govern. And your lock calls the shots.",
-      criteria: "Hydrex holders with a veNFT with a minimum $1,000 value",
+      criteria:
+        "Hydrex account with a minimum lock of one year + $1500 value. Snapshot 19-01-2025",
       type: "Activity",
       category: "veGovernators",
       minPoints: 1000,
       pointsValue: "Based on voting power",
       totalWalletCap: 100000,
-      active: false,
+      active: true,
     },
     {
       name: "Thena",
@@ -356,13 +357,14 @@ export const badges: Record<string, Badge[]> = {
         "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/thena.png",
       description:
         "You don’t just vote, you govern. And your lock calls the shots.",
-      criteria: "Thena holders with a veNFT with a minimum $1,000 value",
+      criteria:
+        "Hold veTHE with a minimum lock of one year + $5000 value. Snapshot 19-01-2025",
       type: "Activity",
       category: "veGovernators",
       minPoints: 1000,
       pointsValue: "Based on voting power",
       totalWalletCap: 100000,
-      active: false,
+      active: true,
     },
     {
       name: "Euler",

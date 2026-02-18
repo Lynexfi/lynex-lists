@@ -251,39 +251,39 @@
     "nftId": "20",
     "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/lynex.png",
     "description": "You don’t just vote, you govern. And your lock calls the shots.",
-    "criteria": "veLYNX holders with a veNFT with a minimum one-year lock + minimum $500 value",
+    "criteria": "Hold veLYNX with a minimum lock of one year + $100 value. Snapshot 19-01-2025",
     "type": "Activity",
     "category": "veGovernators",
     "minPoints": 1000,
     "pointsValue": "Based on voting power",
     "totalWalletCap": 100000,
-    "active": false
+    "active": true
   },
   {
     "name": "Ocelex",
     "nftId": "21",
     "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/ocelex.png",
     "description": "You don’t just vote, you govern. And your lock calls the shots.",
-    "criteria": "veOCX holders with a veNFT with a minimum one-year lock + minimum $500 value",
+    "criteria": "Hold veOCX with a minimum lock of one year + $100 value. Snapshot 19-01-2025",
     "type": "Activity",
     "category": "veGovernators",
     "minPoints": 1000,
     "pointsValue": "Based on voting power",
     "totalWalletCap": 100000,
-    "active": false
+    "active": true
   },
   {
     "name": "Catex",
     "nftId": "22",
     "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/catex.png",
     "description": "You don’t just vote, you govern. And your lock calls the shots.",
-    "criteria": "veCATX holders with a veNFT with a minimum one-year lock + minimum $500 value",
+    "criteria": "Hold veCATX with a minimum lock of one year + $100 value. Snapshot 19-01-2025",
     "type": "Activity",
     "category": "veGovernators",
     "minPoints": 1000,
     "pointsValue": "Based on voting power",
     "totalWalletCap": 100000,
-    "active": false
+    "active": true
   },
   {
     "name": "Pumex",
@@ -303,26 +303,26 @@
     "nftId": "24",
     "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/hydrex.png",
     "description": "You don’t just vote, you govern. And your lock calls the shots.",
-    "criteria": "Hydrex holders with a veNFT with a minimum $1,000 value",
+    "criteria": "Hydrex account with a minimum lock of one year + $1500 value. Snapshot 19-01-2025",
     "type": "Activity",
     "category": "veGovernators",
     "minPoints": 1000,
     "pointsValue": "Based on voting power",
     "totalWalletCap": 100000,
-    "active": false
+    "active": true
   },
   {
     "name": "Thena",
     "nftId": "25",
     "image": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/badge-logos/ionex-tasks/thena.png",
     "description": "You don’t just vote, you govern. And your lock calls the shots.",
-    "criteria": "Thena holders with a veNFT with a minimum $1,000 value",
+    "criteria": "Hold veTHE with a minimum lock of one year + $5000 value. Snapshot 19-01-2025",
     "type": "Activity",
     "category": "veGovernators",
     "minPoints": 1000,
     "pointsValue": "Based on voting power",
     "totalWalletCap": 100000,
-    "active": false
+    "active": true
   },
   {
     "name": "Euler",
