@@ -301,7 +301,7 @@ export const badges: Record<string, Badge[]> = {
       category: "veGovernators",
       minPoints: 1000,
       pointsValue: "Based on voting power",
-      totalWalletCap: 100000,
+      totalWalletCap: 142,
       active: true,
     },
     {
@@ -317,7 +317,7 @@ export const badges: Record<string, Badge[]> = {
       category: "veGovernators",
       minPoints: 1000,
       pointsValue: "Based on voting power",
-      totalWalletCap: 100000,
+      totalWalletCap: 72,
       active: true,
     },
     {
@@ -331,7 +331,7 @@ export const badges: Record<string, Badge[]> = {
       category: "veGovernators",
       minPoints: 1000,
       pointsValue: "Based on voting power",
-      totalWalletCap: 100000,
+      totalWalletCap: 325,
       active: false,
     },
     {
@@ -347,7 +347,7 @@ export const badges: Record<string, Badge[]> = {
       category: "veGovernators",
       minPoints: 1000,
       pointsValue: "Based on voting power",
-      totalWalletCap: 100000,
+      totalWalletCap: 368,
       active: true,
     },
     {
@@ -363,7 +363,7 @@ export const badges: Record<string, Badge[]> = {
       category: "veGovernators",
       minPoints: 1000,
       pointsValue: "Based on voting power",
-      totalWalletCap: 100000,
+      totalWalletCap: 311,
       active: true,
     },
     {
