@@ -2288,6 +2288,18 @@ export const tokens = {
       updatedAt: "2026-01-08",
       logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/yINJ.svg",
     },
+    {
+      chainURI: "https://blockscout.injective.network/block/0",
+      tokenId:
+        "https://blockscout.injective.network/address/0xe9aBA835f813ca05E50A6C0ce65D0D74390F7dE7",
+      address: "0xe9aBA835f813ca05E50A6C0ce65D0D74390F7dE7",
+      name: "WETH",
+      symbol: "WETH",
+      decimals: 18,
+      createdAt: "2026-03-07",
+      updatedAt: "2026-03-07",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WETH.png",
+    },
   ],
   1439: [
     {
