@@ -31,7 +31,7 @@
   },
   "lynx_autocompound_strategy": {
     "strategyName": "Lynx Compound Strategy",
-    "strategyDescription": "Lynx compound strategy earning veLYNX rewards",
+    "strategyDescription": "Earns LYNX rewards that auto-compound into VE position as underlying LYNX",
     "managerAddress": "0x3fa084e2bfa7389e061ff2090e56b0003352bd83",
     "vaultAddress": "0x8659c554b65164166307b35608b9a57cb9c316e3",
     "rewardToken": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
