@@ -2,8 +2,8 @@
   "usdt_stable_strategy": {
     "strategyName": "USDT Stable Strategy",
     "strategyDescription": "Stablecoin strategy earning USDT rewards",
-    "managerAddress": "0x397d1749b0894498f6553e038180658cdbafc304",
-    "vaultAddress": "0x4dadba7537687f092ecbc6641669ef34457c2296",
+    "managerAddress": "0x876e498f29a3c73a522817f4b74534c13a990881",
+    "vaultAddress": "0x69862e6869194427bcf22e0622b36e271e036c04",
     "rewardToken": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
     "bveToken": "0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B",
     "enabled": true,
@@ -12,8 +12,8 @@
   "btc_strategy": {
     "strategyName": "Bitcoin Strategy",
     "strategyDescription": "Bitcoin strategy earning WBTC rewards",
-    "managerAddress": "0x7d1f22baec84a12a64da54ce789b7e925ef3ebe9",
-    "vaultAddress": "0x3a2a627af4fb137d67dd37b23fc57788e29595b4",
+    "managerAddress": "0x619b9a79607c647ebfef82da93eb6362886848cc",
+    "vaultAddress": "0x30107c15ffb534717ec158c514048f8deaec8a3a",
     "rewardToken": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
     "bveToken": "0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B",
     "enabled": true,
@@ -22,8 +22,8 @@
   "eth_strategy": {
     "strategyName": "ETH Strategy",
     "strategyDescription": "Ethereum strategy earning WETH rewards",
-    "managerAddress": "0x22dda3e7374a4a0b2fd81c6095f69721923a7744",
-    "vaultAddress": "0xbcb02bcc0f52ec96837aeedbb7f7110e0af7262d",
+    "managerAddress": "0x66fdb69a79943f3a702bab4cc08070e95b7731fc",
+    "vaultAddress": "0x1dd78047f3474b8c40e460c75032f7a5e3f7ebf7",
     "rewardToken": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
     "bveToken": "0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B",
     "enabled": true,
@@ -32,8 +32,8 @@
   "lynx_autocompound_strategy": {
     "strategyName": "Lynx Compound Strategy",
     "strategyDescription": "Lynx compound strategy earning veLYNX rewards",
-    "managerAddress": "0x8a1f09d3df61e18e60c677e59a910056ebba8547",
-    "vaultAddress": "0xffa2402aeb33a332d5a53c4156fdf8c9b71bae4f",
+    "managerAddress": "0x3fa084e2bfa7389e061ff2090e56b0003352bd83",
+    "vaultAddress": "0x8659c554b65164166307b35608b9a57cb9c316e3",
     "rewardToken": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
     "bveToken": "0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B",
     "enabled": true,
