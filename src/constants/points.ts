@@ -294,7 +294,8 @@ export const points: Record<number, Points[]> = {
         "0x204b4816cd6a7fa0ca0ad4d6cb7c7f4c05e47016", // WINJ/USDT
         "0x50adb6253286e203f0f617409aaa7e78d0527e92", // USDC/USDT
         "0x41d6ff52eda048b2ff2a5024997eec30eb03a2ce", // WINJ/USDC
-
+        "0x642f288fbae881e90a1ea6d321eb4844581e1f73", // USDT/WETH
+        "0x30bb5333545321755328d870c083847dacd3f8d4", // USDC/WETH
       ],
     },
   ],

@@ -2709,6 +2709,48 @@ export const strategies: Strategies = {
       v4PoolId:
         "0xb03b485fe593703534bce33141d6ff52eda048b2ff2a5024997eec30eb03a2ce",
     },
+    {
+      symbol: "USDT/WETH",
+      lpSymbol: "USDT/WETH",
+      title: "Pumex",
+      type: "V4",
+      variant: "V4CL",
+      strategist: "Pumex",
+      manager: "Pumex",
+      startBlock: 157741273,
+      allowed0: true,
+      allowed1: true,
+      address: "0x642f288fbae881e90a1ea6d321eb4844581e1f73",
+      token0: {
+        address: "0x88f7f2b685f9692caf8c478f5badf09ee9b1cc13",
+      },
+      token1: {
+        address: "0xe9aba835f813ca05e50a6c0ce65d0d74390f7de7",
+      },
+      v4PoolId:
+        "0xc7876f553f5cb9f0b925c437642f288fbae881e90a1ea6d321eb4844581e1f73",
+    },
+    {
+      symbol: "USDC/WETH",
+      lpSymbol: "USDC/WETH",
+      title: "Pumex",
+      type: "V4",
+      variant: "V4CL",
+      strategist: "Pumex",
+      manager: "Pumex",
+      startBlock: 157741191,
+      allowed0: true,
+      allowed1: true,
+      address: "0x30bb5333545321755328d870c083847dacd3f8d4",
+      token0: {
+        address: "0x2a25fbd67b3ae485e461fe55d9dbef302b7d3989",
+      },
+      token1: {
+        address: "0xe9aba835f813ca05e50a6c0ce65d0d74390f7de7",
+      },
+      v4PoolId:
+        "0x4312f16f46c358a3fe81e2e930bb5333545321755328d870c083847dacd3f8d4",
+    },
   ],
   239: [
     {
