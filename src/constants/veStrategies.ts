@@ -1,0 +1,66 @@
+export interface VeStrategyDefinition {
+  strategyName: string;
+  strategyDescription: string;
+  managerAddress: string;
+  vaultAddress: string;
+  rewardToken: string;
+  bveToken: string;
+  enabled: boolean;
+  maxPools: number;
+  isCompound?: boolean;
+}
+
+export type VeStrategiesByName = Record<string, VeStrategyDefinition>;
+
+export const veStrategies: Record<number, VeStrategiesByName> = {
+  // LINEA
+  59144: {
+    usdt_stable_strategy: {
+      strategyName: "USDT Stable Strategy",
+      strategyDescription: "Stablecoin strategy earning USDT rewards",
+      managerAddress: "0x876e498f29a3c73a522817f4b74534c13a990881",
+      vaultAddress: "0x69862e6869194427bcf22e0622b36e271e036c04",
+      rewardToken: "0xA219439258ca9da29E9Cc4cE5596924745e12B93", // USDT
+      bveToken: '0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B',
+      enabled: true,
+      maxPools: 5,
+    },
+    btc_strategy: { 
+      strategyName: "Bitcoin Strategy",
+      strategyDescription: "Bitcoin strategy earning WBTC rewards",
+      managerAddress: "0x619b9a79607c647ebfef82da93eb6362886848cc",
+      vaultAddress: "0x30107c15ffb534717ec158c514048f8deaec8a3a",
+      rewardToken: "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4", // BTC
+      bveToken: '0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B',
+      enabled: true,
+      maxPools: 5,
+    },
+    eth_strategy: {
+      strategyName: "ETH Strategy",
+      strategyDescription: "Ethereum strategy earning WETH rewards",
+      managerAddress: "0x66fdb69a79943f3a702bab4cc08070e95b7731fc",
+      vaultAddress: "0x1dd78047f3474b8c40e460c75032f7a5e3f7ebf7",
+      rewardToken: "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f", // ETH
+      bveToken: '0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B',
+      enabled: true,
+      maxPools: 5,
+    },
+    lynx_autocompound_strategy: {
+      strategyName: "Lynx Compound Strategy",
+      strategyDescription: "Earns LYNX rewards that auto-compound into VE position as underlying LYNX",
+      managerAddress: "0x3fa084e2bfa7389e061ff2090e56b0003352bd83",
+      vaultAddress: "0x8659c554b65164166307b35608b9a57cb9c316e3",
+      rewardToken: "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af", // LYNX
+      bveToken: '0xe8a4c9B6a2b79Fd844c9e3AdBc8Dc841eEce557B',
+      enabled: true,
+      maxPools: 5,
+      isCompound: true,
+    }
+  },
+  // ZIRCUIT
+  48900: {},
+  // UNICHAIN
+  130: {},
+};
+
+
