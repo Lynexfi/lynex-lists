@@ -14,7 +14,8 @@
     "build-points": "ts-node src/buildPoints.ts",
     "build-badges": "ts-node src/buildBadges.ts",
     "build-images": "ts-node src/buildImages.ts",
-    "build": "yarn build-strategies && yarn build-gauges && yarn build-tokens && yarn build-points && yarn build-badges"
+    "build-vestrategies": "ts-node src/buildVeStrategies.ts",
+    "build": "yarn build-strategies && yarn build-gauges && yarn build-tokens && yarn build-points && yarn build-badges && yarn build-vestrategies"
   },
   "devDependencies": {
     "@types/node": "^20.14.8",
