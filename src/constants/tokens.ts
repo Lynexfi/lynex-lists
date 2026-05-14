@@ -2269,11 +2269,23 @@ export const tokens = {
       tokenId:
         "https://blockscout.injective.network/address/0x2a25fbD67b3aE485e461fe55d9DbeF302B7D3989",
       address: "0x2a25fbD67b3aE485e461fe55d9DbeF302B7D3989",
-      name: "USDC",
+      name: "Legacy USDC",
       symbol: "USDC",
       decimals: 6,
       createdAt: "2025-11-04",
       updatedAt: "2025-11-04",
+      logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    },
+    {
+      chainURI: "https://blockscout.injective.network/block/0",
+      tokenId:
+        "https://blockscout.injective.network/address/0xa00C59fF5a080D2b954d0c75e46E22a0c371235a",
+      address: "0xa00C59fF5a080D2b954d0c75e46E22a0c371235a",
+      name: "USDC",
+      symbol: "USDC",
+      decimals: 6,
+      createdAt: "2026-05-14",
+      updatedAt: "2025-05-14",
       logoURI: "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
     },
     {
