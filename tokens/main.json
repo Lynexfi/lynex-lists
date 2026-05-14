@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 63
+    "patch": 64
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -935,8 +935,8 @@
     {
       "chainId": 1776,
       "chainURI": "https://blockscout.injective.network/block/0",
-      "tokenId": "https://blockscout.injective.network/address/0x0C382e685bbeeFE5d3d9C29e29E341fEE8E84C5d",
-      "address": "0x0C382e685bbeeFE5d3d9C29e29E341fEE8E84C5d",
+      "tokenId": "https://blockscout.injective.network/address/0xa00C59fF5a080D2b954d0c75e46E22a0c371235a",
+      "address": "0xa00C59fF5a080D2b954d0c75e46E22a0c371235a",
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,

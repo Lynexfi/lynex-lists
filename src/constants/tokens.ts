@@ -2279,8 +2279,8 @@ export const tokens = {
     {
       chainURI: "https://blockscout.injective.network/block/0",
       tokenId:
-        "https://blockscout.injective.network/address/0x0C382e685bbeeFE5d3d9C29e29E341fEE8E84C5d",
-      address: "0x0C382e685bbeeFE5d3d9C29e29E341fEE8E84C5d",
+        "https://blockscout.injective.network/address/0xa00C59fF5a080D2b954d0c75e46E22a0c371235a",
+      address: "0xa00C59fF5a080D2b954d0c75e46E22a0c371235a",
       name: "USDC",
       symbol: "USDC",
       decimals: 6,
