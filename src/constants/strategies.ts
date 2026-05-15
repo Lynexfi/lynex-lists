@@ -2751,6 +2751,69 @@ export const strategies: Strategies = {
       v4PoolId:
         "0x4312f16f46c358a3fe81e2e930bb5333545321755328d870c083847dacd3f8d4",
     },
+    {
+      symbol: "USDT/USDC",
+      lpSymbol: "USDT/USDC",
+      title: "Pumex",
+      type: "V4",
+      variant: "V4CL",
+      strategist: "Pumex",
+      manager: "Pumex",
+      startBlock: 166579456,
+      allowed0: true,
+      allowed1: true,
+      address: "0x3cd271437781fd12ea4d878eef893f95b3dcaa49",
+      token0: {
+        address: "0x88f7f2b685f9692caf8c478f5badf09ee9b1cc13",
+      },
+      token1: {
+        address: "0xa00c59ff5a080d2b954d0c75e46e22a0c371235a",
+      },
+      v4PoolId:
+        "0x9e267c42c78a667c4a2934373cd271437781fd12ea4d878eef893f95b3dcaa49",
+    },
+    {
+      symbol: "WINJ/USDC",
+      lpSymbol: "WINJ/USDC",
+      title: "Pumex",
+      type: "V4",
+      variant: "V4CL",
+      strategist: "Pumex",
+      manager: "Pumex",
+      startBlock: 166579456,
+      allowed0: true,
+      allowed1: true,
+      address: "0x967caeb0353f826e46805db8d787c7a97157b22c",
+      token0: {
+        address: "0x0000000088827d2d103ee2d9a6b781773ae03ffb",
+      },
+      token1: {
+        address: "0xa00c59ff5a080d2b954d0c75e46e22a0c371235a",
+      },
+      v4PoolId:
+        "0x9cf5a2a35abc4063f82b798b967caeb0353f826e46805db8d787c7a97157b22c",
+    },
+    {
+      symbol: "USDC/WETH",
+      lpSymbol: "USDC/WETH",
+      title: "Pumex",
+      type: "V4",
+      variant: "V4CL",
+      strategist: "Pumex",
+      manager: "Pumex",
+      startBlock: 166691219,
+      allowed0: true,
+      allowed1: true,
+      address: "0x53f0c9bcc7f4cc7d88c8e668b1f7a720161a5480",
+      token0: {
+        address: "0xa00c59ff5a080d2b954d0c75e46e22a0c371235a",
+      },
+      token1: {
+        address: "0xe9aba835f813ca05e50a6c0ce65d0d74390f7de7",
+      },
+      v4PoolId:
+        "0x9827968656626471e1f676ed53f0c9bcc7f4cc7d88c8e668b1f7a720161a5480",
+    },
   ],
   239: [
     {
