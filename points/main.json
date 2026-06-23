@@ -1,20 +1,47 @@
 {
   "1776": [
     {
-      "name": "Initiation Points",
+      "name": "Initiation Points (3x)",
+      "logoUrl": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/badge-logos/initiation-points.png",
+      "infoUrl": "",
+      "tooltipDescription": "Providing liquidity in this pool earns 3x Initiation points.",
+      "multiplier": 3,
+      "poolAddresses": [
+        "0x967caeb0353f826e46805db8d787c7a97157b22c"
+      ]
+    },
+    {
+      "name": "Initiation Points (2x)",
+      "logoUrl": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/badge-logos/initiation-points.png",
+      "infoUrl": "",
+      "tooltipDescription": "Providing liquidity in this pool earns 2x Initiation points.",
+      "multiplier": 2,
+      "poolAddresses": [
+        "0x204b4816cd6a7fa0ca0ad4d6cb7c7f4c05e47016",
+        "0x642f288fbae881e90a1ea6d321eb4844581e1f73",
+        "0x53f0c9bcc7f4cc7d88c8e668b1f7a720161a5480"
+      ]
+    },
+    {
+      "name": "Initiation Points (1x)",
       "logoUrl": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/badge-logos/initiation-points.png",
       "infoUrl": "",
       "tooltipDescription": "Providing liquidity in this pool earns Initiation points.",
+      "multiplier": 1,
+      "poolAddresses": [
+        "0xd3d39df7dfa7b48b4244e1fcf2aa3c6770249fc7",
+        "0x3cd271437781fd12ea4d878eef893f95b3dcaa49"
+      ]
+    },
+    {
+      "name": "Initiation Points (0.5x)",
+      "logoUrl": "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/badge-logos/initiation-points.png",
+      "infoUrl": "",
+      "tooltipDescription": "Providing liquidity in this pool earns 0.5x Initiation points.",
+      "multiplier": 0.5,
       "poolAddresses": [
         "0x7626f823ef60bb454516da57b8c25ce0ff74463f",
-        "0x5163009263c7a4e55f1e1e7c5b4f0db02e0468b7",
-        "0xd3d39df7dfa7b48b4244e1fcf2aa3c6770249fc7",
-        "0x204b4816cd6a7fa0ca0ad4d6cb7c7f4c05e47016",
-        "0x41d6ff52eda048b2ff2a5024997eec30eb03a2ce",
-        "0x642f288fbae881e90a1ea6d321eb4844581e1f73",
-        "0x53f0c9bcc7f4cc7d88c8e668b1f7a720161a5480",
-        "0x967caeb0353f826e46805db8d787c7a97157b22c",
-        "0x3cd271437781fd12ea4d878eef893f95b3dcaa49"
+        "0xe7853f88c498c2eb1e041ac9d23441866c562bdd"
       ]
     }
   ],

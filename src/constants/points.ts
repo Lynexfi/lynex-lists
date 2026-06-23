@@ -278,27 +278,55 @@ export const points: Record<number, Points[]> = {
   ],
   1776: [
     {
-      name: "Initiation Points",
+      name: "Initiation Points (3x)",
       logoUrl:
         "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/badge-logos/initiation-points.png",
-      infoUrl:
-        "", // will be added once docs page is live!
+      infoUrl: "", // will be added once docs page is live!
+      tooltipDescription:
+        "Providing liquidity in this pool earns 3x Initiation points.",
+      multiplier: 3,
+      poolAddresses: [
+        "0x967caeb0353f826e46805db8d787c7a97157b22c", // WINJ/USDC (V4)
+      ],
+    },
+    {
+      name: "Initiation Points (2x)",
+      logoUrl:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/badge-logos/initiation-points.png",
+      infoUrl: "", // will be added once docs page is live!
+      tooltipDescription:
+        "Providing liquidity in this pool earns 2x Initiation points.",
+      multiplier: 2,
+      poolAddresses: [
+        "0x204b4816cd6a7fa0ca0ad4d6cb7c7f4c05e47016", // WINJ/USDT (V4)
+        "0x642f288fbae881e90a1ea6d321eb4844581e1f73", // USDT/WETH (V4)
+        "0x53f0c9bcc7f4cc7d88c8e668b1f7a720161a5480", // USDC/WETH (V4)
+      ],
+    },
+    {
+      name: "Initiation Points (1x)",
+      logoUrl:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/badge-logos/initiation-points.png",
+      infoUrl: "", // will be added once docs page is live!
       tooltipDescription:
         "Providing liquidity in this pool earns Initiation points.",
+      multiplier: 1,
       poolAddresses: [
-        "0x7626f823ef60bb454516da57b8c25ce0ff74463f", // WINJ/USDT
-        "0x5163009263c7a4e55f1e1e7c5b4f0db02e0468b7", // PMX/USDT
-        //"0x66758604fd4a9e2b8d91a71e199308eec4536aa2", // USDC/USDT <Uses legacy USDC>
-        //"0xe7853f88c498c2eb1e041ac9d23441866c562bdd", // WINJ/USDC
-        "0xd3d39df7dfa7b48b4244e1fcf2aa3c6770249fc7", // WINJ/yINJ
-        "0x204b4816cd6a7fa0ca0ad4d6cb7c7f4c05e47016", // WINJ/USDT
-        //"0x50adb6253286e203f0f617409aaa7e78d0527e92", // USDC/USDT <Uses legacy USDC>
-        "0x41d6ff52eda048b2ff2a5024997eec30eb03a2ce", // WINJ/USDC <Uses legacy USDC>
-        "0x642f288fbae881e90a1ea6d321eb4844581e1f73", // USDT/WETH
-        //"0x30bb5333545321755328d870c083847dacd3f8d4", // USDC/WETH <Uses legacy USDC>
-        "0x53f0c9bcc7f4cc7d88c8e668b1f7a720161a5480", //USDC/WETH
-        "0x967caeb0353f826e46805db8d787c7a97157b22c", //WINJ/USDC
-        "0x3cd271437781fd12ea4d878eef893f95b3dcaa49", //USDT/USDC
+        "0xd3d39df7dfa7b48b4244e1fcf2aa3c6770249fc7", // WINJ/yINJ (V4)
+        "0x3cd271437781fd12ea4d878eef893f95b3dcaa49", // USDT/USDC (V4)
+      ],
+    },
+    {
+      name: "Initiation Points (0.5x)",
+      logoUrl:
+        "https://raw.githubusercontent.com/Lynexfi/lynex-lists/main/tokens/badge-logos/initiation-points.png",
+      infoUrl: "", // will be added once docs page is live!
+      tooltipDescription:
+        "Providing liquidity in this pool earns 0.5x Initiation points.",
+      multiplier: 0.5,
+      poolAddresses: [
+        "0x7626f823ef60bb454516da57b8c25ce0ff74463f", // vAMM-WINJ/USDT (v1)
+        "0xe7853f88c498c2eb1e041ac9d23441866c562bdd", // vAMM-WINJ/UUSDC (v1)
       ],
     },
   ],
