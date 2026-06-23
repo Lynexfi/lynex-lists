@@ -287,6 +287,7 @@ export const points: Record<number, Points[]> = {
       multiplier: 3,
       poolAddresses: [
         "0x967caeb0353f826e46805db8d787c7a97157b22c", // WINJ/USDC (V4)
+        "0x41d6ff52eda048b2ff2a5024997eec30eb03a2ce", // WINJ/USDC (V4)
       ],
     },
     {
