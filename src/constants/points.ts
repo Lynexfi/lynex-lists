@@ -326,8 +326,8 @@ export const points: Record<number, Points[]> = {
         "Providing liquidity in this pool earns 0.5x Initiation points.",
       multiplier: 0.5,
       poolAddresses: [
-        "0x7626f823ef60bb454516da57b8c25ce0ff74463f", // vAMM-WINJ/USDT (v1)
-        "0xe7853f88c498c2eb1e041ac9d23441866c562bdd", // vAMM-WINJ/UUSDC (v1)
+        //"0x7626f823ef60bb454516da57b8c25ce0ff74463f", // vAMM-WINJ/USDT (v1)
+        //"0xe7853f88c498c2eb1e041ac9d23441866c562bdd", // vAMM-WINJ/UUSDC (v1)
       ],
     },
   ],
