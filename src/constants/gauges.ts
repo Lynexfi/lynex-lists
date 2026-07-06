@@ -158,7 +158,7 @@ export const gaugeConfigs: Record<number, GaugeConfig> = {
   },
   1776: {
     viemChain: injective,
-    pairAPIAddress: "0xbdf0e8F9F50b80c4914Ac023866b4180a045ce14",
+    pairAPIAddress: "0xDf94E6af9197FEB7E7de02857a1ca0f979Af1a0c",
     blacklist: ["0x0000000000000000000000000000000000000000"],
     limitAmounts: 1000,
   },
