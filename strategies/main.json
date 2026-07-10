@@ -1123,6 +1123,86 @@
         "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
       },
       "v4PoolId": "0x8068ab043efd411b87506c41be1add38faaf18c0af0016c663ca92feff0b8159"
+    },
+    {
+      "symbol": "USDG/AAPL",
+      "lpSymbol": "USDG/AAPL",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 6293160,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x4ed48188eb2229117e2f0522bd87d410cb4c6469",
+      "token0": {
+        "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+      },
+      "token1": {
+        "address": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9"
+      },
+      "v4PoolId": "0x3a3c746d18de920122de72214ed48188eb2229117e2f0522bd87d410cb4c6469"
+    },
+    {
+      "symbol": "USDG/NVDA",
+      "lpSymbol": "USDG/NVDA",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 6292474,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x6e5c4b21d64cc37b630e5e7389279748111b164c",
+      "token0": {
+        "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+      },
+      "token1": {
+        "address": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC"
+      },
+      "v4PoolId": "0x43962ae426997416065ac50e6e5c4b21d64cc37b630e5e7389279748111b164c"
+    },
+    {
+      "symbol": "USDG/QQQ",
+      "lpSymbol": "USDG/QQQ",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 6291291,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0xa7412c6c54027f46bfc9ee0b012b5bc0c3f5ffc1",
+      "token0": {
+        "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+      },
+      "token1": {
+        "address": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68"
+      },
+      "v4PoolId": "0xc8c7a3fd2a9f0da1f30d7ceea7412c6c54027f46bfc9ee0b012b5bc0c3f5ffc1"
+    },
+    {
+      "symbol": "SPY/USDG",
+      "lpSymbol": "SPY/USDG",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 6290021,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0xbf82b95d15d9e43d47a3aeaf080f0a42728c428f",
+      "token0": {
+        "address": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C"
+      },
+      "token1": {
+        "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+      },
+      "v4PoolId": "0xfada49ff264cc78f387c456fbf82b95d15d9e43d47a3aeaf080f0a42728c428f"
     }
   ],
   "9745": [],
