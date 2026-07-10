@@ -98,5 +98,85 @@
       "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
     },
     "v4PoolId": "0xfada49ff264cc78f387c456fbf82b95d15d9e43d47a3aeaf080f0a42728c428f"
+  },
+  {
+    "symbol": "USDG/AMD",
+    "lpSymbol": "USDG/AMD",
+    "title": "Orvex",
+    "type": "V4",
+    "variant": "V4CL",
+    "strategist": "Orvex",
+    "manager": "Orvex",
+    "startBlock": 6393860,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0xe98a4972ce1322a27ad67c651418e94f6844801e",
+    "token0": {
+      "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+    },
+    "token1": {
+      "address": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC"
+    },
+    "v4PoolId": "0x28a66d1b4c78e0561000c049e98a4972ce1322a27ad67c651418e94f6844801e"
+  },
+  {
+    "symbol": "USDG/VIRTUAL",
+    "lpSymbol": "USDG/VIRTUAL",
+    "title": "Orvex",
+    "type": "V4",
+    "variant": "V4CL",
+    "strategist": "Orvex",
+    "manager": "Orvex",
+    "startBlock": 6384601,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x5df2dbd6a55a38703b3d3335ef6cc136f7318b63",
+    "token0": {
+      "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+    },
+    "token1": {
+      "address": "0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31"
+    },
+    "v4PoolId": "0x2f8653ac6c2b32de0f9ecc955df2dbd6a55a38703b3d3335ef6cc136f7318b63"
+  },
+  {
+    "symbol": "USDe/USDG",
+    "lpSymbol": "USDe/USDG",
+    "title": "Orvex",
+    "type": "V4",
+    "variant": "V4CL",
+    "strategist": "Orvex",
+    "manager": "Orvex",
+    "startBlock": 6383329,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x99df08a98a0e7d7826776edae7b016726d1b4ce2",
+    "token0": {
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34"
+    },
+    "token1": {
+      "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+    },
+    "v4PoolId": "0xda36933b8dfc4faae427142c99df08a98a0e7d7826776edae7b016726d1b4ce2"
+  },
+  {
+    "symbol": "TSLA/USDG",
+    "lpSymbol": "TSLA/USDG",
+    "title": "Orvex",
+    "type": "V4",
+    "variant": "V4CL",
+    "strategist": "Orvex",
+    "manager": "Orvex",
+    "startBlock": 6382067,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0xde02fde94240487d2a3c05a62ae5a30840499dea",
+    "token0": {
+      "address": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d"
+    },
+    "token1": {
+      "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+    },
+    "v4PoolId": "0x1575216f065a99db5e32c551de02fde94240487d2a3c05a62ae5a30840499dea"
   }
 ]
