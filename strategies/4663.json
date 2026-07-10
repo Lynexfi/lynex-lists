@@ -1,0 +1,22 @@
+[
+  {
+    "symbol": "WETH/USDG",
+    "lpSymbol": "WETH/USDG",
+    "title": "Orvex",
+    "type": "V4",
+    "variant": "V4CL",
+    "strategist": "Orvex",
+    "manager": "Orvex",
+    "startBlock": 6232986,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0xbe1add38faaf18c0af0016c663ca92feff0b8159",
+    "token0": {
+      "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73"
+    },
+    "token1": {
+      "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+    },
+    "v4PoolId": "0x8068ab043efd411b87506c41be1add38faaf18c0af0016c663ca92feff0b8159"
+  }
+]
