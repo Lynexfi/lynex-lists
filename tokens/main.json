@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 66
+    "patch": 67
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -1014,7 +1014,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xd0601ce157db5bdc3162bbac2a2c8af5320d9eec.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/NVDA.png"
     },
     {
       "chainId": 4663,
@@ -1026,7 +1026,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x322f0929c4625ed5bad873c95208d54e1c003b2d.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/TSLA.png"
     },
     {
       "chainId": 4663,
@@ -1038,7 +1038,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x86923f96303d656e4aa86d9d42d1e57ad2023fdc.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/AMD.png"
     },
     {
       "chainId": 4663,
@@ -1050,7 +1050,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xff080c8ce2e5feadaca0da81314ae59d232d4afd.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/MU.png"
     },
     {
       "chainId": 4663,
@@ -1062,7 +1062,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xb90a19ff0af67f7779aff50a882a9cff42446400.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/SNDK.png"
     },
     {
       "chainId": 4663,
@@ -1074,7 +1074,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x6330d8c3178a418788df01a47479c0ce7ccf450b.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/COIN.png"
     },
     {
       "chainId": 4663,
@@ -1086,7 +1086,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x4a0e65a3eccec6dbe60ae065f2e7bb85fae35eea.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/SPCX.png"
     },
     {
       "chainId": 4663,
@@ -1098,7 +1098,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x894e1ec2d74ffe5aef8dc8a9e84686accb964f2a.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/PLTR.png"
     },
     {
       "chainId": 4663,
@@ -1110,7 +1110,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xaf3d76f1834a1d425780943c99ea8a608f8a93f9.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/AAPL.png"
     },
     {
       "chainId": 4663,
@@ -1122,7 +1122,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xe93237c50d904957cf27e7b1133b510c669c2e74.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/MSFT.png"
     },
     {
       "chainId": 4663,
@@ -1134,7 +1134,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xdf0992e440dd0be65bd8439b609d6d4366bf1cb5.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/CRCL.png"
     },
     {
       "chainId": 4663,
@@ -1146,7 +1146,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xc0d6457c16cc70d6790dd43521c899c87ce02f35.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/META.png"
     },
     {
       "chainId": 4663,
@@ -1158,7 +1158,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x411efb0e7f985935daec3d4c3ebaea0d0ad7d89f.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/SLV.png"
     },
     {
       "chainId": 4663,
@@ -1170,7 +1170,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x12f190a9f9d7d37a250758b26824b97ce941bf54.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/AMZN.png"
     },
     {
       "chainId": 4663,
@@ -1182,7 +1182,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x2e0847e8910a9732eb3fb1bb4b70a580adad4fe3.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/GOOGL.png"
     },
     {
       "chainId": 4663,
@@ -1194,7 +1194,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x117cc2133c37b721f49de2a7a74833232b3b4c0c.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/SPY.png"
     },
     {
       "chainId": 4663,
@@ -1206,7 +1206,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xa30fa36db767ad9ed3f7a60fc79526fb4d56d344.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/CUSO.png"
     },
     {
       "chainId": 4663,
@@ -1218,7 +1218,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xd5f3879160bc7c32ebb4dc785f8a4f505888de68.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/QQQ.png"
     },
     {
       "chainId": 4663,
@@ -1230,7 +1230,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xb0992820e760d836549ba69bc7598b4af75dee03.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ORCL.png"
     },
     {
       "chainId": 4663,
@@ -1242,7 +1242,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x5f10a1c971b69e47e059e1dc91901b59b3fb49c3.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/CRWV.png"
     },
     {
       "chainId": 4663,
@@ -1254,7 +1254,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xc72b96e0e48ecd4dc75e1e45396e26300bc39681.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/INTC.png"
     },
     {
       "chainId": 4663,
@@ -1266,7 +1266,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xad25ac6c84d497db898fa1e8387bf6af3532a1c4.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/BABA.png"
     },
     {
       "chainId": 4663,
@@ -1278,7 +1278,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xec262a75e413fafd0df80480274532c79d42da09.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/MSTR.png"
     },
     {
       "chainId": 4663,
@@ -1302,7 +1302,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x47f93d52cbec7c6d2cfc080e154002370a60daea.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/ASML.png"
     },
     {
       "chainId": 4663,
@@ -1314,7 +1314,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x1b0e319c6a659f002271b69db8a7df2f911c153e.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/GME.png"
     },
     {
       "chainId": 4663,
@@ -1338,7 +1338,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x3b14c39e89d60d627b42a1a4ca45b5bb45fc12e2.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/RKLB.png"
     },
     {
       "chainId": 4663,
@@ -1350,7 +1350,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x9d9c6684f596f66a64c030b93a886d51fd4d7931.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/NBIS.png"
     },
     {
       "chainId": 4663,
@@ -1362,7 +1362,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xcbb95bbf36099d34da091dc6fa6f49efa257cee3.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/CLSK.png"
     },
     {
       "chainId": 4663,
@@ -1374,7 +1374,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x58ffe4a942d3885baa22d7520691f611ef09e7aa.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/TSM.png"
     },
     {
       "chainId": 4663,
@@ -1386,7 +1386,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x284358abc07f9359f19f4b5b4ac91901be2597ba.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/RGTI.png"
     },
     {
       "chainId": 4663,
@@ -1398,7 +1398,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x558378e000d634a36593e338ebacdd6207640efe.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/IONQ.png"
     },
     {
       "chainId": 4663,
