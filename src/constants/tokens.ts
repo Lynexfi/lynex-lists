@@ -2458,7 +2458,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2026-07-03",
       updatedAt: "2026-07-03",
-      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/VIRTUAL.png",
+      logoURI: "https://coin-images.coingecko.com/coins/images/34057/large/LOGOMARK.png?1708356054",
     },
     {
       chainURI: "https://robinhoodchain.blockscout.com/block/0",
@@ -2782,7 +2782,7 @@ export const tokens = {
       decimals: 18,
       createdAt: "2026-07-03",
       updatedAt: "2026-07-03",
-      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/CASHCAT.png",
+      logoURI: "https://coin-images.coingecko.com/coins/images/102174280/large/cashcat-logo.jpg?1782922765",
     },
     {
       chainURI: "https://robinhoodchain.blockscout.com/block/0",

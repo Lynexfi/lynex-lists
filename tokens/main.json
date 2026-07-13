@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 67
+    "patch": 68
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -1002,7 +1002,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/VIRTUAL.png"
+      "logoURI": "https://coin-images.coingecko.com/coins/images/34057/large/LOGOMARK.png?1708356054"
     },
     {
       "chainId": 4663,
@@ -1326,7 +1326,7 @@
       "decimals": 18,
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
-      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/CASHCAT.png"
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102174280/large/cashcat-logo.jpg?1782922765"
     },
     {
       "chainId": 4663,
