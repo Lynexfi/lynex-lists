@@ -1103,6 +1103,188 @@
       "v4PoolId": "0x9827968656626471e1f676ed53f0c9bcc7f4cc7d88c8e668b1f7a720161a5480"
     }
   ],
+  "4663": [
+    {
+      "symbol": "WETH/USDG",
+      "lpSymbol": "WETH/USDG",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 6232986,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0xbe1add38faaf18c0af0016c663ca92feff0b8159",
+      "token0": {
+        "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73"
+      },
+      "token1": {
+        "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+      },
+      "v4PoolId": "0x8068ab043efd411b87506c41be1add38faaf18c0af0016c663ca92feff0b8159"
+    },
+    {
+      "symbol": "USDG/AAPL",
+      "lpSymbol": "USDG/AAPL",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 6293160,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x4ed48188eb2229117e2f0522bd87d410cb4c6469",
+      "token0": {
+        "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+      },
+      "token1": {
+        "address": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9"
+      },
+      "v4PoolId": "0x3a3c746d18de920122de72214ed48188eb2229117e2f0522bd87d410cb4c6469"
+    },
+    {
+      "symbol": "USDG/NVDA",
+      "lpSymbol": "USDG/NVDA",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 6292474,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x6e5c4b21d64cc37b630e5e7389279748111b164c",
+      "token0": {
+        "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+      },
+      "token1": {
+        "address": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC"
+      },
+      "v4PoolId": "0x43962ae426997416065ac50e6e5c4b21d64cc37b630e5e7389279748111b164c"
+    },
+    {
+      "symbol": "USDG/QQQ",
+      "lpSymbol": "USDG/QQQ",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 6291291,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0xa7412c6c54027f46bfc9ee0b012b5bc0c3f5ffc1",
+      "token0": {
+        "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+      },
+      "token1": {
+        "address": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68"
+      },
+      "v4PoolId": "0xc8c7a3fd2a9f0da1f30d7ceea7412c6c54027f46bfc9ee0b012b5bc0c3f5ffc1"
+    },
+    {
+      "symbol": "SPY/USDG",
+      "lpSymbol": "SPY/USDG",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 6290021,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0xbf82b95d15d9e43d47a3aeaf080f0a42728c428f",
+      "token0": {
+        "address": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C"
+      },
+      "token1": {
+        "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+      },
+      "v4PoolId": "0xfada49ff264cc78f387c456fbf82b95d15d9e43d47a3aeaf080f0a42728c428f"
+    },
+    {
+      "symbol": "USDG/AMD",
+      "lpSymbol": "USDG/AMD",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 6393860,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0xe98a4972ce1322a27ad67c651418e94f6844801e",
+      "token0": {
+        "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+      },
+      "token1": {
+        "address": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC"
+      },
+      "v4PoolId": "0x28a66d1b4c78e0561000c049e98a4972ce1322a27ad67c651418e94f6844801e"
+    },
+    {
+      "symbol": "USDG/VIRTUAL",
+      "lpSymbol": "USDG/VIRTUAL",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 6384601,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x5df2dbd6a55a38703b3d3335ef6cc136f7318b63",
+      "token0": {
+        "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+      },
+      "token1": {
+        "address": "0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31"
+      },
+      "v4PoolId": "0x2f8653ac6c2b32de0f9ecc955df2dbd6a55a38703b3d3335ef6cc136f7318b63"
+    },
+    {
+      "symbol": "USDe/USDG",
+      "lpSymbol": "USDe/USDG",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 6383329,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x99df08a98a0e7d7826776edae7b016726d1b4ce2",
+      "token0": {
+        "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34"
+      },
+      "token1": {
+        "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+      },
+      "v4PoolId": "0xda36933b8dfc4faae427142c99df08a98a0e7d7826776edae7b016726d1b4ce2"
+    },
+    {
+      "symbol": "TSLA/USDG",
+      "lpSymbol": "TSLA/USDG",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 6382067,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0xde02fde94240487d2a3c05a62ae5a30840499dea",
+      "token0": {
+        "address": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d"
+      },
+      "token1": {
+        "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+      },
+      "v4PoolId": "0x1575216f065a99db5e32c551de02fde94240487d2a3c05a62ae5a30840499dea"
+    }
+  ],
   "9745": [],
   "48900": [
     {

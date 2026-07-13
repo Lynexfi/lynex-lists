@@ -200,6 +200,9 @@ async function main() {
     9745: plasmaGauges,
     1776: injectiveGauges,
     1439: injectiveGauges,
+    // Orvex/Robinhood (4663): no gauges pre-TGE. Published as an empty list so the
+    // frontend's trusted-pools verification can run instead of 404ing and bailing out.
+    4663: [],
   };
 
   const gaugesDir = path.resolve("gauges");

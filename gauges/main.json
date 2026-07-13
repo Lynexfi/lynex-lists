@@ -20,7 +20,7 @@
     },
     {
       "address": "0x0f867f14b39a5892a39841a03ba573426de4b1d0",
-      "symbol": "USD₮0/WBTC (Narrow)",
+      "symbol": "USD\u20ae0/WBTC (Narrow)",
       "gauge": "0x985117747c8008c5761f58586ab99fb1cdfee42b",
       "token0": "0x9151434b16b9763660705744891fa906f660ecc5",
       "token1": "0x927b51f251480a681271180da4de28d44ec4afb8",
@@ -47,7 +47,7 @@
     },
     {
       "address": "0x2c5f8b726074ac410cb058847d7874fcba7f817b",
-      "symbol": "ETH/USD₮0 (Narrow)",
+      "symbol": "ETH/USD\u20ae0 (Narrow)",
       "gauge": "0x71828edf393b7ce1c7665b4053be4685d9be488a",
       "token0": "0x0000000000000000000000000000000000000000",
       "token1": "0x9151434b16b9763660705744891fa906f660ecc5",
@@ -65,7 +65,7 @@
     },
     {
       "address": "0x3f039519c5a74a3af1487d8112ffa953a88aee4f",
-      "symbol": "USDC/USD₮0 (Narrow)",
+      "symbol": "USDC/USD\u20ae0 (Narrow)",
       "gauge": "0x161b1d9cbf54a9af9c000b1aaa904a217380d1ad",
       "token0": "0x078d782b760474a361dda0af3839290b0ef57ad6",
       "token1": "0x9151434b16b9763660705744891fa906f660ecc5",
@@ -92,7 +92,7 @@
     },
     {
       "address": "0x55284e77689753b718220ada10d0c01e700f249b",
-      "symbol": "BRZ/USD₮0 (Narrow)",
+      "symbol": "BRZ/USD\u20ae0 (Narrow)",
       "gauge": "0x447fa4bc098d5629fd183596d6941a033697b6ae",
       "token0": "0x9151434b16b9763660705744891fa906f660ecc5",
       "token1": "0xe9185ee218cae427af7b9764a011bb89fea761b4",
@@ -221,6 +221,7 @@
       "bribe": "0xe09230694891664453eb14a2bd61f3a57ee42f2d"
     }
   ],
+  "4663": [],
   "9745": [
     {
       "address": "0x118ea19180637f851bb80601347e50ef2ae46954",
