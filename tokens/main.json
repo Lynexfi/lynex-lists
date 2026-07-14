@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 68
+    "patch": 69
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -1411,6 +1411,30 @@
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
       "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1696503332"
+    },
+    {
+      "chainId": 4663,
+      "chainURI": "https://robinhoodchain.blockscout.com/block/0",
+      "tokenId": "https://robinhoodchain.blockscout.com/address/0x62fd0668e10D8B72339BE2DCF7643001688ff13B",
+      "address": "0x62fd0668e10D8B72339BE2DCF7643001688ff13B",
+      "name": "Marvell Technology • Robinhood Token",
+      "symbol": "MRVL",
+      "decimals": 18,
+      "createdAt": "2026-07-14",
+      "updatedAt": "2026-07-14",
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x62fd0668e10d8b72339be2dcf7643001688ff13b.png"
+    },
+    {
+      "chainId": 4663,
+      "chainURI": "https://robinhoodchain.blockscout.com/block/0",
+      "tokenId": "https://robinhoodchain.blockscout.com/address/0x92FD66527192E3e61d4DDd13322Aa222DE86F9B5",
+      "address": "0x92FD66527192E3e61d4DDd13322Aa222DE86F9B5",
+      "name": "iShares 0-3 Month Treasury Bond ETF • Robinhood Token",
+      "symbol": "SGOV",
+      "decimals": 18,
+      "createdAt": "2026-07-14",
+      "updatedAt": "2026-07-14",
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/SGOV.png"
     },
     {
       "chainId": 9745,
