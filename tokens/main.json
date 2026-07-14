@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 69
+    "patch": 70
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -1422,7 +1422,7 @@
       "decimals": 18,
       "createdAt": "2026-07-14",
       "updatedAt": "2026-07-14",
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x62fd0668e10d8b72339be2dcf7643001688ff13b.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/MRVL.png"
     },
     {
       "chainId": 4663,
