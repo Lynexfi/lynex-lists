@@ -3237,5 +3237,152 @@ export const strategies: Strategies = {
       v4PoolId:
         "0x1575216f065a99db5e32c551de02fde94240487d2a3c05a62ae5a30840499dea",
     },
+    {
+      symbol: "CASHCAT/WETH",
+      lpSymbol: "CASHCAT/WETH",
+      title: "Orvex",
+      type: "V4",
+      variant: "V4CL",
+      strategist: "Orvex",
+      manager: "Orvex",
+      startBlock: 9475210,
+      allowed0: true,
+      allowed1: true,
+      address: "0x675f08882c70b55b65a69167f980c777bcb2c456",
+      token0: {
+        address: "0x020bfC650A365f8BB26819deAAbF3E21291018b4",
+      },
+      token1: {
+        address: "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+      },
+      v4PoolId:
+        "0xfc072b4fc820dafe75f1cb9e675f08882c70b55b65a69167f980c777bcb2c456",
+    },
+    {
+      symbol: "SPCX/USDG",
+      lpSymbol: "SPCX/USDG",
+      title: "Orvex",
+      type: "V4",
+      variant: "V4CL",
+      strategist: "Orvex",
+      manager: "Orvex",
+      startBlock: 9474717,
+      allowed0: true,
+      allowed1: true,
+      address: "0xfd89c4283dea16afa7d1f079044061700f0b25d5",
+      token0: {
+        address: "0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa",
+      },
+      token1: {
+        address: "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+      },
+      v4PoolId:
+        "0xbcf3bfdc222ca41540735fc9fd89c4283dea16afa7d1f079044061700f0b25d5",
+    },
+    {
+      symbol: "WETH/VIRTUAL",
+      lpSymbol: "WETH/VIRTUAL",
+      title: "Orvex",
+      type: "V4",
+      variant: "V4CL",
+      strategist: "Orvex",
+      manager: "Orvex",
+      startBlock: 9473498,
+      allowed0: true,
+      allowed1: true,
+      address: "0xc5cbba808309358fd7ccc9086dfe33656f31c635",
+      token0: {
+        address: "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+      },
+      token1: {
+        address: "0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31",
+      },
+      v4PoolId:
+        "0xc5f0d1cd2c2eb6f663663028c5cbba808309358fd7ccc9086dfe33656f31c635",
+    },
+    {
+      symbol: "GOOGL/USDG",
+      lpSymbol: "GOOGL/USDG",
+      title: "Orvex",
+      type: "V4",
+      variant: "V4CL",
+      strategist: "Orvex",
+      manager: "Orvex",
+      startBlock: 9470584,
+      allowed0: true,
+      allowed1: true,
+      address: "0x1224c5b6e91db32a6616bbbccb1bd39049e5f54e",
+      token0: {
+        address: "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+      },
+      token1: {
+        address: "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+      },
+      v4PoolId:
+        "0xcfb0725ae331f3aa486d1b1a1224c5b6e91db32a6616bbbccb1bd39049e5f54e",
+    },
+    {
+      symbol: "USDG/META",
+      lpSymbol: "USDG/META",
+      title: "Orvex",
+      type: "V4",
+      variant: "V4CL",
+      strategist: "Orvex",
+      manager: "Orvex",
+      startBlock: 9469823,
+      allowed0: true,
+      allowed1: true,
+      address: "0xa0bbfc327640129cdf5e4ef6444b21edd162d041",
+      token0: {
+        address: "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+      },
+      token1: {
+        address: "0xc0D6457C16Cc70d6790Dd43521C899C87ce02f35",
+      },
+      v4PoolId:
+        "0xcc2a9371b57d4771b1a5d945a0bbfc327640129cdf5e4ef6444b21edd162d041",
+    },
+    {
+      symbol: "USDG/SGOV",
+      lpSymbol: "USDG/SGOV",
+      title: "Orvex",
+      type: "V4",
+      variant: "V4CL",
+      strategist: "Orvex",
+      manager: "Orvex",
+      startBlock: 9491004,
+      allowed0: true,
+      allowed1: true,
+      address: "0x9aa71ff14cbe6a84969730ceb1cd2af395436c12",
+      token0: {
+        address: "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+      },
+      token1: {
+        address: "0x92FD66527192E3e61d4DDd13322Aa222DE86F9B5",
+      },
+      v4PoolId:
+        "0xe5a07697e25361c3c71773529aa71ff14cbe6a84969730ceb1cd2af395436c12",
+    },
+    {
+      symbol: "USDG/MRVL",
+      lpSymbol: "USDG/MRVL",
+      title: "Orvex",
+      type: "V4",
+      variant: "V4CL",
+      strategist: "Orvex",
+      manager: "Orvex",
+      startBlock: 9490313,
+      allowed0: true,
+      allowed1: true,
+      address: "0xeac379540543ebed116b1af1b11f806c6208a92b",
+      token0: {
+        address: "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+      },
+      token1: {
+        address: "0x62fd0668e10D8B72339BE2DCF7643001688ff13B",
+      },
+      v4PoolId:
+        "0xa3960c4a0aa3ef7dc126090feac379540543ebed116b1af1b11f806c6208a92b",
+    },
   ],
 };
