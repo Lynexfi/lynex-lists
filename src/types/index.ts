@@ -28,6 +28,7 @@ export interface Strategy {
   percentage?: number;
   promoted?: boolean;
   v4PoolId?: string;
+  riskLevel?: number;
 }
 export interface Points {
   name: string
