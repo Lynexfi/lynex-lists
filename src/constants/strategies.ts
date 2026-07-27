@@ -3384,5 +3384,26 @@ export const strategies: Strategies = {
       v4PoolId:
         "0xa3960c4a0aa3ef7dc126090feac379540543ebed116b1af1b11f806c6208a92b",
     },
+    {
+      symbol: "CASHCAT/USDG",
+      lpSymbol: "CASHCAT/USDG",
+      title: "Orvex",
+      type: "V4",
+      variant: "V4CL",
+      strategist: "Orvex",
+      manager: "Orvex",
+      startBlock: 20698761,
+      allowed0: true,
+      allowed1: true,
+      address: "0xc437b3ad41dc4ddf0af6224cd336520cda40571c",
+      token0: {
+        address: "0x020bfC650A365f8BB26819deAAbF3E21291018b4",
+      },
+      token1: {
+        address: "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+      },
+      v4PoolId:
+        "0x0967cea57b7b22d2cd9d505ac437b3ad41dc4ddf0af6224cd336520cda40571c",
+    },
   ],
 };
