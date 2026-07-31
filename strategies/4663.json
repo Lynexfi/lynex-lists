@@ -338,5 +338,45 @@
       "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
     },
     "v4PoolId": "0x0967cea57b7b22d2cd9d505ac437b3ad41dc4ddf0af6224cd336520cda40571c"
+  },
+  {
+    "symbol": "WETH/TSLA",
+    "lpSymbol": "WETH/TSLA",
+    "title": "Orvex",
+    "type": "V4",
+    "variant": "V4CL",
+    "strategist": "Orvex",
+    "manager": "Orvex",
+    "startBlock": 24160254,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x3e310bb482000e2b0f001e74221e84ca9f78ff51",
+    "token0": {
+      "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73"
+    },
+    "token1": {
+      "address": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d"
+    },
+    "v4PoolId": "0x811c8a0a08cd56600450a7b23e310bb482000e2b0f001e74221e84ca9f78ff51"
+  },
+  {
+    "symbol": "WETH/NVDA",
+    "lpSymbol": "WETH/NVDA",
+    "title": "Orvex",
+    "type": "V4",
+    "variant": "V4CL",
+    "strategist": "Orvex",
+    "manager": "Orvex",
+    "startBlock": 24158495,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0xa291b25efbfd1ad6c96f49496f337cd51f7ce271",
+    "token0": {
+      "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73"
+    },
+    "token1": {
+      "address": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC"
+    },
+    "v4PoolId": "0x468881954037df575d2368aea291b25efbfd1ad6c96f49496f337cd51f7ce271"
   }
 ]
