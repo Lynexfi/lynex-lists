@@ -1483,6 +1483,46 @@
         "address": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC"
       },
       "v4PoolId": "0x468881954037df575d2368aea291b25efbfd1ad6c96f49496f337cd51f7ce271"
+    },
+    {
+      "symbol": "WETH/PONS",
+      "lpSymbol": "WETH/PONS",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 28023261,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x582fdb1be937bd89453e3da34abdbc575086c292",
+      "token0": {
+        "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73"
+      },
+      "token1": {
+        "address": "0x39dBED3a2bd333467115dE45665cC57F813C4571"
+      },
+      "v4PoolId": "0xfe4aa9f87c32fdd1918f911a582fdb1be937bd89453e3da34abdbc575086c292"
+    },
+    {
+      "symbol": "SYRUPUSDG/USDG",
+      "lpSymbol": "SYRUPUSDG/USDG",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 28021758,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x57cdd0050be775c3f3f0d2c0abd5962094f6b15b",
+      "token0": {
+        "address": "0x40858070814a57FdF33a613ae84fE0a8b4a874f7"
+      },
+      "token1": {
+        "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+      },
+      "v4PoolId": "0x0bda4b76b2d45cd847f0804e57cdd0050be775c3f3f0d2c0abd5962094f6b15b"
     }
   ],
   "9745": [],
