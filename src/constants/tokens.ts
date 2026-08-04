@@ -2451,6 +2451,30 @@ export const tokens = {
     {
       chainURI: "https://robinhoodchain.blockscout.com/block/0",
       tokenId:
+        "https://robinhoodchain.blockscout.com/address/0x40858070814a57FdF33a613ae84fE0a8b4a874f7",
+      address: "0x40858070814a57FdF33a613ae84fE0a8b4a874f7",
+      name: "syrupUSDG",
+      symbol: "SYRUPUSDG",
+      decimals: 6,
+      createdAt: "2026-08-05",
+      updatedAt: "2026-08-05",
+      logoURI: "https://assets.coingecko.com/coins/images/102174289/large/syrupUSDG.png?1783055974",
+    },
+    {
+      chainURI: "https://robinhoodchain.blockscout.com/block/0",
+      tokenId:
+        "https://robinhoodchain.blockscout.com/address/0x39dBED3a2bd333467115dE45665cC57F813C4571",
+      address: "0x39dBED3a2bd333467115dE45665cC57F813C4571",
+      name: "Pons",
+      symbol: "PONS",
+      decimals: 18,
+      createdAt: "2026-08-05",
+      updatedAt: "2026-08-05",
+      logoURI: "https://assets.coingecko.com/coins/images/102174571/large/jhitvkisdq8fhxvimdkpcw7y3dx5.?1784093932",
+    },
+    {
+      chainURI: "https://robinhoodchain.blockscout.com/block/0",
+      tokenId:
         "https://robinhoodchain.blockscout.com/address/0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31",
       address: "0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31",
       name: "Virtuals Protocol",
