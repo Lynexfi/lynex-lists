@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 70
+    "patch": 71
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -991,6 +991,30 @@
       "createdAt": "2026-07-03",
       "updatedAt": "2026-07-03",
       "logoURI": "https://assets.coingecko.com/coins/images/51281/standard/GDN_USDG_Token_200x200.png?1730484111"
+    },
+    {
+      "chainId": 4663,
+      "chainURI": "https://robinhoodchain.blockscout.com/block/0",
+      "tokenId": "https://robinhoodchain.blockscout.com/address/0x40858070814a57FdF33a613ae84fE0a8b4a874f7",
+      "address": "0x40858070814a57FdF33a613ae84fE0a8b4a874f7",
+      "name": "syrupUSDG",
+      "symbol": "SYRUPUSDG",
+      "decimals": 6,
+      "createdAt": "2026-08-05",
+      "updatedAt": "2026-08-05",
+      "logoURI": "https://assets.coingecko.com/coins/images/102174289/large/syrupUSDG.png?1783055974"
+    },
+    {
+      "chainId": 4663,
+      "chainURI": "https://robinhoodchain.blockscout.com/block/0",
+      "tokenId": "https://robinhoodchain.blockscout.com/address/0x39dBED3a2bd333467115dE45665cC57F813C4571",
+      "address": "0x39dBED3a2bd333467115dE45665cC57F813C4571",
+      "name": "Pons",
+      "symbol": "PONS",
+      "decimals": 18,
+      "createdAt": "2026-08-05",
+      "updatedAt": "2026-08-05",
+      "logoURI": "https://assets.coingecko.com/coins/images/102174571/large/jhitvkisdq8fhxvimdkpcw7y3dx5.?1784093932"
     },
     {
       "chainId": 4663,
