@@ -20,8 +20,8 @@
     "v4PoolId": "0x8068ab043efd411b87506c41be1add38faaf18c0af0016c663ca92feff0b8159"
   },
   {
-    "symbol": "USDG/AAPL",
-    "lpSymbol": "USDG/AAPL",
+    "symbol": "AAPL/USDG",
+    "lpSymbol": "AAPL/USDG",
     "title": "Orvex",
     "type": "V4",
     "variant": "V4CL",
@@ -40,8 +40,8 @@
     "v4PoolId": "0x3a3c746d18de920122de72214ed48188eb2229117e2f0522bd87d410cb4c6469"
   },
   {
-    "symbol": "USDG/NVDA",
-    "lpSymbol": "USDG/NVDA",
+    "symbol": "NVDA/USDG",
+    "lpSymbol": "NVDA/USDG",
     "title": "Orvex",
     "type": "V4",
     "variant": "V4CL",
@@ -60,8 +60,8 @@
     "v4PoolId": "0x43962ae426997416065ac50e6e5c4b21d64cc37b630e5e7389279748111b164c"
   },
   {
-    "symbol": "USDG/QQQ",
-    "lpSymbol": "USDG/QQQ",
+    "symbol": "QQQ/USDG",
+    "lpSymbol": "QQQ/USDG",
     "title": "Orvex",
     "type": "V4",
     "variant": "V4CL",
@@ -100,8 +100,8 @@
     "v4PoolId": "0xfada49ff264cc78f387c456fbf82b95d15d9e43d47a3aeaf080f0a42728c428f"
   },
   {
-    "symbol": "USDG/AMD",
-    "lpSymbol": "USDG/AMD",
+    "symbol": "AMD/USDG",
+    "lpSymbol": "AMD/USDG",
     "title": "Orvex",
     "type": "V4",
     "variant": "V4CL",
@@ -120,8 +120,8 @@
     "v4PoolId": "0x28a66d1b4c78e0561000c049e98a4972ce1322a27ad67c651418e94f6844801e"
   },
   {
-    "symbol": "USDG/VIRTUAL",
-    "lpSymbol": "USDG/VIRTUAL",
+    "symbol": "VIRTUAL/USDG",
+    "lpSymbol": "VIRTUAL/USDG",
     "title": "Orvex",
     "type": "V4",
     "variant": "V4CL",
@@ -220,8 +220,8 @@
     "v4PoolId": "0xbcf3bfdc222ca41540735fc9fd89c4283dea16afa7d1f079044061700f0b25d5"
   },
   {
-    "symbol": "WETH/VIRTUAL",
-    "lpSymbol": "WETH/VIRTUAL",
+    "symbol": "VIRTUAL/WETH",
+    "lpSymbol": "VIRTUAL/WETH",
     "title": "Orvex",
     "type": "V4",
     "variant": "V4CL",
@@ -260,8 +260,8 @@
     "v4PoolId": "0xcfb0725ae331f3aa486d1b1a1224c5b6e91db32a6616bbbccb1bd39049e5f54e"
   },
   {
-    "symbol": "USDG/META",
-    "lpSymbol": "USDG/META",
+    "symbol": "META/USDG",
+    "lpSymbol": "META/USDG",
     "title": "Orvex",
     "type": "V4",
     "variant": "V4CL",
@@ -280,8 +280,8 @@
     "v4PoolId": "0xcc2a9371b57d4771b1a5d945a0bbfc327640129cdf5e4ef6444b21edd162d041"
   },
   {
-    "symbol": "USDG/SGOV",
-    "lpSymbol": "USDG/SGOV",
+    "symbol": "SGOV/USDG",
+    "lpSymbol": "SGOV/USDG",
     "title": "Orvex",
     "type": "V4",
     "variant": "V4CL",
@@ -300,8 +300,8 @@
     "v4PoolId": "0xe5a07697e25361c3c71773529aa71ff14cbe6a84969730ceb1cd2af395436c12"
   },
   {
-    "symbol": "USDG/MRVL",
-    "lpSymbol": "USDG/MRVL",
+    "symbol": "MRVL/USDG",
+    "lpSymbol": "MRVL/USDG",
     "title": "Orvex",
     "type": "V4",
     "variant": "V4CL",
@@ -340,8 +340,8 @@
     "v4PoolId": "0x0967cea57b7b22d2cd9d505ac437b3ad41dc4ddf0af6224cd336520cda40571c"
   },
   {
-    "symbol": "WETH/TSLA",
-    "lpSymbol": "WETH/TSLA",
+    "symbol": "TSLA/WETH",
+    "lpSymbol": "TSLA/WETH",
     "title": "Orvex",
     "type": "V4",
     "variant": "V4CL",
@@ -360,8 +360,8 @@
     "v4PoolId": "0x811c8a0a08cd56600450a7b23e310bb482000e2b0f001e74221e84ca9f78ff51"
   },
   {
-    "symbol": "WETH/NVDA",
-    "lpSymbol": "WETH/NVDA",
+    "symbol": "NVDA/WETH",
+    "lpSymbol": "NVDA/WETH",
     "title": "Orvex",
     "type": "V4",
     "variant": "V4CL",
@@ -380,8 +380,8 @@
     "v4PoolId": "0x468881954037df575d2368aea291b25efbfd1ad6c96f49496f337cd51f7ce271"
   },
   {
-    "symbol": "WETH/PONS",
-    "lpSymbol": "WETH/PONS",
+    "symbol": "PONS/WETH",
+    "lpSymbol": "PONS/WETH",
     "title": "Orvex",
     "type": "V4",
     "variant": "V4CL",
