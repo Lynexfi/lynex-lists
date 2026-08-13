@@ -1523,6 +1523,26 @@
         "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
       },
       "v4PoolId": "0x5e1e613a8ddc0991046aedd45b84004af3c5831c6bdb5b2fd7ab7e0d1bdbb23f"
+    },
+    {
+      "symbol": "STONKBROKER/WETH",
+      "lpSymbol": "STONKBROKER/WETH",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 35278893,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x90b89526a150263671f316fc1fa795416e240b8e",
+      "token0": {
+        "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73"
+      },
+      "token1": {
+        "address": "0xe934e36a439c94017b64a3fece66af12099abf50"
+      },
+      "v4PoolId": "0x576419580530b0c2d77ffc3d90b89526a150263671f316fc1fa795416e240b8e"
     }
   ],
   "9745": [],
