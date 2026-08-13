@@ -449,5 +449,16 @@
     "createdAt": "2026-07-14",
     "updatedAt": "2026-07-14",
     "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/SGOV.png"
+  },
+  {
+    "chainURI": "https://robinhoodchain.blockscout.com/block/0",
+    "tokenId": "https://robinhoodchain.blockscout.com/address/0xe934e36A439C94017B64a3FecE66AF12099aBF50",
+    "address": "0xe934e36A439C94017B64a3FecE66AF12099aBF50",
+    "name": "StonkBroker",
+    "symbol": "STONKBROKER",
+    "decimals": 18,
+    "createdAt": "2026-08-13",
+    "updatedAt": "2026-08-13",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/STONKBROKER.png"
   }
 ]
