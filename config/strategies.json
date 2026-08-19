@@ -1563,6 +1563,46 @@
         "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
       },
       "v4PoolId": "0x9171d1a09121fab0b355470f84d8f1ca8e75a5c3c699bbc19f5222fec22a4612"
+    },
+    {
+      "symbol": "WETH/MRNA",
+      "lpSymbol": "WETH/MRNA",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 40716698,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x53dd61039b7a34250c9b3d464b96def9156e1d6b",
+      "token0": {
+        "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73"
+      },
+      "token1": {
+        "address": "0x43B07D15cE533bEc5476d70C22a78a1B2B662155"
+      },
+      "v4PoolId": "0xa01aaa7d0c0aa1adfa2f1a9753dd61039b7a34250c9b3d464b96def9156e1d6b"
+    },
+    {
+      "symbol": "MRNA/USDG",
+      "lpSymbol": "MRNA/USDG",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 40717404,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0xda097fab7162c494a7b2b3926ce8f42c7293dbac",
+      "token0": {
+        "address": "0x43B07D15cE533bEc5476d70C22a78a1B2B662155"
+      },
+      "token1": {
+        "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+      },
+      "v4PoolId": "0xfb5945c28646800d3bbd0d6ada097fab7162c494a7b2b3926ce8f42c7293dbac"
     }
   ],
   "9745": [],
