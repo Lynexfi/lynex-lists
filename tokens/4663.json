@@ -471,5 +471,16 @@
     "createdAt": "2026-08-19",
     "updatedAt": "2026-08-19",
     "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/GME.png"
+  },
+  {
+    "chainURI": "https://robinhoodchain.blockscout.com/block/0",
+    "tokenId": "https://robinhoodchain.blockscout.com/address/0x43B07D15cE533bEc5476d70C22a78a1B2B662155",
+    "address": "0x43B07D15cE533bEc5476d70C22a78a1B2B662155",
+    "name": "Moderna, Inc. • Robinhood Token",
+    "symbol": "MRNA",
+    "decimals": 18,
+    "createdAt": "2026-08-19",
+    "updatedAt": "2026-08-19",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@staging/tokens/assets/GME.png"
   }
 ]
