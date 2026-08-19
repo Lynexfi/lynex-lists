@@ -2928,5 +2928,17 @@ export const tokens = {
       updatedAt: "2026-08-13",
       logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/STONKBROKER.png",
     },
+    {
+      chainURI: "https://robinhoodchain.blockscout.com/block/0",
+      tokenId:
+        "https://robinhoodchain.blockscout.com/address/0x1b0E319c6A659F002271B69dB8A7df2F911c153E",
+      address: "0x1b0E319c6A659F002271B69dB8A7df2F911c153E",
+      name: "GameStop • Robinhood Token",
+      symbol: "GME",
+      decimals: 18,
+      createdAt: "2026-08-19",
+      updatedAt: "2026-08-19",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/GME.png",
+    },
   ],
 };
