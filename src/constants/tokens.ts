@@ -2454,7 +2454,7 @@ export const tokens = {
         "https://robinhoodchain.blockscout.com/address/0x40858070814a57FdF33a613ae84fE0a8b4a874f7",
       address: "0x40858070814a57FdF33a613ae84fE0a8b4a874f7",
       name: "syrupUSDG",
-      symbol: "SYRUPUSDG",
+      symbol: "syrupUSDG",
       decimals: 6,
       createdAt: "2026-08-05",
       updatedAt: "2026-08-05",

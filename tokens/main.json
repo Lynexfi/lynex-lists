@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 73
+    "patch": 74
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -998,7 +998,7 @@
       "tokenId": "https://robinhoodchain.blockscout.com/address/0x40858070814a57FdF33a613ae84fE0a8b4a874f7",
       "address": "0x40858070814a57FdF33a613ae84fE0a8b4a874f7",
       "name": "syrupUSDG",
-      "symbol": "SYRUPUSDG",
+      "symbol": "syrupUSDG",
       "decimals": 6,
       "createdAt": "2026-08-05",
       "updatedAt": "2026-08-05",
