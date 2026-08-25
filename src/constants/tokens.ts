@@ -2952,5 +2952,41 @@ export const tokens = {
       updatedAt: "2026-08-19",
       logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@staging/tokens/assets/GME.png",
     },
+    {
+      chainURI: "https://robinhoodchain.blockscout.com/block/0",
+      tokenId:
+        "https://robinhoodchain.blockscout.com/address/0xCA9c78Dd337A67F6e0077F65F5E9218719d30eDf",
+      address: "0xCA9c78Dd337A67F6e0077F65F5E9218719d30eDf",
+      name: "NetNet",
+      symbol: "NET",
+      decimals: 9,
+      createdAt: "2026-08-25",
+      updatedAt: "2026-08-25",
+      logoURI: "https://assets.coingecko.com/coins/images/102174712/large/netnet_400x400.jpg?1784646716",
+    },
+    {
+      chainURI: "https://robinhoodchain.blockscout.com/block/0",
+      tokenId:
+        "https://robinhoodchain.blockscout.com/address/0x1D11f0496982706C5e14A514D4E79F2e6BdE4516",
+      address: "0x1D11f0496982706C5e14A514D4E79F2e6BdE4516",
+      name: "Trump Media & Technology Group Corp. • Robinhood Token",
+      symbol: "DJT",
+      decimals: 18,
+      createdAt: "2026-08-25",
+      updatedAt: "2026-08-25",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/DJT.png",
+    },
+    {
+      chainURI: "https://robinhoodchain.blockscout.com/block/0",
+      tokenId:
+        "https://robinhoodchain.blockscout.com/address/0x56910D4409F3a0C78C64DD8D0545FF0705389870",
+      address: "0x56910D4409F3a0C78C64DD8D0545FF0705389870",
+      name: "The Index",
+      symbol: "INDEX",
+      decimals: 18,
+      createdAt: "2026-08-25",
+      updatedAt: "2026-08-25",
+      logoURI: "https://assets.coingecko.com/coins/images/102174740/large/qffiSdBd_400x400_%281%29.jpg?1784708104",
+    },
   ],
 };
