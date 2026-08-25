@@ -1603,6 +1603,66 @@
         "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
       },
       "v4PoolId": "0xfb5945c28646800d3bbd0d6ada097fab7162c494a7b2b3926ce8f42c7293dbac"
+    },
+    {
+      "symbol": "INDEX/WETH",
+      "lpSymbol": "INDEX/WETH",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 45624909,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0xd2e98699a161a77428ba3f4f1f4d9c84a65243dd",
+      "token0": {
+        "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73"
+      },
+      "token1": {
+        "address": "0x56910D4409F3a0C78C64DD8D0545FF0705389870"
+      },
+      "v4PoolId": "0xc57c0ce68d6b3a655bebadead2e98699a161a77428ba3f4f1f4d9c84a65243dd"
+    },
+    {
+      "symbol": "DJT/USDG",
+      "lpSymbol": "DJT/USDG",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 45623868,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0xc0913cd0cb259ff1ce6557aaa72d498cefa92ac7",
+      "token0": {
+        "address": "0x1D11f0496982706C5e14A514D4E79F2e6BdE4516"
+      },
+      "token1": {
+        "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+      },
+      "v4PoolId": "0x22a2a469335b39c8bbd94d2dc0913cd0cb259ff1ce6557aaa72d498cefa92ac7"
+    },
+    {
+      "symbol": "NET/USDG",
+      "lpSymbol": "NET/USDG",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 45622963,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0xc7e6b5368eab0f573b70644d3902fa37daa7268e",
+      "token0": {
+        "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+      },
+      "token1": {
+        "address": "0xCA9c78Dd337A67F6e0077F65F5E9218719d30eDf"
+      },
+      "v4PoolId": "0x4dbee3dafb1d146f044b8759c7e6b5368eab0f573b70644d3902fa37daa7268e"
     }
   ],
   "9745": [],
