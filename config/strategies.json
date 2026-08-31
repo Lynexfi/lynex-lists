@@ -1663,6 +1663,46 @@
         "address": "0xCA9c78Dd337A67F6e0077F65F5E9218719d30eDf"
       },
       "v4PoolId": "0x4dbee3dafb1d146f044b8759c7e6b5368eab0f573b70644d3902fa37daa7268e"
+    },
+    {
+      "symbol": "USDG/cbBTC",
+      "lpSymbol": "USDG/cbBTC",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 50891391,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0xd43e885421d8589118e3a81f942091ea357425a8",
+      "token0": {
+        "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+      },
+      "token1": {
+        "address": "0xCEC185eB182c47d1bA1EFc84e6959e18cd620Be4"
+      },
+      "v4PoolId": "0xd6860e8cec46808e4e9aeda9d43e885421d8589118e3a81f942091ea357425a8"
+    },
+    {
+      "symbol": "WETH/cbBTC",
+      "lpSymbol": "WETH/cbBTC",
+      "title": "Orvex",
+      "type": "V4",
+      "variant": "V4CL",
+      "strategist": "Orvex",
+      "manager": "Orvex",
+      "startBlock": 50892809,
+      "allowed0": true,
+      "allowed1": true,
+      "address": "0x848cefff5a7933990d81a9164ddff953d2ea3108",
+      "token0": {
+        "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73"
+      },
+      "token1": {
+        "address": "0xCEC185eB182c47d1bA1EFc84e6959e18cd620Be4"
+      },
+      "v4PoolId": "0x9e4b312ddefb2c2e81c405ba848cefff5a7933990d81a9164ddff953d2ea3108"
     }
   ],
   "9745": [],
