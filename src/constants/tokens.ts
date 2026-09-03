@@ -3000,5 +3000,17 @@ export const tokens = {
       updatedAt: "2026-08-31",
       logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/cbBTC.png",
     },
+    {
+      chainURI: "https://robinhoodchain.blockscout.com/block/0",
+      tokenId:
+        "https://robinhoodchain.blockscout.com/address/0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
+      address: "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
+      name: "SPDR Gold Trust • Robinhood Token",
+      symbol: "GLD",
+      decimals: 18,
+      createdAt: "2026-09-03",
+      updatedAt: "2026-09-03",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/GLD.png",
+    },
   ],
 };

@@ -598,5 +598,25 @@
       "address": "0xCEC185eB182c47d1bA1EFc84e6959e18cd620Be4"
     },
     "v4PoolId": "0x9e4b312ddefb2c2e81c405ba848cefff5a7933990d81a9164ddff953d2ea3108"
+  },
+  {
+    "symbol": "USDG/GLD",
+    "lpSymbol": "USDG/GLD",
+    "title": "Orvex",
+    "type": "V4",
+    "variant": "V4CL",
+    "strategist": "Orvex",
+    "manager": "Orvex",
+    "startBlock": 53393651,
+    "allowed0": true,
+    "allowed1": true,
+    "address": "0x96fd33de5cc3c04934209ee78c78bfa1450e886a",
+    "token0": {
+      "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+    },
+    "token1": {
+      "address": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e"
+    },
+    "v4PoolId": "0x055cf562bb50ece5f932d28996fd33de5cc3c04934209ee78c78bfa1450e886a"
   }
 ]
