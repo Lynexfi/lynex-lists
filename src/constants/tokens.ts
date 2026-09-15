@@ -3012,5 +3012,17 @@ export const tokens = {
       updatedAt: "2026-09-03",
       logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/GLD.png",
     },
+    {
+      chainURI: "https://robinhoodchain.blockscout.com/block/0",
+      tokenId:
+        "https://robinhoodchain.blockscout.com/address/0x88ad8DdF1E3898412146a534538d418c6F8A9062",
+      address: "0x88ad8DdF1E3898412146a534538d418c6F8A9062",
+      name: "STANDARD",
+      symbol: "STANDARD",
+      decimals: 18,
+      createdAt: "2026-09-15",
+      updatedAt: "2026-09-15",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/STANDARD.png",
+    },
   ],
 };
