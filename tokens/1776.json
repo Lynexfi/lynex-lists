@@ -64,5 +64,16 @@
     "createdAt": "2026-03-07",
     "updatedAt": "2026-03-07",
     "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/WETH.png"
+  },
+  {
+    "chainURI": "https://blockscout.injective.network/block/0",
+    "tokenId": "https://blockscout.injective.network/address/0x7a1C36f34e43014EfD5E08ead6f99118BC1ACA20",
+    "address": "0x7a1C36f34e43014EfD5E08ead6f99118BC1ACA20",
+    "name": "Motion",
+    "symbol": "MOTION",
+    "decimals": 18,
+    "createdAt": "2026-09-17",
+    "updatedAt": "2026-09-17",
+    "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/MOTION.png"
   }
 ]
