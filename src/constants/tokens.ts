@@ -3036,5 +3036,17 @@ export const tokens = {
       updatedAt: "2026-09-15",
       logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/STANDARD.png",
     },
+    {
+      chainURI: "https://robinhoodchain.blockscout.com/block/0",
+      tokenId:
+        "https://robinhoodchain.blockscout.com/address/0x008DD62dD934f3FFdC0986ba5316c78aE51Cb1c9",
+      address: "0x008DD62dD934f3FFdC0986ba5316c78aE51Cb1c9",
+      name: "StonkPress Paper",
+      symbol: "PAPER",
+      decimals: 18,
+      createdAt: "2026-10-01",
+      updatedAt: "2026-10-01",
+      logoURI: "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/PAPER.svg",
+    },
   ],
 };
