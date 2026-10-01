@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 80
+    "patch": 81
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -1579,6 +1579,18 @@
       "createdAt": "2026-09-15",
       "updatedAt": "2026-09-15",
       "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/STANDARD.png"
+    },
+    {
+      "chainId": 4663,
+      "chainURI": "https://robinhoodchain.blockscout.com/block/0",
+      "tokenId": "https://robinhoodchain.blockscout.com/address/0x008DD62dD934f3FFdC0986ba5316c78aE51Cb1c9",
+      "address": "0x008DD62dD934f3FFdC0986ba5316c78aE51Cb1c9",
+      "name": "StonkPress Paper",
+      "symbol": "PAPER",
+      "decimals": 18,
+      "createdAt": "2026-10-01",
+      "updatedAt": "2026-10-01",
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/PAPER.svg"
     },
     {
       "chainId": 9745,
