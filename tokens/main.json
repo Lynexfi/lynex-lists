@@ -3,7 +3,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 82
+    "patch": 83
   },
   "logoURI": "https://uploads-ssl.webflow.com/645d0baba624e61983ac17f8/64b2ef2100ba11f2a0899f91_logow.svg",
   "keywords": [
@@ -1591,6 +1591,18 @@
       "createdAt": "2026-10-01",
       "updatedAt": "2026-10-01",
       "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/PAPER.png"
+    },
+    {
+      "chainId": 4663,
+      "chainURI": "https://robinhoodchain.blockscout.com/block/0",
+      "tokenId": "https://robinhoodchain.blockscout.com/address/0x5b00c30098216a00905Ee3fb5bdA413006418bb6",
+      "address": "0x5b00c30098216a00905Ee3fb5bdA413006418bb6",
+      "name": "StonkPress Plate",
+      "symbol": "PLATE",
+      "decimals": 18,
+      "createdAt": "2026-10-09",
+      "updatedAt": "2026-10-09",
+      "logoURI": "https://cdn.jsdelivr.net/gh/Lynexfi/lynex-lists@main/tokens/assets/PLATE.png"
     },
     {
       "chainId": 9745,
